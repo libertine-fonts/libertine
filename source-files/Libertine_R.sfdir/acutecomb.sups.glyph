@@ -1,0 +1,25 @@
+StartChar: acutecomb.sups
+Encoding: 1114268 -1 2848
+Width: 0
+VWidth: 699
+Flags: W
+HStem: 383.6 112
+VStem: -167.3 109.2
+AnchorPoint: "SekAccPos" -134.4 484.4 mark 0
+AnchorPoint: "SekAccPos" -137.2 639.8 basemark 0
+AnchorPoint: "top_akzent" -133.7 477.4 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-106.4 495.6 m 1
+ -104.3 496.3 -100.1 497 -96.5996 497 c 3
+ -92.1279 497 -74.2002 496.3 -58.0996 480.9 c 1
+ -56 473.2 l 1
+ -136.5 396.9 l 2
+ -147 386.4 -152.6 383.6 -157.5 383.6 c 3
+ -162.4 383.6 -167.3 387.8 -167.3 392.7 c 3
+ -167.3 400.54 -164.989 403.322 -159.289 412.3 c 2
+ -106.4 495.6 l 1
+EndSplineSet
+Comment: "."
+EndChar

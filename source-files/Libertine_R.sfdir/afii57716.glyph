@@ -1,0 +1,15 @@
+StartChar: afii57716
+Encoding: 1520 1520 2117
+Width: 557
+Flags: W
+HStem: -6 21<175.585 193.596 446.585 464.596>
+VStem: 175 53<23.583 233.4> 185 37<96.6 391.814> 446 53<23.583 233.4> 456 37<96.6 391.814>
+AnchorPoint: "top_akzent" 243 573 basechar 0
+AnchorPoint: "unten_punkt" 263 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 2095 1493 N 1 0 0 1 267 0 2
+Refer: 2095 1493 N 1 0 0 1 -4 0 2
+Validated: 32769
+Colour: ff00ff
+EndChar

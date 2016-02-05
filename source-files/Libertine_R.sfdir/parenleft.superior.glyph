@@ -1,0 +1,20 @@
+StartChar: parenleft.superior
+Encoding: 8317 8317 1082
+Width: 197
+VWidth: 910
+Flags: W
+VStem: 36 53<426.871 607.349>
+LayerCount: 2
+Back
+SplineSet
+0.488281 682.129 m 29
+ 307.617 682.129 l 29
+ 307.617 364.258 l 29
+ 0.488281 364.258 l 29
+ 0.488281 682.129 l 29
+EndSplineSet
+Fore
+Refer: 1098 8333 S 1 0 0 1 0 473 3
+Validated: 32769
+Colour: ff00ff
+EndChar

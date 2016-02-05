@@ -1,0 +1,75 @@
+StartChar: four
+Encoding: 52 52 13
+Width: 465
+VWidth: 487
+Flags: W
+HStem: -2 33<186.625 258.87 354.729 420.375> 172 47<80 271 347 442.734>
+VStem: 271 76<40.5879 172 219 507.017>
+LayerCount: 2
+Back
+SplineSet
+440 172 m 5
+ 347 172 l 5
+ 347 102 l 6
+ 347 37 351 33 429 26 c 5
+ 429 0 l 5
+ 182 0 l 5
+ 182 26 l 5
+ 266 33 270 38 270 102 c 6
+ 270 172 l 5
+ 19 172 l 5
+ 19 199 l 5
+ 111 336 210 479 309 610 c 5
+ 347 610 l 5
+ 347 217 l 5
+ 440 217 l 5
+ 440 172 l 5
+270 217 m 5
+ 270 503 l 5
+ 268 503 l 5
+ 206 416 144 324 80 217 c 5
+ 270 217 l 5
+25 610 m 25
+ 373 610 l 1049
+-22 600 m 1
+ 465 600 l 1
+ 465 0 l 1
+ -22 0 l 1
+ -22 600 l 1
+EndSplineSet
+Fore
+SplineSet
+347 496 m 2
+ 347 219 l 1
+ 430 219 l 2
+ 441 219 445 213 445 203 c 0
+ 445 191 430 172 416 172 c 2
+ 347 172 l 1
+ 347 80 l 2
+ 347 33 368 35 417 31 c 1
+ 423 25 423 4 417 -2 c 1
+ 385 -1 347.397 0 308 0 c 0
+ 261.974 0 222 -1 190 -2 c 1
+ 184 4 184 25 190 31 c 1
+ 233 34 271 34 271 80 c 2
+ 271 172 l 1
+ 57 172 l 18
+ 37.21 172 19.0918 173.346 19.0918 187.666 c 3
+ 19.0918 197.35 22.5552 206.265 28 214 c 2
+ 28 214 236 521.5 299 599 c 0
+ 302.678 603.524 308 610.041 315 610 c 2
+ 343.301 609.834 l 2
+ 348.001 609.834 351 607.435 351 601 c 9
+ 351 601 347 561 347 496 c 2
+271 507.017 m 1
+ 202.028 412.799 131.348 301.158 80 219 c 1
+ 271 219 l 1
+ 271 507.017 l 1
+EndSplineSet
+Substitution2: "'case' Versalformen 1" four.cap
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE024 four.superior uniE014
+Substitution2: "'sups' Hochgestellte 1" four.superior
+Substitution2: "'sinf' Wissenschaftliche Indices 1" four.inferior
+Substitution2: "'pnum' Proportionalziffern 1" uniE014
+Substitution2: "'onum' Minuskelziffern 1" uniE11C
+EndChar

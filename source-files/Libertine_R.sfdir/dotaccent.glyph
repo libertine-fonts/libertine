@@ -1,0 +1,33 @@
+StartChar: dotaccent
+Encoding: 729 729 664
+Width: 291
+VWidth: 487
+Flags: HMW
+HStem: 547 98<105.385 183.791>
+VStem: 97 98<557.729 636.615>
+LayerCount: 2
+Back
+SplineSet
+60 597 m 29
+ 244 597 l 1053
+146 685 m 29
+ 146 507 l 1053
+367 612 m 7
+ 367 570 338 552 319 552 c 7
+ 294 552 269 575 269 599 c 7
+ 269 620 286 633 298 640 c 1028
+305 647 m 7
+ 347 647 365 618 365 599 c 7
+ 365 574 342 549 318 549 c 7
+ 297 549 287 568 277 578 c 1028
+-91 646 m 5
+ 528 646 l 5
+ 528 550 l 5
+ -91 550 l 5
+ -91 646 l 5
+EndSplineSet
+Fore
+Refer: 673 775 N 1 0 0 1 326 23 2
+Substitution2: "'case' Versalformen 1" dotaccent.cap
+Colour: ff00ff
+EndChar

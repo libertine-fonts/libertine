@@ -1,0 +1,14 @@
+StartChar: longs_i
+Encoding: 1114154 -1 2734
+Width: 535
+VWidth: 0
+Flags: W
+HStem: -2 33<24 49 210 241 297.625 359.875 465.125 527.375> 395 34<28.25 84.9805> 422 20<428.75 447> 665 33<219.031 311.813>
+VStem: 92 75<37.1383 394.997 432.703 578.208> 332 99<551.965 624.709> 373 79<40.8314 380.346>
+LayerCount: 2
+Fore
+Refer: 2380 57406 N 1 0 0 1 0 0 3
+LCarets2: 1 0
+Ligature2: "'liga' Standardligaturen ohne TRK CRT AZE 1" longs i
+Comment: "."
+EndChar

@@ -1,0 +1,18 @@
+StartChar: afii57841
+Encoding: 1471 1471 2085
+Width: 0
+Flags: W
+HStem: 601 42<84 248>
+VStem: 84 164<601 643>
+AnchorPoint: "top_akzent" 210 575 mark 0
+LayerCount: 2
+Fore
+SplineSet
+84 601 m 1
+ 84 643 l 1
+ 248 643 l 1
+ 248 601 l 1
+ 84 601 l 1
+EndSplineSet
+Validated: 3073
+EndChar

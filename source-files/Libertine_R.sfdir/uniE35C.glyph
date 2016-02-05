@@ -1,0 +1,21 @@
+StartChar: uniE35C
+Encoding: 58204 58204 2440
+Width: 0
+VWidth: 487
+Flags: W
+HStem: 544 52<-240.262 -82.5119> 637 20G<-297 -265 -56.5 -25>
+VStem: -297 28<632.047 657> -53 28<631.76 657>
+AnchorPoint: "top_akzent" -161 658 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-25 657 m 5
+ -31 586 -95 544 -161 544 c 7
+ -234 544 -292 587 -297 657 c 5
+ -269 657 l 5
+ -261 618 -214 596 -161 596 c 7
+ -112 596 -60 618 -53 657 c 5
+ -25 657 l 5
+EndSplineSet
+Validated: 3073
+EndChar

@@ -1,0 +1,14 @@
+StartChar: uni247C
+Encoding: 9340 9340 1949
+Width: 844
+VWidth: 487
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 17 57 S 1 0 0 1 214 0 2
+Refer: 5 40 S 0.765 0 0 0.765 26 79 2
+Refer: 6 41 S 0.765 0 0 0.765 593 77 2
+Validated: 32769
+Substitution2: "'nalt' Alternate Annotation Forms 1" uni2468
+Colour: ff00ff
+EndChar

@@ -1,0 +1,21 @@
+StartChar: asteriskmath
+Encoding: 8727 8727 1208
+Width: 341
+VWidth: 999
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+-58.1055 256.836 m 29
+ 565.43 256.836 l 1053
+0 572.012 m 5
+ 527.344 572.012 l 5
+ 527.344 0 l 5
+ 0 0 l 5
+ 0 572.012 l 5
+EndSplineSet
+Fore
+Refer: 7 42 N 1 0 0 1 -43 -333 2
+Validated: 32769
+Colour: ff00ff
+EndChar

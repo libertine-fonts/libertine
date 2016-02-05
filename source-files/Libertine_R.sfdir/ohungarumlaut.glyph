@@ -1,0 +1,15 @@
+StartChar: ohungarumlaut
+Encoding: 337 337 451
+Width: 504
+VWidth: 999
+Flags: W
+HStem: -10 35<205.698 321.376> 404 35<184.225 299.49>
+VStem: 41 86<117.524 314.731> 377 86<109.15 316.258>
+LayerCount: 2
+Fore
+Refer: 668 733 N 1 0 0 1 82 -80 2
+Refer: 295 111 N 1 0 0 1 0 0 3
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE0A5
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" ohungarumlaut.sc
+Colour: ff00ff
+EndChar

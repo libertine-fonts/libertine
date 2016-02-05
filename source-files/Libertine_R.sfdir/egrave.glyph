@@ -1,0 +1,24 @@
+StartChar: egrave
+Encoding: 232 232 383
+Width: 447
+VWidth: 999
+Flags: W
+HStem: -10 50<198.819 330.136> 248 34<124 318.997> 402 35<181.946 289.32>
+VStem: 37 84<130.927 248 282 308.257> 319 87<257.5 366.769>
+AnchorPoint: "top_akzent" 255 834 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-90.8203 672.852 m 1
+ 528.32 672.852 l 1
+ 528.32 510.254 l 1
+ -90.8203 510.254 l 5
+ -90.8203 672.852 l 1
+EndSplineSet
+Fore
+Refer: 669 768 N 1 0 0 1 366 -37 2
+Refer: 285 101 N 1 0 0 1 0 0 3
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" egrave.sc
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE078
+Colour: ff00ff
+EndChar

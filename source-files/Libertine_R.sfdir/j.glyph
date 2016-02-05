@@ -1,0 +1,28 @@
+StartChar: j
+Encoding: 106 106 290
+Width: 272
+VWidth: 999
+Flags: W
+HStem: -223 44<-2.5 87.8438> 422 20<169 187> 547 98<108.385 186.791>
+VStem: 100 98<557.729 636.615> 113 79<-100.418 376.901>
+AnchorPoint: "unten_punkt" 109 -319 basechar 0
+AnchorPoint: "mittelpunkt" 154 215 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-91 645 m 1
+ 528 645 l 1
+ 528 549 l 1
+ -91 549 l 1
+ -91 645 l 1
+EndSplineSet
+Fore
+Refer: 664 729 N 1 0 0 1 3 0 2
+Refer: 1723 567 N 1 0 0 1 0 0 3
+Substitution2: "Substitution dotless forms 1" dotlessj
+Substitution2: "'sinf' Wissenschaftliche Indices 1" uniE151
+Substitution2: "'sups' Hochgestellte 1" j.superior
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" j.sc
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE05A uniE0B6
+Colour: ff00ff
+EndChar

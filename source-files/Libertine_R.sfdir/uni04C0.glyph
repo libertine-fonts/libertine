@@ -1,0 +1,12 @@
+StartChar: uni04C0
+Encoding: 1216 1216 105
+Width: 297
+VWidth: 999
+Flags: W
+HStem: -2 33<15.625 88.75 208.25 281.375> 614 33<15.625 88.75 208.25 281.375>
+VStem: 106 85<43.3808 601.619>
+LayerCount: 2
+Fore
+Refer: 258 73 N 1 0 0 1 0 0 2
+Colour: ff00ff
+EndChar

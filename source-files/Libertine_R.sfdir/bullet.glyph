@@ -1,0 +1,25 @@
+StartChar: bullet
+Encoding: 8226 8226 1060
+Width: 351
+VWidth: 487
+Flags: W
+HStem: 116 228<109.99 242.01>
+VStem: 62 228<163.99 296.01>
+LayerCount: 2
+Back
+SplineSet
+73.2422 153.32 m 5
+ 73.2422 449.219 l 5
+ 336.914 300.781 l 5
+ 73.2422 153.32 l 5
+EndSplineSet
+Fore
+SplineSet
+62 230 m 3
+ 62 293 113 344 176 344 c 3
+ 239 344 290 293 290 230 c 3
+ 290 167 239 116 176 116 c 3
+ 113 116 62 167 62 230 c 3
+EndSplineSet
+Validated: 3073
+EndChar

@@ -1,0 +1,15 @@
+StartChar: uni26A3
+Encoding: 9891 9891 1383
+Width: 924
+VWidth: 999
+Flags: W
+TeX: 57 0
+HStem: -164 46<416 583> -22 46<196 363> 225 49<417 542> 367 49<197 322>
+VStem: 58 50<113 276> 278 50<-29 134> 450 50<111 279> 670 50<-31 137>
+LayerCount: 2
+Fore
+Refer: 1275 9794 N 1 0 0 1 220 -142 2
+Refer: 1275 9794 S 1 0 0 1 0 0 2
+Validated: 32773
+Colour: ff00ff
+EndChar

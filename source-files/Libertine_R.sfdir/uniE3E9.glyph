@@ -1,0 +1,14 @@
+StartChar: uniE3E9
+Encoding: 58345 58345 2673
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+530 708 m 7
+ 789 708 1000 497 1000 238 c 7
+ 1000 -21 789 -232 530 -232 c 7
+ 271 -232 61 -21 61 238 c 7
+ 61 497 271 708 530 708 c 7
+EndSplineSet
+EndChar

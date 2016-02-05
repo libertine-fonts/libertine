@@ -1,0 +1,24 @@
+StartChar: odieresis
+Encoding: 246 246 36
+Width: 504
+VWidth: 999
+Flags: W
+HStem: -10 35<205.698 321.376> 404 35<184.225 299.49> 528 95<129.016 206.984 298.016 375.984>
+VStem: 41 86<117.524 314.731> 121 94<535.394 615.312> 290 94<535.394 615.312> 377 86<109.15 316.258>
+AnchorPoint: "top_akzent" 255 834 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-91 623 m 5
+ 528 623 l 5
+ 528 527 l 5
+ -91 527 l 5
+ -91 623 l 5
+EndSplineSet
+Fore
+Refer: 319 168 S 1 0 0 1 71 0 2
+Refer: 295 111 N 1 0 0 1 0 0 3
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" odieresis.sc
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE086
+Colour: ff00ff
+EndChar

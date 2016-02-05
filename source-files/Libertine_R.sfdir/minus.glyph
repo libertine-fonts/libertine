@@ -1,0 +1,32 @@
+StartChar: minus
+Encoding: 8722 8722 1204
+Width: 550
+VWidth: 487
+Flags: W
+HStem: 226 50<62.4893 486.691>
+LayerCount: 2
+Back
+SplineSet
+-58 257 m 29
+ 565 257 l 1053
+0 572 m 5
+ 527 572 l 5
+ 527 0 l 5
+ 0 0 l 5
+ 0 572 l 5
+EndSplineSet
+Fore
+SplineSet
+463 226 m 6
+ 75 226 l 6
+ 66 226 60 234 60 242 c 7
+ 60 257 73 276 85 276 c 6
+ 476 276 l 6
+ 486 276 490 267 490 259 c 7
+ 490 249 476 226 463 226 c 6
+EndSplineSet
+Validated: 3073
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" minus.superior minus.inferior uni2099
+Substitution2: "'sinf' Wissenschaftliche Indices 1" minus.inferior
+Substitution2: "'sups' Hochgestellte 1" minus.superior
+EndChar

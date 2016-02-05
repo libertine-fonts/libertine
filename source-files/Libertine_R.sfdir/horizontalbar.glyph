@@ -1,0 +1,19 @@
+StartChar: horizontalbar
+Encoding: 8213 8213 1049
+Width: 922
+VWidth: 487
+Flags: W
+HStem: 238 49<37.4925 886.687>
+LayerCount: 2
+Fore
+SplineSet
+49 238 m 6
+ 38 238 35 247 35 255 c 7
+ 35 267 49 287 61 287 c 6
+ 875 287 l 6
+ 886 287 889 279 889 270 c 7
+ 889 258 876 238 863 238 c 6
+ 49 238 l 6
+EndSplineSet
+Validated: 3073
+EndChar

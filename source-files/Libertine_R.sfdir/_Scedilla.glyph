@@ -1,0 +1,18 @@
+StartChar: Scedilla
+Encoding: 350 350 464
+Width: 485
+VWidth: 999
+Flags: W
+HStem: -200 29<143.047 243.231> -96 32<218.31 248.355> -10 36<147.44 308.147> 624 34<173.334 305.688>
+VStem: 51 71.4004<450.829 564.783> 253 62<-165.259 -97.4563> 360 84<101.804 225.334>
+DStem2: 169 -96 218 -67 0.384615 0.923077<45.6154 104>
+LayerCount: 2
+Fore
+Refer: 335 184 S 1 0 0 1 -82 0 2
+Refer: 268 83 N 1 0 0 1 0 0 3
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" Scommaaccent scedilla uniE0B5
+Substitution2: "'locl' Localized Forms Romaenisch 1" Scommaaccent
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE0A9
+Colour: ff00ff
+EndChar

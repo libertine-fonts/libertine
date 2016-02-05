@@ -1,0 +1,28 @@
+StartChar: uhorn
+Encoding: 432 432 511
+Width: 531
+VWidth: 999
+Flags: HMW
+HStem: -12 45<188 291> 27 27<455 505> 402 29<27 36 36 83 292 302 302 321 321 351> 479 83<402 470>
+VStem: 88 75<59 399> 354 75<102 399> 471 35<437 478>
+LayerCount: 2
+Back
+SplineSet
+589.844 561.035 m 5
+ 236.328 561.035 l 1029
+EndSplineSet
+Fore
+SplineSet
+505 473 m 0x3e
+ 505 444 483 406 429 402 c 1
+ 430 431 l 1
+ 449 433 471 447 471 458 c 0
+ 471 469 463 478 444 479 c 0
+ 410 480 396 502 396 522 c 0
+ 396 546 413 561 442 561 c 0
+ 480 561 505 520 505 473 c 0x3e
+EndSplineSet
+Refer: 301 117 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Colour: ff9ccc
+EndChar

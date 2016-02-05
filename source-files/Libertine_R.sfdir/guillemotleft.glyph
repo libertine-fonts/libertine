@@ -1,0 +1,31 @@
+StartChar: guillemotleft
+Encoding: 171 171 322
+Width: 543
+VWidth: 999
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+336 215 m 1
+ 373.5 172.5 411 124 463 45 c 1
+ 460.5 35 449.5 27.25 439 26 c 1
+ 359.5 111.5 309.5 160 254 209 c 1
+ 254 221 l 1
+ 309.5 270 359.5 318.5 439 404 c 1
+ 449.5 402.75 460.5 395 463 385 c 1
+ 411 306 373.5 257.5 336 215 c 1
+156 215 m 1
+ 193.5 172.5 231 124 283 45 c 1
+ 280.5 35 269.5 27.25 259 26 c 1
+ 179.5 111.5 129.5 160 74 209 c 1
+ 74 221 l 1
+ 129.5 270 179.5 318.5 259 404 c 1
+ 269.5 402.75 280.5 395 283 385 c 1
+ 231 306 193.5 257.5 156 215 c 1
+EndSplineSet
+Validated: 3073
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" guillemotleft.sc
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniF6B6
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniF6B6
+Substitution2: "'case' Versalformen 1" guillemotleft.sc
+EndChar

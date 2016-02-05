@@ -1,0 +1,25 @@
+StartChar: Eth
+Encoding: 208 208 359
+Width: 701
+VWidth: 999
+Flags: W
+HStem: -2 34<15.9238 91.0861 204.846 417.647> 287 39<8.98218 298.936> 613 34<15.9238 91.0861 206.921 373.9>
+VStem: 106 85<44.3649 600.097> 562 96<179.249 422.825>
+AnchorPoint: "top_akzent" 341 850 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+279 287 m 2
+ 19 287 l 2
+ 11 287 8 295 8 301 c 3
+ 8 311 18 326 27 326 c 2
+ 288 326 l 2
+ 297 326 300 318 300 313 c 3
+ 300 302 291 287 279 287 c 2
+EndSplineSet
+Refer: 27 68 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE080
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE080
+Colour: ff9ccc
+EndChar

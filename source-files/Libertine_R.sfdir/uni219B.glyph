@@ -1,0 +1,14 @@
+StartChar: uni219B
+Encoding: 8603 8603 1177
+Width: 1130
+VWidth: 999
+Flags: HMW
+HStem: 239 52<59 929> 605 10<659 704>
+DStem2: 426 -88 467 -88 0.319188 0.947692<13.2476 741.934>
+LayerCount: 2
+Fore
+Refer: 9 47 N 1 0 0 1 422 -66 2
+Refer: 1168 8594 N 1 0 0 1 0 0 2
+Validated: 32773
+Colour: ff00ff
+EndChar

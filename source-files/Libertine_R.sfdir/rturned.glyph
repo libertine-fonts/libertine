@@ -1,0 +1,17 @@
+StartChar: rturned
+Encoding: 633 633 642
+Width: 372
+VWidth: 999
+Flags: W
+HStem: -10 62<44.031 126.725> 398 33<102.625 173.25 280.75 344.375>
+VStem: 188 79<52.696 53.301 104.433 386.583>
+AnchorPoint: "top_akzent" 209 645 basechar 0
+AnchorPoint: "unten_anhang" 167 -3 basechar 0
+AnchorPoint: "ogonek" 410 16 basechar 0
+AnchorPoint: "unten_punkt" 190 -114 basechar 0
+LayerCount: 2
+Fore
+Refer: 298 114 N -1 0 0 -1 367 429 2
+Substitution2: "'sups' Hochgestellte 1" rturned.superior
+Colour: ff00ff
+EndChar

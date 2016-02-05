@@ -1,0 +1,23 @@
+StartChar: nacute
+Encoding: 324 324 438
+Width: 542
+VWidth: 999
+Flags: W
+HStem: -2 33<22.625 82.5404 186.702 238.375 314.188 366.637 471.435 527.812> 387 52<256.725 356.667>
+VStem: 96 79<40.3691 331.425 370.116 376.975> 379 79<40.3691 350.057>
+LayerCount: 2
+Back
+SplineSet
+-90.8203 672.852 m 5
+ 528.32 672.852 l 5
+ 528.32 510.254 l 5
+ -90.8203 510.254 l 5
+ -90.8203 672.852 l 5
+EndSplineSet
+Fore
+Refer: 670 769 N 1 0 0 1 466 -37 2
+Refer: 294 110 N 1 0 0 1 0 0 3
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE0A2
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" nacute.sc
+Colour: ff00ff
+EndChar

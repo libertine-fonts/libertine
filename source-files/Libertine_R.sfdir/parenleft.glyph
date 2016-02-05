@@ -1,0 +1,40 @@
+StartChar: parenleft
+Encoding: 40 40 5
+Width: 298
+VWidth: 999
+Flags: W
+GlyphCompositionVertical: 3  uni239D%0,0,136,894 uni239C%1,893,893,894 uni239B%0,136,0,894
+VStem: 44 83<97.6984 405.148>
+LayerCount: 2
+Back
+SplineSet
+101.562 -0.488281 m 4
+ 64.4531 81.0547 43.9453 164.551 43.9453 251.953 c 4
+ 43.9453 342.773 62.9883 424.805 102.051 503.418 c 4
+ 124.023 548.828 168.945 632.324 256.348 707.031 c 5
+ 273.926 689.453 l 5
+ 203.613 610.352 173.828 533.203 160.156 491.699 c 4
+ 134.277 416.504 121.582 337.891 121.582 251.953 c 4
+ 121.582 166.504 133.789 85.9375 160.156 10.7422 c 4
+ 174.316 -31.7383 203.613 -108.398 273.926 -187.012 c 5
+ 256.348 -203.613 l 5
+ 188.477 -145.02 138.184 -79.5898 101.562 -0.488281 c 4
+EndSplineSet
+Fore
+SplineSet
+44 252 m 7
+ 44 438 137 605 256 707 c 5
+ 267.386 706.238 273.568 699.261 277 689 c 5
+ 245 653 127 515 127 252 c 7
+ 127 -11 244 -149 277 -187 c 5
+ 274 -195 266 -202 256 -204 c 5
+ 48 -24 44 207 44 252 c 7
+EndSplineSet
+Validated: 3073
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" parenleft.sc
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniF6AE
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniF6AE
+Substitution2: "'sinf' Wissenschaftliche Indices 1" parenleft.inferior
+Substitution2: "'sups' Hochgestellte 1" parenleft.superior
+Substitution2: "'case' Versalformen 1" parenleft.sc
+EndChar

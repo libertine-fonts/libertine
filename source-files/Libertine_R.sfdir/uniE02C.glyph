@@ -1,0 +1,18 @@
+StartChar: uniE02C
+Encoding: 57388 57388 1618
+Width: 695
+VWidth: 999
+Flags: HW
+HStem: -2 33<3.625 68.0908 159.081 227.375 436.625 510.911 622.197 688.375> 241 42<241.019 440> 638 20<381.5 396.203> 709 96<221.332 300.668 410.332 489.668>
+VStem: 213 96<717.332 796.668> 402 96<717.332 796.668>
+DStem2: 106.983 102 155 79 0.390001 0.920814<-30.5131 181.817 227.512 466.368> 334 638 340 555 0.390001 0.920814<-561.337 -408.806 -359.549 -74.0876> 389 658 346 555 0.338836 -0.940845<82.3371 370.098 415.035 617.154>
+LayerCount: 2
+Fore
+Refer: 2446 58210 N 1 0 0 1 594 0 2
+Refer: 24 65 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE074
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE074
+Comment: "Dies sind alternative Umlaute, die im Deutschen vorzuziehen sind."
+Colour: ff00ff
+EndChar

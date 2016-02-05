@@ -1,0 +1,32 @@
+StartChar: i
+Encoding: 105 105 289
+Width: 271
+VWidth: 999
+Flags: W
+HStem: -2 33<26.625 88.875 194.125 256.375> 422 20<157.75 176> 547 98<99.385 177.791>
+VStem: 91 98<557.729 636.615> 102 79<40.8314 380.346>
+AnchorPoint: "mittelpunkt" 142 215 basechar 0
+AnchorPoint: "top_akzent" 137 795 basechar 0
+AnchorPoint: "unten_anhang" 137 12 basechar 0
+AnchorPoint: "ogonek" 209 10 basechar 0
+AnchorPoint: "unten_punkt" 136 -110 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-91 645 m 1
+ 528 645 l 1
+ 528 549 l 1
+ -91 549 l 1
+ -91 645 l 1
+EndSplineSet
+Fore
+Refer: 664 729 N 1 0 0 1 -6 0 2
+Refer: 419 305 N 1 0 0 1 0 0 3
+Substitution2: "Substitution dotless forms 1" dotlessi
+Substitution2: "'smcp' Gemeine nach Kapitaelchen i > i.sc 1" i.sc
+Substitution2: "'smcp' Gemeine nach Kapitaelchen i > idotaccent.sc" idotaccent.sc
+Substitution2: "'sinf' Wissenschaftliche Indices 1" uniE150
+Substitution2: "'sups' Hochgestellte 1" i.superior
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE059
+Colour: ff00ff
+EndChar

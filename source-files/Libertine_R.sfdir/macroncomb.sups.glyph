@@ -1,0 +1,23 @@
+StartChar: macroncomb.sups
+Encoding: 1114271 -1 2851
+Width: 0
+VWidth: 699
+Flags: W
+HStem: 374.5 35<-238.639 -57.654>
+VStem: -239.4 182.7<374.511 409.5>
+AnchorPoint: "SekAccPos" -144.2 457.1 mark 0
+AnchorPoint: "SekAccPos" -147 576.8 basemark 0
+AnchorPoint: "top_akzent" -146.3 451.5 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-73.5 374.5 m 2
+ -230.3 374.5 l 2
+ -236.6 374.5 -239.4 382.2 -239.4 387.1 c 3
+ -239.4 395.5 -231.7 409.5 -224 409.5 c 2
+ -66.5 409.5 l 2
+ -59.5 409.5 -56.7002 401.8 -56.7002 397.6 c 3
+ -56.7002 389.2 -64.4004 374.5 -73.5 374.5 c 2
+EndSplineSet
+Comment: "."
+EndChar

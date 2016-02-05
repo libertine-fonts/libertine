@@ -1,0 +1,18 @@
+StartChar: uni239C
+Encoding: 9116 9116 2630
+Width: 319
+VWidth: 999
+Flags: MW
+HStem: 0 21G<44 127>
+VStem: 44 83<0 893>
+LayerCount: 2
+Fore
+SplineSet
+127 893 m 13
+ 127 0 l 1
+ 44 0 l 1
+ 44 893 l 17
+ 127 893 l 13
+EndSplineSet
+Validated: 3073
+EndChar

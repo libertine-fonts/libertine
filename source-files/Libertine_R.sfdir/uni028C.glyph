@@ -1,0 +1,16 @@
+StartChar: uni028C
+Encoding: 652 652 648
+Width: 497
+VWidth: 999
+Flags: W
+HStem: -1 33<2.625 55.453 120.588 171.375 284.625 329.533 433.873 485.375> 421 21<244 255.5>
+DStem2: 210 295 225 419 0.392114 0.919917<-263.103 25.383> 319.138 99 401.568 105 0.374344 -0.92729<-229.149 54.3387>
+AnchorPoint: "top_akzent" 209 645 basechar 0
+AnchorPoint: "unten_punkt" 196 -110 basechar 0
+AnchorPoint: "unten_anhang" 167 -3 basechar 0
+AnchorPoint: "ogonek" 410 16 basechar 0
+LayerCount: 2
+Fore
+Refer: 302 118 N -1 0 0 -1 493 430 2
+Colour: ff00ff
+EndChar

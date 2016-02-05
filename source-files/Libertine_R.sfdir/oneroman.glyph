@@ -1,0 +1,13 @@
+StartChar: oneroman
+Encoding: 8560 8560 1150
+Width: 273
+VWidth: 999
+Flags: W
+HStem: -2 33<21.625 83.875 189.125 251.375> 398 33<21.625 83.875 189.125 251.375> 490 100<96.012 174.198>
+VStem: 85 100<501.156 578.282> 97 79<40.8314 388.169>
+LayerCount: 2
+Fore
+Refer: 673 775 N 1 0 0 1 315 -34 2
+Refer: 636 618 N 1 0 0 1 0 0 3
+Colour: ff00ff
+EndChar

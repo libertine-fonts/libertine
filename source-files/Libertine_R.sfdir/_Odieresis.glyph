@@ -1,0 +1,29 @@
+StartChar: Odieresis
+Encoding: 214 214 365
+Width: 702
+VWidth: 999
+Flags: W
+HStem: -10 36<287.252 445.886> 622 36<258.76 417.86> 658 96<105.332 184.668 514.332 593.668>
+VStem: 37 96<199.246 446.734> 97 96<666.332 745.668> 506 96<666.332 745.668> 570 96<196.263 451.706>
+AnchorPoint: "top_akzent" 344 894 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+506 706 m 3xa4
+ 506 732 528 754 554 754 c 3
+ 580 754 602 732 602 706 c 3
+ 602 680 580 658 554 658 c 3
+ 528 658 506 680 506 706 c 3xa4
+97 706 m 3xa8
+ 97 732 119 754 145 754 c 3
+ 171 754 193 732 193 706 c 3
+ 193 680 171 658 145 658 c 3
+ 119 658 97 680 97 706 c 3xa8
+EndSplineSet
+Refer: 264 79 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'ss01' Stilgruppe 1 1" Odieresis.alt
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE086
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE086
+Colour: ff9ccc
+EndChar

@@ -1,0 +1,36 @@
+StartChar: circumflexcomb
+Encoding: 770 770 671
+Width: 0
+VWidth: 999
+Flags: W
+HStem: 554 157
+VStem: -266 252
+AnchorPoint: "SekAccPos" -142 692 mark 0
+AnchorPoint: "top_akzent" -139 697 mark 0
+LayerCount: 2
+Back
+SplineSet
+-111.816 697.266 m 5
+ -24.9023 567.383 l 5
+ -43.457 554.199 l 5
+ -140.137 650.879 l 5
+ -237.305 554.199 l 5
+ -254.883 567.383 l 5
+ -168.457 697.266 l 5
+ -111.816 697.266 l 5
+EndSplineSet
+Fore
+SplineSet
+-123 711 m 1
+ -94 664 -50 611 -14 571 c 1
+ -19 564 -27.6143 555.897 -37 554 c 1
+ -75 578 -110 606 -140 637 c 1
+ -172 605 -205 576 -244 554 c 1
+ -253 556 -260 562 -266 571 c 1
+ -230 611 -184 665 -155 711 c 1
+ -144.347 713.295 -133.685 714.011 -123 711 c 1
+EndSplineSet
+Substitution2: "'sups' Hochgestellte 1" uniE0DD
+Substitution2: "Substitution cap-Accents 1" circumflex.cap
+Substitution2: "'case' Versalformen 1" circumflex.cap
+EndChar

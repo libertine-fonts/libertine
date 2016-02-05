@@ -1,0 +1,15 @@
+StartChar: cedilla
+Encoding: 184 184 335
+Width: 541
+VWidth: 999
+Flags: W
+HStem: -200 29<225.047 325.231> -96 32<300.31 330.355>
+VStem: 335 62<-165.259 -97.4563>
+DStem2: 251 -96 300 -67 0.384615 0.923077<45.6154 104>
+AnchorPoint: "unten_anhang" 306 -2 mark 0
+LayerCount: 2
+Fore
+Refer: 681 807 S 1 0 0 1 488 0 2
+Validated: 32769
+Colour: ff00ff
+EndChar

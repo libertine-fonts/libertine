@@ -1,0 +1,12 @@
+StartChar: four.oldstyle
+Encoding: 1114130 -1 2710
+Width: 481
+VWidth: 487
+Flags: HW
+HStem: -174 33<186.625 258.87 354.729 420.375> 0 47<80 271 347 442.734> 418 20<311.5 349>
+VStem: 271 76<-131.412 0 47 335.017>
+LayerCount: 2
+Fore
+Refer: 2282 57380 N 1 0 0 1 0 0 3
+Comment: "."
+EndChar

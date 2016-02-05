@@ -1,0 +1,48 @@
+StartChar: five
+Encoding: 53 53 14
+Width: 465
+VWidth: 487
+Flags: W
+HStem: -11 35<164.28 257.615> 341 50<131.938 269.703> 533 67<150.245 373.874> 539 72<150.512 216.266 220.485 265.756 269.409 373>
+VStem: 319 89<105.219 288.312>
+DStem2: 76 317 131 375 0.117241 0.993103<64.0483 232.241>
+LayerCount: 2
+Back
+SplineSet
+24.875 610.125 m 29
+ 373.168 610.125 l 1053
+-22 600.012 m 5
+ 464.965 600.012 l 5
+ 464.965 0 l 5
+ -22 0 l 5
+ -22 600.012 l 5
+EndSplineSet
+Fore
+SplineSet
+319 189 m 3xe8
+ 319 298 268 341 203 341 c 3
+ 167 341 129 337 76 317 c 1
+ 110 605 l 1
+ 145 602 181 600 218 600 c 3xe8
+ 271 600 325 605 382 611 c 1
+ 389 607 l 1
+ 373 539 l 1xd8
+ 332 535 298 533 268 533 c 3
+ 220 533 180 538 151 542 c 1
+ 131 375 l 1
+ 149 382 186 391 229 391 c 3
+ 341 391 408 304 408 207 c 3
+ 408 81 320 -11 196 -11 c 3
+ 139 -11 54 23 54 64 c 3
+ 54 84 73 101 92 101 c 3
+ 113 101 131.736 87.1965 143 69 c 0
+ 156 48 171 24 209 24 c 3
+ 269 24 319 94 319 189 c 3xe8
+EndSplineSet
+Substitution2: "'case' Versalformen 1" five.cap
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE025 five.superior uniE015
+Substitution2: "'sups' Hochgestellte 1" five.superior
+Substitution2: "'sinf' Wissenschaftliche Indices 1" five.inferior
+Substitution2: "'pnum' Proportionalziffern 1" uniE015
+Substitution2: "'onum' Minuskelziffern 1" uniE11D
+EndChar

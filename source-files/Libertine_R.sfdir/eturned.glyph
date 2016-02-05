@@ -1,0 +1,14 @@
+StartChar: eturned
+Encoding: 477 477 546
+Width: 447
+VWidth: 999
+Flags: W
+HStem: -8 35<138.68 246.054> 147 34<109.003 304> 389 50<97.864 229.181>
+VStem: 22 87<62.231 171.5> 307 84<120.743 147 181 298.073>
+AnchorPoint: "top_akzent" 214 645 basechar 0
+LayerCount: 2
+Fore
+Refer: 285 101 N -1 0 0 -1 428 429 3
+Substitution2: "'sups' Hochgestellte 1" eturned.superior
+Colour: ff00ff
+EndChar

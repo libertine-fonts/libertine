@@ -1,0 +1,50 @@
+StartChar: o
+Encoding: 111 111 295
+Width: 504
+VWidth: 999
+Flags: W
+HStem: -10 35<205.698 321.376> 404 35<184.225 299.49>
+VStem: 41 86<117.524 314.731> 377 86<109.15 316.258>
+AnchorPoint: "mittelpunkt" 236 215 basechar 0
+AnchorPoint: "komb_OR" 420 396 basechar 0
+AnchorPoint: "unten_anhang" 241 -3 basechar 0
+AnchorPoint: "ogonek" 372 44 basechar 0
+AnchorPoint: "unten_punkt" 243 -110 basechar 0
+AnchorPoint: "top_akzent" 238 645 basechar 0
+LayerCount: 2
+Back
+SplineSet
+266 23 m 3
+ 356.006 23 377 114 377 201 c 3
+ 377 278 343 406 239 406 c 3
+ 192 406 127 373 127 247 c 3
+ 127 102.996 180 23 266 23 c 3
+463 224 m 3
+ 463 160.809 443.947 102.57 407.661 60 c 0
+ 371.019 17.0117 316.82 -10 251 -10 c 3
+ 98 -10 41 111 41 215 c 3
+ 41 276.321 61.3086 339.22 106.136 383 c 0
+ 140.262 416.329 188.598 439 253 439 c 3
+ 395 439 463 326 463 224 c 3
+EndSplineSet
+Fore
+SplineSet
+238 404 m 3
+ 157.994 404 127 315 127 228 c 3
+ 127 151 161 25 265 25 c 3
+ 312 25 377 56 377 182 c 3
+ 377 326.003 324 404 238 404 c 3
+41 205 m 3
+ 41 268.191 60.0527 326.43 96.3389 369 c 0
+ 132.981 411.988 187.18 439 253 439 c 3
+ 406 439 463 318 463 214 c 3
+ 463 152.678 442.691 89.7803 397.864 46 c 0
+ 363.738 12.6709 315.402 -10 251 -10 c 3
+ 214.295 -10 167.562 0.308594 137.263 19 c 0
+ 71.7822 59.3936 41 135.267 41 205 c 3
+EndSplineSet
+Substitution2: "'sups' Hochgestellte 1" o.superior
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE05F
+Substitution2: "'sinf' Wissenschaftliche Indices 1" o.inferior
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" o.sc
+EndChar

@@ -1,0 +1,42 @@
+StartChar: z
+Encoding: 122 122 306
+Width: 424
+VWidth: 999
+Flags: HMW
+HStem: 0 34<129 318.149> 392 37<120.232 292>
+DStem2: 46 32 129 34 0.560999 0.827816<48.2186 438.503>
+AnchorPoint: "mittelpunkt" 207 215 basechar 0
+AnchorPoint: "top_rechts" 399 580 basechar 0
+AnchorPoint: "top_akzent" 220 646 basechar 0
+AnchorPoint: "unten_anhang" 208 4 basechar 0
+AnchorPoint: "unten_punkt" 207 -110 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+70.999 439 m 5
+ 85.499 433.562 97.8633 429 130 429 c 2
+ 313 429 l 18
+ 342 429 370 431 375 431 c 3
+ 382 431 387 428 387 424 c 3
+ 387 420 384.338 412.234 369 387 c 0
+ 307 285 203 128 129 34 c 1
+ 262 34 l 2
+ 314.063 35.1748 334.511 57.2012 360 110 c 2
+ 374 139 l 1
+ 386 139 397.541 136.694 404 133 c 1
+ 397 83 384 31 372 -3 c 1
+ 60 0 l 2
+ 45 0 37 5 37 12 c 3
+ 37 17 37.3997 20.4227 46 32 c 0
+ 124 137 224 281 292 395 c 1
+ 164 392 l 2
+ 134.04 391.298 103 374 83 301 c 1
+ 71.4463 298.361 58.8369 300.276 50 304 c 1
+ 59 353 64 388 65 433 c 1
+ 65 435.375 68.5625 439 70.999 439 c 5
+EndSplineSet
+Substitution2: "'sinf' Wissenschaftliche Indices 1" uniE161
+Substitution2: "'sups' Hochgestellte 1" z.superior
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" z.sc
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE06A
+EndChar

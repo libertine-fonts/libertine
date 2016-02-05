@@ -1,0 +1,19 @@
+StartChar: uniE364
+Encoding: 58212 58212 2448
+Width: 291
+VWidth: 487
+Flags: W
+HStem: 588 104<104.542 187.458>
+VStem: 94 104<598.542 681.458>
+AnchorPoint: "top_akzent" 146 686 mark 0
+LayerCount: 2
+Fore
+SplineSet
+94 640 m 7
+ 94 668 118 692 146 692 c 7
+ 174 692 198 668 198 640 c 7
+ 198 612 174 588 146 588 c 7
+ 118 588 94 612 94 640 c 7
+EndSplineSet
+Validated: 3073
+EndChar

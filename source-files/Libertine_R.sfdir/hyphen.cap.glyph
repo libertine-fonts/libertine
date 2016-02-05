@@ -1,0 +1,12 @@
+StartChar: hyphen.cap
+Encoding: 1114360 -1 2940
+Width: 338
+VWidth: 999
+Flags: W
+HStem: 283 60<44.125 292.485>
+VStem: 40 258<284.539 342.417>
+LayerCount: 2
+Fore
+Refer: 255 45 S 1 0 0 1 0 60 3
+Comment: "."
+EndChar

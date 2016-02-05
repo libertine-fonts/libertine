@@ -1,0 +1,25 @@
+StartChar: otilde
+Encoding: 245 245 35
+Width: 504
+VWidth: 999
+Flags: W
+HStem: -10 35<205.698 321.376> 404 35<184.225 299.49> 526 44<253 340> 574 46<135 226> 613 10
+VStem: 41 86<117.524 314.731> 377 86<109.15 316.258>
+AnchorPoint: "top_akzent" 255 834 basechar 0
+AnchorPoint: "komb_OR" 420 396 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-87.8906 622.07 m 5
+ 531.25 622.07 l 5
+ 531.25 525.391 l 5
+ -87.8906 525.391 l 5
+ -87.8906 622.07 l 5
+EndSplineSet
+Fore
+Refer: 667 732 N 1 0 0 1 95 -48 2
+Refer: 295 111 N 1 0 0 1 0 0 3
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" otilde.sc
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE085
+Colour: ff00ff
+EndChar

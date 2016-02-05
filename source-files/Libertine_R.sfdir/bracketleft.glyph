@@ -1,0 +1,26 @@
+StartChar: bracketleft
+Encoding: 91 91 276
+Width: 356
+VWidth: 999
+Flags: W
+HStem: -193 30<222.088 323.511> 673 30<219.533 323.511>
+VStem: 108 67<-135 645.875>
+LayerCount: 2
+Fore
+SplineSet
+108 -193 m 5
+ 108 703 l 5
+ 320 703 l 5
+ 326 697 326 679 320 673 c 5
+ 183 663 175 648 175 561 c 6
+ 175 -50 l 6
+ 175 -137 182 -152 320 -163 c 5
+ 326 -169 326 -187 320 -193 c 5
+ 108 -193 l 5
+EndSplineSet
+Validated: 3073
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" bracketleft.sc
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniF6B0
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniF6B0
+Substitution2: "'case' Versalformen 1" bracketleft.sc
+EndChar

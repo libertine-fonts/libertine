@@ -1,0 +1,18 @@
+StartChar: afii57839
+Encoding: 1469 1469 2083
+Width: 0
+Flags: W
+HStem: -203 138<145 182>
+VStem: 145 37<-203 -65>
+AnchorPoint: "unten_punkt" 187 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+145 -65 m 1
+ 182 -65 l 1
+ 182 -203 l 1
+ 145 -203 l 1
+ 145 -65 l 1
+EndSplineSet
+Validated: 3073
+EndChar

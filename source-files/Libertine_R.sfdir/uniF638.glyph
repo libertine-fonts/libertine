@@ -1,0 +1,22 @@
+StartChar: uniF638
+Encoding: 63032 63032 2273
+Width: 465
+VWidth: 487
+Flags: W
+HStem: -10 35<184.86 274.867> 575 35<190.242 276.878>
+VStem: 39 87<150.118 443.88> 335 87<148.096 451.846>
+LayerCount: 2
+Fore
+SplineSet
+372 628 m 5
+ 98 -37 l 5
+ 66 -25 l 5
+ 341 639 l 5
+ 372 628 l 5
+EndSplineSet
+Refer: 257 48 S 1 0 0 1 0 0 3
+Validated: 35845
+Substitution2: "'sups' Hochgestellte 1" zero.superior
+Substitution2: "'sinf' Wissenschaftliche Indices 1" zero.inferior
+Substitution2: "'pnum' Proportionalziffern 1" uniE00F
+EndChar

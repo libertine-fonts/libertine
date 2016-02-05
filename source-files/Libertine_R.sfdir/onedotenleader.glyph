@@ -1,0 +1,11 @@
+StartChar: onedotenleader
+Encoding: 8228 8228 1613
+Width: 220
+Flags: W
+HStem: -10 106<69.6687 150.319>
+VStem: 57 106<2.78108 82.4969>
+LayerCount: 2
+Fore
+Refer: 256 46 N 1 0 0 1 0 0 3
+Colour: ff00ff
+EndChar

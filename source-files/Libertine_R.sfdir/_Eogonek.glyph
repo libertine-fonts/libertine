@@ -1,0 +1,29 @@
+StartChar: Eogonek
+Encoding: 280 280 44
+Width: 557
+VWidth: 999
+Flags: W
+HStem: -200 38<369.519 452.833> -2 17<441.684 468> -2 33<14.625 87.75> 0 39<198.526 426.897> 323 38<190 358.322> 605 40<199.403 397.552> 614 33<15.2578 87.75>
+VStem: 105 85<45.8954 323 361 596.13> 300 62<-155.299 -63.1465> 372 33<251.625 306.925 373.446 432.375> 444 33<498.32 539.828> 493 35<122.11 168.353>
+AnchorPoint: "top_akzent" 273 850 basechar 0
+AnchorPoint: "unten_punkt" 279 -110 basechar 0
+AnchorPoint: "unten_anhang" 279 4 basechar 0
+AnchorPoint: "top_rechts" 519 732 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+498 -135 m 5xa9f0
+ 469 -180 429 -200 388 -200 c 4
+ 338 -200 300 -180 300 -126 c 4
+ 300 -70 365 15 468 15 c 5xc9f0
+ 482 -2 l 5
+ 411 -2 362 -69 362 -115 c 4
+ 362 -141 375 -162 412 -162 c 4
+ 441 -162 457 -146 479 -124 c 5
+ 488 -124 494 -128 498 -135 c 5xa9f0
+EndSplineSet
+Refer: 28 69 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE09D
+Colour: ff9ccc
+EndChar

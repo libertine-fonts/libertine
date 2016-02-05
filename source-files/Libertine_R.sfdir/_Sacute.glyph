@@ -1,0 +1,15 @@
+StartChar: Sacute
+Encoding: 346 346 460
+Width: 485
+VWidth: 999
+Flags: W
+HStem: -10 36<147.44 308.147> 624 34<173.334 305.688> 698 122
+VStem: 51 71.4004<450.829 564.783> 143 201 360 84<101.804 225.334>
+LayerCount: 2
+Fore
+Refer: 2437 58201 N 1 0 0 1 439 127 2
+Refer: 268 83 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE0A8
+Colour: ff00ff
+EndChar

@@ -1,0 +1,15 @@
+StartChar: uni0319
+Encoding: 793 793 1431
+Width: 0
+VWidth: 999
+Flags: W
+TeX: 57 0
+HStem: -168 43<-286 -168.009> -76 21<-309.5 -302.5>
+VStem: -330 44<-236.783 -168 -125 -55.108>
+AnchorPoint: "unten_punkt" -285 -147 mark 0
+LayerCount: 2
+Fore
+Refer: 1430 792 N -1 0 0 -1 -498 -293 2
+Validated: 32769
+Colour: ff00ff
+EndChar

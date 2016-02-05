@@ -1,0 +1,43 @@
+StartChar: t
+Encoding: 116 116 300
+Width: 316
+VWidth: 999
+Flags: W
+HStem: -10 55<143 248.154> 380 49<27.8201 89 168 288.919>
+VStem: 89 79<48.4221 380 429 559.499>
+AnchorPoint: "mittelpunkt" 127 215 basechar 0
+AnchorPoint: "top_rechts" 279 580 basechar 0
+AnchorPoint: "unten_anhang" 165 -3 basechar 0
+AnchorPoint: "ogonek" 237 15 basechar 0
+AnchorPoint: "unten_punkt" 163 -110 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+168 380 m 1
+ 168 137 l 2
+ 168 75 174 45 201 45 c 3
+ 227 45 257 53 283 73 c 1
+ 292.5 69.75 297 63.333 299 53 c 1
+ 260 9 212 -10 166 -10 c 3
+ 120 -10 89 18 89 89 c 2
+ 89 380 l 1
+ 22 380 l 17
+ 19.5098 381.796 18 384 18 388 c 1
+ 23 400 38.167 427 44 429 c 9
+ 89 429 l 1
+ 89 540 85.957 533.41 85.957 545 c 3
+ 85.957 551.944 96.0251 555.304 108 558.662 c 0
+ 120.5 562.167 130.667 566.5 142 572.783 c 0
+ 151.257 577.914 159.781 581.834 164.301 581.834 c 3
+ 169.001 581.834 172 579.435 172 573 c 9
+ 172 573 168 533 168 468 c 2
+ 168 429 l 1
+ 293 429 l 1
+ 299 420 294 386 283 380 c 9
+ 168 380 l 1
+EndSplineSet
+Substitution2: "'sinf' Wissenschaftliche Indices 1" uniE15B
+Substitution2: "'sups' Hochgestellte 1" t.superior
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE064
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" t.sc
+EndChar

@@ -1,0 +1,15 @@
+StartChar: Lcaron
+Encoding: 317 317 431
+Width: 528
+VWidth: 999
+Flags: W
+HStem: -2 33<15.625 88.75> 0 39<202.367 397.965> 519 17<355.941 373.713> 614 33<15.625 88.75 208.25 281.375> 626 72<358.71 415.065>
+VStem: 106 85<47.7012 601.619> 416 44<565.363 643.497> 474 33<126.656 167.84>
+LayerCount: 2
+Fore
+Refer: 655 700 N 1 0 0 1 321 46 2
+Refer: 261 76 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE0B2
+Colour: ff00ff
+EndChar

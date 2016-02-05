@@ -1,0 +1,13 @@
+StartChar: z.sc
+Encoding: 1114193 -1 2773
+Width: 461
+VWidth: 999
+Flags: W
+HStem: 0 32<151.926 331.973> 424 36<115.781 301.001> 450 20<65.7807 75.749>
+VStem: 48 26<333.037 364.619>
+DStem2: 44 27 155 59 0.56225 0.826967<71.1627 469.826>
+LayerCount: 2
+Fore
+Refer: 1900 57450 N 1 0 0 1 0 0 3
+Comment: "."
+EndChar

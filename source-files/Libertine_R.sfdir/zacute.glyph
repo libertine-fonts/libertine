@@ -1,0 +1,23 @@
+StartChar: zacute
+Encoding: 378 378 492
+Width: 424
+VWidth: 999
+Flags: W
+HStem: 0 34<129 318.149> 392 37<120.232 292>
+DStem2: 46 32 129 34 0.560999 0.827816<48.2186 438.503>
+LayerCount: 2
+Back
+SplineSet
+-90.8203 672.852 m 5
+ 528.32 672.852 l 5
+ 528.32 510.254 l 5
+ -90.8203 510.254 l 5
+ -90.8203 672.852 l 5
+EndSplineSet
+Fore
+Refer: 670 769 N 1 0 0 1 408 -37 2
+Refer: 306 122 N 1 0 0 1 0 0 3
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE0AF
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" zacute.sc
+Colour: ff00ff
+EndChar

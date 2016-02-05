@@ -1,0 +1,41 @@
+StartChar: uniE021
+Encoding: 57377 57377 1375
+Width: 338
+Flags: W
+TeX: 38 0
+HStem: -2 33<61.625 134.75 246.25 319.375> 369 31<50.3095 113.853> 422 20G<193.5 222.5>
+VStem: 152 77<43.3808 374.992>
+LayerCount: 2
+Back
+SplineSet
+154 310 m 6
+ 154 344 150.5 368 134 368 c 4
+ 115 368 92.5 362 47 343 c 5
+ 32 370 l 5
+ 120 411 167.667 435.667 223 470 c 5
+ 226.5 470 229 469.75 229 465 c 5
+ 227.333 452 226 391 226 331 c 1030
+EndSplineSet
+Fore
+SplineSet
+152 122 m 2
+ 152 312 l 2
+ 152 364 148 375 132 375 c 3
+ 110 375 84 372 55 369 c 1
+ 47.8936 377.911 44.2979 388.43 43 400 c 1
+ 127 418 169 426 218 442 c 1
+ 227 442 232 440 232 432 c 1
+ 232 432 229 381 229 321 c 2
+ 229 122 l 2
+ 229 39 246 34 316 31 c 1
+ 322 25 322 4 316 -2 c 1
+ 266 -1 242 0 194 0 c 27
+ 144 0 114 -1 65 -2 c 1
+ 59 4 59 25 65 31 c 1
+ 135 34 152 39 152 122 c 2
+EndSplineSet
+Validated: 3073
+Substitution2: "'lnum' Versalziffern 1" uniE011
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" one uniE011
+Substitution2: "'tnum' Tabellenziffern 1" uniE119
+EndChar

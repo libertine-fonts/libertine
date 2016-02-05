@@ -1,0 +1,18 @@
+StartChar: cturned
+Encoding: 596 596 630
+Width: 433
+VWidth: 999
+Flags: W
+HStem: -10 33<145.039 246.715> 390 49<110.47 238.404>
+VStem: 38 87<38.595 121.642> 310 86<118.428 305.761>
+AnchorPoint: "top_rechts" 366 580 basechar 0
+AnchorPoint: "komb_OR" 376 466 basechar 0
+AnchorPoint: "top_akzent" 186 645 basechar 0
+AnchorPoint: "unten_anhang" 174 -3 basechar 0
+AnchorPoint: "unten_punkt" 177 -114 basechar 0
+LayerCount: 2
+Fore
+Refer: 283 99 N -1 0 0 -1 433 429 2
+Substitution2: "'sups' Hochgestellte 1" cturned.superior
+Colour: ff00ff
+EndChar

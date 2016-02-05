@@ -1,0 +1,41 @@
+StartChar: onenumerator
+Encoding: 8543 8543 1133
+Width: 352
+VWidth: 999
+Flags: W
+HStem: 316 29<65.4345 125.126 202.861 250.25> 557 21<64.0436 80.5> 581 20G<518.015 574>
+VStem: 139 54<353.951 571.993>
+LayerCount: 2
+Back
+SplineSet
+352.539 239.258 m 25
+ 660.156 239.258 l 25
+ 660.156 -78.6133 l 25
+ 352.539 -78.6133 l 25
+ 352.539 239.258 l 25
+0.488281 633.789 m 25
+ 308.105 633.789 l 25
+ 308.105 315.918 l 25
+ 0.488281 315.918 l 25
+ 0.488281 633.789 l 25
+532.412 600.586 m 1
+ 573.916 600.586 l 1
+ 115.418 -54.1992 l 1
+ 73.9141 -53.7109 l 1
+ 532.412 600.586 l 1
+EndSplineSet
+Fore
+SplineSet
+532 601 m 1
+ 574 593 l 1
+ 115 -62 l 1
+ 74 -54 l 1
+ 532 601 l 1
+EndSplineSet
+Refer: 336 185 N 1 0 0 1 -10 -48 2
+Validated: 35841
+Ligature2: "'frac' Brueche 1" one slash
+Ligature2: "'frac' Brueche 1" one fraction
+LCarets2: 1 0
+Colour: ff9ccc
+EndChar

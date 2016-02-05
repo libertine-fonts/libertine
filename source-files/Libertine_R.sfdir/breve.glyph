@@ -1,0 +1,22 @@
+StartChar: breve
+Encoding: 728 728 663
+Width: 317
+VWidth: 487
+Flags: W
+HStem: 519 57<91.292 223.981>
+VStem: 21 27<631.641 657.111> 264 27<630.798 657.111>
+LayerCount: 2
+Back
+SplineSet
+-91 623 m 5
+ 528 623 l 5
+ 528 527 l 5
+ -91 527 l 5
+ -91 623 l 5
+EndSplineSet
+Fore
+Refer: 1418 774 S 1 0 0 1 317 0 2
+Substitution2: "Substitution cap-Accents 1" breve.cap
+Substitution2: "'case' Versalformen 1" breve.cap
+Colour: ff00ff
+EndChar

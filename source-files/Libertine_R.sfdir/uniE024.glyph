@@ -1,0 +1,41 @@
+StartChar: uniE024
+Encoding: 57380 57380 2282
+Width: 481
+VWidth: 487
+Flags: HW
+HStem: -174 33<186.625 258.87 354.729 420.375> 0 47<80 271 347 442.734> 418 20<311.5 349>
+VStem: 271 76<-131.412 0 47 335.017>
+LayerCount: 2
+Back
+SplineSet
+279 -152 m 6
+ 279 0 l 5
+ 78 0 l 6
+ 49 0 41 26 38 40 c 5
+ 38 41 39 42 40 43 c 5
+ 312 429 l 6
+ 316 434 321 439 327 439 c 6
+ 358 439 l 6
+ 364 439 366 433 363 428 c 4
+ 292 325 173 151 101 45 c 5
+ 279 45 l 5
+ 279 202 l 6
+ 279 209 280 217 289 222 c 4
+ 300 230 328 239 343 239 c 7
+ 356 239 357 228 357 208 c 6
+ 357 45 l 5
+ 434 45 l 6
+ 444 45 448 39 448 30 c 4
+ 448 19 434 0 421 0 c 6
+ 357 0 l 5
+ 357 -146 l 6
+ 357 -153 356 -161 347 -166 c 4
+ 336 -174 308 -183 293 -183 c 7
+ 280 -183 279 -172 279 -152 c 6
+EndSplineSet
+Fore
+Refer: 13 52 N 1 0 0 1 0 -172 2
+Substitution2: "'lnum' Versalziffern 1" uniE014
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" four uniE014
+Substitution2: "'tnum' Tabellenziffern 1" uniE11C
+EndChar

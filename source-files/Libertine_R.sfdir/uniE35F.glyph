@@ -1,0 +1,13 @@
+StartChar: uniE35F
+Encoding: 58207 58207 2443
+Width: 0
+VWidth: 487
+Flags: W
+HStem: 605 52<-239 -83>
+VStem: -297 27<544 582> -54 28<546 584>
+AnchorPoint: "top_akzent" -160 658 mark 0
+LayerCount: 2
+Fore
+Refer: 2440 58204 N -1 0 0 -1 -323 1201 2
+Validated: 32769
+EndChar

@@ -1,0 +1,14 @@
+StartChar: Ibreve
+Encoding: 300 300 64
+Width: 297
+VWidth: 999
+Flags: W
+HStem: -2 33<15.625 88.75 208.25 281.375> 614 33<15.625 88.75 208.25 281.375> 692 52<69.738 227.488> 785 20<13 45 253.5 285>
+VStem: 13 28<780.047 805> 106 85<43.3808 601.619> 257 28<779.76 805>
+LayerCount: 2
+Fore
+Refer: 2440 58204 N 1 0 0 1 310 148 2
+Refer: 258 73 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Colour: ff00ff
+EndChar

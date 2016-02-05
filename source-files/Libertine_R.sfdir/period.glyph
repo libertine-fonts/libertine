@@ -1,0 +1,27 @@
+StartChar: period
+Encoding: 46 46 256
+Width: 220
+VWidth: 999
+Flags: W
+HStem: -10 106<69.6687 150.319>
+VStem: 57 106<2.78108 82.4969>
+LayerCount: 2
+Back
+SplineSet
+44.3896 42.4521 m 4
+ 44.3896 66.709 64.0771 86.3975 88.334 86.3975 c 4
+ 112.593 86.3975 132.279 66.709 132.279 42.4521 c 4
+ 132.279 18.1943 112.593 -1.49316 88.334 -1.49316 c 4
+ 64.0771 -1.49316 44.3896 18.1943 44.3896 42.4521 c 4
+EndSplineSet
+Fore
+SplineSet
+57 45 m 7
+ 57 70 87 96 112 96 c 7
+ 141 96 163 66 163 41 c 7
+ 163 19 138 -10 108 -10 c 7
+ 83 -10 57 17 57 45 c 7
+EndSplineSet
+Substitution2: "'sinf' Wissenschaftliche Indices 1" uniE162
+Substitution2: "'sups' Hochgestellte 1" uniE140
+EndChar

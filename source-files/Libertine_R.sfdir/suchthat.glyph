@@ -1,0 +1,23 @@
+StartChar: suchthat
+Encoding: 8715 8715 1704
+Width: 506
+Flags: W
+HStem: 0 57<44 285.039> 258 56<53 407> 515 57<44 285.812>
+VStem: 407 70<182.348 258 314 382.753>
+CounterMasks: 1 e0
+LayerCount: 2
+Back
+SplineSet
+-58.1055 256.836 m 29
+ 565.43 256.836 l 1053
+0 572.012 m 5
+ 527.344 572.012 l 5
+ 527.344 0 l 5
+ 0 0 l 5
+ 0 572.012 l 5
+EndSplineSet
+Fore
+Refer: 1355 8712 S -1 0 0 -1 506 572 3
+Validated: 32769
+Colour: ff00ff
+EndChar

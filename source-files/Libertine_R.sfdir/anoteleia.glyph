@@ -1,0 +1,19 @@
+StartChar: anoteleia
+Encoding: 903 903 1329
+Width: 253
+VWidth: 999
+Flags: W
+TeX: 47 0
+HStem: 238 116<83.1544 170.776>
+VStem: 69 116<250.923 339.753>
+LayerCount: 2
+Fore
+SplineSet
+127 238 m 7
+ 92 238 69 266 69 295 c 7
+ 69 326 95 354 127 354 c 7
+ 156 354 185 328 185 295 c 7
+ 185 265 160 238 127 238 c 7
+EndSplineSet
+Validated: 3073
+EndChar

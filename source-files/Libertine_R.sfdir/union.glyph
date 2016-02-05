@@ -1,0 +1,12 @@
+StartChar: union
+Encoding: 8746 8746 2169
+Width: 489
+Flags: W
+HStem: -10 43<169.378 315.377> 408 21<67 118 371 422>
+VStem: 67 51<89.904 429> 371 51<94.591 429>
+LayerCount: 2
+Fore
+Refer: 2168 8745 N -1 0 0 -1 489 429 3
+Validated: 32769
+Colour: ff00ff
+EndChar

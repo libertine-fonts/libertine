@@ -1,0 +1,15 @@
+StartChar: guilsinglright
+Encoding: 8250 8250 1064
+Width: 363
+VWidth: 487
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 1063 8249 S -1 0 0 -1 363 430 3
+Validated: 32769
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" guilsinglright.sc
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniF6B9
+Substitution2: "'case' Versalformen 1" guilsinglright.sc
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniF6B9
+Colour: ff00ff
+EndChar

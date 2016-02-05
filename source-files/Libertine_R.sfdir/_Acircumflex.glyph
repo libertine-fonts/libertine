@@ -1,0 +1,17 @@
+StartChar: Acircumflex
+Encoding: 194 194 345
+Width: 695
+VWidth: 999
+Flags: W
+HStem: -2 33<3.625 68.0908 159.081 227.375 436.625 510.911 622.197 688.375> 241 42<241.019 440> 638 20G<381.5 396.203>
+VStem: 237 243
+AnchorPoint: "top_akzent" 362 894 basechar 0
+LayerCount: 2
+Fore
+Refer: 2438 58202 N 1 0 0 1 490 166 2
+Refer: 24 65 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE072
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE072
+Colour: ff00ff
+EndChar

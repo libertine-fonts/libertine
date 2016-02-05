@@ -1,0 +1,15 @@
+StartChar: Q_u
+Encoding: 1114161 -1 2741
+Width: 1251
+VWidth: 999
+Flags: W
+HStem: -226 55<658.824 880.812> -113 42<261.186 390.195> -12 34<291.696 439.305> -10 45<913.687 1016.57> 402 29<754 770 1019 1035> 624 34<264.119 419.716>
+VStem: 37 91<198.827 439.608> 570 92<197.666 455.219> 814 75<61.0204 394.9> 1079 75<82.098 394.9>
+LayerCount: 2
+Fore
+Refer: 1867 57416 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "'liga' Standardligaturen 1" Q u
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" Q_u.sc
+Comment: "."
+EndChar

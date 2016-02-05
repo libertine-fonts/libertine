@@ -1,0 +1,27 @@
+StartChar: Egrave
+Encoding: 200 200 351
+Width: 557
+VWidth: 999
+Flags: W
+HStem: -2 33<14.625 87.75> 0 39<198.526 426.897> 323 38<190 358.322> 605 40<199.403 397.552> 614 33<15.2578 87.75> 697 120
+VStem: 105 85<45.8954 323 361 596.13> 169 212 372 33<251.625 306.925 373.446 432.375> 444 33<498.32 539.828> 493 35<122.11 168.353>
+AnchorPoint: "unten_punkt" 279 -107 basechar 0
+AnchorPoint: "unten_anhang" 279 4 basechar 0
+LayerCount: 2
+Back
+SplineSet
+242.188 807.129 m 1
+ 353.877 728.384 l 2
+ 369.645 717.266 372.593 708.022 366.211 697.754 c 0
+ 360.596 688.721 342.59 692.612 311.733 704.604 c 2
+ 166.016 761.23 l 1
+ 242.188 807.129 l 1
+EndSplineSet
+Fore
+Refer: 2436 58200 N 1 0 0 1 462 126 2
+Refer: 28 69 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE078
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE078
+Colour: ff00ff
+EndChar

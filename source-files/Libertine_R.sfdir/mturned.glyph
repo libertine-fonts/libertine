@@ -1,0 +1,18 @@
+StartChar: mturned
+Encoding: 623 623 637
+Width: 790
+VWidth: 999
+Flags: W
+HStem: -10 52<173.383 275.631 445.868 536.602> 398 33<12.188 67.625 169.5 222.812 287.188 338.25 438.75 492.812 555.855 607.329 711.375 769.375>
+VStem: 79 79<56.44 389.773> 349 79<85.983 390.434> 619 79<51.881 68.583 97.424 388.325>
+CounterMasks: 1 38
+AnchorPoint: "unten_anhang" 167 -3 basechar 0
+AnchorPoint: "ogonek" 410 16 basechar 0
+AnchorPoint: "top_akzent" 407 645 basechar 0
+AnchorPoint: "unten_punkt" 410 -114 basechar 0
+LayerCount: 2
+Fore
+Refer: 293 109 N -1 0 0 -1 792 429 2
+Substitution2: "'sups' Hochgestellte 1" mturned.superior
+Colour: ff00ff
+EndChar

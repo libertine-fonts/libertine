@@ -1,0 +1,19 @@
+StartChar: uni1FFE
+Encoding: 8190 8190 2034
+Width: 168
+VWidth: 999
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+89 644 m 0
+ 125 644 136 626 136 610 c 0
+ 136 593 131 568 90 568 c 0
+ 83 568 79 561 79 550 c 0
+ 79 527 97 490 139 482 c 1
+ 135 465 l 1
+ 44 469 29 545 29 571 c 0
+ 29 606 51 644 89 644 c 0
+EndSplineSet
+Validated: 3073
+EndChar

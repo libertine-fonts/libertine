@@ -1,0 +1,14 @@
+StartChar: Obreve
+Encoding: 334 334 448
+Width: 702
+VWidth: 999
+Flags: W
+HStem: -10 36<287.252 445.886> 622 36<258.76 417.86> 692 52<274.738 432.488> 785 20<218 250 458.5 490>
+VStem: 37 96<199.246 446.734> 218 28<780.047 805> 462 28<779.76 805> 570 96<196.263 451.706>
+LayerCount: 2
+Fore
+Refer: 2440 58204 N 1 0 0 1 515 148 2
+Refer: 264 79 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Colour: ff00ff
+EndChar

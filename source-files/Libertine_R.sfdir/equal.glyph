@@ -1,0 +1,49 @@
+StartChar: equal
+Encoding: 61 61 20
+Width: 550
+VWidth: 999
+Flags: W
+HStem: 143 50<62.4893 487.691> 309 50<62.4893 487.691>
+LayerCount: 2
+Back
+SplineSet
+529 321 m 5
+ 52 321 l 5
+ 52 371 l 5
+ 529 371 l 5
+ 529 321 l 5
+529 138 m 5
+ 52 138 l 5
+ 52 188 l 5
+ 529 188 l 5
+ 529 138 l 5
+-58 257 m 25
+ 565 257 l 1049
+0 572 m 1
+ 527 572 l 1
+ 527 0 l 1
+ 0 0 l 1
+ 0 572 l 1
+EndSplineSet
+Fore
+SplineSet
+464 143 m 2
+ 75 143 l 2
+ 66 143 60 151 60 159 c 3
+ 60 174 73 193 85 193 c 2
+ 477 193 l 2
+ 487 193 491 184 491 176 c 3
+ 491 166 477 143 464 143 c 2
+464 309 m 2
+ 75 309 l 2
+ 66 309 60 317 60 325 c 3
+ 60 340 73 359 85 359 c 2
+ 477 359 l 2
+ 487 359 491 350 491 342 c 3
+ 491 332 477 309 464 309 c 2
+EndSplineSet
+Validated: 3073
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" equal.superior
+Substitution2: "'sinf' Wissenschaftliche Indices 1" equal.inferior
+Substitution2: "'sups' Hochgestellte 1" equal.superior
+EndChar

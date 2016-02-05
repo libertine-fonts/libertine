@@ -1,0 +1,23 @@
+StartChar: tbar
+Encoding: 359 359 473
+Width: 316
+VWidth: 999
+Flags: W
+HStem: -10 55<143 248.154> 245 39<19.9822 278.936> 380 49<27.8201 89 168 288.919>
+VStem: 89 79<48.4221 380 429 559.499>
+LayerCount: 2
+Fore
+SplineSet
+259 245 m 6
+ 30 245 l 6
+ 22 245 19 253 19 259 c 7
+ 19 269 29 284 38 284 c 6
+ 268 284 l 6
+ 277 284 280 276 280 271 c 7
+ 280 260 271 245 259 245 c 6
+EndSplineSet
+Refer: 300 116 N 1 0 0 1 0 0 3
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE0AC
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" tbar.sc
+Colour: ff9ccc
+EndChar

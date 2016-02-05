@@ -1,0 +1,23 @@
+StartChar: uniE0C8
+Encoding: 57544 57544 2256
+Width: 2048
+VWidth: 1880
+LayerCount: 2
+Back
+SplineSet
+1 1304 m 29
+ 630 1304 l 1053
+1 1292 m 29
+ 630 1292 l 1053
+1 1409 m 29
+ 630 1409 l 29
+ 630 734 l 29
+ 1 734 l 29
+ 1 1409 l 29
+1 1397 m 29
+ 630 1397 l 29
+ 630 746 l 29
+ 1 746 l 29
+ 1 1397 l 29
+EndSplineSet
+EndChar

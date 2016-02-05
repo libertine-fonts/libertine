@@ -1,0 +1,24 @@
+StartChar: seven.superior
+Encoding: 8311 8311 1076
+Width: 307
+VWidth: 407
+Flags: HW
+HStem: 645 37<79 216>
+LayerCount: 2
+Back
+SplineSet
+0.488281 687.988 m 29
+ 307.617 687.988 l 29
+ 307.617 358.398 l 29
+ 0.488281 358.398 l 29
+ 0.488281 687.988 l 29
+0.488281 682.129 m 29
+ 307.617 682.129 l 29
+ 307.617 364.258 l 29
+ 0.488281 364.258 l 29
+ 0.488281 682.129 l 29
+EndSplineSet
+Fore
+Refer: 1092 8327 S 1 0 0 1 0 476 3
+Colour: ff00ff
+EndChar

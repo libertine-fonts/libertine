@@ -1,0 +1,14 @@
+StartChar: f_j
+Encoding: 1114147 -1 2727
+Width: 529
+VWidth: 999
+Flags: W
+HStem: -221 36<279 354.178> -2 33<24 49 210 249> 390 39<18.0149 92 167 373.705> 665 33<222.421 318.354>
+VStem: 92 75<37.7416 390 429 576.945> 340 99<551.965 624.709> 377 75<-95.5 389.582>
+LayerCount: 2
+Fore
+Refer: 1857 57399 N 1 0 0 1 0 0 3
+LCarets2: 1 270
+Ligature2: "'liga' Standardligaturen 1" f j
+Comment: "."
+EndChar

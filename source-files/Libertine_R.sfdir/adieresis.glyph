@@ -1,0 +1,24 @@
+StartChar: adieresis
+Encoding: 228 228 379
+Width: 452
+VWidth: 999
+Flags: W
+HStem: -12 49<135.986 230.912 329.815 423.014> 404 35<147.52 257.151> 528 95<91.0156 168.984 260.016 337.984>
+VStem: 41 83<49.7405 154.018> 55 77<291.902 375.751> 83 94<535.394 615.312> 252 94<535.394 615.312> 288 78<74.5304 217 244.062 374.836>
+AnchorPoint: "top_akzent" 255 834 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-91 623 m 5
+ 528 623 l 5
+ 528 527 l 5
+ -91 527 l 5
+ -91 623 l 5
+EndSplineSet
+Fore
+Refer: 319 168 N 1 0 0 1 33 0 2
+Refer: 281 97 N 1 0 0 1 0 0 3
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" adieresis.sc
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE074
+Colour: ff00ff
+EndChar

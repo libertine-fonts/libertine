@@ -1,0 +1,18 @@
+StartChar: backslash
+Encoding: 92 92 277
+Width: 287
+VWidth: 999
+Flags: HMW
+HStem: 688 10G<11 58>
+DStem2: 55 698 11 698 0.294569 -0.95563<0 767.788>
+LayerCount: 2
+Fore
+SplineSet
+55 698 m 1
+ 285 -48 l 1
+ 241 -48 l 1
+ 11 698 l 1
+ 55 698 l 1
+EndSplineSet
+Validated: 3073
+EndChar

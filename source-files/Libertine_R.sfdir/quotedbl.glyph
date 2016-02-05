@@ -1,0 +1,14 @@
+StartChar: quotedbl
+Encoding: 34 34 1
+Width: 336
+VWidth: 999
+Flags: W
+HStem: 426 218<85.8119 118.678> 427 218<211.812 244.678>
+VStem: 63 86<487.695 633.98> 189 86<488.695 634.98>
+LayerCount: 2
+Fore
+Refer: 253 39 N 1 0 0 1 136 1 2
+Refer: 253 39 N 1 0 0 1 10 0 2
+Validated: 32769
+Colour: ff00ff
+EndChar

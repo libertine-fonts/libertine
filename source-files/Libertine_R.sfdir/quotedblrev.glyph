@@ -1,0 +1,14 @@
+StartChar: quotedblrev
+Encoding: 8223 8223 1057
+Width: 373
+VWidth: 999
+Flags: W
+HStem: 470 25<144.971 174.29 300.971 330.29> 605 93<89.633 159.7 245.633 315.7>
+VStem: 49.2959 39.0001<536.805 630.278> 205.296 39.0001<536.805 630.278>
+LayerCount: 2
+Fore
+Refer: 1053 8219 N 1 0 0 1 133 0 2
+Refer: 1053 8219 N 1 0 0 1 -23 0 2
+Validated: 32769
+Colour: ff00ff
+EndChar

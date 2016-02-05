@@ -1,0 +1,12 @@
+StartChar: f.short
+Encoding: 1114272 -1 2852
+Width: 329
+VWidth: 999
+Flags: W
+HStem: -2 33<28.625 84.75 190 258.375> 390 39<30.071 97 176 284.681> 664 34<192.543 262.565>
+VStem: 97 79<41.1717 390 429 621.654>
+LayerCount: 2
+Fore
+Refer: 2450 57568 N 1 0 0 1 0 0 3
+Comment: "."
+EndChar

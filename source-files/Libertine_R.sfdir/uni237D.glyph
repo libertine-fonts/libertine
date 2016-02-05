@@ -1,0 +1,26 @@
+StartChar: uni237D
+Encoding: 9085 9085 2326
+Width: 250
+VWidth: 999
+Flags: W
+HStem: -203 59<17 233> -66 44<-104 -17 267 354>
+VStem: -17 34<-144 -66> 233 34<-144 -66>
+LayerCount: 2
+Fore
+SplineSet
+354 -22 m 1
+ 354 -66 l 1
+ 267 -66 l 1
+ 267 -203 l 1
+ -17 -203 l 1
+ -17 -66 l 1
+ -104 -66 l 1
+ -104 -22 l 1
+ 17 -22 l 1
+ 17 -144 l 1
+ 233 -144 l 1
+ 233 -22 l 1
+ 354 -22 l 1
+EndSplineSet
+Validated: 3073
+EndChar

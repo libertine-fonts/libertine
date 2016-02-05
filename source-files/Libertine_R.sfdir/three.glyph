@@ -1,0 +1,50 @@
+StartChar: three
+Encoding: 51 51 12
+Width: 465
+VWidth: 487
+Flags: W
+HStem: -10 35<146.553 258.169> 312 32<144.906 193.387> 575 35<153.013 268.092>
+VStem: 47 73<450.746 535.946> 298.148 78.2256<424.408 549.929> 325 88<104.879 268.015>
+LayerCount: 2
+Back
+SplineSet
+24.875 610.125 m 29
+ 373.168 610.125 l 1053
+-22 600.012 m 5
+ 464.965 600.012 l 5
+ 464.965 0 l 5
+ -22 0 l 5
+ -22 600.012 l 5
+EndSplineSet
+Fore
+SplineSet
+215 575 m 3xf8
+ 189 575 120 563 120 499 c 0
+ 120 480 116.004 447 81 447 c 3
+ 57 447 47 467 47 481 c 3
+ 47 514 89 610 236 610 c 3
+ 288.33 610 323.154 593.135 345 571.049 c 0
+ 369.31 546.471 376.374 521.969 376.374 491.943 c 3xf8
+ 376.374 439.234 353.322 397.604 271 359 c 1
+ 272 357 l 1
+ 331 347 413 308 413 199 c 3
+ 413 67 307 -10 188 -10 c 3
+ 128 -10 44 17 44 57 c 3
+ 44 73 65 92 86 92 c 3
+ 106 92 119 80 129 66 c 0
+ 141 48 150 25 201 25 c 3
+ 236 25 325 52 325 185 c 3xf4
+ 325 298 251 314 194 314 c 3
+ 181 314 163 314 146 312 c 1
+ 141 344 l 1
+ 240.108 358.089 298.148 434.489 298.148 484.677 c 3
+ 298.148 548.99 258.2 575 215 575 c 3xf8
+EndSplineSet
+Validated: 3073
+Substitution2: "'case' Versalformen 1" three.cap
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE023 three.superior uniE013
+Substitution2: "'sups' Hochgestellte 1" three.superior
+Substitution2: "'sinf' Wissenschaftliche Indices 1" three.inferior
+Substitution2: "'pnum' Proportionalziffern 1" uniE013
+Substitution2: "'onum' Minuskelziffern 1" uniE11B
+EndChar

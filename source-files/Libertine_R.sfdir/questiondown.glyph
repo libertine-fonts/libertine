@@ -1,0 +1,16 @@
+StartChar: questiondown
+Encoding: 191 191 342
+Width: 422
+VWidth: 999
+Flags: W
+HStem: -229 33<179.418 279.491> 336 100<192.802 270.994>
+VStem: 53 85<-158.815 -11.7128> 182 100<347.718 424.872> 221 35<132.628 238.882> 294 75<-162.925 -85.8918>
+LayerCount: 2
+Fore
+Refer: 22 63 S -1 0 0 -1 435 429 3
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" questiondown.sc
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniF6B5
+Substitution2: "'case' Versalformen 1" questiondown.sc
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniF6B5
+Colour: ff00ff
+EndChar

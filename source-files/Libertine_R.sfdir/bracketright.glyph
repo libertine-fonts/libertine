@@ -1,0 +1,19 @@
+StartChar: bracketright
+Encoding: 93 93 278
+Width: 356
+VWidth: 999
+Flags: W
+HStem: -192 30<32.489 136.467> 674 30<32.489 133.912>
+VStem: 181 67<-134.875 646>
+LayerCount: 2
+Back
+Refer: 276 91 S -1 0 0 -1 356 511 3
+Fore
+Refer: 276 91 S -1 0 0 -1 356 511 3
+Validated: 32769
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" bracketright.sc
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniF6B1
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniF6B1
+Substitution2: "'case' Versalformen 1" bracketright.sc
+Colour: ff00ff
+EndChar

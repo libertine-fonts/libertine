@@ -1,0 +1,45 @@
+StartChar: rhookturned
+Encoding: 635 635 1642
+Width: 401
+VWidth: 699
+Flags: W
+HStem: -174 39<298.574 360.958> -12 36<55 146.885> 402 29<146 204.698 290.75 349>
+VStem: 209 77<-89.9962 74 75.192 400.127> 363 78<-132.954 -85.022>
+AnchorPoint: "unten_punkt" 196 -110 basechar 0
+AnchorPoint: "unten_anhang" 167 -3 basechar 0
+AnchorPoint: "ogonek" 410 16 basechar 0
+AnchorPoint: "top_akzent" 191 26 mark 0
+LayerCount: 2
+Fore
+SplineSet
+324 402 m 2
+ 286 402 286 381 286 355 c 2
+ 286 41 l 2
+ 287 -116 292 -135 335 -135 c 0
+ 351 -135 361 -123 363 -112 c 0
+ 368 -96 378 -80 400 -80 c 0
+ 424 -80 441 -102 441 -114 c 0
+ 441 -159 383 -174 325 -174 c 0
+ 269 -174 211 -120 211 54 c 2
+ 210 74 l 1
+ 203 58 181 33 167 22 c 0
+ 144 0 121 -12 87 -12 c 0
+ 23 -12 10 19 10 40 c 0
+ 10 68 25 83 54 83 c 0
+ 83 83 100 49 104 40 c 0
+ 107 30 115 24 126 24 c 0
+ 150 24 190 70 209 113 c 1
+ 209 355 l 18
+ 209 387 207 402 170 402 c 2
+ 154 402 l 2
+ 149 402 146 404 146 409 c 2
+ 146 431 l 1
+ 146 431 209 429 250 429 c 24
+ 289 429 349 431 349 431 c 1
+ 349 408 l 1
+ 349 406 348 402 341 402 c 2
+ 324 402 l 2
+EndSplineSet
+Substitution2: "'sups' Hochgestellte 1" rhookturned.superior
+Colour: ff0000
+EndChar

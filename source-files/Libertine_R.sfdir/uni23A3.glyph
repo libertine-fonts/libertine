@@ -1,0 +1,20 @@
+StartChar: uni23A3
+Encoding: 9123 9123 2617
+Width: 356
+VWidth: 999
+Flags: MW
+HStem: 0 30<219.533 323.511>
+VStem: 108 67<57.125 893>
+LayerCount: 2
+Fore
+SplineSet
+108 893 m 1
+ 175 893 l 9
+ 175 142 l 2
+ 175 55 183 40 320 30 c 1
+ 326 24 326 6 320 0 c 1
+ 108 0 l 1
+ 108 893 l 1
+EndSplineSet
+Validated: 3073
+EndChar

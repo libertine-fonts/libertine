@@ -1,0 +1,23 @@
+StartChar: uni2218
+Encoding: 8728 8728 1209
+Width: 341
+VWidth: 999
+Flags: W
+HStem: 141 30<129.536 211.982> 312 30<129.944 211.612>
+VStem: 71 34<193.515 289.37> 236 34<193.708 289.452>
+LayerCount: 2
+Back
+SplineSet
+-58.1055 256.836 m 29
+ 565.43 256.836 l 1053
+0 572.012 m 5
+ 527.344 572.012 l 5
+ 527.344 0 l 5
+ 0 0 l 5
+ 0 572.012 l 5
+EndSplineSet
+Fore
+Refer: 327 176 N 1 0 0 1 37 -268 2
+Validated: 32769
+Colour: ff00ff
+EndChar

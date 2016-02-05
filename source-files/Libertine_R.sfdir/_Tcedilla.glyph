@@ -1,0 +1,18 @@
+StartChar: Tcedilla
+Encoding: 354 354 468
+Width: 597
+VWidth: 999
+Flags: W
+HStem: -200 29<232.047 332.231> -96 32<307.31 337.355> -2 33<164.625 246.5 368.5 450.375> 606 39<98.3488 251.688 363.118 494.389>
+VStem: 3 34<502.785 541.578> 265 85<44.3649 597.249> 342 62<-165.259 -97.4563> 557 34<505.143 543.266>
+DStem2: 258 -96 307 -67 0.384615 0.923077<45.6154 104>
+LayerCount: 2
+Fore
+Refer: 335 184 S 1 0 0 1 7 0 2
+Refer: 269 84 N 1 0 0 1 0 0 3
+Substitution2: "'locl' Localized Forms Romaenisch 1" Tcommaaccent
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" Tcommaaccent uniE0B4 uniE0AB
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE0AB
+Colour: ff00ff
+EndChar

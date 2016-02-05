@@ -1,0 +1,16 @@
+StartChar: centigrade
+Encoding: 8451 8451 1106
+Width: 804
+VWidth: 999
+Flags: W
+HStem: -10 43<469.09 645.203> 409 30<102.536 184.982> 576 34<471.55 621.544> 580 30<102.944 184.612>
+VStem: 44 34<461.515 557.37> 209 34<461.708 557.452> 253 90<180.802 409.331> 725 29<418.649 458.764>
+LayerCount: 2
+Fore
+Refer: 1147 8557 S 1 0 0 1 219 0 2
+Refer: 327 176 N 1 0 0 1 10 0 2
+Validated: 32769
+LCarets2: 1 0
+Ligature2: "'liga' Standardligaturen 1" degree C
+Colour: ff9ccc
+EndChar

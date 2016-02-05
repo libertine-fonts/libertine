@@ -1,0 +1,12 @@
+StartChar: h.inferior
+Encoding: 1114311 -1 2891
+Width: 307
+VWidth: 917
+Flags: HW
+HStem: -112 23<18 36 36 55 104 125 125 145 174 214 265 301> 121 34<135 206> 219 22<11 36>
+VStem: 55 49<-83 76 104 218> 215 49<-89 112>
+LayerCount: 2
+Fore
+Refer: 1390 688 S 1 0 0 1 0 -476 2
+Comment: "."
+EndChar

@@ -1,0 +1,18 @@
+StartChar: uni026E
+Encoding: 622 622 1659
+Width: 516
+VWidth: 999
+Flags: W
+HStem: -235 35<239 334> -2 33<19.625 81.875 187.125 249.375> 103 34<306 358> 395 34<197 385> 641 30<27.0654 82.8303> 678 20<152.5 169.5>
+VStem: 95 79<39.9611 633.683> 130 27<303 337> 402 81<-120 61>
+DStem2: 217 107 306 137 0.505072 0.863077<70.4402 332.658>
+AnchorPoint: "top_akzent" 209 645 basechar 0
+AnchorPoint: "unten_punkt" 196 -110 basechar 0
+AnchorPoint: "unten_anhang" 167 -3 basechar 0
+AnchorPoint: "ogonek" 410 16 basechar 0
+LayerCount: 2
+Fore
+Refer: 2050 108 N 1 0 0 1 0 0 2
+Refer: 652 658 N 1 0 0 1 90 0 2
+Colour: ff00ff
+EndChar

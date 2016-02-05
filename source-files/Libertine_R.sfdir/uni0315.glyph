@@ -1,0 +1,15 @@
+StartChar: uni0315
+Encoding: 789 789 1429
+Width: 0
+VWidth: 999
+Flags: W
+TeX: 57 0
+HStem: 458 20<-138.524 -109.927> 558 82<-135.662 -63.4398>
+VStem: -63 34<509.629 585>
+AnchorPoint: "SekAccPos" -116 402 mark 0
+AnchorPoint: "komb_OR" -116 396 mark 0
+LayerCount: 2
+Fore
+Refer: 1426 786 N -1 0 0 -1 -187 1108 2
+Colour: ff00ff
+EndChar

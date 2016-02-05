@@ -1,0 +1,22 @@
+StartChar: caron.cap
+Encoding: 1114336 -1 2916
+Width: 700
+VWidth: 999
+Flags: W
+HStem: 524 115
+VStem: -306 244
+AnchorPoint: "top_akzent" -180 639 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-205 524 m 1
+ -235 561 -270 591 -306 619 c 1
+ -290 639 l 1
+ -251 622 -217 603 -184 578 c 1
+ -147 604 -115 623 -77 639 c 1
+ -62 619 l 1
+ -100 590 -132 558 -162 524 c 1
+ -205 524 l 1
+EndSplineSet
+Comment: "."
+EndChar

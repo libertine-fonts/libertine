@@ -1,0 +1,29 @@
+StartChar: Adieresis
+Encoding: 196 196 347
+Width: 695
+VWidth: 999
+Flags: W
+HStem: -2 33<3.625 68.0908 159.081 227.375 436.625 510.911 622.197 688.375> 241 42<241.019 440> 638 20G<381.5 396.203> 658 96<201.332 280.668 438.332 517.668>
+VStem: 193 96<666.332 745.668> 430 96<666.332 745.668>
+AnchorPoint: "top_akzent" 362 894 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+430 706 m 3xdc
+ 430 732 452 754 478 754 c 3
+ 504 754 526 732 526 706 c 3
+ 526 680 504 658 478 658 c 3
+ 452 658 430 680 430 706 c 3xdc
+193 706 m 3
+ 193 732 215 754 241 754 c 3
+ 267 754 289 732 289 706 c 3
+ 289 680 267 658 241 658 c 3
+ 215 658 193 680 193 706 c 3
+EndSplineSet
+Refer: 24 65 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'ss01' Stilgruppe 1 1" Adieresis.alt
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE074
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE074
+Colour: ff9ccc
+EndChar

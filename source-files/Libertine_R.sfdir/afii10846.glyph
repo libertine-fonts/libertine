@@ -1,0 +1,13 @@
+StartChar: afii10846
+Encoding: 1241 1241 115
+Width: 447
+VWidth: 999
+Flags: W
+HStem: -9 35<138.68 246.054> 146 34<109.003 304> 388 50<97.864 229.181>
+VStem: 22 87<61.231 170.5> 307 84<119.743 146 180 297.073>
+AnchorPoint: "top_akzent" 211 645 basechar 0
+LayerCount: 2
+Fore
+Refer: 546 477 N 1 0 0 1 0 -1 2
+Colour: ff00ff
+EndChar

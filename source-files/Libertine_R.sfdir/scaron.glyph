@@ -1,0 +1,18 @@
+StartChar: scaron
+Encoding: 353 353 467
+Width: 390
+VWidth: 999
+Flags: W
+HStem: -10 33<127.059 243.283> 406 33<156.285 254.66>
+VStem: 62 71<289.365 386.107> 274 76<48.2659 146.366>
+AnchorPoint: "unten_anhang" 189 -2 basechar 0
+AnchorPoint: "unten_punkt" 183 -110 basechar 0
+AnchorPoint: "top_akzent" 194 795 basechar 0
+LayerCount: 2
+Fore
+Refer: 2051 115 N 1 0 0 1 0 0 3
+Refer: 657 711 N 1 0 0 1 20 -16 2
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE0AA
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" scaron.sc
+Colour: ff00ff
+EndChar

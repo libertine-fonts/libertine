@@ -1,0 +1,16 @@
+StartChar: ij
+Encoding: 307 307 421
+Width: 542
+VWidth: 999
+Flags: W
+HStem: -223 44<267.5 357.844> -2 33<26.625 88.875 194.125 256.375> 422 20<157.75 176 439 457> 547 98<99.385 177.791 378.385 456.791>
+VStem: 91 98<557.729 636.615> 102 79<40.8314 380.346> 370 98<557.729 636.615> 383 79<-100.418 376.901>
+LayerCount: 2
+Fore
+Refer: 664 729 S 1 0 0 1 273 0 2
+Refer: 1723 567 N 1 0 0 1 270 0 2
+Refer: 289 105 N 1 0 0 1 0 0 2
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" ij.sc
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE090
+Colour: ff00ff
+EndChar

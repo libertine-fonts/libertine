@@ -1,0 +1,20 @@
+StartChar: logicalnot
+Encoding: 172 172 323
+Width: 599
+VWidth: 487
+Flags: W
+HStem: 323 44<38.2062 499>
+VStem: 499 54<96.8023 323>
+LayerCount: 2
+Fore
+SplineSet
+499 99 m 1
+ 499 323 l 1
+ 40 323 l 1
+ 36.3191 335.817 33.2941 348.963 40 367 c 1
+ 553 367 l 1
+ 553 99 l 1
+ 536.361 92.6312 518 90 499 99 c 1
+EndSplineSet
+Validated: 3105
+EndChar

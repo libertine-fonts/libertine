@@ -1,0 +1,24 @@
+StartChar: itilde
+Encoding: 297 297 61
+Width: 271
+VWidth: 999
+Flags: W
+HStem: -2 33<26.625 88.875 194.125 256.375> 422 20<157.75 176> 526 44<138.2 216.5> 574 46<32 113.9> 613 10
+VStem: 102 79<40.8314 380.346>
+AnchorPoint: "unten_anhang" 142 -2 basechar 0
+AnchorPoint: "unten_punkt" 136 -110 basechar 0
+AnchorPoint: "top_akzent" 139 795 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-87.8906 622.07 m 5
+ 531.25 622.07 l 5
+ 531.25 525.391 l 5
+ -87.8906 525.391 l 5
+ -87.8906 622.07 l 5
+EndSplineSet
+Fore
+Refer: 667 732 N 0.9 0 0 1 -4 -48 2
+Refer: 419 305 N 1 0 0 1 0 0 3
+Colour: ff00ff
+EndChar

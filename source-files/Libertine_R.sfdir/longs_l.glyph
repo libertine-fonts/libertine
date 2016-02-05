@@ -1,0 +1,14 @@
+StartChar: longs_l
+Encoding: 1114156 -1 2736
+Width: 517
+VWidth: 999
+Flags: W
+HStem: -2 29<22 49 210 235.997 293 308 469 499> 395 34<28.25 84.4469> 664 34<216.131 302.079>
+VStem: 92 75<33.2715 394.997 432.859 578.781> 351 75<33.1625 603.783>
+LayerCount: 2
+Fore
+Refer: 2383 57411 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "'liga' Standardligaturen 1" longs l
+Comment: "."
+EndChar

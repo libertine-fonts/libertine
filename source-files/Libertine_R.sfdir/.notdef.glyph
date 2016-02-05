@@ -1,0 +1,34 @@
+StartChar: .notdef
+Encoding: 1114112 -1 1274
+Width: 500
+VWidth: 488
+Flags: W
+HStem: 0 50<80 420> 647 51<80 420>
+VStem: 0 50<95 603> 450 50<95 603>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 698 l 1
+ 500 698 l 1
+ 500 0 l 1
+ 0 0 l 1
+250 394 m 1
+ 420 647 l 1
+ 80 647 l 1
+ 250 394 l 1
+280 349 m 1
+ 450 95 l 1
+ 450 603 l 1
+ 280 349 l 1
+80 50 m 1
+ 420 50 l 1
+ 250 304 l 1
+ 80 50 l 1
+50 603 m 1
+ 50 95 l 1
+ 220 349 l 1
+ 50 603 l 1
+EndSplineSet
+Validated: 3073
+EndChar

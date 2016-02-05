@@ -1,0 +1,15 @@
+StartChar: Uring
+Encoding: 366 366 480
+Width: 661
+VWidth: 999
+Flags: W
+HStem: -10 41<260.406 435.748> 614 33<6.625 71 189.125 267.375 430.625 505.459 593.292 655.375> 638 32<311.639 381.812> 776 32<311.639 382.555>
+VStem: 87 85<121.493 601.619> 259 40<679.365 766.898> 395 40<679.587 767.252> 526 49<135.217 599.095>
+LayerCount: 2
+Fore
+Refer: 665 730 N 1 0 0 1 166 52 2
+Refer: 270 85 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE0AD
+Colour: ff00ff
+EndChar

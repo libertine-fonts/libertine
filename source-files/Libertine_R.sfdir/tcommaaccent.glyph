@@ -1,0 +1,15 @@
+StartChar: tcommaaccent
+Encoding: 539 539 608
+Width: 316
+VWidth: 999
+Flags: W
+HStem: -226 24<122.315 152.976> -123 82<127.324 192.34> -10 55<143 248.154> 380 49<27.8201 89 168 288.919>
+VStem: 89 79<48.4221 380 429 559.499> 194 39<-177.408 -99.958>
+LayerCount: 2
+Fore
+Refer: 680 806 S 1 0 0 1 421 0 2
+Refer: 300 116 N 1 0 0 1 0 0 3
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" tcommaaccent.sc
+LCarets2: 1 0
+Colour: ff00ff
+EndChar

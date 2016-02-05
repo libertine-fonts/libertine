@@ -1,0 +1,18 @@
+StartChar: ccedilla
+Encoding: 231 231 382
+Width: 428
+VWidth: 999
+Flags: W
+HStem: -200 29<151.047 251.231> -96 32<226.31 256.355> -10 49<194.596 322.53> 406 33<186.285 287.961>
+VStem: 37 86<123.239 310.572> 261 62<-165.259 -97.4563> 308 87<307.358 390.405>
+DStem2: 177 -96 226 -67 0.384615 0.923077<45.6154 104>
+AnchorPoint: "top_akzent" 255 834 basechar 0
+LayerCount: 2
+Fore
+Refer: 681 807 N 1 0 0 1 414 0 2
+Refer: 283 99 N 1 0 0 1 0 0 3
+Validated: 32773
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" ccedilla.sc
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE077
+Colour: ff00ff
+EndChar

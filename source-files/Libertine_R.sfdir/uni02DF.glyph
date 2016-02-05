@@ -1,0 +1,30 @@
+StartChar: uni02DF
+Encoding: 735 735 1408
+Width: 359
+VWidth: 999
+Flags: HMW
+TeX: 57 0
+LayerCount: 2
+Fore
+SplineSet
+224 610 m 1
+ 311 536 l 1
+ 308 527 308 527 303 520 c 0
+ 299 513 299 513 292 507 c 1
+ 181 578 l 1
+ 70 507 l 1
+ 64 513 64 513 60 520 c 0
+ 55 528 55 528 50 536 c 1
+ 137 609 l 1
+ 49 683 l 1
+ 52 690 52 690 58 699 c 0
+ 63 708 63 708 68 713 c 1
+ 181 641 l 1
+ 291 713 l 1
+ 296 708 296 708 301 700 c 0
+ 306 692 306 692 310 683 c 1
+ 224 610 l 1
+EndSplineSet
+Validated: 3073
+Colour: ff00ff
+EndChar

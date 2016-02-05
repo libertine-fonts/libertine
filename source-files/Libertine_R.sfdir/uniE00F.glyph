@@ -1,0 +1,16 @@
+StartChar: uniE00F
+Encoding: 57359 57359 1866
+Width: 491
+VWidth: 487
+Flags: W
+HStem: -10 35<199.86 289.867> 575 35<205.242 291.878>
+VStem: 54 87<150.118 443.88> 350 87<148.096 451.846>
+LayerCount: 2
+Fore
+Refer: 2273 63032 N 1 0 0 1 15 0 2
+Validated: 32773
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE010 uniE020 uniE00F
+Substitution2: "'tnum' Tabellenziffern 1" uniF638
+Substitution2: "'onum' Minuskelziffern 1" uniE020
+Colour: ff00ff
+EndChar

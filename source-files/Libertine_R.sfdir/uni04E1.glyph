@@ -1,0 +1,13 @@
+StartChar: uni04E1
+Encoding: 1249 1249 119
+Width: 416
+VWidth: 999
+Flags: W
+HStem: -235 35<149 244> 103 34<216 268> 395 34<107 295>
+VStem: 40 27<303 337> 312 81<-120 61>
+DStem2: 127 107 216 137 0.505072 0.863077<70.4402 332.658>
+LayerCount: 2
+Fore
+Refer: 652 658 S 1 0 0 1 0 0 3
+Colour: ff00ff
+EndChar

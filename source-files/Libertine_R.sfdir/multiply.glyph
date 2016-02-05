@@ -1,0 +1,39 @@
+StartChar: multiply
+Encoding: 215 215 366
+Width: 550
+VWidth: 999
+Flags: W
+HStem: 133 315
+VStem: 116 315
+DStem2: 152 448 116 413 0.707107 -0.707107<0 173.241 222.739 395.273> 116 168 152 133 0.707107 0.707107<0.707106 173.241 222.739 395.98>
+LayerCount: 2
+Back
+SplineSet
+-58.1055 256.836 m 29
+ 565.43 256.836 l 1053
+0 572.012 m 5
+ 527.344 572.012 l 5
+ 527.344 0 l 5
+ 0 0 l 5
+ 0 572.012 l 5
+EndSplineSet
+Fore
+SplineSet
+308 290 m 1
+ 431 168 l 1
+ 396 133 l 1
+ 274 255 l 1
+ 152 133 l 1
+ 116 168 l 1
+ 239 290 l 1
+ 116 413 l 1
+ 152 448 l 1
+ 274 325 l 1
+ 396 448 l 1
+ 431 413 l 1
+ 308 290 l 1
+EndSplineSet
+Validated: 3073
+Substitution2: "'sinf' Wissenschaftliche Indices 1" uniE164
+Substitution2: "'sups' Hochgestellte 1" uniE142
+EndChar

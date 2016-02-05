@@ -1,0 +1,16 @@
+StartChar: afii57796
+Encoding: 1467 1467 2081
+Width: 0
+Flags: W
+HStem: -217 69<261.797 326.203> -164 69<149.797 214.203> -110 69<37.797 102.203>
+VStem: 35 70<-107.203 -43.6406> 147 70<-161.203 -97.6406> 259 70<-214.203 -150.641>
+CounterMasks: 1 1c
+AnchorPoint: "unten_punkt" 181 0 mark 0
+LayerCount: 2
+Fore
+Refer: 2075 1460 S 1 0 0 1 128 -70 2
+Refer: 2075 1460 S 1 0 0 1 16 -17 2
+Refer: 2075 1460 S 1 0 0 1 -96 37 2
+Validated: 32769
+Colour: ff00ff
+EndChar

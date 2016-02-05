@@ -1,0 +1,33 @@
+StartChar: gravecomb
+Encoding: 768 768 669
+Width: 0
+VWidth: 999
+Flags: HMW
+AnchorPoint: "SekAccPos" -130 694 mark 0
+AnchorPoint: "top_akzent" -142 683 mark 0
+LayerCount: 2
+Back
+SplineSet
+-75.6836 549.805 m 5
+ -102.539 536.621 l 5
+ -145.508 596.68 -192.383 660.645 -219.238 696.777 c 5
+ -216.309 704.59 l 5
+ -207.52 709.473 -153.32 719.727 -138.672 717.773 c 5
+ -120.605 672.852 -95.7031 600.586 -75.6836 549.805 c 5
+EndSplineSet
+Fore
+SplineSet
+-156 708 m 9
+ -86 582 l 2
+ -81 572 -80 565 -80 558 c 3
+ -80 553 -87 547 -95 547 c 3
+ -101 547 -108 552 -124 567 c 2
+ -238 676 l 1
+ -236 687 l 1
+ -228 693 -205 710 -171 710 c 3
+ -166 710 -160 709 -156 708 c 9
+EndSplineSet
+Substitution2: "'sups' Hochgestellte 1" uniE0DB
+Substitution2: "Substitution cap-Accents 1" grave.cap
+Substitution2: "'case' Versalformen 1" grave.cap
+EndChar

@@ -1,0 +1,20 @@
+StartChar: uni02C9
+Encoding: 713 713 659
+Width: 425
+VWidth: 487
+Flags: W
+HStem: 518 50<75.8907 332.59>
+VStem: 74 261<518.239 568>
+LayerCount: 2
+Back
+SplineSet
+-17.0898 456.055 m 5
+ -309.57 456.055 l 5
+ -309.57 505.371 l 5
+ -17.0898 505.371 l 5
+ -17.0898 456.055 l 5
+EndSplineSet
+Fore
+Refer: 1419 772 N 1 0 0 1 416 -17 2
+Colour: ff00ff
+EndChar

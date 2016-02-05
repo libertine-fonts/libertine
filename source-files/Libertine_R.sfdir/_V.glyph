@@ -1,0 +1,42 @@
+StartChar: V
+Encoding: 86 86 271
+Width: 652
+VWidth: 999
+Flags: W
+HStem: -12 21G<311 321.5> 614 33<2.46875 55.3815 173.693 233.375 444.625 504.118 596.347 648.375>
+DStem2: 179.449 534 95.4688 523 0.359944 -0.932974<-61.2108 436.97> 343.125 127 340 11 0.375557 0.926799<0 492.956>
+AnchorPoint: "mittelpunkt" 334 474 basechar 0
+AnchorPoint: "top_rechts" 679 732 basechar 0
+AnchorPoint: "unten_anhang" 318 3 basechar 0
+AnchorPoint: "unten_punkt" 318 -110 basechar 0
+AnchorPoint: "top_akzent" 336 850 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+448 614 m 1
+ 442 620 442 641 448 647 c 1
+ 489 646 534 645 557 645 c 3
+ 580 645 615 646 645 647 c 5
+ 651 641 651 620 645 614 c 1
+ 582 607 565.815 568.265 546.662 521 c 2
+ 340 11 l 2
+ 334.215 -3.27661 327 -12 316 -12 c 3
+ 306 -12 299.021 -4.60613 293 11 c 2
+ 95.4688 523 l 2
+ 68.8425 592.015 61 609 6 614 c 1
+ 0 620 -1 641 5 647 c 1
+ 38 646 72.6666 645 109 645 c 3
+ 145 645 190 646 230 647 c 1
+ 236 641 236 620 230 614 c 1
+ 162 607 156.208 593.472 179.449 534 c 2
+ 338.5 127 l 1
+ 343.125 127 l 1
+ 500.981 528 l 2
+ 522.414 582.444 522 609 448 614 c 1
+EndSplineSet
+Position2: "'lfbd' Left Bounds lookup 5-1" dx=-27 dy=0 dh=-27 dv=0
+Position2: "'rtbd' Rechte R+AOQA-nder lookup 4-1" dx=0 dy=0 dh=-31 dv=0
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE066
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE0EA
+EndChar

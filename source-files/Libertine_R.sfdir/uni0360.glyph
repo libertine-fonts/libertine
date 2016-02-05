@@ -1,0 +1,24 @@
+StartChar: uni0360
+Encoding: 864 864 1862
+Width: 0
+VWidth: 999
+Flags: W
+HStem: 721 59<48.8062 297.312> 786 59<-299.061 -45.053>
+LayerCount: 2
+Fore
+SplineSet
+-455 717 m 5
+ -425 782 -299 845 -156 845 c 7
+ -102 845 -47 831 10 813 c 4
+ 73 793 137 780 188 780 c 7
+ 254 780 359 797 410 847 c 5
+ 439 841 l 5
+ 366 734 215 721 159 721 c 7
+ 105 721 47 736 -9 754 c 4
+ -66 772 -131 786 -190 786 c 7
+ -272 786 -371 757 -425 713 c 5
+ -455 717 l 5
+EndSplineSet
+Comment: "Alternative Akzente fuer Grossbuchstaben"
+Colour: ffffff
+EndChar

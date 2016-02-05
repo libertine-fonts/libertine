@@ -1,0 +1,15 @@
+StartChar: uniE11F
+Encoding: 57631 57631 2309
+Width: 465
+VWidth: 488
+Flags: W
+HStem: -184 21<132 208> 364 65<122.454 355.683> 420 20<407.5 432>
+VStem: 59 32<278.355 317.623>
+LayerCount: 2
+Fore
+Refer: 2285 57383 N 1 0 0 1 14 0 2
+Validated: 32769
+Substitution2: "'lnum' Versalziffern 1" seven
+Substitution2: "'pnum' Proportionalziffern 1" uniE027
+Colour: ff00ff
+EndChar

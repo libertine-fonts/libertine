@@ -1,0 +1,14 @@
+StartChar: Gcommaaccent
+Encoding: 290 290 54
+Width: 685
+VWidth: 999
+Flags: W
+HStem: -226 24<326.315 356.976> -123 82<331.324 396.34> -10 36<292.901 496.895> 265 36<444.77 519.469 622.484 664.23> 622 36<289.701 462.494>
+VStem: 37 96<208.012 431.481> 398 39<-177.408 -99.958> 530 85<73.4212 255.003>
+LayerCount: 2
+Fore
+Refer: 680 806 N 1 0 0 1 625 0 2
+Refer: 30 71 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Colour: ff00ff
+EndChar

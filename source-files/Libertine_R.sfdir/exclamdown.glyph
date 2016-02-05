@@ -1,0 +1,16 @@
+StartChar: exclamdown
+Encoding: 161 161 312
+Width: 288
+VWidth: 999
+Flags: W
+HStem: -229 20<125.333 147> 336 100<101.802 179.988>
+VStem: 91 100<-221.535 29.823 347.718 424.844>
+LayerCount: 2
+Fore
+Refer: 0 33 S -1 0 0 -1 288 429 3
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" exclamdown.sc
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniF6B4
+Substitution2: "'case' Versalformen 1" exclamdown.sc
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniF6B4
+Colour: ff00ff
+EndChar

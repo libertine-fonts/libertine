@@ -1,0 +1,12 @@
+StartChar: idotaccent.sc
+Encoding: 1114263 -1 2843
+Width: 323
+VWidth: 714
+Flags: W
+HStem: -2 33<46.625 108.875 214.125 276.375> 429 33<46.625 108.875 214.125 276.375> 547 98<121.385 199.791>
+VStem: 113 98<557.729 636.615> 122 79<40.8314 419.169>
+LayerCount: 2
+Fore
+Refer: 2406 57526 N 1 0 0 1 0 0 3
+Comment: "."
+EndChar

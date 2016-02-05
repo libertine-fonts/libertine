@@ -1,0 +1,20 @@
+StartChar: Hbar
+Encoding: 294 294 58
+Width: 730
+VWidth: 999
+Flags: W
+HStem: -2 33<15.625 88.75 208.25 281.375 442.625 515.75 635.25 708.375> 321 42<191 533> 512 34<41 676> 614 33<15.625 88.75 208.25 281.375 442.625 515.75 635.25 708.375>
+VStem: 106 85<43.3808 321 363 601.619> 533 85<43.3808 321 363 601.619>
+LayerCount: 2
+Fore
+SplineSet
+41 546 m 17
+ 676 546 l 13
+ 676 512 l 29
+ 41 512 l 25
+ 41 546 l 17
+EndSplineSet
+Refer: 2272 72 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Colour: ff9ccc
+EndChar

@@ -1,0 +1,13 @@
+StartChar: uni2472
+Encoding: 9330 9330 1788
+Width: 759
+VWidth: 999
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 1241 9675 N 1.41213 0 0 1.41423 -20 6 2
+Refer: 10 49 N 0.65 0 0 0.65 125 127 2
+Refer: 17 57 N 0.65 0 0 0.65 358 129 2
+Validated: 32769
+Colour: ff00ff
+EndChar

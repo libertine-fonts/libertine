@@ -1,0 +1,13 @@
+StartChar: germandbls.sc
+Encoding: 1114229 -1 2809
+Width: 562
+VWidth: 488
+Flags: W
+HStem: -10 33<321.37 409.966> -2 33<17.625 79.875 182.5 232.375> 246 22<379.504 422> 437 33<239.664 384.882>
+VStem: 93 79<40.8314 358.244> 264 26<68.2681 109.607> 443 85<59.5634 192.078>
+LayerCount: 2
+Fore
+Refer: 2274 57490 N 1 0 0 1 0 0 3
+Substitution2: "'ss04' Stilgruppe 4 1" germandbls.scalt
+Comment: "."
+EndChar

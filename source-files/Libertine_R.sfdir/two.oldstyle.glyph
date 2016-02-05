@@ -1,0 +1,13 @@
+StartChar: two.oldstyle
+Encoding: 1114128 -1 2708
+Width: 462
+VWidth: 488
+Flags: W
+HStem: 0 55<158 362.668> 395 44<138.564 267.966>
+VStem: 62 34<330.417 349.428> 288 89<261.08 376.447>
+DStem2: 161 126 158 55 0.714948 0.699177<-51.7864 193.154>
+LayerCount: 2
+Fore
+Refer: 1462 57378 N 1 0 0 1 0 0 3
+Comment: "."
+EndChar

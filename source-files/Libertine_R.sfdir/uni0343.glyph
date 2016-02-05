@@ -1,0 +1,13 @@
+StartChar: uni0343
+Encoding: 835 835 1612
+Width: 0
+VWidth: 999
+Flags: W
+HStem: 470 20<-130.524 -101.927> 570 82<-127.662 -55.4398>
+VStem: -55 34<521.629 597>
+AnchorPoint: "top_akzent" -96 605 mark 0
+LayerCount: 2
+Fore
+Refer: 1426 786 S -1 0 0 -1 -179 1120 2
+Colour: ff00ff
+EndChar

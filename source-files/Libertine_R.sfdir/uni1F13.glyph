@@ -1,0 +1,14 @@
+StartChar: uni1F13
+Encoding: 7955 7955 1482
+Width: 397
+VWidth: 999
+Flags: W
+HStem: -10 38<162.681 295.772> 210 33<161.557 292.993> 406 33<153.781 257.414> 514 186
+VStem: 44 79<61.2701 180.136> 63 71<265.323 385.203> 277 74<336.137 391.218>
+LayerCount: 2
+Fore
+Refer: 1491 8157 S 1 0 0 1 41 43 2
+Refer: 723 949 N 1 0 0 1 0 0 3
+Validated: 32769
+Colour: ff00ff
+EndChar

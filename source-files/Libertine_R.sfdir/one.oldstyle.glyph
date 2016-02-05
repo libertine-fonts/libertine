@@ -1,0 +1,11 @@
+StartChar: one.oldstyle
+Encoding: 1114127 -1 2707
+Width: 338
+Flags: W
+HStem: -2 33<61.625 134.75 246.25 319.375> 369 31<50.3095 113.853> 422 20<193.5 222.5>
+VStem: 152 77<43.3808 374.992>
+LayerCount: 2
+Fore
+Refer: 1375 57377 N 1 0 0 1 0 0 3
+Comment: "."
+EndChar

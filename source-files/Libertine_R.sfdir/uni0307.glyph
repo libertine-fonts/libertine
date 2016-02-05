@@ -1,0 +1,27 @@
+StartChar: uni0307
+Encoding: 775 775 673
+Width: 0
+VWidth: 487
+Flags: W
+HStem: 524 100<-218.988 -140.802>
+VStem: -230 100<535.156 612.282>
+AnchorPoint: "SekAccPos" -181 672 mark 0
+AnchorPoint: "top_akzent" -180 667 mark 0
+LayerCount: 2
+Back
+SplineSet
+-221 636 m 1
+ -140 636 l 1
+ -140 555 l 1
+ -221 555 l 1
+ -221 636 l 1
+EndSplineSet
+Fore
+SplineSet
+-230 576 m 3
+ -230 600 -202 624 -178 624 c 3
+ -151 624 -130 596 -130 572 c 3
+ -130 551 -154 524 -182 524 c 3
+ -206 524 -230 550 -230 576 c 3
+EndSplineSet
+EndChar

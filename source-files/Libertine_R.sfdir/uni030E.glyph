@@ -1,0 +1,25 @@
+StartChar: uni030E
+Encoding: 782 782 1417
+Width: 0
+VWidth: 999
+Flags: W
+TeX: 57 0
+HStem: 540 179
+VStem: -319 45<540 719> -214 44<539 719>
+AnchorPoint: "SekAccPos" -243 726 mark 0
+AnchorPoint: "top_akzent" -245 719 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-274 540 m 1
+ -319 540 l 1
+ -319 719 l 1
+ -274 719 l 1
+ -274 540 l 1
+-170 539 m 1
+ -214 539 l 1
+ -214 719 l 1
+ -170 719 l 1
+ -170 539 l 1
+EndSplineSet
+EndChar

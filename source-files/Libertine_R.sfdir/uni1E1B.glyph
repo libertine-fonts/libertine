@@ -1,0 +1,15 @@
+StartChar: uni1E1B
+Encoding: 7707 7707 156
+Width: 447
+VWidth: 999
+Flags: W
+HStem: -162 44<237 324> -114 46<119 210> -75 10 -10 50<198.819 330.136> 248 34<124 318.997> 402 35<181.946 289.32>
+VStem: 37 84<130.927 248 282 308.257> 319 87<257.5 366.769>
+AnchorPoint: "top_akzent" 231 645 basechar 0
+LayerCount: 2
+Fore
+Refer: 667 732 N 1 0 0 1 79 -736 2
+Refer: 285 101 N 1 0 0 1 0 0 3
+LCarets2: 1 0
+Colour: ff00ff
+EndChar

@@ -1,0 +1,15 @@
+StartChar: guillemotright
+Encoding: 187 187 338
+Width: 543
+VWidth: 999
+Flags: W
+LayerCount: 2
+Fore
+Refer: 322 171 N -1 0 0 -1 543 430 3
+Validated: 32769
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" guillemotright.sc
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniF6B7
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniF6B7
+Substitution2: "'case' Versalformen 1" guillemotright.sc
+Colour: ff00ff
+EndChar

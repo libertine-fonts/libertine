@@ -1,0 +1,18 @@
+StartChar: Otilde
+Encoding: 213 213 364
+Width: 702
+VWidth: 999
+Flags: W
+HStem: -10 36<287.252 445.886> 622 36<258.76 417.86> 698 44<359 446> 746 46<241 332> 785 10
+VStem: 37 96<199.246 446.734> 570 96<196.263 451.706>
+AnchorPoint: "top_akzent" 344 894 basechar 0
+AnchorPoint: "komb_OR" 620 606 basechar 0
+LayerCount: 2
+Fore
+Refer: 667 732 N 1 0 0 1 201 124 2
+Refer: 264 79 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE085
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE085
+Colour: ff00ff
+EndChar

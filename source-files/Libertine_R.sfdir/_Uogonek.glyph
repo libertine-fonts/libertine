@@ -1,0 +1,29 @@
+StartChar: Uogonek
+Encoding: 370 370 484
+Width: 661
+VWidth: 999
+Flags: W
+HStem: -200 38<369.519 452.833> -10 41<260.406 435.748> 614 33<6.625 71 189.125 267.375 430.625 505.459 593.292 655.375>
+VStem: 87 85<121.493 601.619> 300 62<-155.299 -69.1643> 526 49<135.217 599.095>
+AnchorPoint: "top_akzent" 346 850 basechar 0
+AnchorPoint: "unten_punkt" 188 -110 basechar 0
+AnchorPoint: "unten_anhang" 328 4 basechar 0
+AnchorPoint: "mittelpunkt" 336 321 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+498 -135 m 1
+ 469 -180 429 -200 388 -200 c 0
+ 338 -200 300 -180 300 -126 c 0
+ 300 -70 364 -18 444 31 c 0
+ 478 55 l 1
+ 491 41 l 1
+ 402.181 -31.6699 362 -63.9072 362 -115 c 0
+ 362 -141 375 -162 412 -162 c 0
+ 441 -162 457 -146 479 -124 c 1
+ 488 -124 494 -128 498 -135 c 1
+EndSplineSet
+Refer: 270 85 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Colour: ff00ff
+EndChar

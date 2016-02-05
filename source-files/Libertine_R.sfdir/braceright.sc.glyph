@@ -1,0 +1,12 @@
+StartChar: braceright.sc
+Encoding: 1114353 -1 2933
+Width: 277
+VWidth: 999
+Flags: W
+HStem: -76.18 20.64<11.2427 43.6097> 309.1 20.64<217.343 264.111> 693.52 20.64<11.2427 50.3727>
+VStem: 87 74<74.965 275.237> 95 72<-25.7468 182.035>
+LayerCount: 2
+Fore
+Refer: 309 125 N 1 0 0 0.86 0 107 3
+Comment: "."
+EndChar

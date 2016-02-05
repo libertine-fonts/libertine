@@ -1,0 +1,23 @@
+StartChar: uni02EC
+Encoding: 748 748 1411
+Width: 312
+VWidth: 999
+Flags: HMW
+TeX: 57 0
+HStem: -129 256
+DStem2: 66 127 13 127 0.445166 -0.895448<0 204.604> 160 -55 171 -129 0.42853 0.903527<0 202.432>
+LayerCount: 2
+Fore
+SplineSet
+13 127 m 1
+ 66 127 l 1
+ 160 -55 l 1
+ 248 127 l 1
+ 293 127 l 1
+ 171 -129 l 1
+ 140 -129 l 1
+ 13 127 l 1
+EndSplineSet
+Validated: 3073
+Colour: ff00ff
+EndChar

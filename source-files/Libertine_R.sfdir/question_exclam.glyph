@@ -1,0 +1,15 @@
+StartChar: question_exclam
+Encoding: 8264 8264 1067
+Width: 675
+VWidth: 487
+Flags: W
+HStem: -7 100<164.006 242.198> -5 100<495.012 573.198> 625 33<155.509 255.582> 640 20<528 549.667>
+VStem: 66 75<514.892 591.925> 153 100<4.12776 81.2822> 179 35<190.118 296.372> 297 85<440.713 587.815> 484 100<6.15561 83.2822 401.177 652.535>
+LayerCount: 2
+Fore
+Refer: 0 33 N 1 0 0 1 387 2 2
+Refer: 22 63 N 1 0 0 1 0 0 2
+Ligature2: "'liga' Standardligaturen 1" question exclam
+LCarets2: 1 428
+Colour: ff00ff
+EndChar

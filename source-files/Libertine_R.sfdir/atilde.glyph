@@ -1,0 +1,24 @@
+StartChar: atilde
+Encoding: 227 227 378
+Width: 452
+VWidth: 999
+Flags: W
+HStem: -12 49<135.986 230.912 329.815 423.014> 404 35<147.52 257.151> 526 44<232 319> 574 46<114 205> 613 10
+VStem: 41 83<49.7405 154.018> 55 77<291.902 375.751> 288 78<74.5304 217 244.062 374.836>
+AnchorPoint: "top_akzent" 255 834 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-87.8906 622.07 m 5
+ 531.25 622.07 l 5
+ 531.25 525.391 l 5
+ -87.8906 525.391 l 5
+ -87.8906 622.07 l 5
+EndSplineSet
+Fore
+Refer: 667 732 N 1 0 0 1 74 -48 2
+Refer: 281 97 N 1 0 0 1 0 0 3
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" atilde.sc
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE073
+Colour: ff00ff
+EndChar

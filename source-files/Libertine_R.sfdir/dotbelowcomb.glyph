@@ -1,0 +1,19 @@
+StartChar: dotbelowcomb
+Encoding: 803 803 679
+Width: 0
+VWidth: 999
+Flags: W
+HStem: -167 108<-259.618 -172.382>
+VStem: -270 108<-156.618 -69.382>
+AnchorPoint: "unten_punkt" -216 -113 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-270 -113 m 3
+ -270 -82 -247 -59 -216 -59 c 3
+ -185 -59 -162 -82 -162 -113 c 3
+ -162 -144 -185 -167 -216 -167 c 3
+ -247 -167 -270 -144 -270 -113 c 3
+EndSplineSet
+Validated: 3073
+EndChar

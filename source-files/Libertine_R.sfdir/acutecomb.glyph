@@ -1,0 +1,43 @@
+StartChar: acutecomb
+Encoding: 769 769 670
+Width: 0
+VWidth: 999
+Flags: HMW
+AnchorPoint: "SekAccPos" -192 692 mark 0
+AnchorPoint: "SekAccPos" -196 914 basemark 0
+AnchorPoint: "top_akzent" -191 682 mark 0
+LayerCount: 2
+Back
+SplineSet
+-162.109 707.52 m 9
+ -231.934 582.031 l 2
+ -237.305 572.266 -238.281 565.43 -238.281 558.105 c 0
+ -238.281 553.223 -231.445 547.363 -223.633 547.363 c 0
+ -217.285 547.363 -210.449 552.246 -194.824 566.895 c 2
+ -80.0781 675.781 l 1
+ -82.5195 686.523 l 1
+ -91.7969 692.383 -111.816 709.961 -147.461 709.961 c 0
+ -152.344 709.961 -158.691 708.984 -162.109 707.52 c 9
+-169.922 692.871 m 1
+ -72.2656 692.871 l 1
+ -204.59 558.594 l 1
+ -234.375 558.594 l 1
+ -169.922 692.871 l 1
+EndSplineSet
+Fore
+SplineSet
+-152 708 m 1
+ -149 709 -143 710 -138 710 c 3
+ -131.611 710 -106 709 -83 687 c 1
+ -80 676 l 1
+ -195 567 l 2
+ -210 552 -218 548 -225 548 c 3
+ -232 548 -239 554 -239 561 c 3
+ -239 572.2 -235.699 576.174 -227.556 589 c 2
+ -152 708 l 1
+EndSplineSet
+Validated: 3073
+Substitution2: "'sups' Hochgestellte 1" uniE0DC
+Substitution2: "Substitution cap-Accents 1" acute.cap
+Substitution2: "'case' Versalformen 1" acute.cap
+EndChar

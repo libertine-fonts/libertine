@@ -1,0 +1,30 @@
+StartChar: lessequal
+Encoding: 8804 8804 1220
+Width: 527
+VWidth: 487
+Flags: W
+HStem: 11 47<68 458> 86 331
+DStem2: 85 276 158 252 0.940425 0.34<60.4911 410.859> 158 252 85 228 0.939653 -0.34213<0 350.736>
+LayerCount: 2
+Back
+SplineSet
+-58.1055 256.836 m 29
+ 565.43 256.836 l 1053
+0 572.012 m 5
+ 527.344 572.012 l 5
+ 527.344 0 l 5
+ 0 0 l 5
+ 0 572.012 l 5
+EndSplineSet
+Fore
+SplineSet
+68 11 m 1
+ 68 58 l 1
+ 458 58 l 1
+ 458 11 l 1
+ 68 11 l 1
+EndSplineSet
+Refer: 19 60 S 1 0 0 1 20 13 2
+Validated: 35841
+Colour: ff9ccc
+EndChar

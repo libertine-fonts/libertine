@@ -1,0 +1,33 @@
+StartChar: dieresis
+Encoding: 168 168 319
+Width: 379
+VWidth: 999
+Flags: W
+HStem: 528 95<58.0156 135.984 227.016 304.984>
+VStem: 50 94<535.394 615.312> 219 94<535.394 615.312>
+LayerCount: 2
+Back
+SplineSet
+-91 623 m 5
+ 528 623 l 5
+ 528 527 l 5
+ -91 527 l 5
+ -91 623 l 5
+EndSplineSet
+Fore
+SplineSet
+219 575 m 3
+ 219 601 240 623 266 623 c 3
+ 292 623 313 601 313 575 c 3
+ 313 549 292 528 266 528 c 3
+ 240 528 219 549 219 575 c 3
+50 575 m 3
+ 50 601 71 623 97 623 c 3
+ 123 623 144 601 144 575 c 3
+ 144 549 123 528 97 528 c 3
+ 71 528 50 549 50 575 c 3
+EndSplineSet
+Validated: 3073
+Substitution2: "Substitution cap-Accents 1" dieresis.cap
+Substitution2: "'case' Versalformen 1" dieresis.cap
+EndChar

@@ -1,0 +1,18 @@
+StartChar: period.inferior
+Encoding: 1114328 -1 2908
+Width: 170
+VWidth: 999
+Flags: W
+HStem: -120 80<50.9636 118.641>
+VStem: 45 80<-113.631 -46.7834>
+LayerCount: 2
+Fore
+SplineSet
+45 -79 m 3
+ 45 -60 68 -40 87 -40 c 3
+ 109 -40 125 -62 125 -81 c 3
+ 125 -97 105 -120 83 -120 c 3
+ 64 -120 45 -100 45 -79 c 3
+EndSplineSet
+Comment: "."
+EndChar

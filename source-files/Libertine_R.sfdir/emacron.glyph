@@ -1,0 +1,27 @@
+StartChar: emacron
+Encoding: 275 275 417
+Width: 447
+VWidth: 999
+Flags: W
+HStem: -10 50<198.819 330.136> 248 34<124 318.997> 402 35<181.946 289.32> 518 50<101.891 358.59>
+VStem: 37 84<130.927 248 282 308.257> 100 261<518.239 568> 319 87<257.5 366.769>
+AnchorPoint: "ogonek" 361 42 basechar 0
+AnchorPoint: "unten_anhang" 242 -2 basechar 0
+AnchorPoint: "unten_punkt" 236 -110 basechar 0
+AnchorPoint: "top_akzent" 227 698 basechar 0
+LayerCount: 2
+Back
+SplineSet
+436 538 m 6
+ 39 538 l 6
+ 32 538 28 545 28 552 c 4
+ 28 564 38 582 48 582 c 6
+ 445 582 l 6
+ 454 582 458 574 458 567 c 4
+ 458 555 448 538 436 538 c 6
+EndSplineSet
+Fore
+Refer: 659 713 N 1 0 0 1 26 0 2
+Refer: 285 101 N 1 0 0 1 0 0 3
+Colour: ff00ff
+EndChar

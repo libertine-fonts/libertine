@@ -1,0 +1,29 @@
+StartChar: nine
+Encoding: 57 57 17
+Width: 465
+VWidth: 487
+Flags: W
+HStem: -12 26<107.925 132.92> 234 35<191.727 316.307> 575 35<179.204 285.057>
+VStem: 50 83<327.095 497.586> 344 83<293.297 496.569>
+LayerCount: 2
+Back
+SplineSet
+24.875 610.125 m 29
+ 373.168 610.125 l 1053
+-22 600.012 m 5
+ 464.965 600.012 l 5
+ 464.965 0 l 5
+ -22 0 l 5
+ -22 600.012 l 5
+EndSplineSet
+Fore
+Refer: 15 54 N -1 0 0 -1 471 599 2
+Validated: 32769
+Substitution2: "'case' Versalformen 1" nine.cap
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE029 nine.superior uniE019
+Substitution2: "'sups' Hochgestellte 1" nine.superior
+Substitution2: "'sinf' Wissenschaftliche Indices 1" nine.inferior
+Substitution2: "'pnum' Proportionalziffern 1" uniE019
+Substitution2: "'onum' Minuskelziffern 1" uniE121
+Colour: ff00ff
+EndChar

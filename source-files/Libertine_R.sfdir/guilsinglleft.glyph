@@ -1,0 +1,23 @@
+StartChar: guilsinglleft
+Encoding: 8249 8249 1063
+Width: 363
+VWidth: 487
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+156 215 m 1
+ 194 172 231 124 283 45 c 1
+ 280 35 270 27 259 26 c 1
+ 180 112 130 160 74 209 c 1
+ 74 221 l 1
+ 130 270 180 318 259 404 c 5
+ 270 403 280 395 283 385 c 5
+ 231 306 194 258 156 215 c 1
+EndSplineSet
+Validated: 3073
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" guilsinglleft.sc
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniF6B8
+Substitution2: "'case' Versalformen 1" guilsinglleft.sc
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniF6B8
+EndChar

@@ -1,0 +1,51 @@
+StartChar: two
+Encoding: 50 50 11
+Width: 465
+VWidth: 487
+Flags: MW
+HStem: 0 65<135 355.125> 429 21G<90.5 109.5> 575 35<165.232 283.068>
+VStem: 61 87<450.908 530.348> 321 89<375.51 538.36> 383 29<114.301 159.634>
+DStem2: 166 206 209 186 0.721245 0.69268<-100.107 213.619>
+LayerCount: 2
+Back
+SplineSet
+24.875 610.125 m 29
+ 373.168 610.125 l 1053
+-22 600.012 m 5
+ 464.965 600.012 l 5
+ 464.965 0 l 5
+ -22 0 l 5
+ -22 600.012 l 5
+EndSplineSet
+Fore
+SplineSet
+61 468 m 7xf8
+ 61 528 130 610 241 610 c 7
+ 322 610 410 566 410 458 c 7xf8
+ 410 382 367.471 338.195 310 283 c 6
+ 209 186 l 6
+ 183.423 161.436 135 113 135 65 c 5
+ 313 65 l 6
+ 349 65 366 90 383 161 c 5
+ 393 163 406 161 412 156 c 5xf4
+ 411 126 401 51 388 -2 c 5
+ 388 -2 342 0 310 0 c 6
+ 135 0 l 6
+ 103 0 52 -2 52 -2 c 5
+ 52 57 60.1161 102.978 166 206 c 6
+ 240 278 l 6
+ 301.9 338.227 321 390 321 454 c 7
+ 321 550 271 575 235 575 c 7
+ 162 575 136 539 136 514 c 7
+ 136 505.82 138.962 499.981 142 494 c 4
+ 146 486.125 148 479.553 148 469 c 7
+ 148 446.909 118 429 101 429 c 7
+ 80 429 61 447 61 468 c 7xf8
+EndSplineSet
+Substitution2: "'case' Versalformen 1" two.cap
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE022 two.superior uniE012
+Substitution2: "'sups' Hochgestellte 1" two.superior
+Substitution2: "'sinf' Wissenschaftliche Indices 1" two.inferior
+Substitution2: "'pnum' Proportionalziffern 1" uniE012
+Substitution2: "'onum' Minuskelziffern 1" uniE11A
+EndChar

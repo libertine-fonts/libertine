@@ -1,0 +1,15 @@
+StartChar: uni0311
+Encoding: 785 785 1422
+Width: 0
+VWidth: 999
+Flags: W
+TeX: 57 0
+HStem: 598 57<-275.981 -143.292>
+VStem: -343 27<516.889 543.202> -100 27<516.889 542.359>
+AnchorPoint: "SekAccPos" -205 652 mark 0
+AnchorPoint: "top_akzent" -205 645 mark 0
+LayerCount: 2
+Fore
+Refer: 1418 774 N -1 0 0 -1 -369 1174 2
+Colour: ff00ff
+EndChar

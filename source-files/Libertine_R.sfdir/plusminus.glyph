@@ -1,0 +1,24 @@
+StartChar: plusminus
+Encoding: 177 177 328
+Width: 550
+VWidth: 999
+Flags: W
+HStem: 37 50<62.4893 486.691> 311 50<62.4893 250 300 486.691> 527 20<278 287>
+VStem: 250 50<128.489 311 361 543.691>
+LayerCount: 2
+Back
+SplineSet
+-58.1055 256.836 m 29
+ 565.43 256.836 l 1053
+0 572.012 m 5
+ 527.344 572.012 l 5
+ 527.344 0 l 5
+ 0 0 l 5
+ 0 572.012 l 5
+EndSplineSet
+Fore
+Refer: 8 43 N 1 0 0 1 0 85 2
+Refer: 1204 8722 N 1 0 0 1 0 -189 2
+Validated: 32769
+Colour: ff00ff
+EndChar

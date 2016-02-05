@@ -1,0 +1,30 @@
+StartChar: slash
+Encoding: 47 47 9
+Width: 323
+VWidth: 999
+Flags: W
+HStem: 626 20G<245.277 293>
+VStem: 15 278
+LayerCount: 2
+Back
+SplineSet
+267.97 661.299 m 1
+ 50.0186 17.6553 l 1
+ 14.5068 17.6553 l 1
+ 232.458 661.299 l 1
+ 267.97 661.299 l 1
+EndSplineSet
+Fore
+SplineSet
+293 646 m 5
+ 56 -59 l 5
+ 15 -59 l 5
+ 252 646 l 5
+ 293 646 l 5
+EndSplineSet
+Validated: 3073
+Substitution2: "'pnum' Proportionalziffern 1" slash.long
+Substitution2: "'sups' Hochgestellte 1" fraction
+Ligature2: "'frac' Brueche 1" uni2215
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uni2215
+EndChar

@@ -1,0 +1,13 @@
+StartChar: greater
+Encoding: 62 62 21
+Width: 550
+VWidth: 999
+Flags: W
+HStem: 71 331
+DStem2: 412 236 485 260 0.939653 -0.34213<-350.736 0> 485 212 412 236 0.940425 0.34<-410.859 -60.4911>
+LayerCount: 2
+Fore
+Refer: 19 60 S -1 0 0 -1 550 475 3
+Validated: 32769
+Colour: ff00ff
+EndChar

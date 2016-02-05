@@ -1,0 +1,13 @@
+StartChar: logicalor
+Encoding: 8744 8744 2167
+Width: 481
+VWidth: 999
+Flags: W
+HStem: -10 20<205.036 275.009> 413 21<15 76.8144 404.134 466>
+DStem2: 214 -10 239 46 0.408997 -0.912536<-464.879 -40.8771> 466 434 413 434 0.410706 0.911768<-446.175 -21.7674>
+LayerCount: 2
+Fore
+Refer: 2166 8743 N -1 0 0 -1 481 432 3
+Validated: 32769
+Colour: ff00ff
+EndChar

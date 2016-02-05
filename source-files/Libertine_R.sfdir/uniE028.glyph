@@ -1,0 +1,17 @@
+StartChar: uniE028
+Encoding: 57384 57384 2286
+Width: 469
+VWidth: 487
+Flags: W
+HStem: -10 35<169.041 297.721> 575 35<178.275 293.01>
+VStem: 48 67<72.2134 222.467> 73 71<427.729 541.867> 325 70<426.096 548.908> 348 73<84.6707 214.138>
+DStem2: 214 386 161 337 0.840967 -0.541087<-88.1766 12.0441 36.4032 43.5341 70.4195 202.471>
+LayerCount: 2
+Fore
+Refer: 2237 56 N 1 0 0 1 2 0 2
+Validated: 32769
+Substitution2: "'lnum' Versalziffern 1" uniE018
+Substitution2: "'tnum' Tabellenziffern 1" uniE120
+Substitution2: "'sups' Hochgestellte 1" eight.superior
+Substitution2: "'pnum' Proportionalziffern 1" uniE018
+EndChar

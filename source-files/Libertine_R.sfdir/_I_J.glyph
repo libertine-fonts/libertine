@@ -1,0 +1,16 @@
+StartChar: IJ
+Encoding: 306 306 420
+Width: 598
+VWidth: 999
+Flags: W
+HStem: -172 45<279 377.319> -2 33<15.625 88.75 208.25 281.375> 614 33<15.625 88.75 208.25 281.375 323.625 405.5 525 589.375>
+VStem: 106 85<43.3808 601.619> 424 85<-22.1101 600.635>
+LayerCount: 2
+Fore
+Refer: 259 74 S 1 0 0 1 283 0 2
+Refer: 258 73 N 1 0 0 1 0 0 2
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE090
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE090
+Colour: ff00ff
+EndChar

@@ -1,0 +1,23 @@
+StartChar: Tbar
+Encoding: 358 358 472
+Width: 597
+VWidth: 999
+Flags: W
+HStem: -2 33<164.625 246.5 368.5 450.375> 321 39<130.982 496.936> 606 39<98.3488 251.688 363.118 494.389>
+VStem: 3 34<502.785 541.578> 265 85<44.3649 597.249> 557 34<505.143 543.266>
+LayerCount: 2
+Fore
+SplineSet
+477 321 m 6
+ 141 321 l 6
+ 133 321 130 329 130 335 c 7
+ 130 345 140 360 149 360 c 6
+ 486 360 l 6
+ 495 360 498 352 498 347 c 7
+ 498 336 489 321 477 321 c 6
+EndSplineSet
+Refer: 269 84 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE0AC
+Colour: ff9ccc
+EndChar

@@ -1,0 +1,12 @@
+StartChar: afii10055
+Encoding: 1030 1030 764
+Width: 297
+VWidth: 999
+Flags: W
+HStem: -2 33<15.625 88.75 208.25 281.375> 614 33<15.625 88.75 208.25 281.375>
+VStem: 106 85<43.3808 601.619>
+LayerCount: 2
+Fore
+Refer: 258 73 N 1 0 0 1 0 0 3
+Colour: ff00ff
+EndChar

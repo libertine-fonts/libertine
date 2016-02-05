@@ -1,0 +1,14 @@
+StartChar: uni21CD
+Encoding: 8653 8653 1185
+Width: 1074
+VWidth: 999
+Flags: W
+HStem: 156 49<278 1017> 328 49<277 1017> 560 20<639.277 687>
+VStem: 409 278
+LayerCount: 2
+Fore
+Refer: 9 47 N 1 0 0 1 394 -66 2
+Refer: 1188 8656 N 1 0 0 1 0 0 2
+Validated: 32773
+Colour: ff00ff
+EndChar

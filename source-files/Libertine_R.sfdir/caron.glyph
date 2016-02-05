@@ -1,0 +1,12 @@
+StartChar: caron
+Encoding: 711 711 657
+Width: 349
+VWidth: 999
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 676 780 N 1 0 0 1 378 -15 2
+Substitution2: "Substitution cap-Accents 1" caron.cap
+Substitution2: "'case' Versalformen 1" caron.cap
+Colour: ff00ff
+EndChar

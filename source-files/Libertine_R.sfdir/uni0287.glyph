@@ -1,0 +1,16 @@
+StartChar: uni0287
+Encoding: 647 647 647
+Width: 316
+VWidth: 999
+Flags: W
+HStem: 0 49<24.081 145 224 285.18> 384 55<64.846 170>
+VStem: 145 79<-130.499 0 49 380.578>
+AnchorPoint: "top_akzent" 209 645 basechar 0
+AnchorPoint: "unten_punkt" 196 -110 basechar 0
+AnchorPoint: "unten_anhang" 167 -3 basechar 0
+AnchorPoint: "ogonek" 410 16 basechar 0
+LayerCount: 2
+Fore
+Refer: 300 116 N -1 0 0 -1 313 429 2
+Colour: ff00ff
+EndChar

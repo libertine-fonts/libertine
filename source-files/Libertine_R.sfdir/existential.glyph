@@ -1,0 +1,36 @@
+StartChar: existential
+Encoding: 8707 8707 2163
+Width: 400
+VWidth: 885
+Flags: W
+HStem: 0 65<35 297> 272 65<51 297> 507 65<41 297>
+VStem: 297 69<65 272 337 507>
+LayerCount: 2
+Back
+SplineSet
+-58.1055 256.836 m 29
+ 565.43 256.836 l 1053
+0 572.012 m 5
+ 527.344 572.012 l 5
+ 527.344 0 l 5
+ 0 0 l 5
+ 0 572.012 l 5
+EndSplineSet
+Fore
+SplineSet
+366 572 m 1
+ 366 0 l 1
+ 35 0 l 1
+ 35 65 l 1
+ 297 65 l 1
+ 297 272 l 1
+ 51 272 l 1
+ 51 337 l 1
+ 297 337 l 1
+ 297 507 l 1
+ 41 507 l 1
+ 41 572 l 1
+ 366 572 l 1
+EndSplineSet
+Validated: 3073
+EndChar

@@ -1,0 +1,32 @@
+StartChar: a.superior
+Encoding: 7491 7491 2548
+Width: 307
+VWidth: 999
+Flags: W
+HStem: 358 32<90.5478 163.264 222.5 273.61> 612 25<92.3236 172.622>
+VStem: 31 52<394.272 469.139 540.458 599.345> 192 54<405.896 502 529 600.379>
+AnchorPoint: "top_akzent" 148 805 basechar 0
+LayerCount: 2
+Back
+SplineSet
+0 739 m 29
+ 307 739 l 1053
+0 637 m 29
+ 308 637 l 1053
+0 631 m 29
+ 308 631 l 1053
+0 688 m 29
+ 308 688 l 29
+ 308 358 l 29
+ 0 358 l 29
+ 0 688 l 29
+0 682 m 29
+ 308 682 l 29
+ 308 364 l 29
+ 0 364 l 29
+ 0 682 l 29
+EndSplineSet
+Fore
+Refer: 321 170 N 1 0 0 1 0 0 3
+Validated: 32769
+EndChar

@@ -1,0 +1,15 @@
+StartChar: tcaron
+Encoding: 357 357 471
+Width: 374
+VWidth: 999
+Flags: W
+HStem: -10 55<143 248.154> 380 49<27.8201 89 168 288.919> 519 17<221.941 239.713> 626 72<224.71 281.065>
+VStem: 89 79<48.4221 380 429 559.499> 282 44<565.363 643.497>
+LayerCount: 2
+Fore
+Refer: 655 700 S 1 0 0 1 187 46 2
+Refer: 300 116 N 1 0 0 1 0 0 2
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE0B3
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" tcaron.sc
+Colour: ff00ff
+EndChar

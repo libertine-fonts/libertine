@@ -1,0 +1,17 @@
+StartChar: Uacute
+Encoding: 218 218 369
+Width: 661
+VWidth: 999
+Flags: W
+HStem: -10 41<260.406 435.748> 614 33<6.625 71 189.125 267.375 430.625 505.459 593.292 655.375> 697 122
+VStem: 87 85<121.493 601.619> 266 201 526 49<135.217 599.095>
+AnchorPoint: "top_akzent" 344 894 basechar 0
+LayerCount: 2
+Fore
+Refer: 2437 58201 N 1 0 0 1 562 126 2
+Refer: 270 85 N 1 0 0 1 0 0 2
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE08A
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE08A
+Colour: ff00ff
+EndChar

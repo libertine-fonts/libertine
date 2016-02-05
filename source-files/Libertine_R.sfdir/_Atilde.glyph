@@ -1,0 +1,16 @@
+StartChar: Atilde
+Encoding: 195 195 346
+Width: 695
+VWidth: 999
+Flags: W
+HStem: -2 33<3.625 68.0908 159.081 227.375 436.625 510.911 622.197 688.375> 241 42<241.019 440> 638 20G<381.5 396.203> 700 44<371 458> 748 46<253 344> 787 10
+AnchorPoint: "top_akzent" 364 894 basechar 0
+LayerCount: 2
+Fore
+Refer: 667 732 N 1 0 0 1 213 126 2
+Refer: 24 65 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE073
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE073
+Colour: ff00ff
+EndChar

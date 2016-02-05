@@ -1,0 +1,19 @@
+StartChar: uni2C66
+Encoding: 11366 11366 1751
+Width: 338
+VWidth: 999
+Flags: W
+HStem: -10 55<143 248.154> 380 49<27.8201 89 168 288.919>
+VStem: 89 79<48.4221 380 429 559.499>
+LayerCount: 2
+Fore
+SplineSet
+320 476 m 1
+ 14 -62 l 1
+ -27 -62 l 1
+ 279 476 l 1
+ 320 476 l 1
+EndSplineSet
+Refer: 300 116 N 1 0 0 1 0 0 2
+Colour: ff9ccc
+EndChar

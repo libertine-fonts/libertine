@@ -1,0 +1,15 @@
+StartChar: Scommaaccent
+Encoding: 536 536 605
+Width: 485
+VWidth: 999
+Flags: W
+HStem: -226 24<184.315 214.976> -123 82<189.324 254.34> -10 36<147.44 308.147> 624 34<173.334 305.688>
+VStem: 51 71.4004<450.829 564.783> 256 39<-177.408 -99.958> 360 84<101.804 225.334>
+LayerCount: 2
+Fore
+Refer: 268 83 N 1 0 0 1 0 0 3
+Refer: 680 806 S 1 0 0 1 483 0 2
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE0B5
+LCarets2: 1 0
+Colour: ff00ff
+EndChar

@@ -1,0 +1,20 @@
+StartChar: three.inferior
+Encoding: 8323 8323 1088
+Width: 307
+VWidth: 406
+Flags: HW
+HStem: -118 30<95.5172 184.829> 48 27<113.689 136.673> 182 30<104.379 179.496>
+VStem: 46 50<129.453 175.037> 186 59<107.006 179.12> 212 62<-67.928 36.655>
+LayerCount: 2
+Back
+SplineSet
+0 207.52 m 29
+ 307.129 207.52 l 29
+ 307.129 -110.352 l 29
+ 0 -110.352 l 29
+ 0 207.52 l 29
+EndSplineSet
+Fore
+Refer: 330 179 N 1 0 0 1 0 -476 3
+Colour: ff00ff
+EndChar

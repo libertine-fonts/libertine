@@ -1,0 +1,23 @@
+StartChar: iotadieresistonos
+Encoding: 912 912 687
+Width: 281
+VWidth: 999
+Flags: W
+HStem: -11 55<138.397 222.235> 411 20<66 71 153.5 161.426> 526 95<3.0156 80.984 172.016 249.984> 769 15
+VStem: -5 94<533.394 613.312> 84 79<45.8867 427.353> 164 94<533.394 613.312>
+LayerCount: 2
+Back
+SplineSet
+-90.8203 617.676 m 5
+ 528.32 617.676 l 5
+ 528.32 526.855 l 5
+ -90.8203 526.855 l 5
+ -90.8203 617.676 l 5
+EndSplineSet
+Fore
+Refer: 1327 901 S 1 0 0 1 -55 -2 2
+Refer: 727 953 N 1 0 0 1 0 0 3
+Validated: 32769
+LCarets2: 1 0
+Colour: ff00ff
+EndChar

@@ -1,0 +1,35 @@
+StartChar: braceleft
+Encoding: 123 123 307
+Width: 277
+VWidth: 999
+Flags: W
+GlyphCompositionVertical: 5  uni23A9%0,0,138,432 uni23AA%1,431,431,432 uni23A8%0,58,58,894 uni23AA%1,431,431,432 uni23A7%0,138,0,432
+HStem: -212 24<222.627 261.757> 235 24<8.8886 55.6569> 683 24<229.39 261.757>
+VStem: 106 72<406.75 648.357> 112 74<298.375 531.25>
+LayerCount: 2
+Fore
+SplineSet
+178 552 m 2xf0
+ 186 386 l 2
+ 190.288 297.014 148.25 268.25 81 249 c 1
+ 81 245 l 1
+ 148.75 216.75 190.42 177.329 186 95 c 2xe8
+ 178 -54 l 2
+ 173.491 -137.973 214 -188 258 -188 c 1
+ 264 -194 264 -206 258 -212 c 1
+ 157 -212 101 -179 106 -49 c 2xf0
+ 112 121 l 2
+ 114 182 87.5 226 14 235 c 1
+ 6 243 5 250 14 259 c 1
+ 88 266 112 320 112 370 c 2xe8
+ 106 554 l 2
+ 102 667 168 707 258 707 c 1
+ 264 701 264 689 258 683 c 1
+ 220 672 173.041 654.906 178 552 c 2xf0
+EndSplineSet
+Validated: 3105
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" braceleft.sc
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniF6B2
+Substitution2: "'case' Versalformen 1" braceleft.sc
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniF6B2
+EndChar

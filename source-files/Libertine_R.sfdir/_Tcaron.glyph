@@ -1,0 +1,15 @@
+StartChar: Tcaron
+Encoding: 356 356 470
+Width: 597
+VWidth: 999
+Flags: W
+HStem: -2 33<164.625 246.5 368.5 450.375> 606 39<98.3488 251.688 363.118 494.389> 697 115
+VStem: 3 34<502.785 541.578> 176 244 265 85<44.3649 597.249> 557 34<505.143 543.266>
+LayerCount: 2
+Fore
+Refer: 2439 58203 N 1 0 0 1 482 173 2
+Refer: 269 84 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE0B3
+Colour: ff00ff
+EndChar

@@ -1,0 +1,13 @@
+StartChar: multiply.superior
+Encoding: 1114304 -1 2884
+Width: 307
+VWidth: 423
+Flags: W
+HStem: 404 206
+VStem: 51 206
+DStem2: 78 610 51 582 0.707107 -0.707107<0.707108 107.48 147.078 252.437> 51 431 79 404 0.707107 0.707107<0.707108 106.066 145.664 252.437>
+LayerCount: 2
+Fore
+Refer: 2687 57700 N 1 0 0 1 0 476 2
+Comment: "."
+EndChar

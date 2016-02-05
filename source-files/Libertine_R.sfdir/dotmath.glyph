@@ -1,0 +1,12 @@
+StartChar: dotmath
+Encoding: 8901 8901 1228
+Width: 250
+VWidth: 999
+Flags: W
+HStem: 199 108<83.0803 166.92>
+VStem: 71 108<211.08 294.92>
+LayerCount: 2
+Fore
+Refer: 334 183 N 1 0 0 1 0 0 3
+Colour: ff00ff
+EndChar

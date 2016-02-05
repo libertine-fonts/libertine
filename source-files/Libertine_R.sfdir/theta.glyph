@@ -1,0 +1,28 @@
+StartChar: theta
+Encoding: 952 952 726
+Width: 489
+VWidth: 999
+Flags: W
+HStem: -10 34<207.725 286.727> 325 36<121 369> 664 34<200.655 282.476>
+VStem: 39 82<166.48 325 361 507.349> 369 82<173.094 325 361 511.109>
+LayerCount: 2
+Fore
+SplineSet
+39 344 m 3
+ 39 584 150 698 248 698 c 3
+ 328 698 451 609 451 344 c 3
+ 451 70 322 -10 242 -10 c 3
+ 156 -10 39 72 39 344 c 3
+369 325 m 5
+ 121 325 l 5
+ 122 181 170 24 247 24 c 3
+ 324 24 368 180 369 325 c 5
+369 361 m 1
+ 368 517 316 664 242 664 c 3
+ 158 664 122 490 121 361 c 1
+ 369 361 l 1
+EndSplineSet
+Validated: 3073
+Substitution2: "'salt' Stilistische Alternativformen 1" theta1
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" theta1
+EndChar

@@ -1,0 +1,18 @@
+StartChar: parenright
+Encoding: 41 41 6
+Width: 298
+VWidth: 999
+Flags: W
+VStem: 171 83<98.8522 406.302>
+LayerCount: 2
+Fore
+Refer: 5 40 N -1 0 0 -1 298 504 3
+Validated: 32769
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" parenright.sc
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniF6AF
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniF6AF
+Substitution2: "'sinf' Wissenschaftliche Indices 1" parenright.inferior
+Substitution2: "'sups' Hochgestellte 1" parenright.superior
+Substitution2: "'case' Versalformen 1" parenright.sc
+Colour: ff00ff
+EndChar

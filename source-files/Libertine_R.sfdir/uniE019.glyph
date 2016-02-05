@@ -1,0 +1,25 @@
+StartChar: uniE019
+Encoding: 57369 57369 1873
+Width: 474
+VWidth: 487
+Flags: W
+HStem: -12 26<104.925 129.92> 234 35<188.727 313.307> 575 35<176.204 282.057>
+VStem: 47 83<327.095 497.586> 341 83<293.297 496.569>
+LayerCount: 2
+Back
+SplineSet
+46.875 578.125 m 29
+ 347.168 578.125 l 1053
+0 572.012 m 5
+ 438.965 572.012 l 5
+ 438.965 0 l 5
+ 0 0 l 5
+ 0 572.012 l 5
+EndSplineSet
+Fore
+Refer: 17 57 N 1 0 0 1 -3 0 2
+Validated: 32769
+Substitution2: "'tnum' Tabellenziffern 1" nine
+Substitution2: "'onum' Minuskelziffern 1" uniE029
+Colour: ff00ff
+EndChar

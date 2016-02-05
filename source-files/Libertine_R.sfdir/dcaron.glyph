@@ -1,0 +1,15 @@
+StartChar: dcaron
+Encoding: 271 271 413
+Width: 528
+VWidth: 999
+Flags: W
+HStem: -10 47<182.748 279.881> 30 27<444.892 500.639> 404 35<187.076 307.283> 519 17<458.941 476.713> 626 72<461.71 518.065> 641 30<267.065 327.842> 678 20<402.5 419.5>
+VStem: 39 86<108.084 310.695> 345 79<80.6055 373.206 422.656 631.111> 519 44<565.363 643.497>
+LayerCount: 2
+Fore
+Refer: 655 700 N 1 0 0 1 424 46 2
+Refer: 284 100 N 1 0 0 1 0 0 2
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE09C
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" dcaron.sc
+Colour: ff00ff
+EndChar

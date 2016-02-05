@@ -1,0 +1,15 @@
+StartChar: Zdotaccent
+Encoding: 379 379 493
+Width: 604
+VWidth: 999
+Flags: W
+HStem: 0 38<164.006 456.037> 602 43<147.269 445.997> 633 20<81 101.5> 698 104<268.542 351.458>
+VStem: 61 30<499.068 531.283> 258 104<708.542 791.458> 547 31<138.699 166.836>
+DStem2: 49 38 172 72 0.583791 0.811904<78.6948 685.427>
+LayerCount: 2
+Fore
+Refer: 2448 58212 N 1 0 0 1 164 110 2
+Refer: 275 90 N 1 0 0 1 0 0 3
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE0B0
+Colour: ff00ff
+EndChar

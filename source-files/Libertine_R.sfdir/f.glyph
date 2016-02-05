@@ -1,0 +1,49 @@
+StartChar: f
+Encoding: 102 102 286
+Width: 323
+VWidth: 999
+Flags: W
+HStem: -2 33<23.625 82.25 188.75 263.375> 380 49<52.8201 97 176 293.919> 664 34<215.135 297.557>
+VStem: 97 79<41.1717 380 429 583.188> 315 81<592.109 651.434>
+AnchorPoint: "mittelpunkt" 137 215 basechar 0
+AnchorPoint: "top_rechts" 411 750 basechar 0
+AnchorPoint: "unten_punkt" 133 -110 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-427 400 m 1025,122,-1
+EndSplineSet
+Fore
+SplineSet
+288 380 m 13
+ 176 380 l 5
+ 176 122 l 2
+ 176 39 182 35 260 31 c 1
+ 266 25 266 4 260 -2 c 1
+ 225 -1 177 0 137 0 c 3
+ 97 0 62 -1 27 -2 c 1
+ 21 4 21 25 27 31 c 1
+ 81 35 97 39 97 122 c 2
+ 97 380 l 5
+ 47 380 l 21
+ 44.5098 381.796 43 384 43 388 c 5
+ 48 400 63.167 427 69 429 c 13
+ 97 429 l 5
+ 97 469 l 2
+ 97 625 190 698 274 698 c 3
+ 312 698 338 695 364 677 c 0
+ 385 661 396 643 396 626 c 3
+ 396 605.975 372 585 355 585 c 3
+ 334 585 323 599 315 617 c 0
+ 301 652 285 664 255 664 c 3
+ 222 664 176 640 176 486 c 2
+ 176 429 l 5
+ 298 429 l 5
+ 304 420 299 386 288 380 c 13
+EndSplineSet
+Substitution2: "Substitution f short 1" f.short
+Substitution2: "'sinf' Wissenschaftliche Indices 1" uniE14D
+Substitution2: "'sups' Hochgestellte 1" f.superior
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" f.sc
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE056
+EndChar

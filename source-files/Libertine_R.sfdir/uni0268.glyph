@@ -1,0 +1,24 @@
+StartChar: uni0268
+Encoding: 616 616 1633
+Width: 294
+VWidth: 999
+Flags: HMW
+HStem: -2 33<40.625 102.875 208.125 270.375> 230 40<25.2292 273.348> 422 20<171.75 190> 547 98<113.385 191.791>
+VStem: 105 98<557.729 636.615> 116 79<40.8314 380.346>
+AnchorPoint: "unten_anhang" 150 -3 basechar 0
+AnchorPoint: "top_akzent" 155 795 basechar 0
+AnchorPoint: "unten_punkt" 149 -114 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+252 230 m 9xf0
+ 36 230 l 17
+ 27 232 24 237.8 24 243.4 c 3
+ 24 253 33 267.667 45 270 c 9
+ 262 270 l 17
+ 271.333 268.667 275 262.2 275 257.4 c 3
+ 275 247.8 264.333 232 252 230 c 9xf0
+EndSplineSet
+Refer: 289 105 N 1 0 0 1 14 0 2
+Colour: ff9ccc
+EndChar

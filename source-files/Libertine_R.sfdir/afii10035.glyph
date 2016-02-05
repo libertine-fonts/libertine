@@ -1,0 +1,19 @@
+StartChar: afii10035
+Encoding: 1057 1057 81
+Width: 646
+VWidth: 999
+Flags: W
+HStem: -10 41<277.826 462.261> 621 37<274.584 445.041>
+VStem: 37 91<208.202 440.096> 566 33<454.756 496.422>
+LayerCount: 2
+Back
+SplineSet
+574.707 645.508 m 5
+ 593.75 471.68 l 5
+ 563.965 468.75 l 5
+ 556.641 511.719 520.996 606.445 469.238 606.445 c 1030
+EndSplineSet
+Fore
+Refer: 26 67 N 1 0 0 1 0 0 3
+Colour: ff00ff
+EndChar

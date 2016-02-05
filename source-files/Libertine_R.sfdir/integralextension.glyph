@@ -1,0 +1,17 @@
+StartChar: integralextension
+Encoding: 9134 9134 2615
+Width: 399
+VWidth: 488
+Flags: W
+HStem: 0 21G<210 290> 411 20G<210 290>
+VStem: 210 80<0 431>
+LayerCount: 2
+Fore
+SplineSet
+210 431 m 5
+ 290 431 l 5
+ 290 0 l 5
+ 210 0 l 5
+ 210 431 l 5
+EndSplineSet
+EndChar

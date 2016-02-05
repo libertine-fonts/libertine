@@ -1,0 +1,15 @@
+StartChar: Idotaccent
+Encoding: 304 304 68
+Width: 297
+VWidth: 999
+Flags: W
+HStem: -2 33<15.625 88.75 208.25 281.375> 614 33<15.625 88.75 208.25 281.375> 701 104<107.542 190.458>
+VStem: 97 104<711.542 794.458> 106 85<43.3808 601.619>
+LayerCount: 2
+Fore
+Refer: 2448 58212 S 1 0 0 1 3 113 2
+Refer: 258 73 N 1 0 0 1 0 0 3
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE0B6
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Colour: ff00ff
+EndChar

@@ -1,0 +1,16 @@
+StartChar: f_f_l
+Encoding: 1114366 -1 2946
+Width: 815
+VWidth: 999
+Flags: W
+HStem: -2 33<21.625 77.75 181.25 231.375 310.625 358 459.375 515.375 585.625 637.25 741 800.375> 390 39<18.0149 90 169 369 448 564> 646 35<216.066 306.036> 664 34<495.543 592.901>
+VStem: 90 79<38.9792 390 429 575.985> 369 79<38.9792 390 429 560.312> 648 79<40.7421 605.859>
+CounterMasks: 1 0e
+LayerCount: 2
+Fore
+Refer: 1272 64260 N 1 0 0 1 0 0 3
+LCarets2: 2 277 555
+Ligature2: "'liga' Standardligaturen 1" f f l
+Ligature2: "'liga' Standardligaturen 1" f_f l
+Comment: "."
+EndChar

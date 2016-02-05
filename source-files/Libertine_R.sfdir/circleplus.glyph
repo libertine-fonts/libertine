@@ -1,0 +1,20 @@
+StartChar: circleplus
+Encoding: 8853 8853 2174
+Width: 564
+VWidth: 999
+Flags: W
+HStem: -10 39<202.474 359.623> 194 39<83 482> 400 39<202.675 359.841>
+VStem: 83 17<194 233> 261 45<16 411> 464 18<194 233>
+LayerCount: 2
+Fore
+SplineSet
+261 411 m 1
+ 306 411 l 1
+ 306 16 l 1
+ 261 16 l 1
+ 261 411 l 1
+EndSplineSet
+Refer: 2175 8854 S 1 0 0 1 0 0 2
+Validated: 35845
+Colour: ff9ccc
+EndChar

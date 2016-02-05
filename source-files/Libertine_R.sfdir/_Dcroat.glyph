@@ -1,0 +1,23 @@
+StartChar: Dcroat
+Encoding: 272 272 414
+Width: 701
+VWidth: 999
+Flags: W
+HStem: -2 34<15.9238 91.0861 204.846 417.647> 287 40<16.2292 324.348> 613 34<15.9238 91.0861 206.921 373.9>
+VStem: 106 85<44.3649 600.097> 562 96<179.249 422.825>
+LayerCount: 2
+Fore
+SplineSet
+303 287 m 9
+ 27 287 l 17
+ 18 289 15 294.8 15 300.4 c 3
+ 15 310 24 324.667 36 327 c 9
+ 313 327 l 17
+ 322.333 325.667 326 319.2 326 314.4 c 3
+ 326 304.8 315.333 289 303 287 c 9
+EndSplineSet
+Refer: 27 68 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE097
+Colour: ff9ccc
+EndChar

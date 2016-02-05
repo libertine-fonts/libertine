@@ -1,0 +1,22 @@
+StartChar: hungarumlaut
+Encoding: 733 733 668
+Width: 350
+VWidth: 487
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+241.074 693.018 m 5
+ 169.163 601.133 l 6
+ 160.729 590.479 157.178 581.157 165.169 573.608 c 4
+ 171.826 567.397 183.812 572.28 202.898 587.368 c 6
+ 335.179 693.018 l 5
+ 241.074 693.018 l 5
+EndSplineSet
+Fore
+Refer: 1415 779 N 1 0 0 1 354 0 2
+Substitution2: "Substitution cap-Accents 1" hungarumlaut.cap
+Substitution2: "'case' Versalformen 1" hungarumlaut.cap
+Comment: "Ende{Spacing modifying letters}"
+Colour: ff00ff
+EndChar

@@ -1,0 +1,44 @@
+StartChar: one
+Encoding: 49 49 10
+Width: 465
+VWidth: 999
+Flags: W
+HStem: -2 33<110.625 188.75 305.25 378.375> 588 20G<257.333 286.75>
+VStem: 211 77<47.6546 505.982>
+LayerCount: 2
+Back
+SplineSet
+46.875 610.125 m 29
+ 395.168 610.125 l 1053
+0 600.012 m 5
+ 486.965 600.012 l 5
+ 486.965 0 l 5
+ 0 0 l 5
+ 0 600.012 l 5
+EndSplineSet
+Fore
+SplineSet
+288 122 m 2
+ 288 39 305 34 375 31 c 1
+ 381 25 381 4 375 -2 c 1
+ 325 -1 300.586 0 253 0 c 27
+ 198.784 0 163 -1 114 -2 c 1
+ 108 4 108 25 114 31 c 1
+ 184 34 211 39 211 122 c 2
+ 211 448 l 2
+ 211 482 207.5 506 191 506 c 3
+ 172 506 149.5 500 104 481 c 1
+ 95.0264 487.124 90.6152 496.551 89 508 c 1
+ 177 549 229.667 573.667 285 608 c 1
+ 288.5 608 291 607.75 291 603 c 1
+ 289.333 590 288 529 288 469 c 2
+ 288 122 l 2
+EndSplineSet
+Validated: 3073
+Substitution2: "'case' Versalformen 1" one.cap
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE021 one.superior uniE011
+Substitution2: "'sups' Hochgestellte 1" one.superior
+Substitution2: "'sinf' Wissenschaftliche Indices 1" one.inferior
+Substitution2: "'pnum' Proportionalziffern 1" uniE011
+Substitution2: "'onum' Minuskelziffern 1" uniE119
+EndChar

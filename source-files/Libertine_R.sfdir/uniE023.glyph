@@ -1,0 +1,21 @@
+StartChar: uniE023
+Encoding: 57379 57379 1463
+Width: 448
+VWidth: 488
+Flags: W
+HStem: -181 35<148.553 260.169> 141 32<146.906 195.387> 404 35<155.013 270.092>
+VStem: 49 73<279.746 364.946> 300.148 78.2256<253.408 378.929> 327 88<-66.121 97.015>
+LayerCount: 2
+Back
+SplineSet
+57 -183 m 29
+ 394 -183 l 1053
+EndSplineSet
+Fore
+Refer: 12 51 N 1 0 0 1 2 -171 2
+Validated: 32769
+Substitution2: "'lnum' Versalziffern 1" uniE013
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" three uniE013
+Substitution2: "'tnum' Tabellenziffern 1" uniE11B
+Colour: ff00ff
+EndChar

@@ -1,0 +1,17 @@
+StartChar: ccircumflex
+Encoding: 265 265 407
+Width: 428
+VWidth: 999
+Flags: W
+HStem: -10 49<194.596 322.53> 406 33<186.285 287.961>
+VStem: 37 86<123.239 310.572> 96 253<517 517> 308 87<307.358 390.405>
+AnchorPoint: "ogonek" 361 42 basechar 0
+AnchorPoint: "unten_anhang" 242 -2 basechar 0
+AnchorPoint: "unten_punkt" 236 -110 basechar 0
+AnchorPoint: "top_akzent" 227 795 basechar 0
+LayerCount: 2
+Fore
+Refer: 656 710 N 1 0 0 1 45 -22 2
+Refer: 283 99 N 1 0 0 1 0 0 3
+Colour: ff00ff
+EndChar

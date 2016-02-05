@@ -1,0 +1,14 @@
+StartChar: f_f.short
+Encoding: 1114273 -1 2853
+Width: 617
+VWidth: 999
+Flags: W
+HStem: -2 33<21.625 77.75 181.25 231.375 312.625 360 464 532.375> 390 39<18.0149 90 169 371 450 594> 653 28<228.129 301.338> 664 34<472.837 543.39>
+VStem: 90 79<38.9792 390 429 572.657> 371 79<41.1717 390 429 562.311> 561 76<594.12 651.126>
+LayerCount: 2
+Fore
+Refer: 2451 57569 N 1 0 0 1 0 0 3
+LCarets2: 1 273
+Ligature2: "'liga' Standardligaturen 1" f f.short
+Comment: "."
+EndChar

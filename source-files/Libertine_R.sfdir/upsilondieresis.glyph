@@ -1,0 +1,23 @@
+StartChar: upsilondieresis
+Encoding: 971 971 745
+Width: 490
+VWidth: 999
+Flags: W
+HStem: -10 39<207.707 318.282> 385 28<25.4015 79.0255> 422 20<147.75 166 335.5 375.504> 527 95<122.016 199.984 291.016 368.984>
+VStem: 92 79<66.1362 376.871> 114 94<534.394 614.312> 283 94<534.394 614.312> 405 41<133.741 330.141>
+LayerCount: 2
+Back
+SplineSet
+-91 623 m 5
+ 528 623 l 5
+ 528 527 l 5
+ -91 527 l 5
+ -91 623 l 5
+EndSplineSet
+Fore
+Refer: 319 168 N 1 0 0 1 64 -1 2
+Refer: 739 965 N 1 0 0 1 0 0 3
+Validated: 32769
+LCarets2: 1 0
+Colour: ff00ff
+EndChar

@@ -1,0 +1,23 @@
+StartChar: similar
+Encoding: 8764 8764 1217
+Width: 527
+VWidth: 999
+Flags: W
+HStem: 213 59<274.806 386.377> 278 59<122.655 236.432>
+VStem: 56 17<206.265 218.121> 430 17<323.757 337.543>
+LayerCount: 2
+Back
+SplineSet
+-58.1055 256.836 m 29
+ 565.43 256.836 l 1053
+0 572.012 m 5
+ 527.344 572.012 l 5
+ 527.344 0 l 5
+ 0 0 l 5
+ 0 572.012 l 5
+EndSplineSet
+Fore
+Refer: 310 126 S 1 0 0 1 30 0 2
+Validated: 32769
+Colour: ff00ff
+EndChar

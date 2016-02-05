@@ -1,0 +1,24 @@
+StartChar: uniE118
+Encoding: 57624 57624 2302
+Width: 465
+Flags: W
+HStem: -10 35<175.229 287.411> 404 35<175.445 286.657>
+VStem: 32 88<104.928 322.648> 342 87<105.148 330.991>
+LayerCount: 2
+Fore
+SplineSet
+230 439 m 3
+ 356 439 429 357.004 429 219 c 3
+ 429 73 346 -10 230 -10 c 3
+ 118 -10 32 72 32 219 c 3
+ 32 350 121 439 230 439 c 3
+230 404 m 3
+ 158 404 120 337 120 219 c 3
+ 120 106 148 25 230 25 c 3
+ 320 25 342 106 342 219 c 3
+ 342 332 314 404 230 404 c 3
+EndSplineSet
+Validated: 3073
+Substitution2: "'lnum' Versalziffern 1" zero
+Substitution2: "'pnum' Proportionalziffern 1" uniE020
+EndChar

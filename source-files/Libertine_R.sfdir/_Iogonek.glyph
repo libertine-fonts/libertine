@@ -1,0 +1,25 @@
+StartChar: Iogonek
+Encoding: 302 302 66
+Width: 297
+VWidth: 999
+Flags: W
+HStem: -200 38<142.519 225.833> -2 17<214.684 241> -2 33<15.625 88.75 208.25 281.375> 614 33<15.625 88.75 208.25 281.375>
+VStem: 73 62<-155.299 -63.1465> 106 85<43.3808 601.619>
+AnchorPoint: "top_akzent" 146 850 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+271 -135 m 1xb8
+ 242 -180 202 -200 161 -200 c 0
+ 111 -200 73 -180 73 -126 c 0
+ 73 -70 138 15 241 15 c 1xd8
+ 255 -2 l 1
+ 184 -2 135 -69 135 -115 c 0
+ 135 -141 148 -162 185 -162 c 0
+ 214 -162 230 -146 252 -124 c 1
+ 261 -124 267 -128 271 -135 c 1xb8
+EndSplineSet
+Refer: 258 73 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Colour: ff9ccc
+EndChar

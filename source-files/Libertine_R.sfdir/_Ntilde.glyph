@@ -1,0 +1,18 @@
+StartChar: Ntilde
+Encoding: 209 209 360
+Width: 699
+VWidth: 999
+Flags: W
+HStem: -10 21<574 589> -2 33<11.625 79.4561 172.141 241.375> 614 33<19.625 66.784 465.625 534.859 627.544 695.375> 698 44<366 453> 746 46<248 339> 785 10
+VStem: 102 49<48.1359 487.989> 556 49<155.008 596.864>
+DStem2: 158 645 193 455 0.620566 -0.784154<123.916 626.745>
+AnchorPoint: "top_akzent" 344 894 basechar 0
+LayerCount: 2
+Fore
+Refer: 667 732 N 1 0 0 1 208 124 2
+Refer: 263 78 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" uniE081
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE081
+Colour: ff00ff
+EndChar

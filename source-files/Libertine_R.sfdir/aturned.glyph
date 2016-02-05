@@ -1,0 +1,18 @@
+StartChar: aturned
+Encoding: 592 592 627
+Width: 452
+VWidth: 999
+Flags: W
+HStem: -10 35<204.849 314.48> 392 49<38.986 132.185 231.088 326.014>
+VStem: 96 78<54.164 184.938 212 354.47> 330 77<53.249 137.098> 338 83<274.982 379.259>
+AnchorPoint: "top_akzent" 228 645 basechar 0
+AnchorPoint: "unten_anhang" 246 -3 basechar 0
+AnchorPoint: "ogonek" 329 16 basechar 0
+AnchorPoint: "unten_punkt" 229 -114 basechar 0
+LayerCount: 2
+Fore
+Refer: 281 97 N -1 0 0 -1 462 429 2
+Substitution2: "'sups' Hochgestellte 1" aturned.superior
+Comment: "Anfang{IPA Extensions}"
+Colour: ff00ff
+EndChar

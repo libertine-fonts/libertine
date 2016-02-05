@@ -1,0 +1,23 @@
+StartChar: iotadieresis
+Encoding: 970 970 744
+Width: 281
+VWidth: 999
+Flags: W
+HStem: -11 55<138.397 222.235> 411 20<66 71 153.5 161.426> 529 95<0.0155983 77.984 169.016 246.984>
+VStem: -8 94<536.394 616.312> 84 79<45.8867 427.353> 161 94<536.394 616.312>
+LayerCount: 2
+Back
+SplineSet
+-91 623 m 5
+ 528 623 l 5
+ 528 527 l 5
+ -91 527 l 5
+ -91 623 l 5
+EndSplineSet
+Fore
+Refer: 319 168 N 1 0 0 1 -58 1 2
+Refer: 727 953 N 1 0 0 1 0 0 3
+Validated: 32769
+LCarets2: 1 0
+Colour: ff00ff
+EndChar

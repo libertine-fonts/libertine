@@ -1,0 +1,13 @@
+StartChar: uni204F
+Encoding: 8271 8271 1070
+Width: 219
+VWidth: 999
+Flags: W
+HStem: -133 25<137.971 167.29> 2 93<82.633 152.7> 302 106<67.6687 148.319>
+VStem: 42.2959 39.0001<-66.195 27.278> 55 106<314.781 394.497>
+LayerCount: 2
+Fore
+Refer: 1053 8219 N 1 0 0 1 -30 -603 2
+Refer: 256 46 N 1 0 0 1 -2 312 2
+Colour: ff9ccc
+EndChar

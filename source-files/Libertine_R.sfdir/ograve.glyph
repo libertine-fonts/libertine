@@ -1,0 +1,25 @@
+StartChar: ograve
+Encoding: 242 242 32
+Width: 504
+VWidth: 999
+Flags: W
+HStem: -10 35<205.698 321.376> 404 35<184.225 299.49>
+VStem: 41 86<117.524 314.731> 377 86<109.15 316.258>
+AnchorPoint: "top_akzent" 255 834 basechar 0
+AnchorPoint: "komb_OR" 420 396 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-90.8203 672.852 m 5
+ 528.32 672.852 l 5
+ 528.32 510.254 l 5
+ -90.8203 510.254 l 5
+ -90.8203 672.852 l 5
+EndSplineSet
+Fore
+Refer: 669 768 N 1 0 0 1 380 -37 2
+Refer: 295 111 N 1 0 0 1 0 0 3
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" ograve.sc
+AlternateSubs2: "'aalt' Alle Alternativen zeigen 1" uniE082
+Colour: ff00ff
+EndChar

@@ -1,0 +1,720 @@
+SplineFontDB: 3.0
+FontName: LF-Libertine-Regular
+FullName: Libertine
+FamilyName: Libertine
+Weight: Regular
+Copyright: Libertine by Philipp H. Poll. Open/Libre font under terms of following Free Software licenses:\nGPL (General Public License) with font-exception and \nOFL (Open Font License).\nCreated with FontForge (fontforge.sf.net). \nFirst version published Sept 2003, current version 2015
+UComments: "2003-08-29: Created.+AAoA-2004-07-25: v(1.0) release candidate+AAoA-2005-12-28: v(1.1.0) stable+AAoA-2006-01-01: v(2.0.0) stable+AAoA-2006-09-05: v(2.2.0) stable+AAoA-2006-12-04: v(2.3.0) stable+AAoA-2007-03-11: v(2.4.0) stable+AAoA-2007-12-00: v(2.7.0) stable+AAoA-2008-06-00: v(2.8.14) stable+AAoA"
+Version: 
+ItalicAngle: 0
+UnderlinePosition: -98
+UnderlineWidth: 40
+Ascent: 754
+Descent: 246
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 993 1524925707 2876416]
+FSType: 0
+OS2Version: 3
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1156455862
+ModificationTime: 1454711402
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 140
+VLineGap: 0
+Panose: 2 2 5 3 4 5 6 2 4 3
+OS2TypoAscent: 754
+OS2TypoAOffset: 0
+OS2TypoDescent: -246
+OS2TypoDOffset: 0
+OS2TypoLinegap: 140
+OS2WinAscent: 894
+OS2WinAOffset: 0
+OS2WinDescent: 246
+OS2WinDOffset: 0
+HheadAscent: 754
+HheadAOffset: 0
+HheadDescent: -246
+HheadDOffset: 0
+OS2FamilyClass: 261
+OS2Vendor: 'PfEd'
+Lookup: 3 0 0 "'aalt' Alle Alternativen zeigen" { "'aalt' Alle Alternativen zeigen 1"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms Romaenisch" { "'locl' Localized Forms Romaenisch 1"  } ['locl' ('latn' <'MOL ' 'ROM ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms Serbian" { "'locl' Localized Forms Serbian-1"  } ['locl' ('cyrl' <'SRB ' > ) ]
+Lookup: 1 0 0 "'smcp' Gemeine nach Kapitaelchen i > i.sc" { "'smcp' Gemeine nach Kapitaelchen i > i.sc 1"  } ['smcp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'DEU ' 'MOL ' 'ROM ' 'dflt' > ) ]
+Lookup: 1 0 0 "'smcp' Gemeine nach Kapitaelchen" { "'smcp' Gemeine nach Kapitaelchen 1" ("sc") } ['smcp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'smcp' Gemeine nach Kapitaelchen i > idotaccent.sc" { "'smcp' Gemeine nach Kapitaelchen i > idotaccent.sc"  } ['smcp' ('latn' <'AZE ' 'CRT ' 'TRK ' > ) ]
+Lookup: 1 0 0 "'fina' Wortendeformen" { "'fina' Wortendeformen 1"  } ['fina' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 6 0 0 "'frac' Contextual Chaining Substitution" { "'frac' Contextual Chaining Substitution-1"  "'frac' Contextual Chaining Substitution-2"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 0 "'frac' Brueche" { "'frac' Brueche 1"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'sups' Hochgestellte" { "'sups' Hochgestellte 1" ("superior") } ['sups' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'sinf' Tiefgestellte" { "'sinf' Wissenschaftliche Indices 1" ("inferior") } ['sinf' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'c2sc' Versale nach Kapitaelchen" { "'c2sc' Versale nach Kapitaelchen 1" ("sc") } ['c2sc' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standardligaturen ohne TRK CRT AZE" { "'liga' Standardligaturen ohne TRK CRT AZE 1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'DEU ' 'MOL ' 'ROM ' 'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standardligaturen" { "'liga' Standardligaturen 1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 0 "'hlig' Historische Ligaturen" { "'hlig' Historische Ligaturen 1"  } ['hlig' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 0 "'dlig' optionale Ligaturen" { "'dlig' optionale Ligaturen 1"  } ['dlig' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'onum' Minuskelziffern" { "'onum' Minuskelziffern 1" ("oldstyle") } ['onum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'lnum' Versalziffern" { "'lnum' Versalziffern 1"  } ['lnum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'pnum' Proportionalziffern" { "'pnum' Proportionalziffern 1"  } ['pnum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'tnum' Tabellenziffern" { "'tnum' Tabellenziffern 1"  } ['tnum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'zero' gestrichene Null" { "'zero' gestrichene Null 1"  } ['zero' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'salt' Stilistische Alternativformen" { "'salt' Stilistische Alternativformen 1"  } ['salt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 6 0 0 "'ccmp' Contextual Chaining Substitution" { "'ccmp' Contextual Chaining Substitution 1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss01' Stilgruppe 1" { "'ss01' Stilgruppe 1 1"  } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss02' Stilgruppe 2" { "'ss02' Stilgruppe 2 1"  } ['ss02' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss03' Stilgruppe 3" { "'ss03' Stilgruppe 3 1"  } ['ss03' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss04' Stilgruppe 4" { "'ss04' Stilgruppe 4 1"  } ['ss04' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss05' Stilgruppe 5" { "'ss05' Stilgruppe 5"  } ['ss05' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss06' Stilgruppe 6" { "'ss06' Stilgruppe 6-1"  } ['ss06' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'case' Versalformen" { "'case' Versalformen 1" ("cap") } ['case' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'nalt' Alternate Annotation Forms lookup 0" { "'nalt' Alternate Annotation Forms 1"  } ['nalt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "Substitution dotless forms" { "Substitution dotless forms 1"  } []
+Lookup: 1 0 0 "Substitution cap-Accents" { "Substitution cap-Accents 1"  } []
+Lookup: 1 0 0 "Substitution f short" { "Substitution f short 1"  } []
+Lookup: 257 0 0 "'opbd' Optical Bounds lookup 6" { "'opbd' Optical Bounds lookup 6-1"  } ['opbd' ('DFLT' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > 'math' <'dflt' > ) ]
+Lookup: 257 0 0 "'cpsp' Versalabstaende" { "'cpsp' Versalabstaende 1"  } ['cpsp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Markenpositionierung" { "'mark' Top rechts"  "'mark' Komb OR"  "'mark' Top Akzent"  "'mark' Mittelpunkt"  "'mark' Ogonek"  "'mark' Unten Anhang"  "'mark' Unten Punkt"  "'mark' Top Punkt2"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 262 0 0 "'mkmk' Mark to Mark" { "'mkmk' Mark to Mark-1"  } ['mkmk' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Kerning" { "'kern' Latin kerning" [150,0,4] "'kern' Cyrillic Kerning" [150,0,6] "'kern' Greek Kerning" [150,0,6] "'kern' Small Caps" [150,15,4] } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 257 0 0 "'rtbd' Rechte R+AOQA-nder lookup 4" { "'rtbd' Rechte R+AOQA-nder lookup 4-1"  } ['rtbd' ('DFLT' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > 'math' <'dflt' > ) ]
+Lookup: 257 0 0 "'lfbd' Left Bounds lookup 5" { "'lfbd' Left Bounds lookup 5-1"  } ['lfbd' ('DFLT' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > 'math' <'dflt' > ) ]
+MarkAttachClasses: 2
+"dotted" 3 i j
+DEI: 91125
+KernClass2: 9 10 "'kern' Greek Kerning"
+ 9 Gamma Tau
+ 125 Upsilontonos Upsilon Upsilondieresis Upsilon1 uni03D3 uni03D4 uni1F59 uni1F5B uni1F5D uni1F5F uni1FE8 uni1FE9 uni1FEA uni1FEB
+ 9 Kappa Chi
+ 110 Omicrontonos Theta Omicron Phi uni03F4 uni1E0A uni1E0C uni1E0E uni1E10 uni1E12 uni1E4C uni1E4E uni1E50 uni1E52
+ 24 gamma kappa uni03DB zeta
+ 33 omicron rho phi omicrontonos phi1
+ 151 Alphatonos Alpha Delta Lambda afii10017 uni04D2 uni1E00 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1FB8 uni1FB9 uni1FBA uni1FBB uni1F08 uni1F09
+ 3 Rho
+ 3 Tau
+ 23 Upsilon Upsilondieresis
+ 8 gamma nu
+ 3 chi
+ 50 Alpha Delta Lambda uni04D2 uni1FB8 uni1FB9 uni1FBC
+ 63 alpha omicron sigma phi uni03F2 uni03F5 omega sigma1 omegatonos
+ 64 alphatonos rho omicrontonos phi1 uni03F1 uni1F71 uni1F73 uni1F79
+ 10 mu uni03F0
+ 30 eta iota kappa uniF6BE upsilon
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 30 {} 30 {} -24 {} -23 {} -35 {} -40 {} -20 {} 0 {} -20 {} 0 {} 20 {} 0 {} -17 {} -16 {} -60 {} -50 {} -30 {} -20 {} -30 {} 0 {} 20 {} 20 {} -16 {} -14 {} 0 {} -51 {} -31 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -10 {} 0 {} 0 {} 0 {} -49 {} -40 {} -20 {} 0 {} -20 {} 0 {} 0 {} 0 {} -5 {} 0 {} -60 {} -60 {} -60 {} -40 {} 20 {} -27 {} -16 {} 0 {} -44 {} 0 {} 20 {} 0 {} 0 {} 0 {} -60 {} -30 {} -20 {} 0 {} 0 {}
+KernClass2: 9 7 "'kern' Cyrillic Kerning"
+ 63 afii10052 afii10020 afii10036 afii10050 uni0492 uni04AC uni04F6
+ 61 afii10062 afii10037 uni04EE uni04F0 uni04F2 afii10148 uni0476
+ 103 afii10061 afii10024 afii10028 afii10039 uni0496 uni049A uni049C uni049E uni04A0 uni04B2 uni04C1 uni04DC
+ 29 afii10032 afii10048 afii10147
+ 19 afii10085 afii10110
+ 61 afii10072 afii10076 afii10109 uni049F uni04A1 uni04B3 uni04DD
+ 55 afii10070 afii10080 afii10082 afii10071 uni04E7 uni04E9
+ 19 afii10044 afii10046
+ 35 afii10041 afii10148 uni0476 uni04B6
+ 47 afii10072 afii10085 x afii10110 uni04B3 uni04DD
+ 9 afii10017
+ 57 afii10070 afii10080 afii10083 afii10101 afii10846 uni04E9
+ 57 afii10065 afii10073 afii10086 afii10095 afii10097 uni04D5
+ 139 afii10067 afii10068 afii10074 afii10076 afii10078 afii10079 afii10081 afii10082 afii10087 afii10088 afii10090 afii10091 afii10107 afii10193
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 30 {} 0 {} -50 {} -35 {} 0 {} 0 {} 0 {} 0 {} -50 {} -100 {} -60 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -35 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {}
+KernClass2: 30 29 "'kern' Latin kerning"
+ 15 f longs uniFB00
+ 30 T Tcedilla Tcaron Tcommaaccent
+ 54 Y Yacute Ycircumflex Ydieresis Ygrave uniE017 question
+ 61 V W Wcircumflex Wgrave Wacute Wdieresis W.alt uniE0E9 uniE02F
+ 24 K X Kcommaaccent uniE0EB
+ 205 at D O Q Ograve Oacute Ocircumflex Otilde Odieresis Oslash Dcaron Dcroat Omacron Obreve Ohungarumlaut uni0186 uni0189 uni018A uni018F uni01EA uni01EC uni020C uni020E uni022A uni022C uni022E uni0230 uniE02D
+ 105 r v w y Thorn yacute ydieresis racute rcommaaccent rcaron wcircumflex ycircumflex wgrave wacute wdieresis
+ 97 g k x gcircumflex gbreve gdotaccent gcommaaccent kcommaaccent kgreenlandic gcaron uniE038 uniE03A
+ 21 b agrave egrave thorn
+ 77 e o p eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis
+ 21 L Lacute Lcommaaccent
+ 108 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek Aringacute uni0200 uni0202 uniE02C
+ 164 comma period underscore enquad emquad enspace emspace threeperemspace fourperemspace sixperemspace figurespace punctuationspace quotesinglbase quotedblbase ellipsis
+ 235 zero.inferior one.inferior two.inferior three.inferior four.inferior five.inferior six.inferior seven.inferior eight.inferior nine.inferior plus.inferior minus.inferior equal.inferior a.inferior e.inferior o.inferior x.inferior uni2094
+ 146 hyphen asciitilde guillemotleft guillemotright hyphentwo hyphennobreak figuredash endash emdash horizontalbar guilsinglleft guilsinglright uniF6BA
+ 31 parenleft bracketleft braceleft
+ 87 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek
+ 116 H I Igrave Iacute Icircumflex Idieresis Ntilde Hcircumflex Hbar Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Eng
+ 11 F P uni01A4
+ 103 quotedbl quotesingle asterisk quoteleft quoteright quotereversed quotedblleft quotedblright quotedblrev
+ 92 a.sc agrave.sc aacute.sc acircumflex.sc atilde.sc adieresis.sc aring.sc abreve.sc aogonek.sc
+ 90 u.sc ugrave.sc uacute.sc ucircumflex.sc udieresis.sc uring.sc uhungarumlaut.sc f.sc Q_u.sc
+ 9 k.sc x.sc
+ 42 v.sc w.sc y.sc yacute.sc ydieresis.sc t.sc
+ 82 d.sc o.sc q.sc ograve.sc oacute.sc ocircumflex.sc otilde.sc odieresis.sc oslash.sc
+ 4 l.sc
+ 4 p.sc
+ 79 hyphen.sc guillemotleft.sc guillemotright.sc guilsinglleft.sc guilsinglright.sc
+ 33 N Nacute Ncommaaccent Ncaron n.sc
+ 30 T Tcedilla Tcaron Tcommaaccent
+ 18 Y Yacute Ydieresis
+ 55 V W Wcircumflex Wgrave Wacute Wdieresis uniE0E9 uniE0EA
+ 323 C G O Q Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash Cacute Ccircumflex Cdotaccent Ccaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Omacron Obreve Ohungarumlaut OE uni0187 uni0193 uni019F Ohorn Gcaron uni01EA uni01EC uni01F4 Oslashacute uni020C uni020E uni022A uni022C uni022E uni0230 uniE010 uniE00F uniE016
+ 58 v w wcircumflex wgrave wacute wdieresis y yacute ydieresis
+ 1 x
+ 103 quotedbl quotesingle asterisk quoteleft quoteright quotereversed quotedblleft quotedblright quotedblrev
+ 159 A Agrave Aacute Acircumflex Atilde Adieresis Aring AE Amacron Abreve Aogonek uni01CD uni01DE uni01E0 uni01E2 Aringacute AEacute uni0200 uni0202 uni0226 uniE02C
+ 66 comma period quotesinglbase onedotenleader twodotenleader ellipsis
+ 75 e c o d q ccedilla eogonek oe uni0188 uni018D ohorn eturned uniE03A uniE03B
+ 70 a g s aacute ae eacute oacute oslash aogonek cacute edotaccent uni022F
+ 18 m n p r z dotlessi
+ 34 parenright bracketright braceright
+ 27 J j Jcircumflex jcircumflex
+ 192 plus hyphen less equal greater asciitilde guillemotleft uni00AD periodcentered guillemotright divide hyphentwo hyphennobreak figuredash endash emdash horizontalbar guilsinglleft guilsinglright
+ 87 exclam question exclamdbl interrobang question_question question_exclam exclam_question
+ 90 b h k l thorn hcircumflex hbar kcommaaccent lacute lcommaaccent lcaron ldot lslash uni0180
+ 143 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek uni01D3 uni01D5 uni01D7 uni01D9 uni01DB uni0214 uni0216
+ 395 two.superior three.superior one.superior zero.superior i.superior four.superior five.superior six.superior seven.superior eight.superior nine.superior plus.superior minus.superior equal.superior parenleft.superior parenright.superior n.superior uni2098 uni2099 uniE0C0 uniE0C1 uniE0C2 uniE0C3 uniE0C4 uniE0C5 uniE0C6 uniE0CA uniE0CC uniE0CE uniE0CF uniE0D0 uniE0D3 uniE0D4 uniE0D5 uniE0D9 degree
+ 1 u
+ 54 b.sc d.sc e.sc f.sc h.sc i.sc k.sc l.sc n.sc p.sc r.sc
+ 106 a.sc agrave.sc aacute.sc acircumflex.sc atilde.sc adieresis.sc aring.sc abreve.sc aogonek.sc germandbls.sc
+ 78 u.sc ugrave.sc uacute.sc ucircumflex.sc udieresis.sc uring.sc uhungarumlaut.sc
+ 37 v.sc w.sc y.sc yacute.sc ydieresis.sc
+ 4 x.sc
+ 31 c.sc g.sc o.sc q.sc ccedilla.sc
+ 79 hyphen.sc guillemotleft.sc guillemotright.sc guilsinglleft.sc guilsinglright.sc
+ 4 t.sc
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 98 {} 98 {} 98 {} 24 {} 0 {} 0 {} 73 {} 0 {} 0 {} 0 {} 0 {} 0 {} 76 {} 80 {} 0 {} 80 {} 40 {} 0 {} 88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 55 {} 24 {} 24 {} -5 {} -49 {} -34 {} 0 {} -49 {} -63 {} -63 {} -49 {} -20 {} 0 {} 0 {} -59 {} 10 {} 0 {} 37 {} 0 {} -39 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 24 {} 24 {} 24 {} -37 {} -44 {} -24 {} 0 {} -61 {} -44 {} -50 {} -50 {} -30 {} 0 {} 0 {} -49 {} 0 {} 0 {} 24 {} 0 {} -25 {} -25 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 24 {} 24 {} -34 {} -49 {} -24 {} 0 {} -112 {} -88 {} -80 {} -60 {} -40 {} 0 {} 0 {} -49 {} 0 {} 0 {} 24 {} 0 {} -24 {} -20 {} -120 {} -20 {} 0 {} 0 {} -60 {} -50 {} 0 {} 0 {} 0 {} 24 {} 24 {} -24 {} -54 {} 0 {} 0 {} 0 {} 0 {} -20 {} -15 {} 0 {} 0 {} 0 {} -24 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} -25 {} -20 {} 0 {} -40 {} -40 {} 0 {} 0 {} -5 {} -34 {} 37 {} 0 {} 10 {} 10 {} 0 {} -29 {} -29 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -39 {} -12 {} -24 {} 10 {} 15 {} 10 {} 0 {} -49 {} -59 {} -8 {} 0 {} 0 {} -17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} -24 {} 0 {} 0 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -29 {} -37 {} -44 {} 0 {} 0 {} 0 {} -20 {} -20 {} -20 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -49 {} -54 {} -54 {} 0 {} -7 {} -7 {} -24 {} -40 {} -10 {} 7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -49 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -63 {} -73 {} -112 {} -34 {} -65 {} 0 {} -73 {} 0 {} 0 {} -12 {} -12 {} 0 {} -12 {} 0 {} -37 {} 0 {} 0 {} 0 {} 0 {} -34 {} 0 {} 0 {} -35 {} -60 {} 0 {} -22 {} 0 {} 0 {} 0 {} -61 {} -73 {} -73 {} -10 {} 0 {} 0 {} -122 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -73 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -308 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -49 {} -49 {} -49 {} 0 {} 0 {} 0 {} 0 {} -37 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -17 {} 0 {} 0 {} -24 {} 0 {} -17 {} -12 {} 0 {} 0 {} 73 {} -37 {} 0 {} 12 {} 12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 37 {} 24 {} 24 {} 0 {} 0 {} 0 {} 0 {} -59 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 37 {} 24 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 24 {} -59 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} 12 {} 49 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -49 {} -49 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} -50 {} 0 {} -15 {} -20 {} -25 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -35 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -35 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} -15 {} -25 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} -10 {} -25 {} 0 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -25 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -25 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -20 {} -40 {} 20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
+ChainSub2: coverage "'frac' Contextual Chaining Substitution-2" 0 0 0 1
+ 1 0 1
+  Coverage: 55 one two three four five six seven eight nine zero slash
+  FCoverage: 379 slash zero one two three four five six seven eight nine onequarter onehalf threequarters fraction zero.superior one.superior two.superior three.superior four.superior five.superior six.superior seven.superior eight.superior nine.superior onethird twothirds onefifth twofifths threefifths fourfifths onesixth fivesixths oneeighth threeeighths fiveeighths seveneighths onenumerator
+ 1
+  SeqLookup: 0 "'sups' Hochgestellte"
+EndFPST
+ChainSub2: coverage "'frac' Contextual Chaining Substitution-1" 0 0 0 1
+ 1 1 0
+  Coverage: 49 one two three four five six seven eight nine zero
+  BCoverage: 379 slash zero one two three four five six seven eight nine onequarter onehalf threequarters fraction zero.inferior one.inferior two.inferior three.inferior four.inferior five.inferior six.inferior seven.inferior eight.inferior nine.inferior onethird twothirds onefifth twofifths threefifths fourfifths onesixth fivesixths oneeighth threeeighths fiveeighths seveneighths onenumerator
+ 1
+  SeqLookup: 0 "'sinf' Tiefgestellte"
+EndFPST
+ChainSub2: class "'ccmp' Contextual Chaining Substitution 1" 6 6 6 3
+  Class: 3 i j
+  Class: 335 gravecomb acutecomb circumflexcomb tildecomb macroncomb uni0305 brevecomb uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni0315 uni031A uni0351 uni0357 uni0358 uniE358 uniE359 uniE35A uniE35B uniE35C uniE35D uniE35E uniE35F uniE360 uniE361 uniE362 uniE363 uniE364
+  Class: 9 f uniFB00
+  Class: 411 parenright question T V W Y bracketright bar braceright brokenbar ordfeminine two.superior three.superior pilcrow one.superior Yacute agrave atilde adieresis egrave edieresis igrave idieresis ograve otilde odieresis ugrave udieresis ydieresis amacron abreve emacron ebreve ecaron itilde imacron ibreve omacron umacron ubreve quoteleft quoteright quotedblleft quotedblright question_question question_exclam ij b
+  Class: 610 A B C D E F G H I J K L M N O P Q R S U X Z Acircumflex AE Ccedilla Ocircumflex Thorn Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho NameMe.930 Sigma Tau Upsilon Phi Chi Psi Omega afii10053 afii10054 afii10055 afii10057 afii10058 afii10059 afii10060 afii10145 afii10017 afii10018 afii10019 afii10020 afii10021 afii10022 afii10024 afii10025 afii10026 afii10028 afii10029 afii10030 afii10031 afii10032 afii10033 afii10034 afii10035 afii10036 afii10037 afii10038 afii10039 afii10040 afii10041 afii10042 afii10043 afii10044 afii10045 afii10046 afii10047 afii10048 afii10049
+  BClass: 3 i j
+  BClass: 335 gravecomb acutecomb circumflexcomb tildecomb macroncomb uni0305 brevecomb uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni0315 uni031A uni0351 uni0357 uni0358 uniE358 uniE359 uniE35A uniE35B uniE35C uniE35D uniE35E uniE35F uniE360 uniE361 uniE362 uniE363 uniE364
+  BClass: 9 f uniFB00
+  BClass: 411 parenright question T V W Y bracketright bar braceright brokenbar ordfeminine two.superior three.superior pilcrow one.superior Yacute agrave atilde adieresis egrave edieresis igrave idieresis ograve otilde odieresis ugrave udieresis ydieresis amacron abreve emacron ebreve ecaron itilde imacron ibreve omacron umacron ubreve quoteleft quoteright quotedblleft quotedblright question_question question_exclam ij b
+  BClass: 610 A B C D E F G H I J K L M N O P Q R S U X Z Acircumflex AE Ccedilla Ocircumflex Thorn Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho NameMe.930 Sigma Tau Upsilon Phi Chi Psi Omega afii10053 afii10054 afii10055 afii10057 afii10058 afii10059 afii10060 afii10145 afii10017 afii10018 afii10019 afii10020 afii10021 afii10022 afii10024 afii10025 afii10026 afii10028 afii10029 afii10030 afii10031 afii10032 afii10033 afii10034 afii10035 afii10036 afii10037 afii10038 afii10039 afii10040 afii10041 afii10042 afii10043 afii10044 afii10045 afii10046 afii10047 afii10048 afii10049
+  FClass: 3 i j
+  FClass: 335 gravecomb acutecomb circumflexcomb tildecomb macroncomb uni0305 brevecomb uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni0315 uni031A uni0351 uni0357 uni0358 uniE358 uniE359 uniE35A uniE35B uniE35C uniE35D uniE35E uniE35F uniE360 uniE361 uniE362 uniE363 uniE364
+  FClass: 9 f uniFB00
+  FClass: 411 parenright question T V W Y bracketright bar braceright brokenbar ordfeminine two.superior three.superior pilcrow one.superior Yacute agrave atilde adieresis egrave edieresis igrave idieresis ograve otilde odieresis ugrave udieresis ydieresis amacron abreve emacron ebreve ecaron itilde imacron ibreve omacron umacron ubreve quoteleft quoteright quotedblleft quotedblright question_question question_exclam ij b
+  FClass: 610 A B C D E F G H I J K L M N O P Q R S U X Z Acircumflex AE Ccedilla Ocircumflex Thorn Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho NameMe.930 Sigma Tau Upsilon Phi Chi Psi Omega afii10053 afii10054 afii10055 afii10057 afii10058 afii10059 afii10060 afii10145 afii10017 afii10018 afii10019 afii10020 afii10021 afii10022 afii10024 afii10025 afii10026 afii10028 afii10029 afii10030 afii10031 afii10032 afii10033 afii10034 afii10035 afii10036 afii10037 afii10038 afii10039 afii10040 afii10041 afii10042 afii10043 afii10044 afii10045 afii10046 afii10047 afii10048 afii10049
+ 1 0 1
+  ClsList: 1
+  BClsList:
+  FClsList: 2
+ 1
+  SeqLookup: 0 "Substitution dotless forms"
+ 1 0 1
+  ClsList: 3
+  BClsList:
+  FClsList: 4
+ 1
+  SeqLookup: 0 "Substitution f short"
+ 1 1 0
+  ClsList: 2
+  BClsList: 5
+  FClsList:
+ 1
+  SeqLookup: 0 "Substitution cap-Accents"
+  ClassNames: "0" "1" "2" "3" "4" "5"
+  BClassNames: "0" "1" "2" "3" "4" "5"
+  FClassNames: "0" "1" "2" "3" "4" "5"
+EndFPST
+ShortTable: maxp 16
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  2
+  1
+  0
+  8
+  0
+  256
+  0
+  0
+  0
+EndShort
+TtTable: prep
+PUSHW_1
+ 511
+SCANCTRL
+MPPEM
+PUSHB_1
+ 8
+LT
+IF
+PUSHB_2
+ 1
+ 1
+INSTCTRL
+EIF
+PUSHB_2
+ 70
+ 6
+CALL
+IF
+POP
+PUSHB_1
+ 16
+EIF
+MPPEM
+PUSHB_1
+ 20
+GT
+IF
+POP
+PUSHB_1
+ 128
+EIF
+SCVTCI
+EndTTInstrs
+TtTable: fpgm
+PUSHB_1
+ 0
+FDEF
+PUSHB_1
+ 0
+SZP0
+MPPEM
+PUSHB_1
+ 46
+LT
+IF
+PUSHB_1
+ 74
+SROUND
+EIF
+PUSHB_1
+ 0
+SWAP
+MIAP[rnd]
+RTG
+PUSHB_1
+ 6
+CALL
+IF
+RTDG
+EIF
+MPPEM
+PUSHB_1
+ 46
+LT
+IF
+RDTG
+EIF
+DUP
+MDRP[rp0,rnd,grey]
+PUSHB_1
+ 1
+SZP0
+MDAP[no-rnd]
+RTG
+ENDF
+PUSHB_1
+ 1
+FDEF
+DUP
+DUP
+MDRP[rp0,min,white]
+MDAP[rnd]
+PUSHB_1
+ 7
+CALL
+NOT
+IF
+DUP
+DUP
+GC[orig]
+SWAP
+GC[cur]
+SUB
+ROUND[White]
+DUP
+IF
+DUP
+ABS
+DIV
+SHPIX
+ELSE
+POP
+POP
+EIF
+ELSE
+POP
+EIF
+ENDF
+PUSHB_1
+ 2
+FDEF
+MPPEM
+GT
+IF
+RCVT
+SWAP
+EIF
+POP
+ENDF
+PUSHB_1
+ 3
+FDEF
+ROUND[Black]
+RTG
+DUP
+PUSHB_1
+ 64
+LT
+IF
+POP
+PUSHB_1
+ 64
+EIF
+ENDF
+PUSHB_1
+ 4
+FDEF
+PUSHB_1
+ 6
+CALL
+IF
+POP
+SWAP
+POP
+ROFF
+IF
+MDRP[rp0,min,rnd,black]
+ELSE
+MDRP[min,rnd,black]
+EIF
+ELSE
+MPPEM
+GT
+IF
+IF
+MIRP[rp0,min,rnd,black]
+ELSE
+MIRP[min,rnd,black]
+EIF
+ELSE
+POP
+PUSHB_1
+ 5
+CALL
+IF
+PUSHB_1
+ 70
+SROUND
+EIF
+IF
+MDRP[rp0,min,rnd,black]
+ELSE
+MDRP[min,rnd,black]
+EIF
+EIF
+EIF
+RTG
+ENDF
+PUSHB_1
+ 5
+FDEF
+GFV
+NOT
+AND
+ENDF
+PUSHB_1
+ 6
+FDEF
+PUSHB_2
+ 34
+ 1
+GETINFO
+LT
+IF
+PUSHB_1
+ 32
+GETINFO
+NOT
+NOT
+ELSE
+PUSHB_1
+ 0
+EIF
+ENDF
+PUSHB_1
+ 7
+FDEF
+PUSHB_2
+ 36
+ 1
+GETINFO
+LT
+IF
+PUSHB_1
+ 64
+GETINFO
+NOT
+NOT
+ELSE
+PUSHB_1
+ 0
+EIF
+ENDF
+EndTTInstrs
+ShortTable: cvt  28
+  68
+  1297
+  464
+  0
+  878
+  943
+  1162
+  1320
+  1410
+  70
+  59
+  80
+  90
+  153
+  165
+  188
+  227
+  429
+  460
+  568
+  645
+  688
+  29
+  34
+  39
+  44
+  49
+  75
+EndShort
+LangName: 1033 "" "" "Regular" "" "" "" "" "" "Philipp H. Poll et al." "Philipp H. Poll et al." "" "http://www.linuxlibertine.org" "http://www.linuxlibertine.org" "GPL- General Public License AND OFL-Open Font License" "http://www.fsf.org/licenses/gpl.html AND http://scripts.sil.org/OFL"
+GaspTable: 3 8 2 17 1 65535 3 0
+MATH:ScriptPercentScaleDown: 80
+MATH:ScriptScriptPercentScaleDown: 60
+MATH:DelimitedSubFormulaMinHeight: 1500
+MATH:DisplayOperatorMinHeight: 1250
+MATH:MathLeading: 150 
+MATH:AxisHeight: 290 
+MATH:AccentBaseHeight: 480 
+MATH:FlattenedAccentBaseHeight: 647 
+MATH:SubscriptShiftDown: 210 
+MATH:SubscriptTopMax: 360 
+MATH:SubscriptBaselineDropMin: 160 
+MATH:SuperscriptShiftUp: 375 
+MATH:SuperscriptShiftUpCramped: 310 
+MATH:SuperscriptBottomMin: 120 
+MATH:SuperscriptBaselineDropMax: 230 
+MATH:SubSuperscriptGapMin: 150 
+MATH:SuperscriptBottomMaxWithSubscript: 380 
+MATH:SpaceAfterScript: 43 
+MATH:UpperLimitGapMin: 65 
+MATH:UpperLimitBaselineRiseMin: 250 
+MATH:LowerLimitGapMin: 65 
+MATH:LowerLimitBaselineDropMin: 620 
+MATH:StackTopShiftUp: 470 
+MATH:StackTopDisplayStyleShiftUp: 750 
+MATH:StackBottomShiftDown: 380 
+MATH:StackBottomDisplayStyleShiftDown: 700 
+MATH:StackGapMin: 200 
+MATH:StackDisplayStyleGapMin: 330 
+MATH:StretchStackTopShiftUp: 800 
+MATH:StretchStackBottomShiftDown: 600 
+MATH:StretchStackGapAboveMin: 65 
+MATH:StretchStackGapBelowMin: 65 
+MATH:FractionNumeratorShiftUp: 600 
+MATH:FractionNumeratorDisplayStyleShiftUp: 800 
+MATH:FractionDenominatorShiftDown: 550 
+MATH:FractionDenominatorDisplayStyleShiftDown: 700 
+MATH:FractionNumeratorGapMin: 65 
+MATH:FractionNumeratorDisplayStyleGapMin: 130 
+MATH:FractionRuleThickness: 65 
+MATH:FractionDenominatorGapMin: 65 
+MATH:FractionDenominatorDisplayStyleGapMin: 130 
+MATH:SkewedFractionHorizontalGap: 400 
+MATH:SkewedFractionVerticalGap: 65 
+MATH:OverbarVerticalGap: 120 
+MATH:OverbarRuleThickness: 40 
+MATH:OverbarExtraAscender: 40 
+MATH:UnderbarVerticalGap: 120 
+MATH:UnderbarRuleThickness: 40 
+MATH:UnderbarExtraDescender: 40 
+MATH:RadicalVerticalGap: 90 
+MATH:RadicalDisplayStyleVerticalGap: 170 
+MATH:RadicalRuleThickness: 65 
+MATH:RadicalExtraAscender: 65 
+MATH:RadicalKernBeforeDegree: 65 
+MATH:RadicalKernAfterDegree: -320 
+MATH:RadicalDegreeBottomRaisePercent: 33
+MATH:MinConnectorOverlap: 100
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -128
+AntiAlias: 1
+FitToEm: 1
+ExtremaBound: 50
+WinInfo: 0 8 4
+BeginPrivate: 9
+BlueValues 47 [-12 0 429 442 460 472 600 610 645 658 688 698]
+OtherBlues 11 [-238 -227]
+FamilyBlues 47 [-12 0 429 442 460 472 600 610 645 658 688 698]
+FamilyOtherBlues 11 [-238 -227]
+BlueScale 8 0.043791
+StdHW 4 [36]
+StdVW 4 [79]
+StemSnapH 4 [36]
+StemSnapV 7 [79 86]
+EndPrivate
+Grid
+271 223 m 2
+ 55 223 l 2
+ 46 223 40 232 40 242 c 3
+ 40 260 53 283 65 283 c 2
+ 284 283 l 2
+ 294 283 298 273 298 263 c 3
+ 298 251 284 223 271 223 c 2
+-392 -319 m 25
+ 400 -319 l 1049
+367 -341 m 2
+ 122 -341 l 2
+ 114 -341 110 -333 110 -326 c 0
+ 110 -314 120 -297 132 -297 c 2
+ 377 -297 l 2
+ 386 -297 390 -304 390 -311 c 0
+ 390 -323 380 -341 367 -341 c 2
+-1000 614 m 0
+ 2000 614 l 1024
+367 -131 m 2
+ 122 -131 l 2
+ 114 -131 110 -123 110 -116 c 0
+ 110 -104 120 -87 132 -87 c 2
+ 377 -87 l 2
+ 386 -87 390 -94 390 -101 c 0
+ 390 -113 380 -131 367 -131 c 2
+574 850 m 25
+ -47 850 l 25
+ 574 850 l 25
+-1000 -232 m 0
+ 2000 -232 l 1024
+-1000 429 m 0
+ 2000 429 l 1024
+-1000 645 m 0
+ 2000 645 l 1024
+-1000 698 m 0
+ 2000 698 l 1024
+-409 -67 m 25
+ 424 -67 l 25
+ 423 -163 l 25
+ -410 -163 l 25
+ -409 -67 l 25
+-442 733 m 25
+ 1172 733 l 1049
+1237 894 m 25
+ 1237 -244 l 1049
+1321 894 m 25
+ 1321 -246 l 25
+ -581 -246 l 25
+ -581 894 l 25
+ 1321 894 l 25
+-497 894 m 25
+ -497 -244 l 1049
+0 658 m 1
+ 674 658 l 1033
+672 647 m 1
+ 674 645 l 1
+ 674 622 l 2
+ 674 617 671 614 666 614 c 2
+ 640 614 l 2
+ 599 614 82 614 42 614 c 2
+ 8 614 l 2
+ 4 614 0 617 0 622 c 2
+ 0 645 l 1
+ 2 647 l 1
+ 672 647 l 1
+0 645 m 1
+ 674 645 l 1025
+-261 -141 m 25
+ 905 -141 l 1049
+905 -128 m 25
+ -261 -128 l 25
+ 905 -128 l 25
+-20 -10 m 17
+ 1054.5 -10 l 1033
+-28 439 m 1
+ 748 439 l 1
+ 1139 439 l 1025
+-42 321 m 1
+ 658 321 l 1025
+747 431 m 1
+ 749 429 l 1
+ 749 406 l 2
+ 749 401 746 398 741 398 c 2
+ 714 398 l 2
+ 673 398 47 398 7 398 c 2
+ -23 398 l 2
+ -27 398 -30 401 -31 406 c 2
+ -31 429 l 1
+ -25 431 l 1
+ 747 431 l 1
+-20 0 m 1
+ 833 0 l 1025
+798 31 m 2
+ 825 31 l 2
+ 829 31 833 28 833 23 c 2
+ 833 0 l 1
+ 831 -2 l 1
+ -18 -2 l 1
+ -20 0 l 1
+ -20 23 l 2
+ -20 28 -17 31 -12 31 c 2
+ 14 31 l 2
+ 55 31 759 31 798 31 c 2
+-14 122 m 25
+ 886 122 l 1049
+592 805 m 25
+ -450 805 l 25
+ 592 805 l 25
+397 230 m 25
+ 124 230 l 25
+ 397 230 l 25
+-413 -110 m 25
+ 379 -110 l 1049
+0 581 m 1049
+0 576 m 25
+ 7 576 l 25
+ 0 568 l 25
+ 433 568 l 25
+ 438 575 l 25
+ 432 575 l 1049
+432 580 m 1049
+574 833 m 25
+ -47 833 l 25
+ 574 833 l 25
+780 550 m 1
+ 236 550 l 1
+ 213 506 l 1
+ 193 550 l 1
+ -113 550 l 1025
+EndSplineSet
+TeXData: 1 0 0 262144 133120 88746 450561 -1048576 88746 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+AnchorClass2: "SekAccPos" "'mkmk' Mark to Mark-1" "top_rechts" "'mark' Top rechts" "komb_OR" "'mark' Komb OR" "top_punkt2" "'mark' Top Punkt2" "top_akzent" "'mark' Top Akzent" "unten_punkt" "'mark' Unten Punkt" "unten_anhang" "'mark' Unten Anhang" "ogonek" "'mark' Ogonek" "mittelpunkt" "'mark' Mittelpunkt" 
+EndSplineFont

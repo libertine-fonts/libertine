@@ -1,0 +1,22 @@
+StartChar: notelement
+Encoding: 8713 8713 1356
+Width: 506
+VWidth: 487
+Flags: W
+TeX: 54 0
+HStem: 0 57<220.188 462> 258 56<99 453> 515 57<220.961 462> 628 20G<420.793 465>
+VStem: 29 70<189.247 258 314 389.652>
+DStem2: 170 -68 207 -80 0.33858 0.940938<1.23621 761.065>
+LayerCount: 2
+Fore
+SplineSet
+465 637 m 1
+ 207 -80 l 1
+ 170 -68 l 1
+ 428 648 l 1
+ 465 637 l 1
+EndSplineSet
+Refer: 1355 8712 N 1 0 0 1 0 0 3
+Validated: 35845
+Colour: ff9ccc
+EndChar

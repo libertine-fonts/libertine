@@ -1,0 +1,23 @@
+StartChar: uni0275
+Encoding: 629 629 1636
+Width: 504
+VWidth: 999
+Flags: W
+HStem: -10 35<205.698 321.376> 196 39<106 377> 404 35<184.225 299.49>
+VStem: 41 86<117.524 314.731> 377 86<109.15 316.258>
+AnchorPoint: "top_akzent" 209 645 basechar 0
+AnchorPoint: "unten_punkt" 196 -110 basechar 0
+AnchorPoint: "unten_anhang" 167 -3 basechar 0
+AnchorPoint: "ogonek" 410 16 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+377 235 m 1
+ 377 196 l 1
+ 106 196 l 1
+ 106 235 l 1
+ 377 235 l 1
+EndSplineSet
+Refer: 295 111 N 1 0 0 1 0 0 3
+Colour: ff9ccc
+EndChar
