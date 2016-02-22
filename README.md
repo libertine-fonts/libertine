@@ -23,7 +23,7 @@ For further information see [`licenses`](licenses/) folder.
 ## Files and User Download
 
 Contributors will find Libertine source files in the folder [`source-files`](source-files/).
-In the near future we will publish OpenType (*.otf) files in the in the folder [`font-files`](font-files/). As of yet you will find font packages (*.otf and *.ttf) at the old [Sourceforge](https://sourceforge.net/projects/linuxlibertine) website.
+In the near future we will publish OpenType (\*.otf) files in the in the folder [`font-files`](font-files/). As of yet you will find font packages (\*.otf and \*.ttf) at the old [Sourceforge](https://sourceforge.net/projects/linuxlibertine) website.
 
 
 ## Contributing
