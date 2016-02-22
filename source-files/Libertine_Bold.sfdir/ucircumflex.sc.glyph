@@ -1,0 +1,12 @@
+StartChar: ucircumflex.sc
+Encoding: 57483 57483 1872
+Width: 606
+VWidth: 999
+Flags: W
+HStem: -10 42<268.888 409.82> 428 34<11.77 75.2627 238.737 302.23 371.77 438.122 527.878 594.23>
+VStem: 92 130<82.389 415.819> 458 50<80.1702 412.719>
+LayerCount: 2
+Fore
+Refer: 1839 57445 N 1 0 0 1 0 0 3
+Refer: 656 710 S 1 0 0 1 132 0 2
+EndChar

@@ -1,0 +1,44 @@
+StartChar: q
+Encoding: 113 113 297
+Width: 573
+Flags: W
+HStem: -234 34<275.77 338.825 493.175 556.23> -10 64<225.033 311.262> 402 42<229.327 336.597>
+VStem: 37 140<111.757 303.188> 351 130<-190.507 34 65.905 387.082>
+AnchorPoint: "unten_punkt" 348 -319 basechar 0
+AnchorPoint: "mittelpunkt" 236 215 basechar 0
+AnchorPoint: "top_akzent" 238 645 basechar 0
+AnchorPoint: "top_rechts" 469 732 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+481 -110 m 2
+ 481 -193 492 -196 553 -200 c 1
+ 559 -206 559 -228 553 -234 c 1
+ 510 -233 469 -232 416 -232 c 0
+ 363 -232 321 -233 279 -234 c 1
+ 273 -228 273 -206 279 -200 c 1
+ 340 -195 351 -193 351 -110 c 2
+ 351 34 l 1
+ 343 30 317 13 296 5 c 0
+ 270 -5 241 -10 227 -10 c 3
+ 182 -10 151 2 116 27 c 0
+ 56 70 37 138 37 198 c 3
+ 37 355 153 444 296 444 c 3
+ 320 444 351 439 374 427 c 0
+ 397 416 400 416 424 429 c 0
+ 440 438 459 444 466 444 c 0
+ 480 444 485 440 485 427 c 2
+ 485 427 481 371 481 321 c 2
+ 481 -110 l 2
+351 77 m 1
+ 351 366 l 1
+ 329 393 307 402 283 402 c 3
+ 218 402 177 338 177 233 c 3
+ 177 86 236 54 286 54 c 3
+ 302 54 330 64 351 77 c 1
+EndSplineSet
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" q.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" q.superior
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" q.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" q.sc
+EndChar

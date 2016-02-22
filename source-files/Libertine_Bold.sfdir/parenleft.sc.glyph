@@ -1,0 +1,12 @@
+StartChar: parenleft.sc
+Encoding: 63150 63150 1256
+Width: 315
+VWidth: 999
+Flags: W
+HStem: -75.18 18.06<154.5 286.75>
+VStem: 36 115<200.892 449.007>
+LayerCount: 2
+Fore
+Refer: 5 40 N 1 0 0 0.86 0 108 3
+Validated: 32769
+EndChar

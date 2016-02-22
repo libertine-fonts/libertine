@@ -1,0 +1,14 @@
+StartChar: exclamdbl
+Encoding: 8252 8252 1065
+Width: 411
+VWidth: 999
+Flags: W
+HStem: -10 132<87.6132 178.375> -8 132<271.613 362.375> 638 20<129 156.667> 640 20<313 340.667>
+VStem: 67 132<10.5438 101.387 407.276 641.982> 114 44<206.074 380.961> 251 132<12.5438 103.387 409.276 643.982> 298 44<208.074 382.961>
+LayerCount: 2
+Fore
+Refer: 0 33 N 1 0 0 1 184 2 2
+Refer: 0 33 N 1 0 0 1 0 0 2
+Ligature2: "LinLibertine-'liga' Standardligaturen 1" exclam exclam
+LCarets2: 1 206
+EndChar

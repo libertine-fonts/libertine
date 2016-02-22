@@ -1,0 +1,21 @@
+StartChar: uni035C
+Encoding: 860 860 1739
+Width: 0
+VWidth: 999
+Flags: W
+HStem: -237 53<-171.043 164.058>
+LayerCount: 2
+Fore
+SplineSet
+0 -237 m 7
+ -150 -237 -278 -198 -368 -85 c 5
+ -351 -67 l 5
+ -282 -128 -192 -184 0 -184 c 7
+ 196 -184 274 -128 351 -67 c 5
+ 368 -85 l 5
+ 272 -200 136 -237 0 -237 c 7
+EndSplineSet
+Validated: 3073
+Comment: "Alternative Akzente fuer Grossbuchstaben"
+Colour: ffffff
+EndChar

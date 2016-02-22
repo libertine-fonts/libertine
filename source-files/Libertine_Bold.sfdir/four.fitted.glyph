@@ -1,0 +1,25 @@
+StartChar: four.fitted
+Encoding: 57364 57364 1459
+Width: 542
+VWidth: 487
+Flags: W
+HStem: -2 34<173.617 247.64 420.36 494.383> 162 47<88.76 272 396 506.734> 590 20<267.75 396>
+VStem: 272 124<50.5764 162 209 500.976>
+LayerCount: 2
+Back
+SplineSet
+46.875 578.125 m 29
+ 347.168 578.125 l 1053
+0 572.012 m 5
+ 438.965 572.012 l 5
+ 438.965 0 l 5
+ 0 0 l 5
+ 0 572.012 l 5
+EndSplineSet
+Fore
+Refer: 13 52 S 1 0 0 1 11 0 2
+Validated: 32769
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" four.oldstyle
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" four
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" four four.oldstyle
+EndChar

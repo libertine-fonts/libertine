@@ -1,0 +1,42 @@
+StartChar: r
+Encoding: 114 114 298
+Width: 428
+Flags: HW
+HStem: -2 34<22.77 85.8255 240.175 303.23> 351 93<276.334 374.877> 380 31<31.5625 83.673>
+VStem: 98 130<41.4929 331.1 348 369.703>
+AnchorPoint: "unten_punkt" 164 -110 basechar 0
+AnchorPoint: "unten_anhang" 163 7 basechar 0
+AnchorPoint: "mittelpunkt" 165 185 basechar 0
+AnchorPoint: "top_akzent" 191 646 basechar 0
+AnchorPoint: "top_rechts" 349 580 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+228 268.333 m 2xd0
+ 228 122 l 2
+ 228 39 239 36 300 32 c 1
+ 306 26 306 4 300 -2 c 1
+ 257 -1 216.436 0 163 0 c 27
+ 109.564 0 68 -1 26 -2 c 1
+ 20 4 20 26 26 32 c 1
+ 87 37 98 39 98 122 c 2
+ 98 309 l 2
+ 98 366 87.4814 374.932 33 380 c 1
+ 31 386 29 405 31 411 c 1xb0
+ 97 417.5 149.5 432 197 444 c 1
+ 211 444 218.459472444 438.297202081 220 427 c 0
+ 223 405 225 378 227 348 c 1
+ 227 347 229 346 230.998 347.995 c 1
+ 277 414 315 444 350 444 c 3
+ 386 444 416 414 416 388 c 3
+ 416 346 387.5 315.5 354.5 315.5 c 3
+ 336.906934503 315.5 324.397321212 324.800230713 313 335.304186252 c 4
+ 303.653738675 343.91785183 294.292737414 351 283.668 351 c 3
+ 269 351 260.228 343.811 252 334 c 0
+ 239 318.5 228 304 228 268.333 c 2xd0
+EndSplineSet
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" r.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" r.superior
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" r.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" r.sc
+EndChar

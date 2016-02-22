@@ -1,0 +1,27 @@
+StartChar: slash
+Encoding: 47 47 9
+Width: 316
+Flags: W
+VStem: 2 300
+DStem2: 2 -21 65 -21 0.319461 0.947599<20.126 741.875>
+LayerCount: 2
+Back
+SplineSet
+267.97 661.299 m 1
+ 50.0186 17.6553 l 1
+ 14.5068 17.6553 l 1
+ 232.458 661.299 l 1
+ 267.97 661.299 l 1
+EndSplineSet
+Fore
+SplineSet
+302 682 m 1
+ 65 -21 l 1
+ 2 -21 l 5
+ 239 682 l 5
+ 302 682 l 1
+EndSplineSet
+Validated: 3073
+Ligature2: "LinLibertine-'frac' Brueche 1" uni2215
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" uni2215
+EndChar

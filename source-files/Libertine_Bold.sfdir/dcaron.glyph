@@ -1,0 +1,14 @@
+StartChar: dcaron
+Encoding: 271 271 413
+Width: 594
+VWidth: 999
+Flags: W
+HStem: -10 74<193 287.665> 23 32<498.156 547.438> 402 42<219.765 348.876> 519 17<531.353 549.187> 623 75<535.65 587.61> 638 34<280.144 340.885> 678 20<449.5 472.5>
+VStem: 37 140<106.213 306.711> 351 130<79.2183 391.711 434 631.337> 589 50<560.145 643>
+LayerCount: 2
+Fore
+Refer: 655 700 N 1 0 0 1 500 46 2
+Refer: 284 100 N 1 0 0 1 0 0 2
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" dcaron.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" dcaron.sc
+EndChar

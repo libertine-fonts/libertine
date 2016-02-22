@@ -1,0 +1,17 @@
+StartChar: Umacron
+Encoding: 362 362 476
+Width: 732
+VWidth: 999
+Flags: W
+HStem: -10 42<317.802 491.729> 613 34<6.77002 72.0797 242.899 322.23 485.77 563.312 662.375 726.23> 753 50<244.182 554.647>
+VStem: 87 140<124.668 600.619> 242 315<753.682 802.598> 581 65<145.386 598.444>
+AnchorPoint: "unten_punkt" 328 -110 basechar 0
+AnchorPoint: "unten_anhang" 328 4 basechar 0
+AnchorPoint: "mittelpunkt" 336 321 basechar 0
+AnchorPoint: "top_akzent" 346 1000 basechar 0
+LayerCount: 2
+Fore
+Refer: 659 713 S 1 0 0 1 183 210 2
+Refer: 270 85 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

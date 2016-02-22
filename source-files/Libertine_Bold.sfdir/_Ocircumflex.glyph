@@ -1,0 +1,17 @@
+StartChar: Ocircumflex
+Encoding: 212 212 363
+Width: 730
+Flags: W
+HStem: -10 42<308.051 450.939> 616 42<281.837 425.946> 698 136
+VStem: 37 151<185.902 436.475> 227 277 543 151<200.545 457.609>
+CounterMasks: 1 1c
+AnchorPoint: "top_akzent" 344 894 basechar 0
+AnchorPoint: "komb_OR" 620 606 basechar 0
+LayerCount: 2
+Fore
+Refer: 264 79 N 1 0 0 1 0 0 3
+Refer: 2269 58202 S 1 0 0 1 496 0 2
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" ocircumflex.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" ocircumflex.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

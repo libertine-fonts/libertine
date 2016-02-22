@@ -1,0 +1,15 @@
+StartChar: odieresis
+Encoding: 246 246 36
+Width: 551
+VWidth: 999
+Flags: W
+HStem: -10 42<236.991 334.727> 402 42<211.57 311.912> 519 109<135.037 223.257 320.743 408.963>
+VStem: 37 140<112.736 315.973> 124 110<530.463 616.462> 310 110<530.463 616.462> 374 140<115.701 321.741>
+AnchorPoint: "top_akzent" 255 834 basechar 0
+LayerCount: 2
+Fore
+Refer: 319 168 S 1 0 0 1 67 0 2
+Refer: 295 111 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" odieresis.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" odieresis.sc
+EndChar

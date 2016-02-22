@@ -1,0 +1,12 @@
+StartChar: suchthat
+Encoding: 8715 8715 1704
+Width: 506
+Flags: W
+HStem: 0 57<44 285.039> 258 56<53 407> 515 57<44 285.812>
+VStem: 407 70<182.348 258 314 382.753>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+Refer: 1356 8712 S -1 0 0 -1 506 572 3
+Validated: 32769
+EndChar

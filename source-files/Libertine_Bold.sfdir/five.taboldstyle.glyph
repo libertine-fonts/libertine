@@ -1,0 +1,14 @@
+StartChar: five.taboldstyle
+Encoding: 57629 57629 2201
+Width: 514
+VWidth: 488
+Flags: W
+HStem: -176 44<178.942 265.402> 172 56<134.952 269.102> 342 92<152.148 407.888> 348 99<149.618 237.085 241.796 296.01 299.675 413>
+VStem: 306 136<-47.672 129.998>
+LayerCount: 2
+Fore
+Refer: 2185 57381 S 1 0 0 1 3 0 2
+Validated: 32769
+Substitution2: "'lnum' Versalziffern 1" five
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" five.oldstyle
+EndChar

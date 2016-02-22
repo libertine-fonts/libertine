@@ -1,0 +1,19 @@
+StartChar: greater
+Encoding: 62 62 21
+Width: 512
+Flags: W
+DStem2: 42 416 42 354 0.939088 -0.343676<21.3079 358.865> 42 122 42 60 0.940496 0.339806<0 337.555>
+LayerCount: 2
+Fore
+SplineSet
+359 238 m 1
+ 42 354 l 1
+ 42 416 l 1
+ 471 259 l 1
+ 471 215 l 1
+ 42 60 l 1
+ 42 122 l 1
+ 359 238 l 1
+EndSplineSet
+Validated: 3073
+EndChar

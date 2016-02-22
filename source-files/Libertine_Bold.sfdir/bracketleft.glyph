@@ -1,0 +1,36 @@
+StartChar: bracketleft
+Encoding: 91 91 276
+Width: 397
+Flags: W
+HStem: -193 30<244.088 345.511> 673 30<241.533 345.511>
+VStem: 97 100<-135 645.875>
+LayerCount: 2
+Back
+SplineSet
+343 689 m 1
+ 343 638 l 1
+ 198 638 l 1
+ 198 -147 l 1
+ 343 -147 l 1
+ 343 -198 l 1
+ 88 -198 l 1
+ 88 689 l 1
+ 343 689 l 1
+EndSplineSet
+Fore
+SplineSet
+97 -193 m 5
+ 97 703 l 5
+ 342 703 l 1
+ 348 697 348 679 342 673 c 1
+ 205 663 197 648 197 561 c 2
+ 197 -50 l 2
+ 197 -137 204 -152 342 -163 c 1
+ 348 -169 348 -187 342 -193 c 1
+ 97 -193 l 5
+EndSplineSet
+Validated: 3073
+Substitution2: "LinLibertine-'case' Versalformen 1" bracketleft.sc
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" bracketleft.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" bracketleft.sc
+EndChar

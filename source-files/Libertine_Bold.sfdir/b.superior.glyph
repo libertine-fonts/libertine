@@ -1,0 +1,12 @@
+StartChar: b.superior
+Encoding: 7495 7495 2386
+Width: 297
+VWidth: 917
+Flags: W
+HStem: 358 31<121.019 191.387> 595 36<119.423 190.381> 690 27<-0.518518 26.6697>
+VStem: 42 65<397.18 588.593 606 693.993> 212 71<422.837 577.671>
+AnchorPoint: "top_akzent" 148 815 basechar 0
+LayerCount: 2
+Fore
+Refer: 2163 57537 S 1 0 0 1 0 0 3
+EndChar

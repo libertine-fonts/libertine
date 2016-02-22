@@ -1,0 +1,14 @@
+StartChar: Ydieresis
+Encoding: 376 376 490
+Width: 624
+VWidth: 999
+Flags: W
+HStem: -2 34<146.77 229.807 404.193 487.23> 613 34<2.63097 61.3279 223.748 274.23 411.77 465.597 559.169 622.23> 695 109<213.037 301.257 398.743 486.963>
+VStem: 202 110<706.463 792.462> 247 140<44.9117 334.452> 388 110<706.463 792.462>
+LayerCount: 2
+Fore
+Refer: 319 168 S 1 0 0 1 145 176 2
+Refer: 274 89 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" ydieresis.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

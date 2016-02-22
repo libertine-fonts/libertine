@@ -1,0 +1,22 @@
+StartChar: brevecomb
+Encoding: 774 774 1419
+Width: 0
+VWidth: 487
+Flags: W
+TeX: 59 0
+HStem: 514 74<-261.979 -118.423>
+VStem: -329 33<621.43 659.121> -81 32<624.913 659.188>
+AnchorPoint: "top_akzent" -161 681 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-296 667 m 1
+ -294 613 -251 588 -188 588 c 0
+ -141 588 -84 603 -81 667 c 1
+ -49 657 l 1
+ -59 552 -137 514 -188 514 c 0
+ -269 514 -322 576 -329 657 c 1
+ -296 667 l 1
+EndSplineSet
+Validated: 3073
+EndChar

@@ -1,0 +1,12 @@
+StartChar: aturned.superior
+Encoding: 7492 7492 2384
+Width: 307
+VWidth: 999
+Flags: W
+HStem: 350 30<155.389 221.11> 610 37<43.713 111.579 162.123 231.871>
+VStem: 68.079 76<383.122 476 503 603.3> 224.079 74<390.879 453.838 533.223 608.564>
+AnchorPoint: "top_akzent" 148 815 basechar 0
+LayerCount: 2
+Fore
+Refer: 2383 7491 N -1 0 0 -1 313.079 995 2
+EndChar

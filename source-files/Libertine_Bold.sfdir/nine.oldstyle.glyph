@@ -1,0 +1,15 @@
+StartChar: nine.oldstyle
+Encoding: 57385 57385 2188
+Width: 468
+VWidth: 487
+Flags: W
+HStem: -178 41<28.04 136.797> 67 50<180.25 271.77> 403 39<165.152 251.653>
+VStem: -1 134<169.236 322.338> 306 126<131.874 316.281>
+LayerCount: 2
+Fore
+Refer: 15 54 S -1 0 0 -1 476 432 2
+Validated: 32769
+Substitution2: "'lnum' Versalziffern 1" nine.fitted
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" nine.taboldstyle
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" nine nine.fitted
+EndChar

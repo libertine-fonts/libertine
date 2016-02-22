@@ -1,0 +1,47 @@
+StartChar: c.sc
+Encoding: 57427 57427 1822
+Width: 524
+VWidth: 714
+Flags: W
+HStem: -10 52<246.355 405.8> 434 40<243.344 385.643>
+VStem: 46 140<117.849 337.663> 443 40<314.968 368.457>
+AnchorPoint: "top_akzent" 288 645 basechar 0
+AnchorPoint: "unten_punkt" 293 -110 basechar 0
+AnchorPoint: "ogonek" 422 44 basechar 0
+AnchorPoint: "unten_anhang" 291 -3 basechar 0
+AnchorPoint: "mittelpunkt" 286 215 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-42 474 m 5
+ 658 474 l 1029
+637 462 m 5
+ 639 460 l 5
+ 639 442 l 6
+ 639 437 636 434 631 434 c 6
+ 604 434 l 6
+ 563 434 47 434 7 434 c 6
+ -19 434 l 6
+ -23 434 -27 437 -27 442 c 6
+ -27 460 l 5
+ -25 462 l 5
+ 637 462 l 5
+-42 460 m 5
+ 658 460 l 1029
+EndSplineSet
+Fore
+SplineSet
+309 474 m 3
+ 368.854 474 415 465 462 462 c 1
+ 472 410.5 478 366 483 318 c 1
+ 472 312 454 309 443 313 c 1
+ 419 393 402 434 298 434 c 3
+ 244.5 434 186 393 186 234 c 3
+ 186 72 260.6 42 311 42 c 3
+ 362.6 42 420 52 468 102 c 1
+ 477.333 98 485.667 89.6667 489 80 c 1
+ 449 23 384.006 -10 305 -10 c 3
+ 121 -10 46 95.9961 46 224 c 3
+ 46 402 170 474 309 474 c 3
+EndSplineSet
+EndChar

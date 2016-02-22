@@ -1,0 +1,24 @@
+StartChar: uniA721
+Encoding: 42785 42785 2153
+Width: 628
+Flags: W
+HStem: -229 299<27 58.304> -20 20G<245 319>
+VStem: 27 75<-133 70> 245 74<-85 0>
+DStem2: 102 -133 27 -229 0.975899 0.218224<0 146.318 222.245 478.663>
+LayerCount: 2
+Fore
+SplineSet
+102 -133 m 1xb0
+ 245 -102 l 1
+ 245 0 l 1
+ 319 0 l 1x70
+ 319 -85 l 1
+ 572 -28 l 1
+ 586 -104 l 1
+ 27 -229 l 1
+ 27 70 l 5
+ 102 70 l 1
+ 102 -133 l 1xb0
+EndSplineSet
+Validated: 3073
+EndChar

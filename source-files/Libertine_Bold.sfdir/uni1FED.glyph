@@ -1,0 +1,14 @@
+StartChar: uni1FED
+Encoding: 8173 8173 1027
+Width: 375
+VWidth: 999
+Flags: W
+HStem: 519 109<68.037 156.257 253.743 341.963> 609 177
+VStem: 57 110<530.463 616.462> 72 128 243 110<530.463 616.462>
+LayerCount: 2
+Fore
+Refer: 1028 8175 S 1 0 0 1 19 57 2
+Refer: 319 168 N 1 0 0 1 0 0 2
+Validated: 32769
+LCarets2: 1 0
+EndChar

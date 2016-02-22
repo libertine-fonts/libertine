@@ -1,0 +1,47 @@
+StartChar: d
+Encoding: 100 100 284
+Width: 561
+Flags: W
+HStem: -10 74<193 287.665> 23 32<498.156 547.438> 402 42<219.765 348.876> 638 34<280.144 340.885> 678 20G<449.5 472.5>
+VStem: 37 140<106.213 306.711> 351 130<79.2183 391.711 434 631.337>
+AnchorPoint: "unten_punkt" 271 -110 basechar 0
+AnchorPoint: "ogonek" 312 23 basechar 0
+AnchorPoint: "mittelpunkt" 266 215 basechar 0
+AnchorPoint: "top_akzent" 218 645 basechar 0
+AnchorPoint: "komb_OR" 500 466 basechar 0
+AnchorPoint: "top_rechts" 490 580 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+351 92 m 5xbe
+ 351 380 l 5
+ 329 396 298 402 273 402 c 7
+ 217 402 177 352 177 234 c 7
+ 177 133 194 64 278 64 c 7
+ 302 64 318 72 351 92 c 5xbe
+354 54 m 5
+ 336 42 305 21 277 6 c 4
+ 262 -2 240 -10 214 -10 c 7xbe
+ 172 -10 123 13 90 50 c 4
+ 56 88 37 139 37 196 c 7
+ 37 273 61 329 102 372 c 4
+ 148 420 203 444 279 444 c 7
+ 304 444 328 442 351 434 c 5
+ 351 563 l 6
+ 351 632 346 633 283 638 c 5
+ 278 647 277 660 280 672 c 5
+ 351 675 431 686 468 698 c 5
+ 477 698 484 694 484 685 c 5
+ 484 685 481 648 481 583 c 6
+ 481 133 l 6
+ 481 76 492 60 546 55 c 5
+ 548 49 550 29 548 23 c 5x7e
+ 479 14 419 0 382 -10 c 5
+ 368 -10 360 -5 359 7 c 6
+ 359 7 356 27 354 54 c 5
+EndSplineSet
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" d.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" d.superior
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" d.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" d.sc
+EndChar

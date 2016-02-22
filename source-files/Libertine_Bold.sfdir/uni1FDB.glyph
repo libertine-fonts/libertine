@@ -1,0 +1,12 @@
+StartChar: uni1FDB
+Encoding: 8155 8155 1015
+Width: 386
+VWidth: 999
+Flags: W
+HStem: -2 34<118.617 187.406 366.594 435.383> 542 183 613 34<118.617 187.406 366.594 435.383>
+VStem: -27 150 207 140<47 598>
+LayerCount: 2
+Fore
+Refer: 1034 8189 S 1 0 0 1 -64 81 2
+Refer: 696 921 N 1 0 0 1 93 0 2
+EndChar

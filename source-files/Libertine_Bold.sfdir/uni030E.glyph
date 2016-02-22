@@ -1,0 +1,25 @@
+StartChar: uni030E
+Encoding: 782 782 1418
+Width: 0
+VWidth: 999
+Flags: W
+TeX: 57 0
+HStem: 540 179<-317 -262 -202 -147>
+VStem: -317 55<540 719> -202 55<539 719>
+AnchorPoint: "top_akzent" -245 719 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-262 540 m 1
+ -317 540 l 5
+ -317 719 l 5
+ -262 719 l 1
+ -262 540 l 1
+-147 539 m 1
+ -202 539 l 1
+ -202 719 l 1
+ -147 719 l 1
+ -147 539 l 1
+EndSplineSet
+Validated: 3073
+EndChar

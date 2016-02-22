@@ -1,0 +1,10 @@
+StartChar: atilde.sc
+Encoding: 57459 57459 1848
+Width: 600
+VWidth: 999
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 1820 57425 N 1 0 0 1 0 0 3
+Refer: 667 732 S 1 0 0 1 156 10 2
+EndChar

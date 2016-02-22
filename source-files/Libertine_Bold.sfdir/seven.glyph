@@ -1,0 +1,51 @@
+StartChar: seven
+Encoding: 55 55 16
+Width: 514
+Flags: W
+HStem: -12 21G<121 229> 498 102<126.882 378.94>
+VStem: 60 35<413.4 453.601>
+LayerCount: 2
+Back
+SplineSet
+476 600 m 5x68
+ 485 588 l 5
+ 390 387 289 205 198 0 c 1
+ 95 -12 l 1x98
+ 87 1 l 1
+ 205 176 305 329 391 492 c 5
+ 178 492 l 6
+ 110 492 102 485 74 426 c 5
+ 39 426 l 5
+ 53 504 59 557 66 600 c 5
+ 476 600 l 5x68
+46.875 610.125 m 25
+ 477.168 610.125 l 1049
+0 600.012 m 1
+ 539.965 600.012 l 1
+ 539.965 0 l 1
+ 0 0 l 1
+ 0 600.012 l 1
+EndSplineSet
+Fore
+SplineSet
+184 498 m 2
+ 151 498 117 491 95 411 c 1
+ 60 414 l 1
+ 68 466 79 563 80 611 c 0
+ 80 614 81 614 84 614 c 0
+ 102 610 104 600 138 600 c 2
+ 473 600 l 1
+ 479 591 l 1
+ 350 319 296 169 229 -2 c 1
+ 127 -12 l 1
+ 121 0 l 1
+ 199.024 143.827 312.848 361.886 378.94 498 c 1
+ 184 498 l 2
+EndSplineSet
+Validated: 3073
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" seven.taboldstyle
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" seven.fitted
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" seven.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" seven.superior
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" seven.oldstyle seven.superior seven.fitted
+EndChar

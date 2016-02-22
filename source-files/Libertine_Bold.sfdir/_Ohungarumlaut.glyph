@@ -1,0 +1,14 @@
+StartChar: Ohungarumlaut
+Encoding: 336 336 450
+Width: 730
+VWidth: 999
+Flags: HW
+HStem: -10 42<308.051 450.939> 616 42<281.837 425.946> 686 147
+VStem: 37 151<185.902 436.475> 249 254 543 151<200.545 457.609>
+LayerCount: 2
+Fore
+Refer: 2272 58205 N 1 0 0 1 614 0 2
+Refer: 264 79 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" ohungarumlaut.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

@@ -1,0 +1,49 @@
+StartChar: guillemotleft
+Encoding: 171 171 322
+Width: 555
+VWidth: 999
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+336 215 m 5
+ 373.5 257.5 411 306 463 385 c 5
+ 460.5 395 449.5 402.75 439 404 c 5
+ 359.5 318.5 309.5 270 254 221 c 5
+ 254 209 l 5
+ 309.5 160 359.5 111.5 439 26 c 5
+ 449.5 27.25 460.5 35 463 45 c 5
+ 411 124 373.5 172.5 336 215 c 5
+156 215 m 5
+ 193.5 257.5 231 306 283 385 c 5
+ 280.5 395 269.5 402.75 259 404 c 5
+ 179.5 318.5 129.5 270 74 221 c 5
+ 74 209 l 5
+ 129.5 160 179.5 111.5 259 26 c 5
+ 269.5 27.25 280.5 35 283 45 c 5
+ 231 124 193.5 172.5 156 215 c 5
+EndSplineSet
+Fore
+SplineSet
+262 207 m 1
+ 262 223 l 1
+ 329.877 284.089 375.066 323.321 446 407 c 1
+ 455.5 404 470 395 475 385 c 1
+ 435.5 309.5 402 254 371 215 c 1
+ 402 176 435.5 120.5 475 45 c 1
+ 470 35 455.5 26 446 23 c 1
+ 375.066 106.679 329.877 145.911 262 207 c 1
+74 207 m 1
+ 74 223 l 1
+ 141.877 284.089 187.066 323.321 258 407 c 1
+ 267.5 404 282 395 287 385 c 1
+ 247.5 309.5 214 254 183 215 c 1
+ 214 176 247.5 120.5 287 45 c 1
+ 282 35 267.5 26 258 23 c 1
+ 187.066 106.679 141.877 145.911 74 207 c 1
+EndSplineSet
+Validated: 3073
+Substitution2: "LinLibertine-'case' Versalformen 1" guillemotleft.sc
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" guillemotleft.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" guillemotleft.sc
+EndChar

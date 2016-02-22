@@ -1,0 +1,11 @@
+StartChar: uni2213
+Encoding: 8723 8723 1206
+Width: 527
+VWidth: 999
+Flags: HW
+HStem: 15 20<232 306> 179 74<61 232 306 477> 456 60<74 463>
+VStem: 232 74<15 179 253 416>
+LayerCount: 2
+Fore
+Refer: 328 177 S 1 0 0 -1 0 533 2
+EndChar

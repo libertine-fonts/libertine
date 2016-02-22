@@ -1,0 +1,15 @@
+StartChar: x.superior
+Encoding: 739 739 304
+Width: 332
+VWidth: 608
+Flags: W
+HStem: 368 32<12 66.7578 130 156 169 191 274.666 328.098> 597 31<10 63.7812 269.922 326.899>
+VStem: 12 315
+DStem2: 132 493 162 448 0.624695 0.780869<-73.5024 -16.3982 71.8399 127.915>
+AnchorPoint: "top_akzent" 158 805 basechar 0
+LayerCount: 2
+Fore
+Refer: 1736 8339 N 1 0 0 1 2 476 3
+Validated: 32773
+Colour: ff00ff
+EndChar

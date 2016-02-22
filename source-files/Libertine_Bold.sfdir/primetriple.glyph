@@ -1,0 +1,13 @@
+StartChar: primetriple
+Encoding: 8244 8244 1607
+Width: 540
+Flags: W
+HStem: 516 183
+VStem: 45 150 195 150 345 150
+LayerCount: 2
+Fore
+Refer: 1372 8242 N 1 0 0 1 300 0 2
+Refer: 1372 8242 N 1 0 0 1 150 0 2
+Refer: 1372 8242 N 1 0 0 1 0 0 2
+Validated: 32769
+EndChar

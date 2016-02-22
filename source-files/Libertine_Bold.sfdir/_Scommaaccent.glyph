@@ -1,0 +1,15 @@
+StartChar: Scommaaccent
+Encoding: 536 536 605
+Width: 504
+VWidth: 999
+Flags: W
+HStem: -251 28<184.372 215.68> -147 83<195.251 249.724> -10 42<162.595 303.607> 617 41<194.051 315.582>
+VStem: 41 125<470.704 560.454> 250 61<-200.192 -110.5> 337 126<101.248 210.04>
+LayerCount: 2
+Fore
+Refer: 268 83 N 1 0 0 1 0 0 3
+Refer: 680 806 S 1 0 0 1 493 -13 2
+Validated: 32769
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" scommaaccent.sc
+LCarets2: 1 0
+EndChar

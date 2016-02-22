@@ -1,0 +1,21 @@
+StartChar: acutecomb
+Encoding: 769 769 670
+Width: 0
+VWidth: 999
+Flags: HMW
+AnchorPoint: "top_akzent" -191 682 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-140 674 m 17
+ -137 675 -129 676 -124 676 c 3
+ -94 676 -75 662 -67 652 c 1
+ -57 629 l 1
+ -177 521 l 2
+ -191 509 -205 505 -215 505 c 3
+ -223 505 -231 513 -231 519 c 3
+ -231 525 -229 534 -223 543 c 2
+ -140 674 l 17
+EndSplineSet
+Validated: 3073
+EndChar

@@ -1,0 +1,27 @@
+StartChar: radical
+Encoding: 8730 8730 1359
+Width: 605
+VWidth: 487
+Flags: W
+TeX: 56 0
+HStem: 696 51<572.5 652.5>
+DStem2: 231 304 131 218 0.579931 -0.814665<12.0681 219.242> 359 126 380 0 0.266572 0.963815<0 606.288>
+LayerCount: 2
+Fore
+SplineSet
+572.5 696 m 1
+ 380 0 l 1
+ 299 -18 l 1
+ 131 218 l 1
+ 62 201 l 1
+ 39 242 l 1
+ 231 304 l 1
+ 359 126 l 1
+ 522.5 742 l 1
+ 522.5 747 l 1
+ 652.5 747 l 1
+ 652.5 696 l 1
+ 572.5 696 l 1
+EndSplineSet
+Validated: 3073
+EndChar

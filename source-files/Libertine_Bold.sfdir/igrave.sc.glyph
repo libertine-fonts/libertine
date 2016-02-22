@@ -1,0 +1,13 @@
+StartChar: igrave.sc
+Encoding: 57468 57468 1857
+Width: 364
+VWidth: 999
+Flags: W
+HStem: -2 34<36.77 100.263 263.737 327.23> 428 34<36.77 100.263 263.737 327.23>
+VStem: 117 130<44.1062 415.894>
+LayerCount: 2
+Fore
+Refer: 1828 57433 N 1 0 0 1 0 0 3
+Refer: 669 768 S 1 0 0 1 288 0 2
+Validated: 32769
+EndChar

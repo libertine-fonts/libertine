@@ -1,0 +1,22 @@
+StartChar: grave.cap
+Encoding: 58200 58200 2267
+Width: 0
+VWidth: 999
+Flags: W
+HStem: 571 120
+VStem: -293 212
+AnchorPoint: "top_akzent" -175 691 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-229 830 m 1
+ -254 818 -281 796 -294 775 c 1
+ -291 763 l 1
+ -147 705 l 2
+ -133 699 -121 698 -112 698 c 3
+ -103 698 -92 705 -92 713 c 3
+ -92 720 -92 726 -102 734 c 0
+ -123 752 -189 802 -229 830 c 1
+EndSplineSet
+Validated: 3081
+EndChar

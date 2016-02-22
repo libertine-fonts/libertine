@@ -1,0 +1,71 @@
+StartChar: t
+Encoding: 116 116 300
+Width: 358
+VWidth: 999
+Flags: W
+HStem: -10 70<184.266 285.288> 384 50<28.2324 91 217 335.992>
+VStem: 88 130<66.9602 384 434 549.542>
+AnchorPoint: "unten_punkt" 192 -110 basechar 0
+AnchorPoint: "unten_anhang" 194 -3 basechar 0
+AnchorPoint: "ogonek" 266 15 basechar 0
+AnchorPoint: "mittelpunkt" 156 215 basechar 0
+AnchorPoint: "top_rechts" 308 580 basechar 0
+LayerCount: 2
+Back
+SplineSet
+63 434 m 2
+ 91 434.103 l 17
+ 91 513.5 95 540.5 101.957 550 c 0
+ 108.709 559.221 138 565 155 572.146 c 0
+ 170.706 578.749 208 589.834 215.301 589.834 c 0
+ 220.001 589.834 223 587.435 223 581 c 0
+ 223 581 219.959 534.619 218 468 c 2
+ 217 434 l 1
+ 334 434 l 2
+ 339 434 342 432 342 428 c 2
+ 342 397 l 2
+ 342 388 328 384 318 384 c 2
+ 217 384 l 1
+ 217 284 218 177 218 127 c 0
+ 218 77 240 60 262 60 c 3
+ 281.026 60 306 64 319 74 c 1
+ 331 64 337 58 337 46 c 1
+ 317 18 256.326 -10 201 -10 c 3
+ 177.393 -10 140.519 -1.34082 118 18 c 0
+ 96.6406 36.3457 88 70 88 105 c 3
+ 88 155 88.6667 283.333 91 384 c 1
+ 26 384 l 2
+ 22 384 21 385 21 390 c 2
+ 21 419 l 17
+ 33.667 430 49 433.949 63 434 c 2
+EndSplineSet
+Fore
+SplineSet
+91 434 m 5
+ 91 513.5 95 540.5 101.957 550 c 0
+ 108.709 559.221 132 565 155 572.146 c 0
+ 171.27 577.201 208 589.834 215.301 589.834 c 0
+ 220.001 589.834 223 587.435 223 581 c 0
+ 223 581 219.959 534.619 218 468 c 2
+ 217 434 l 1
+ 341 434 l 1
+ 349 422 343 392 329 384 c 9
+ 217 384 l 1
+ 217 284 218 177 218 127 c 0
+ 218 77 237.979 60 262 60 c 3
+ 281.026 60 306 65 319 74 c 1
+ 328.667 68.6667 336 58 337 46 c 1
+ 303 14.3333 247 -10 201 -10 c 3
+ 167.532 -10 141.519 -1.34082 119 18 c 0
+ 97.6406 36.3457 88 66.6667 88 105 c 3
+ 88 155 88.6667 283.333 91 384 c 5
+ 22 384 l 21
+ 19 386 17 389 17 394 c 5
+ 23 409 43 431 50 434 c 13
+ 91 434 l 5
+EndSplineSet
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" t.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" t.superior
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" t.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" t.sc
+EndChar

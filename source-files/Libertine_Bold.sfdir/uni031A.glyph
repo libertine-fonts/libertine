@@ -1,0 +1,23 @@
+StartChar: uni031A
+Encoding: 794 794 1426
+Width: 0
+VWidth: 999
+Flags: W
+TeX: 57 0
+HStem: 667 39<-365.712 -174>
+VStem: -174 39<544.115 667>
+AnchorPoint: "top_rechts" 18 580 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-135 552 m 1
+ -152 530 -155 532 -174 548 c 1
+ -174 667 l 1
+ -364 667 l 1
+ -385 683 -387 683 -357 706 c 1
+ -146 706 l 1
+ -135 694 l 1
+ -135 552 l 1
+EndSplineSet
+Validated: 3105
+EndChar

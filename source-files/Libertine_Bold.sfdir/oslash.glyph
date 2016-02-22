@@ -1,0 +1,20 @@
+StartChar: oslash
+Encoding: 248 248 393
+Width: 567
+VWidth: 999
+Flags: W
+HStem: -10 42<241.991 339.727> 402 42<216.57 316.912> 453 20G<434.564 458.643>
+VStem: 42 140<112.736 315.973> 379 140<115.701 321.741>
+LayerCount: 2
+Fore
+SplineSet
+451 473 m 5
+ 466.287 469.997 475.971 466.561 485 449 c 1
+ 92 -31 l 1
+ 77.334 -25.334 68.334 -18.666 59 -4 c 5
+ 451 473 l 5
+EndSplineSet
+Refer: 295 111 N 1 0 0 1 5 0 2
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" oslash.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" oslash.sc
+EndChar

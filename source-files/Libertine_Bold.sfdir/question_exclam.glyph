@@ -1,0 +1,14 @@
+StartChar: question_exclam
+Encoding: 8264 8264 1067
+Width: 615
+VWidth: 487
+Flags: W
+HStem: -10 132<188.613 279.375> -8 132<475.613 566.375> 465 21<102.5 129> 616 42<173.545 284.804> 640 20<517 544.667>
+VStem: 63 101<493.194 573.911> 168 132<10.5438 101.387> 208 44<205.61 302.623> 311 119<443.876 589.762> 455 132<12.5438 103.387 409.276 643.982> 502 44<208.074 382.961>
+LayerCount: 2
+Fore
+Refer: 0 33 S 1 0 0 1 388 2 2
+Refer: 22 63 N 1 0 0 1 0 0 2
+Ligature2: "LinLibertine-'liga' Standardligaturen 1" question exclam
+LCarets2: 1 392
+EndChar

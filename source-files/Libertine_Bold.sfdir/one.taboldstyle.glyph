@@ -1,0 +1,13 @@
+StartChar: one.taboldstyle
+Encoding: 57625 57625 2197
+Width: 514
+Flags: W
+HStem: -2 34<112.617 191.874 380.126 459.383> 427 20<337 346.5>
+VStem: 221 130<54.7283 328.997>
+LayerCount: 2
+Fore
+Refer: 1376 57377 S 1 0 0 1 34 0 2
+Validated: 32769
+Substitution2: "'lnum' Versalziffern 1" one
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" one.oldstyle
+EndChar

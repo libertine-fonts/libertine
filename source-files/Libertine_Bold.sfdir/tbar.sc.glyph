@@ -1,0 +1,18 @@
+StartChar: tbar.sc
+Encoding: 57516 57516 2142
+Width: 578
+VWidth: 999
+Flags: W
+HStem: -2 34<139.77 213.785 376.215 450.23> 215 39<158 431> 420 40<103.354 221.079 364.415 475.901>
+VStem: 232 126<46.4088 411.269>
+LayerCount: 2
+Fore
+SplineSet
+431 254 m 5
+ 431 215 l 5
+ 158 215 l 1
+ 158 254 l 1
+ 431 254 l 5
+EndSplineSet
+Refer: 1838 57444 N 1 0 0 1 0 0 3
+EndChar

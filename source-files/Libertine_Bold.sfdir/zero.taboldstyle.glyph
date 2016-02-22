@@ -1,0 +1,24 @@
+StartChar: zero.taboldstyle
+Encoding: 57624 57624 2196
+Width: 514
+Flags: W
+HStem: -10 42<208.056 306.562> 402 42<204.828 309.168>
+VStem: 39 140<97.3988 329.752> 335 140<97.3988 338.282>
+LayerCount: 2
+Fore
+SplineSet
+257 444 m 3
+ 405 444 475 369 475 221 c 3
+ 475 52 393 -10 257 -10 c 3
+ 125 -10 39 52 39 221 c 3
+ 39 371 129 444 257 444 c 3
+257 402 m 3
+ 182.6 402 179 339 179 221 c 3
+ 179 108 179.6 32 257 32 c 3
+ 334.6 32 335 108 335 221 c 3
+ 335 334 334.6 402 257 402 c 3
+EndSplineSet
+Validated: 3073
+Substitution2: "'lnum' Versalziffern 1" zero
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" zero.oldstyle
+EndChar

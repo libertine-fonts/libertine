@@ -1,0 +1,24 @@
+StartChar: seveneighths
+Encoding: 8542 8542 1133
+Width: 660
+VWidth: 999
+Flags: W
+HStem: -139 28<491.17 564.236> 195 26<497.657 564.212> 581 20G<518.015 574> 603 60<91.8158 229.909>
+VStem: 38 31<545.548 572.318> 91 67<313 360.96> 394 73<-94.564 0.0279007> 415 70<123.85 180.546> 577 63<109.875 189.549> 583 84<-85.476 -3.0641>
+DStem2: 74 -54 115 -62 0.573882 0.818938<16.9776 799.242> 548 99 476 48 0.854616 -0.51926<-86.1355 -31.4477 34.7364 101.326>
+LayerCount: 2
+Fore
+SplineSet
+532 601 m 1xfc
+ 574 593 l 5
+ 115 -62 l 5
+ 74 -54 l 1
+ 532 601 l 1xfc
+EndSplineSet
+Refer: 1076 8311 N 1 0 0 1 1 -48 2
+Refer: 1093 8328 N 1 0 0 1 358 32 2
+Validated: 35841
+Ligature2: "LinLibertine-'frac' Brueche 1" seven fraction eight
+Ligature2: "LinLibertine-'frac' Brueche 1" seven slash eight
+LCarets2: 2 0 0
+EndChar

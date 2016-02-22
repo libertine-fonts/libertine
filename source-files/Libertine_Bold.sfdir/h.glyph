@@ -1,0 +1,81 @@
+StartChar: h
+Encoding: 104 104 288
+Width: 619
+Flags: W
+HStem: -2 34<19.77 83.2627 243.609 290.23 337.77 384.004 544.737 608.23> 370 74<318.782 439> 640 32<29.1436 89.8851> 678 20G<198.5 221.5>
+VStem: 100 130<44.1062 345.086 374 633.337> 398 130<44.1813 351.535>
+AnchorPoint: "unten_punkt" 259 -110 basechar 0
+AnchorPoint: "ogonek" 423 10 basechar 0
+AnchorPoint: "mittelpunkt" 264 215 basechar 0
+AnchorPoint: "top_akzent" 299 645 basechar 0
+AnchorPoint: "top_rechts" 429 580 basechar 0
+LayerCount: 2
+Back
+SplineSet
+528 128 m 2xf6
+ 528 44 544 35 605 32 c 1
+ 611 26 611 4 605 -2 c 1
+ 562 -1 518.386 0 463 0 c 27
+ 415.414 0 383 -1 341 -2 c 1
+ 335 4 335 26 341 32 c 1
+ 382 35 398 44 398 128 c 2
+ 398 265 l 2
+ 398 352 368 370 328 370 c 3
+ 298.996 370 264 352.333 227 331 c 1
+ 227 372 l 17
+ 250.238 387.54 295.667 412.333 326.333 426.493 c 0
+ 349.966 437.405 373.333 444 396 444 c 3
+ 482 444 528 394 528 284 c 2
+ 528 128 l 2xf6
+100 127 m 2xfa
+ 100 565 l 2
+ 100 633.588 95 635 32 640 c 1
+ 27 649 26 660 29 672 c 1
+ 100 675 180 686 217 698 c 1
+ 226 698 233 694 233 685 c 1
+ 233 685 230 648 230 583 c 2
+ 230 127 l 2
+ 230 44 245 35 287 32 c 1
+ 293 26 293 4 287 -2 c 1
+ 244 -1 212.586 0 165 0 c 27
+ 109.614 0 65 -1 23 -2 c 1
+ 17 4 17 26 23 32 c 1
+ 84 35 100 44 100 127 c 2xfa
+EndSplineSet
+Fore
+SplineSet
+100 127 m 2
+ 100 565 l 2
+ 100 634 95 635 32 640 c 1
+ 27 649 26 660 29 672 c 1
+ 100 675 180 686 217 698 c 1
+ 226 698 233 694 233 685 c 2
+ 233 685 230 648 230 583 c 2
+ 230 374 l 1
+ 254 390 297 412 326 426 c 0
+ 350 437 373 444 396 444 c 0
+ 482 444 528 394 528 284 c 2
+ 528 128 l 2
+ 528 44 544 35 605 32 c 1
+ 611 26 611 4 605 -2 c 1
+ 562 -1 518 0 463 0 c 0
+ 415 0 383 -1 341 -2 c 1
+ 335 4 335 26 341 32 c 1
+ 382 35 398 44 398 128 c 2
+ 398 265 l 2
+ 398 352 368 370 328 370 c 0
+ 300 370 266 354 230 333 c 1
+ 230 127 l 2
+ 230 44 245 35 287 32 c 1
+ 293 26 293 4 287 -2 c 1
+ 244 -1 213 0 165 0 c 0
+ 110 0 65 -1 23 -2 c 1
+ 17 4 17 26 23 32 c 1
+ 84 35 100 44 100 127 c 2
+EndSplineSet
+Substitution2: "LinLibertine-'salt' Stilistische Alternativformen 1" h.alt
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" h.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" h.superior
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" h.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" h.sc h.alt
+EndChar

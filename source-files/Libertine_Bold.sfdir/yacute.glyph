@@ -1,0 +1,14 @@
+StartChar: yacute
+Encoding: 253 253 395
+Width: 568
+VWidth: 999
+Flags: W
+HStem: -232 98<105.266 201.239> 402 34<6.77002 59.52 218.453 267.23 377.77 430.434 515.585 561.23>
+AnchorPoint: "top_akzent" 255 834 basechar 0
+LayerCount: 2
+Fore
+Refer: 670 769 S 1 0 0 1 467 0 2
+Refer: 305 121 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" yacute.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" yacute.sc
+EndChar

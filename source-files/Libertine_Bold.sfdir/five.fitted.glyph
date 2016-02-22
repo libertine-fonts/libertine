@@ -1,0 +1,25 @@
+StartChar: five.fitted
+Encoding: 57365 57365 1460
+Width: 497
+VWidth: 487
+Flags: W
+HStem: -10 44<183.942 270.402> 338 56<139.952 274.102> 508 92<157.148 412.888> 514 99<154.618 242.085 246.796 301.01 304.675 418>
+VStem: 311 136<118.328 295.998>
+LayerCount: 2
+Back
+SplineSet
+46.875 578.125 m 29
+ 347.168 578.125 l 1053
+0 572.012 m 5
+ 438.965 572.012 l 5
+ 438.965 0 l 5
+ 0 0 l 5
+ 0 572.012 l 5
+EndSplineSet
+Fore
+Refer: 14 53 S 1 0 0 1 -12 0 2
+Validated: 32769
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" five.oldstyle
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" five
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" five five.oldstyle
+EndChar

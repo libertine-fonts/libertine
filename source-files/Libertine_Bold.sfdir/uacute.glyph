@@ -1,0 +1,15 @@
+StartChar: uacute
+Encoding: 250 250 39
+Width: 598
+VWidth: 999
+Flags: W
+HStem: -10 74<172 304.754> 23 32<527.156 576.438> 402 34<18.77 71.7019 309.77 363.604>
+VStem: 89 130<80.3544 390.242> 380 130<81.8398 389.887>
+AnchorPoint: "top_akzent" 255 834 basechar 0
+LayerCount: 2
+Fore
+Refer: 670 769 S 1 0 0 1 449 0 2
+Refer: 301 117 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" uacute.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" uacute.sc
+EndChar

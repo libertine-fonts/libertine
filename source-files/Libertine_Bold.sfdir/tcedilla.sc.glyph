@@ -1,0 +1,13 @@
+StartChar: tcedilla.sc
+Encoding: 57515 57515 2141
+Width: 578
+VWidth: 999
+Flags: W
+HStem: -216 29<217.203 316.52> -2 34<139.77 213.785 376.215 450.23> 420 40<103.354 221.079 364.415 475.901>
+VStem: 232 126<46.4088 411.269> 327 62.865<-178.416 -115.388>
+LayerCount: 2
+Fore
+Refer: 335 184 S 1 0 0 1 2 -1 2
+Refer: 1838 57444 N 1 0 0 1 0 0 3
+Substitution2: "'locl' Localized Forms Romaenisch 1" uni021B.sc
+EndChar

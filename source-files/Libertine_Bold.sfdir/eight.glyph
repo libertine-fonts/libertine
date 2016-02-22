@@ -1,0 +1,52 @@
+StartChar: eight
+Encoding: 56 56 2151
+Width: 514
+VWidth: 487
+Flags: W
+HStem: -10 40<192.398 317.663> 575 35<206.429 309.4>
+VStem: 34 123<70.0284 222.702> 65 123<425.243 533.823> 335 116<409.612 548.013> 356 124<89.7237 222.183>
+DStem2: 246 397 161 330 0.878763 -0.477259<-68.2254 -19.0146 19.2594 63.4092 105.588 176.824>
+LayerCount: 2
+Back
+SplineSet
+46.875 610.125 m 29
+ 477.168 610.125 l 1053
+-10 600.012 m 5
+ 523.965 600.012 l 5
+ 523.965 0 l 5
+ -10 0 l 5
+ -10 600.012 l 5
+EndSplineSet
+Fore
+SplineSet
+252 30 m 3xe4
+ 295 30 356 47 356 143 c 3
+ 356 191 349 229 277 267 c 2
+ 223 296 l 1
+ 154 248 157 177 157 147 c 3
+ 157 58 199 30 252 30 c 3xe4
+451 477 m 3xd8
+ 451 413 398 364 339 347 c 1
+ 395 314 l 2
+ 453.146 279.735 480 222 480 163 c 3
+ 480 86 406 -10 250 -10 c 3
+ 123 -10 34 43 34 147 c 3xe4
+ 34 224 87 272 182 319 c 1
+ 161 330 l 2
+ 87.7989 368.343 65 403 65 460 c 3
+ 65 538 124.968 610 267 610 c 3
+ 398 610 451 550 451 477 c 3xd8
+260 575 m 3
+ 196 575 188 536 188 489 c 3
+ 188 458 196.361 422.812 246 397 c 2
+ 296 371 l 1
+ 328 391 335 436 335 479 c 3xd8
+ 335 520 330 575 260 575 c 3
+EndSplineSet
+Validated: 3105
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" eight.taboldstyle
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" eight.fitted
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" eight.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" eight.superior
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" eight.oldstyle eight.superior eight.fitted
+EndChar

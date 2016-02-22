@@ -1,0 +1,32 @@
+StartChar: one.oldstyle
+Encoding: 57377 57377 1376
+Width: 450
+Flags: W
+TeX: 38 0
+HStem: -2 34<78.6167 157.874 346.126 425.383> 427 20G<303 312.5>
+VStem: 187 130<54.7283 328.997>
+LayerCount: 2
+Fore
+SplineSet
+317 122 m 2
+ 317 39 365 35 420 32 c 1
+ 430 26 430 4 420 -2 c 1
+ 338 -1 293 0 253 0 c 0
+ 213 0 84 -2 84 -2 c 1
+ 74 4 74 26 84 32 c 1
+ 139 35 187 39 187 122 c 2
+ 187 275 l 2
+ 187 325 181 329 168 329 c 0
+ 154 329 128 327 74 304 c 1
+ 60 314 52.8379 327.414 52 344 c 1
+ 139 380 197 404 258 432 c 0
+ 281 443 298 447 308 447 c 0
+ 317 447 325 443 325 430 c 1
+ 325 430 317 373 317 320 c 2
+ 317 122 l 2
+EndSplineSet
+Validated: 3105
+Substitution2: "'lnum' Versalziffern 1" one.fitted
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" one.taboldstyle
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" one one.fitted
+EndChar

@@ -1,0 +1,21 @@
+StartChar: a.alt
+Encoding: 57373 57373 1370
+Width: 1000
+TeX: 78 0
+LayerCount: 2
+Back
+SplineSet
+96 1184 m 25
+ 711 1184 l 1049
+0 1171.48 m 1
+ 899 1171.48 l 1
+ 899 0 l 1
+ 0 0 l 1
+ 0 1171.48 l 1
+0 888 m 1
+ 918 888 l 1
+ 918 -293 l 1
+ 0 -293 l 1
+ 0 888 l 1
+EndSplineSet
+EndChar

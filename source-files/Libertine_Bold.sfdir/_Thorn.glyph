@@ -1,0 +1,28 @@
+StartChar: Thorn
+Encoding: 222 222 373
+Width: 616
+VWidth: 999
+Flags: W
+HStem: -2 34<25.6167 94.4056 273.594 342.383> 150 41<251.599 387.01> 482 41<251 392.841> 613 34<25.6167 94.4056 273.594 342.383>
+VStem: 114 140<47 598> 431 151<263.886 426.482>
+AnchorPoint: "top_akzent" 281 850 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+251 195 m 17
+ 260 193 284 191 322 191 c 3
+ 394 191 431 233.995 431 343 c 3
+ 431 430.693 400 482 340 482 c 3
+ 321 482 273 482 251 477 c 9
+ 251 521 l 1
+ 288 523 334 523 352 523 c 3
+ 537 523 582 414 582 343 c 3
+ 582 268 516 150 339 150 c 3
+ 303 150 267 151 251 157 c 1
+ 251 195 l 17
+EndSplineSet
+Refer: 258 73 N 1 0 0 1 0 0 2
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" thorn.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" thorn.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

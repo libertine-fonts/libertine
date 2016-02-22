@@ -1,0 +1,18 @@
+StartChar: uni2216
+Encoding: 8726 8726 1208
+Width: 527
+VWidth: 487
+Flags: W
+HStem: 0 21G<450.328 516> 553 20G<17 81.7068>
+DStem2: 66 573 17 573 0.61764 -0.786461<0 697.698>
+LayerCount: 2
+Fore
+SplineSet
+466 0 m 1
+ 17 573 l 1
+ 66 573 l 1
+ 516 0 l 1
+ 466 0 l 1
+EndSplineSet
+Validated: 3073
+EndChar

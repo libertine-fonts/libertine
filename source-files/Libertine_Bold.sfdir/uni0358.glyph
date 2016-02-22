@@ -1,0 +1,21 @@
+StartChar: uni0358
+Encoding: 856 856 1684
+Width: 79
+VWidth: 487
+Flags: MW
+HStem: 588 104<-55.4581 27.4581>
+VStem: -66 104<598.542 681.458>
+AnchorPoint: "komb_OR" -66 588 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-66 640 m 3
+ -66 668 -42 692 -14 692 c 3
+ 14 692 38 668 38 640 c 3
+ 38 612 14 588 -14 588 c 3
+ -42 588 -66 612 -66 640 c 3
+EndSplineSet
+Validated: 3073
+Comment: "Alternative Akzente fuer Grossbuchstaben"
+Colour: ffffff
+EndChar

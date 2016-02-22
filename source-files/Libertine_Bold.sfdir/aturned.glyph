@@ -1,0 +1,14 @@
+StartChar: aturned
+Encoding: 592 592 627
+Width: 456
+VWidth: 999
+Flags: W
+HStem: -14 42<199.195 290.577> 370 70<3.07538 111> 380 60<229.805 314.06>
+VStem: 46 126<55.0669 173 212 360.216> 286.55 113.9<46.5346 132.541> 298 120<273.045 368.912>
+AnchorPoint: "unten_punkt" 229 -114 basechar 0
+LayerCount: 2
+Fore
+Refer: 281 97 N -1 0 0 -1 462 430 2
+Comment: "Anfang{IPA Extensions}"
+Colour: ff0000
+EndChar

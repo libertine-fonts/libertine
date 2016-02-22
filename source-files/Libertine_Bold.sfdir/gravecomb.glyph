@@ -1,0 +1,21 @@
+StartChar: gravecomb
+Encoding: 768 768 669
+Width: 0
+VWidth: 999
+Flags: HMW
+AnchorPoint: "top_akzent" -142 683 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-136 674 m 1
+ -67 550 l 2
+ -63 543 -58 532 -58 524 c 3
+ -58 515 -66 508 -75 508 c 3
+ -83 508 -93 513 -110 528 c 2
+ -231 633 l 1
+ -229 644 l 1
+ -221 653 -192 676 -156 676 c 3
+ -151 676 -140 675 -136 674 c 1
+EndSplineSet
+Validated: 3073
+EndChar

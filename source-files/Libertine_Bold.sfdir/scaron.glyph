@@ -1,0 +1,17 @@
+StartChar: scaron
+Encoding: 353 353 467
+Width: 427
+VWidth: 999
+Flags: W
+HStem: -10 39<151.116 249.005> 402 42<183.041 270.954>
+VStem: 48 40<101.16 147.651> 63 113<304.373 377.234> 261 116<55.38 134.594> 318 39<310.247 346.382>
+AnchorPoint: "unten_punkt" 183 -110 basechar 0
+AnchorPoint: "unten_anhang" 189 -2 basechar 0
+AnchorPoint: "top_akzent" 194 795 basechar 0
+LayerCount: 2
+Fore
+Refer: 1964 115 N 1 0 0 1 0 0 3
+Refer: 657 711 S 1 0 0 1 20 0 2
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" scaron.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" scaron.sc
+EndChar

@@ -1,0 +1,13 @@
+StartChar: quotedblleft
+Encoding: 8220 8220 1054
+Width: 440
+VWidth: 999
+Flags: W
+HStem: 439 121<121.206 170.994 308.206 357.994> 702 31<184.204 213.785 371.204 400.785>
+VStem: 44 74<521 629.778> 231 74<521 629.778>
+LayerCount: 2
+Fore
+Refer: 254 44 N -1 0 0 -1 430 566 2
+Refer: 254 44 N -1 0 0 -1 243 566 2
+Validated: 32769
+EndChar

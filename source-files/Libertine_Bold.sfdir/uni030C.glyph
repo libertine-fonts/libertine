@@ -1,0 +1,19 @@
+StartChar: uni030C
+Encoding: 780 780 676
+Width: 0
+VWidth: 999
+Flags: HMW
+AnchorPoint: "top_akzent" -198 676 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-167 529 m 1
+ -217 529 l 1
+ -246 575 -284 618.333 -319 658 c 1
+ -295 676 l 1
+ -256 649 -230 630 -193 592 c 1
+ -159 628 -129 649 -90 676 c 1
+ -66 658 l 1
+ -102 618 -138 576 -167 529 c 1
+EndSplineSet
+EndChar

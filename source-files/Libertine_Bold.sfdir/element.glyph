@@ -1,0 +1,29 @@
+StartChar: element
+Encoding: 8712 8712 1356
+Width: 506
+VWidth: 1147
+Flags: W
+TeX: 49 0
+HStem: 0 57<220.188 462> 258 56<99 453> 515 57<220.961 462>
+VStem: 29 70<189.247 258 314 389.652>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+462 0 m 1
+ 312 0 l 2
+ 153 0 29 132 29 286 c 0
+ 29 441 155 572 312 572 c 2
+ 462 572 l 1
+ 462 515 l 1
+ 307 515 l 2
+ 191 515 112 422 99 314 c 1
+ 453 314 l 1
+ 453 258 l 1
+ 99 258 l 1
+ 114 144 203 57 307 57 c 2
+ 462 57 l 1
+ 462 0 l 1
+EndSplineSet
+Validated: 3073
+EndChar

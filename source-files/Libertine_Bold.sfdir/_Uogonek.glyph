@@ -1,0 +1,17 @@
+StartChar: Uogonek
+Encoding: 370 370 484
+Width: 732
+VWidth: 999
+Flags: W
+HStem: -207 70<432 535.283> -10 42<317.802 491.729> 613 34<6.77002 72.0797 242.899 322.23 485.77 563.312 662.375 726.23>
+VStem: 87 140<124.668 600.619> 365 102<-134.061 -62.5759> 581 65<145.386 598.444>
+AnchorPoint: "unten_punkt" 188 -110 basechar 0
+AnchorPoint: "unten_anhang" 328 4 basechar 0
+AnchorPoint: "mittelpunkt" 336 321 basechar 0
+AnchorPoint: "top_akzent" 346 850 basechar 0
+LayerCount: 2
+Fore
+Refer: 666 731 N 1 0 0 1 308 17 2
+Refer: 270 85 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

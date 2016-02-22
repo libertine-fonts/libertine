@@ -1,0 +1,15 @@
+StartChar: uni02EE
+Encoding: 750 750 1414
+Width: 378
+VWidth: 999
+Flags: W
+TeX: 57 0
+HStem: 449 28<43.3716 74.6797> 451 28<198.372 229.68> 553 83<54.251 108.724> 555 83<209.251 263.724>
+VStem: 109 61<499.808 589.5> 264 61<501.808 591.5>
+LayerCount: 2
+Fore
+Refer: 1430 789 N 1 0 0 1 193 -19 2
+Refer: 1430 789 N 1 0 0 1 348 -17 2
+Validated: 32769
+Colour: ff00ff
+EndChar

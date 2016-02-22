@@ -1,0 +1,15 @@
+StartChar: itilde
+Encoding: 297 297 61
+Width: 322
+VWidth: 999
+Flags: HW
+HStem: -2 34<26.77 89.8255 244.175 307.23> 384 32<35.5625 87.8438> 424 20<198.5 220> 519 70<148.559 239.914> 557 71<52.6726 142.32>
+VStem: 16.8 23.4<521.865 543.979> 102 130<41.4929 375.312> 251.7 25.2<609.298 625.118>
+AnchorPoint: "unten_punkt" 136 -110 basechar 0
+AnchorPoint: "unten_anhang" 142 -2 basechar 0
+AnchorPoint: "top_akzent" 139 795 basechar 0
+LayerCount: 2
+Fore
+Refer: 667 732 N 0.9 0 0 1 6 0 2
+Refer: 419 305 N 1 0 0 1 0 0 3
+EndChar

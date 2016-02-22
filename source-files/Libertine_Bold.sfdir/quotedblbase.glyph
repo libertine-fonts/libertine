@@ -1,0 +1,12 @@
+StartChar: quotedblbase
+Encoding: 8222 8222 1056
+Width: 440
+VWidth: 999
+Flags: W
+HStem: -131 31<39.2153 68.7959 226.215 255.796> 42 121<82.0058 131.794 269.006 318.794>
+VStem: 135 74<-27.7781 81> 322 74<-27.7781 81>
+LayerCount: 2
+Fore
+Refer: 1054 8220 N -1 0 0 -1 440 602 2
+Validated: 32769
+EndChar

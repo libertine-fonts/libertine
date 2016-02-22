@@ -1,0 +1,15 @@
+StartChar: Idieresis
+Encoding: 207 207 358
+Width: 367
+Flags: W
+HStem: -2 34<25.6167 94.4056 273.594 342.383> 613 34<25.6167 94.4056 273.594 342.383> 710 113<46.613 135.387 233.997 322.771>
+VStem: 35 112<721.613 811.003> 114 140<47 598> 222 112<721.613 811.003>
+AnchorPoint: "top_akzent" 148 894 basechar 0
+LayerCount: 2
+Fore
+Refer: 258 73 S 1 0 0 1 0 0 3
+Refer: 2257 58210 S 1 0 0 1 423 0 2
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" idieresis.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" idieresis.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

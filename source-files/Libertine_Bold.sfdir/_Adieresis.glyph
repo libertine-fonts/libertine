@@ -1,0 +1,30 @@
+StartChar: Adieresis
+Encoding: 196 196 347
+Width: 740
+VWidth: 999
+Flags: W
+HStem: -2 34<3.77002 69.5762 167.992 237.23 421.77 500.035 664.842 733.23> 235 48<250.587 425> 638 20<426.5 441.203> 641 113<178.613 267.387 495.997 584.771>
+VStem: 167 112<652.613 742.003> 484 112<652.613 742.003>
+DStem2: 106.983 102 165 79 0.390001 0.920814<-25.5008 179.412 231.412 451.365> 323.835 614 336.175 520 0.390001 0.920814<-540.408 -382.79 -329.399 -81.7439> 434 658 343.096 520 0.338836 -0.940845<99.0351 349.768 401.027 600.306>
+AnchorPoint: "top_akzent" 362 894 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+484 697 m 4xdc
+ 484 729 509 754 541 754 c 4
+ 573 754 596 729 596 697 c 4
+ 596 665 573 641 541 641 c 4
+ 509 641 484 665 484 697 c 4xdc
+167 697 m 4
+ 167 729 191 754 223 754 c 4
+ 255 754 279 729 279 697 c 4
+ 279 665 255 641 223 641 c 4
+ 191 641 167 665 167 697 c 4
+EndSplineSet
+Refer: 24 65 N 1 0 0 1 0 0 3
+Validated: 35841
+Substitution2: "LinLibertine-'ss01' Stilgruppe 1 1" Adieresis.alt
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" adieresis.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" adieresis.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

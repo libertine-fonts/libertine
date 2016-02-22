@@ -1,0 +1,23 @@
+StartChar: onenumerator
+Encoding: 8543 8543 1134
+Width: 352
+VWidth: 999
+Flags: W
+HStem: 315 30<65.5037 125.126 236.861 284.153> 581 20G<518.015 574>
+VStem: 139 88<353.951 591.993>
+DStem2: 74 -54 115 -62 0.573882 0.818938<16.9776 799.242>
+LayerCount: 2
+Fore
+SplineSet
+532 601 m 1
+ 574 593 l 1
+ 115 -62 l 1
+ 74 -54 l 1
+ 532 601 l 1
+EndSplineSet
+Refer: 336 185 N 1 0 0 1 -10 -48 2
+Validated: 35841
+Ligature2: "LinLibertine-'frac' Brueche 1" one fraction
+Ligature2: "LinLibertine-'frac' Brueche 1" one slash
+LCarets2: 1 0
+EndChar

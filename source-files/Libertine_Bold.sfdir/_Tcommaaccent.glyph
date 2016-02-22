@@ -1,0 +1,14 @@
+StartChar: Tcommaaccent
+Encoding: 538 538 607
+Width: 652
+VWidth: 999
+Flags: W
+HStem: -250 28<267.372 298.68> -146 83<278.251 332.724> -2 34<164.77 247.807 422.193 505.23> 604 41<92.255 252.482 417.34 557.54>
+VStem: 3 39<501.917 547.732> 265 140<45.3649 595.442> 333 61<-199.192 -109.5> 607 39<504.917 551.486>
+LayerCount: 2
+Fore
+Refer: 680 806 S 1 0 0 1 576 -12 2
+Refer: 269 84 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" tcommaaccent.sc
+LCarets2: 1 0
+EndChar

@@ -1,0 +1,14 @@
+StartChar: Rcaron
+Encoding: 344 344 458
+Width: 716
+VWidth: 999
+Flags: W
+HStem: -10 42<647.495 706.501> -2 34<25.6167 94.4056 273.594 342.383 653.026 708.117> 282.992 42.008<254 346.413> 613 34<25.6167 94.4056> 613 41<152.006 405.09> 698 136
+VStem: 114 140<47 282.992 325 596.869> 189 277 455 151<399.768 562.042>
+LayerCount: 2
+Fore
+Refer: 2270 58203 S 1 0 0 1 508 0 2
+Refer: 267 82 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" rcaron.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

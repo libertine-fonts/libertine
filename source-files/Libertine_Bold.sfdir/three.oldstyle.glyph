@@ -1,0 +1,14 @@
+StartChar: three.oldstyle
+Encoding: 57379 57379 1463
+Width: 504
+VWidth: 488
+Flags: HW
+HStem: -176 42<171.66 282.732> 133 40<149.581 204.299> 402 42<173.591 289.226>
+VStem: 53 100<294.229 373.279> 302.862 118.138<263.848 389.444> 330 129<-37.7928 94.312>
+LayerCount: 2
+Fore
+Refer: 12 51 N 1 0 0 1 -8 -166 2
+Substitution2: "'lnum' Versalziffern 1" three.fitted
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" three.taboldstyle
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" three three.fitted
+EndChar

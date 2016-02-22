@@ -1,0 +1,17 @@
+StartChar: parenright
+Encoding: 41 41 6
+Width: 315
+VWidth: 999
+Flags: W
+HStem: 696 21<28.25 160.5>
+VStem: 164 115<107.48 395.986>
+LayerCount: 2
+Fore
+Refer: 5 40 N -1 0 0 -1 315 504 2
+Validated: 32769
+Substitution2: "LinLibertine-'case' Versalformen 1" parenright.sc
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" parenright.sc
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" parenright.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" parenright.superior
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" parenright.sc
+EndChar

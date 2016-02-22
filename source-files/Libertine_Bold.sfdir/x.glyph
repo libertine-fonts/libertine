@@ -1,0 +1,56 @@
+StartChar: x
+Encoding: 120 120 1965
+Width: 556
+Flags: W
+HStem: -2 34<10.77 73.327 173.179 210.23 268.77 308.483 490.808 545.23> 402 34<22.77 76.3087 252.477 295.23 345.77 383.648 478.128 536.23>
+AnchorPoint: "unten_punkt" 224 -110 basechar 0
+AnchorPoint: "unten_anhang" 94 8 basechar 0
+AnchorPoint: "mittelpunkt" 237 215 basechar 0
+AnchorPoint: "top_akzent" 256 646 basechar 0
+AnchorPoint: "top_rechts" 469 580 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+180 73 m 2
+ 157.719 41.4951 188.5 35.5 207 32 c 1
+ 213 26 213 4 207 -2 c 1
+ 187 -1 139.907 0 97 0 c 27
+ 64.6211 0 34 -1 14 -2 c 1
+ 8 4 8 26 14 32 c 1
+ 43.5 36 87.501 47.4033 113 79 c 2
+ 205 193 l 18
+ 210.74 200.113 210.997 203.723 208 208 c 10
+ 119 335 l 2
+ 91.3086 374.515 71 402 26 402 c 1
+ 20 408 20 430 26 436 c 1
+ 46 435 102.854 434 152 434 c 27
+ 206.605 434 272 435 292 436 c 1
+ 298 430 298 408 292 402 c 1
+ 254 398 240.983 395.575 262 360 c 2
+ 306.75 284.25 l 2
+ 310.895 277.233 315.819 277.351 319.25 282.25 c 2
+ 373 359 l 2
+ 393.064 387.65 385 399 349 402 c 1
+ 343 408 343 430 349 436 c 1
+ 369 435 409.992 434 449 434 c 27
+ 481.77 434 513 435 533 436 c 1
+ 539 430 539 408 533 402 c 1
+ 502 398.5 465.693 386.605 438 353 c 2
+ 349 245 l 2
+ 346 241 342.509 235.174 348 227 c 2
+ 439 99 l 2
+ 472.585 51.7588 505 37.5 542 32 c 1
+ 548 26 548 4 542 -2 c 1
+ 522 -1 460.266 0 408 0 c 27
+ 354.954 0 292 -1 272 -2 c 1
+ 266 4 266 26 272 32 c 1
+ 306.5 37 318.978 40.582 300 72 c 2
+ 247.75 158.5 l 2
+ 245.058 163.548 244.535 164.225 241 159.25 c 2
+ 180 73 l 2
+EndSplineSet
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" x.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" x.superior
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" x.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" x.sc
+EndChar

@@ -1,0 +1,19 @@
+StartChar: Ecircumflex
+Encoding: 202 202 353
+Width: 609
+VWidth: 999
+Flags: W
+HStem: -2 34<11.77 85.9433> 0 42<249.172 454.205> 319 46<242 399.554> 603 42<249.747 438.219> 613 34<12.2578 85.9433> 698 136
+VStem: 102 140<48.1312 319 365 596.345> 177 277 414 43<252.086 303.875 376.375 431.914> 525 45<116.761 167.944>
+AnchorPoint: "unten_punkt" 279 -107 basechar 0
+AnchorPoint: "unten_anhang" 279 4 basechar 0
+AnchorPoint: "top_akzent" 296 894 basechar 0
+LayerCount: 2
+Fore
+Refer: 28 69 N 1 0 0 1 0 0 3
+Refer: 2269 58202 S 1 0 0 1 446 0 2
+Validated: 32769
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" ecircumflex.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" ecircumflex.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

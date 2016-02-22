@@ -1,0 +1,16 @@
+StartChar: aogonek
+Encoding: 261 261 403
+Width: 506
+Flags: W
+HStem: -232 70<346 449.283> -10 60<147.94 232.195> -10 70<351 458.925> 402 42<171.423 262.805>
+VStem: 44 120<61.088 156.955> 61.5498 113.9<297.459 383.465> 279 102<-159.061 -87.5759> 290 126<69.7837 218 257 374.933>
+AnchorPoint: "unten_punkt" 146 -108 basechar 0
+AnchorPoint: "unten_anhang" 167 -3 basechar 0
+AnchorPoint: "top_akzent" 209 645 basechar 0
+LayerCount: 2
+Fore
+Refer: 1442 808 S 1 0 0 1 630 0 2
+Refer: 281 97 N 1 0 0 1 0 0 2
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" aogonek.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" aogonek.sc
+EndChar

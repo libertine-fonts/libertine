@@ -1,0 +1,44 @@
+StartChar: Germandbls
+Encoding: 7838 7838 2154
+Width: 773
+VWidth: 488
+Flags: W
+HStem: -10 45<440.018 555.291> -2 34<9.6167 78.4056 254.185 296.383> 616 42<371.61 530.002>
+VStem: 98 140<47.125 428.318> 349 42<95.1141 155.391> 587 140<95.4232 258.681>
+LayerCount: 2
+Fore
+SplineSet
+98 123 m 2x7c
+ 98 295 l 2
+ 98 496 214 658 477 658 c 0
+ 538 658 623 648 681 629 c 1
+ 681 605 l 1
+ 534 369 l 2
+ 529 361 532 357 538 356 c 0
+ 639 350 727 276 727 181 c 0
+ 727 83 649 -10 518 -10 c 0
+ 485 -10 429 7 397 7 c 0
+ 389 7 381 7 370 6 c 1
+ 359.5 53 355.5 82 349 153 c 1
+ 361 158 373.599 159.009 391 156 c 1
+ 410 76 439 35 506 35 c 0xbc
+ 557 35 587 77 587 176 c 0
+ 587 212 591 320 434 320 c 0
+ 427 320 405 319 399 318 c 1
+ 393 348 l 1
+ 441 416 533 565 533 588 c 0
+ 533 603 501 616 458 616 c 0
+ 339 616 238 529 238 320 c 2
+ 238 123 l 2
+ 238 39 266 35 291 32 c 1
+ 301 26 301 4 291 -2 c 1
+ 250.667 -1 209 0 169 0 c 0
+ 129 0 55 -1 15 -2 c 1
+ 5 4 5 26 15 32 c 1
+ 70 35 98 38.9941 98 123 c 2x7c
+EndSplineSet
+Validated: 3105
+Substitution2: "LinLibertine-'ss03' Stilgruppe 3 1" Germandbls.alt
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" germandbls.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" Germandbls.alt
+EndChar

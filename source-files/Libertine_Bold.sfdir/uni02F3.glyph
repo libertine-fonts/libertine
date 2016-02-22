@@ -1,0 +1,13 @@
+StartChar: uni02F3
+Encoding: 755 755 2354
+Width: 234
+VWidth: 999
+Flags: W
+HStem: -200 27<85.321 149.091> -61 27<83.895 149.898>
+VStem: 30 37<-160.131 -73.56> 167 37<-159.909 -73.184>
+AnchorPoint: "unten_punkt" 116 -116 mark 0
+LayerCount: 2
+Fore
+Refer: 1415 778 N 1 0 0 1 299 -770 2
+Validated: 32769
+EndChar

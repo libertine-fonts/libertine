@@ -1,0 +1,15 @@
+StartChar: IJ
+Encoding: 306 306 420
+Width: 740
+VWidth: 999
+Flags: HW
+HStem: -187 59<380.5 489.696> -2 34<25.6167 94.4056 273.594 342.383> 613 34<25.6167 94.4056 273.594 342.383 407.77 490.807 662.92 728.23>
+VStem: 114 140<47 598> 508 140<-22.2492 599.635>
+LayerCount: 2
+Fore
+Refer: 259 74 N 1 0 0 1 367 0 2
+Refer: 258 73 N 1 0 0 1 0 0 2
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" ij.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" ij.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

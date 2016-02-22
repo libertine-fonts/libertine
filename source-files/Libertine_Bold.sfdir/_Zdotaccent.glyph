@@ -1,0 +1,14 @@
+StartChar: Zdotaccent
+Encoding: 379 379 493
+Width: 624
+VWidth: 999
+Flags: W
+HStem: -8 21<552 572> 0 44<208.684 493.191> 602 43<142.523 402.995> 633 20<71 91> 709 124<270.2 363.8>
+VStem: 42 39<478.917 529.438> 255 124<724.2 817.8> 563 39<126.175 174.083>
+DStem2: 28 38 213 72 0.568656 0.822575<114.375 672.078>
+LayerCount: 2
+Fore
+Refer: 2259 58212 S 1 0 0 1 170 0 2
+Refer: 275 90 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" zdotaccent.sc
+EndChar

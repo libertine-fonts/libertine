@@ -1,0 +1,58 @@
+StartChar: plus
+Encoding: 43 43 8
+Width: 537
+Flags: W
+HStem: 216 68<63.3813 241 308 496.619> 442 20G<273 292>
+VStem: 241 67<32.3972 216 284 457.603>
+LayerCount: 2
+Back
+SplineSet
+250 214 m 5
+ 75 214 l 6
+ 66 214 60 224 60 242 c 4
+ 60 267 73 286 85 286 c 6
+ 239 286 l 5
+ 239 435 l 6
+ 239 448 263 462 283 462 c 4
+ 301 462 310 458 310 448 c 6
+ 310 276 l 5
+ 485 276 l 6
+ 494 276 500 266 500 248 c 4
+ 500 223 487 204 475 204 c 6
+ 321 204 l 5
+ 321 55 l 6
+ 321 42 297 28 277 28 c 4
+ 259 28 250 32 250 42 c 6
+ 250 214 l 5
+-58.1055 268.555 m 25
+ 575.684 268.555 l 1049
+0 572.012 m 1
+ 537.598 572.012 l 1
+ 537.598 0 l 1
+ 0 0 l 1
+ 0 572.012 l 1
+EndSplineSet
+Fore
+SplineSet
+241 216 m 1
+ 75 216 l 2
+ 66 216 60 224 60 242 c 0
+ 60 267 73 284 85 284 c 2
+ 241 284 l 1
+ 241 435 l 2
+ 241 448 263 462 283 462 c 0
+ 301 462 308 458 308 448 c 2
+ 308 284 l 1
+ 485 284 l 2
+ 494 284 500 276 500 258 c 0
+ 500 233 487 216 475 216 c 2
+ 308 216 l 1
+ 308 55 l 2
+ 308 42 286 28 266 28 c 0
+ 248 28 241 32 241 42 c 2
+ 241 216 l 1
+EndSplineSet
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" plus.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" plus.superior
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" plus.superior plus.inferior uni2098
+EndChar

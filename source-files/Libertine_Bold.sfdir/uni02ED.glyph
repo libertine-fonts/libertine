@@ -1,0 +1,23 @@
+StartChar: uni02ED
+Encoding: 749 749 1413
+Width: 486
+VWidth: 999
+Flags: W
+TeX: 57 0
+LayerCount: 2
+Fore
+SplineSet
+482 719 m 1
+ 482 763 l 1
+ 5 763 l 1
+ 5 719 l 1
+ 482 719 l 1
+482 583 m 1
+ 482 626 l 1
+ 5 626 l 1
+ 5 583 l 1
+ 482 583 l 1
+EndSplineSet
+Validated: 3081
+Colour: ff00ff
+EndChar

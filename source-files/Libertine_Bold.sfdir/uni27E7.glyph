@@ -1,0 +1,27 @@
+StartChar: uni27E7
+Encoding: 10215 10215 2194
+Width: 454
+VWidth: 999
+Flags: W
+HStem: -200 49<7 154 227 284> 641 48<7 154 227 284>
+VStem: 154 73<-151 641> 284 73<-151 641>
+LayerCount: 2
+Fore
+SplineSet
+7 689 m 1
+ 357 689 l 5
+ 357 -200 l 1
+ 7 -200 l 1
+ 7 -151 l 1
+ 154 -151 l 1
+ 154 641 l 1
+ 7 641 l 1
+ 7 689 l 1
+227 -151 m 1
+ 284 -151 l 1
+ 284 641 l 1
+ 227 641 l 1
+ 227 -151 l 1
+EndSplineSet
+Validated: 3073
+EndChar

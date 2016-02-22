@@ -1,0 +1,13 @@
+StartChar: Omegainv
+Encoding: 8487 8487 1122
+Width: 666
+VWidth: 487
+Flags: W
+HStem: 41 42<286.259 462.456> 618 81<116.848 270 477 627.152>
+VStem: 54 151<221.468 410.079> 544 151<215.791 406.868>
+DStem2: 426 683 477 618 0.0830455 -0.996546<69.0108 131.51>
+LayerCount: 2
+Fore
+Refer: 1121 8486 N 1 0 0 -1 0 699 2
+Validated: 32793
+EndChar

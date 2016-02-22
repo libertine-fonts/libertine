@@ -1,0 +1,34 @@
+StartChar: i
+Encoding: 105 105 289
+Width: 322
+Flags: HW
+HStem: -2 34<26.77 89.8255 244.175 307.23> 384 32<35.5625 87.8438> 424 20<198.5 220> 528 131<113.375 212.698>
+VStem: 95 138<548.43 640.955> 102 130<41.4929 375.312>
+AnchorPoint: "unten_punkt" 136 -110 basechar 0
+AnchorPoint: "unten_anhang" 137 12 basechar 0
+AnchorPoint: "ogonek" 209 10 basechar 0
+AnchorPoint: "mittelpunkt" 142 215 basechar 0
+AnchorPoint: "top_akzent" 137 795 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-193 654 m 1
+ 438 654 l 1
+ 438 535 l 1
+ -193 535 l 1
+ -193 654 l 1
+-193 649 m 1
+ 438 649 l 1
+ 438 540 l 1
+ -193 540 l 1
+ -193 649 l 1
+EndSplineSet
+Fore
+Refer: 419 305 N 1 0 0 1 0 0 3
+Refer: 664 729 N 1 0 0 1 5 0 2
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" i.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" i.superior
+Substitution2: "'smcp' Gemeine nach Kapitaelchen i > idotaccent.sc" idotaccent.sc
+Substitution2: "'smcp' Gemeine nach Kapitaelchen i > i.sc 1" i.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" i.sc
+EndChar

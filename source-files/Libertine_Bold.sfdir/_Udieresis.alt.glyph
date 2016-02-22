@@ -1,0 +1,17 @@
+StartChar: Udieresis.alt
+Encoding: 57390 57390 1620
+Width: 732
+VWidth: 999
+Flags: W
+HStem: -10 42<317.802 491.729> 613 34<6.77002 72.0797 242.899 322.23 485.77 563.312 662.375 726.23> 711 113<257.613 346.387 444.997 533.771>
+VStem: 87 140<124.668 600.619> 246 112<722.613 812.003> 433 112<722.613 812.003> 581 65<145.386 598.444>
+LayerCount: 2
+Fore
+Refer: 270 85 N 1 0 0 1 0 0 3
+Refer: 2257 58210 S 1 0 0 1 634 1 2
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" udieresis.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" udieresis.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Comment: "Dies sind alternative Umlaute, die im Deutschen vorzuziehen sind."
+Colour: ffffff
+EndChar

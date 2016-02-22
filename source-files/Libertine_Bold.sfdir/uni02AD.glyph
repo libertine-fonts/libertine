@@ -1,0 +1,32 @@
+StartChar: uni02AD
+Encoding: 685 685 1681
+Width: 421
+VWidth: 999
+Flags: W
+HStem: 170 54<89 333> 508 54<89 333>
+VStem: 61 28<23 170 362 508> 333 28<23 170 362 508>
+LayerCount: 2
+Fore
+SplineSet
+361 23 m 1
+ 333 23 l 1
+ 333 170 l 1
+ 89 170 l 1
+ 89 23 l 1
+ 61 23 l 1
+ 61 224 l 1
+ 361 224 l 1
+ 361 23 l 1
+361 362 m 1
+ 333 362 l 1
+ 333 508 l 1
+ 89 508 l 1
+ 89 362 l 1
+ 61 362 l 1
+ 61 562 l 1
+ 361 562 l 1
+ 361 362 l 1
+EndSplineSet
+Validated: 3073
+Colour: ff0000
+EndChar

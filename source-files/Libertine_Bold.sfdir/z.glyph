@@ -1,0 +1,74 @@
+StartChar: z
+Encoding: 122 122 306
+Width: 452
+Flags: W
+HStem: 0 39<176 336.009> 394 42<117.053 268> 426 20G<59.7808 69.749>
+VStem: 40 37<298.845 343.682>
+AnchorPoint: "unten_punkt" 207 -110 basechar 0
+AnchorPoint: "unten_anhang" 208 4 basechar 0
+AnchorPoint: "mittelpunkt" 207 215 basechar 0
+AnchorPoint: "top_akzent" 220 646 basechar 0
+AnchorPoint: "top_rechts" 399 580 basechar 0
+LayerCount: 2
+Back
+SplineSet
+446 128 m 6xcc
+ 446 44 462 35 523 32 c 5
+ 529 26 529 4 523 -2 c 5
+ 480 -1 436.386 0 381 0 c 31
+ 333.414 0 301 -1 259 -2 c 5
+ 253 4 253 26 259 32 c 5
+ 300 35 316 44 316 128 c 6
+ 316 295 l 6
+ 316 352 286 370 246 370 c 7
+ 228 370 185.667 349.333 145 321 c 5
+ 145 361 l 21
+ 200.333 399 272.333 444 313 444 c 7
+ 399 444 446 394 446 284 c 6
+ 446 128 l 6xcc
+148 122 m 6xd4
+ 148 39 158 36 200 32 c 5
+ 206 26 206 4 200 -2 c 5
+ 157 -1 128.637 0 83 0 c 31
+ 29.5645 0 -12 -1 -54 -2 c 5
+ -60 4 -60 26 -54 32 c 5
+ 7 37 18 39 18 122 c 6
+ 18 309 l 6
+ 18 366 7.48145 373.932 -47 379 c 5
+ -49 385 -51 405 -49 411 c 5xb4
+ 20 420 80 434 117 444 c 5
+ 131 444 139.079 439.157 140 427 c 6
+ 140 427 148 371 148 321.333 c 6
+ 148 122 l 6xd4
+EndSplineSet
+Fore
+SplineSet
+60.999 446 m 1xb0
+ 78.499 442.562 87.8633 436 120 436 c 2
+ 315 436 l 18
+ 344 436 412 438 417 438 c 3
+ 424 438 429 435 429 431 c 3
+ 429 427 426.338 419.234 411 394 c 0
+ 350.727 294.841 248.762 136.705 175.253 42 c 1
+ 176 39 l 1
+ 272 42 l 2
+ 325.51 43.6722 350.511 57.2012 376 110 c 2
+ 390 139 l 1
+ 402 139 417.541 136.694 424 133 c 1
+ 417 83 404 31 392 -3 c 1
+ 40 0 l 2
+ 25 0 17 5 17 12 c 3
+ 17 17 17.3994 20.4229 26 32 c 0
+ 102.412 134.862 201.937 282.152 269.807 395 c 1
+ 268 396.833 l 1
+ 164 394 l 2xd0
+ 133.995 393.183 97 371 77 298 c 1
+ 65.4463 295.361 48.8369 297.276 40 301 c 1
+ 48 350 54 395 55 440 c 1
+ 55 442.375 58.5625 446 60.999 446 c 1xb0
+EndSplineSet
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" z.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" z.superior
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" z.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" z.sc
+EndChar

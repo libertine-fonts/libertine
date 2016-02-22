@@ -1,0 +1,43 @@
+StartChar: y
+Encoding: 121 121 305
+Width: 568
+VWidth: 999
+Flags: W
+HStem: -232 98<105.266 201.239> 402 34<6.77002 59.52 218.453 267.23 377.77 430.434 515.585 561.23>
+AnchorPoint: "unten_punkt" 242 -319 basechar 0
+AnchorPoint: "top_akzent" 262 645 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+125 -232 m 3
+ 101.607 -232 79 -215.289 79 -184 c 3
+ 79 -164 91 -126 129 -126 c 3
+ 143 -126 161 -134 179 -134 c 3
+ 205.002 -134 218.428 -114.985 232.288 -83 c 2
+ 253.667 -33.665 l 2
+ 261.667 -15.665 252.118 1.74251 236.666 34.667 c 10
+ 99 328 l 2
+ 69.9648 389.866 55.6667 393 10 402 c 1
+ 4 408 4 430 10 436 c 1
+ 30 435 97 434 131 434 c 3
+ 167 434 227 435 264 436 c 1
+ 270 430 270 408 264 402 c 1
+ 203 397 212.776 378.955 231 338 c 2
+ 324 129 l 2
+ 327 123 324 122 326 127 c 2
+ 429 358 l 2
+ 445 394 413 399 381 402 c 1
+ 375 408 375 430 381 436 c 1
+ 418 435 452 434 487 434 c 3
+ 515 434 533 435 558 436 c 1
+ 564 430 564 408 558 402 c 1
+ 521 399 491 368 477 339 c 0
+ 424 227 375 119 295 -74 c 1
+ 271.809 -131.979 245.527 -182.085 199.333 -211.667 c 0
+ 179.313 -224.486 153.097 -232 125 -232 c 3
+EndSplineSet
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" y.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" y.superior
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" y.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" y.sc
+EndChar

@@ -1,0 +1,16 @@
+StartChar: oacute
+Encoding: 243 243 33
+Width: 551
+VWidth: 999
+Flags: W
+HStem: -10 42<236.991 334.727> 402 42<211.57 311.912>
+VStem: 37 140<112.736 315.973> 374 140<115.701 321.741>
+AnchorPoint: "top_akzent" 255 834 basechar 0
+AnchorPoint: "komb_OR" 420 396 basechar 0
+LayerCount: 2
+Fore
+Refer: 670 769 S 1 0 0 1 422 0 2
+Refer: 295 111 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" oacute.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" oacute.sc
+EndChar

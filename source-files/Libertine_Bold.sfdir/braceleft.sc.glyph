@@ -1,0 +1,12 @@
+StartChar: braceleft.sc
+Encoding: 63154 63154 1260
+Width: 307
+VWidth: 967
+Flags: W
+HStem: -80.32 20.64<255.497 291.757> 300.66 27.52<9.56719 65.1507> 689.38 20.64<258.392 291.757>
+VStem: 106 102<451.805 649.135> 112 104<360.323 558.875>
+LayerCount: 2
+Fore
+Refer: 307 123 S 1 0 0 0.86 0 102 3
+Validated: 32769
+EndChar

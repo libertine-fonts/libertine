@@ -1,0 +1,22 @@
+StartChar: Tbar
+Encoding: 358 358 472
+Width: 652
+VWidth: 999
+Flags: W
+HStem: -2 34<164.77 247.807 422.193 505.23> 319 42<174 495> 604 41<92.255 252.482 417.34 557.54>
+VStem: 3 39<501.917 547.732> 265 140<45.3649 595.442> 607 39<504.917 551.486>
+LayerCount: 2
+Fore
+SplineSet
+174 365 m 5
+ 223.932 362.383 281 361 339 361 c 3
+ 397 361 455.068 362.383 505 365 c 1
+ 495 315 l 1
+ 445.068 317.617 387 319 329 319 c 3
+ 271 319 213.932 317.617 164 315 c 5
+ 174 365 l 5
+EndSplineSet
+Refer: 269 84 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" tbar.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

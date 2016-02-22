@@ -1,0 +1,39 @@
+StartChar: kgreenlandic
+Encoding: 312 312 426
+Width: 603
+Flags: HW
+HStem: -2 34<26.77 89.8255 244.175 307.23 554 588> 209 40<230 288.752> 384 32<35.5625 87.8438> 402 34<333 362 533 570> 424 20<198.5 220>
+VStem: 102 130<41.4929 375.312>
+AnchorPoint: "unten_punkt" 282 -108 basechar 0
+AnchorPoint: "unten_anhang" 160 9 basechar 0
+AnchorPoint: "top_akzent" 300 644 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+231 251 m 1
+ 261 251 286 259 299 269 c 0
+ 321 286 345 319 367 349 c 0
+ 376 361 380 371 380 378 c 0
+ 380 394 360 399 323 402 c 1
+ 317 408 317 430 323 436 c 1
+ 360 435 407 434 444 434 c 0
+ 470 434 533 435 555 436 c 1
+ 561 430 561 408 555 402 c 1
+ 479 394 451 361 420 324 c 2
+ 370 265 l 2
+ 366 260 368 252 373 245 c 2
+ 499 78 l 2
+ 528 39 541 36 580 32 c 1
+ 586 26 586 4 580 -2 c 1
+ 543 -1 497 0 456 0 c 0
+ 421 0 376 -2 376 -2 c 1
+ 374 0 l 1
+ 371 26 363 48 346 78 c 0
+ 328 110 302 148 276 179 c 0
+ 264 193 249 209 231 209 c 1
+ 231 251 l 1
+EndSplineSet
+Refer: 419 305 N 1 0 0 1 0 0 2
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" k.sc
+Comment: "Ist das so richtig?"
+EndChar

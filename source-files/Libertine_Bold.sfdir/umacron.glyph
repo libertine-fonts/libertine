@@ -1,0 +1,15 @@
+StartChar: umacron
+Encoding: 363 363 477
+Width: 598
+VWidth: 999
+Flags: W
+HStem: -10 74<172 304.754> 23 32<527.156 576.438> 402 34<18.77 71.7019 309.77 363.604> 543 50<126.182 436.647>
+VStem: 89 130<80.3544 390.242> 124 315<543.682 592.598> 380 130<81.8398 389.887>
+AnchorPoint: "unten_punkt" 239 -110 basechar 0
+AnchorPoint: "unten_anhang" 213 0 basechar 0
+AnchorPoint: "top_akzent" 259 771 basechar 0
+LayerCount: 2
+Fore
+Refer: 659 713 S 1 0 0 1 65 0 2
+Refer: 301 117 N 1 0 0 1 0 0 3
+EndChar

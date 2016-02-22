@@ -1,0 +1,22 @@
+StartChar: macroncomb
+Encoding: 772 772 1420
+Width: 0
+VWidth: 999
+Flags: W
+TeX: 59 0
+HStem: 543 50<-354.818 -44.3526>
+VStem: -357 315<543.682 592.598>
+AnchorPoint: "top_akzent" -209 645 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-68 543 m 6
+ -342 543 l 6
+ -353 543 -357 552 -357 561 c 4
+ -357 573 -345 593 -332 593 c 6
+ -56 593 l 6
+ -46 593 -42 584 -42 576 c 4
+ -42 563 -54 543 -68 543 c 6
+EndSplineSet
+Validated: 3073
+EndChar

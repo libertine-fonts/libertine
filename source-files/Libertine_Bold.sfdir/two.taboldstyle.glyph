@@ -1,0 +1,13 @@
+StartChar: two.taboldstyle
+Encoding: 57626 57626 2198
+Width: 514
+VWidth: 488
+Flags: W
+HStem: 0 90<236.711 237 305 391.313> 366 78<153.045 296.313>
+LayerCount: 2
+Fore
+Refer: 1462 57378 S 1 0 0 1 7 0 2
+Validated: 32777
+Substitution2: "'lnum' Versalziffern 1" two
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" two.oldstyle
+EndChar

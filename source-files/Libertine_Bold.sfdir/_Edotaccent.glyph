@@ -1,0 +1,18 @@
+StartChar: Edotaccent
+Encoding: 278 278 42
+Width: 609
+VWidth: 999
+Flags: W
+HStem: -2 34<11.77 85.9433> 0 42<249.172 454.205> 319 46<242 399.554> 603 42<249.747 438.219> 613 34<12.2578 85.9433> 709 124<260.2 353.8>
+VStem: 102 140<48.1312 319 365 596.345> 245 124<724.2 817.8> 414 43<252.086 303.875 376.375 431.914> 525 45<116.761 167.944>
+AnchorPoint: "unten_punkt" 279 -110 basechar 0
+AnchorPoint: "unten_anhang" 279 4 basechar 0
+AnchorPoint: "top_akzent" 273 970 basechar 0
+AnchorPoint: "top_rechts" 519 732 basechar 0
+LayerCount: 2
+Fore
+Refer: 2259 58212 S 1 0 0 1 160 0 2
+Refer: 28 69 N 1 0 0 1 0 0 3
+Validated: 32769
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

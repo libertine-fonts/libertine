@@ -1,0 +1,17 @@
+StartChar: longs_h
+Encoding: 57415 57415 2181
+Width: 2048
+VWidth: 2048
+AnchorPoint: "unten_punkt" 522 -111 basechar 0
+AnchorPoint: "ogonek" 673 8 basechar 0
+AnchorPoint: "top_akzent" 562 645 basechar 0
+LayerCount: 2
+Back
+SplineSet
+42 772 m 25
+ 502 838 l 25
+ 502 916 l 25
+ 42 850 l 25
+ 42 772 l 25
+EndSplineSet
+EndChar

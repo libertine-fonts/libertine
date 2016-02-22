@@ -1,0 +1,24 @@
+StartChar: Lslash
+Encoding: 321 321 435
+Width: 577
+VWidth: 999
+Flags: W
+HStem: -2 34<25.6167 94.4056> 0 42<261.972 438.224> 613 34<25.6167 94.4056 273.594 342.383>
+VStem: 114 140<47 598> 511 43<116.761 167.354>
+DStem2: 24.8633 274.521 191.71 320.547 0.86948 0.493968<0 344.498>
+LayerCount: 2
+Fore
+SplineSet
+344.096 410.019 m 5x38
+ 300.266 385.954 241.021 351.084 191.71 320.547 c 4
+ 142.4 290.01 83.7598 255.261 42.6875 226.747 c 5
+ 24.8633 274.521 l 5
+ 68.6924 298.585 128.789 330.981 178.1 361.519 c 4
+ 227.409 392.056 285.199 429.278 326.271 457.792 c 5
+ 344.096 410.019 l 5x38
+EndSplineSet
+Refer: 261 76 N 1 0 0 1 0 0 3
+Validated: 35845
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" lslash.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

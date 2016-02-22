@@ -1,0 +1,16 @@
+StartChar: udieresis
+Encoding: 252 252 394
+Width: 598
+VWidth: 999
+Flags: W
+HStem: -10 74<172 304.754> 23 32<527.156 576.438> 402 34<18.77 71.7019 309.77 363.604> 519 109<151.037 239.257 336.743 424.963>
+VStem: 89 130<80.3544 390.242> 140 110<530.463 616.462> 326 110<530.463 616.462> 380 130<81.8398 389.887>
+AnchorPoint: "top_akzent" 255 834 basechar 0
+LayerCount: 2
+Fore
+Refer: 319 168 S 1 0 0 1 83 0 2
+Refer: 301 117 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" udieresis.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" udieresis.sc
+LCarets2: 1 0
+EndChar

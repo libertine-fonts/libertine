@@ -1,0 +1,14 @@
+StartChar: nine.taboldstyle
+Encoding: 57633 57633 2204
+Width: 514
+VWidth: 487
+Flags: W
+HStem: -178 41<72.04 180.797> 67 50<224.25 315.77> 403 39<209.152 295.653>
+VStem: 43 134<169.236 322.338> 350 126<131.874 316.281>
+LayerCount: 2
+Fore
+Refer: 2188 57385 S 1 0 0 1 44 0 2
+Validated: 32769
+Substitution2: "'lnum' Versalziffern 1" nine
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" nine.oldstyle
+EndChar

@@ -1,0 +1,19 @@
+StartChar: Adieresis.alt
+Encoding: 57388 57388 1618
+Width: 740
+VWidth: 999
+Flags: W
+HStem: -2 34<3.77002 69.5762 167.992 237.23 421.77 500.035 664.842 733.23> 235 48<250.587 425> 638 20<426.5 441.203> 710 113<247.613 336.387 434.997 523.771>
+VStem: 236 112<721.613 811.003> 423 112<721.613 811.003>
+DStem2: 106.983 102 165 79 0.390001 0.920814<-25.5008 179.412 231.412 451.365> 323.835 614 336.175 520 0.390001 0.920814<-540.408 -382.79 -329.399 -81.7439> 434 658 343.096 520 0.338836 -0.940845<99.0351 349.768 401.027 600.306>
+LayerCount: 2
+Fore
+Refer: 24 65 N 1 0 0 1 0 0 3
+Refer: 2257 58210 S 1 0 0 1 624 0 2
+Validated: 32769
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" adieresis.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" adieresis.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Comment: "Dies sind alternative Umlaute, die im Deutschen vorzuziehen sind."
+Colour: ffffff
+EndChar

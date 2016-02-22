@@ -1,0 +1,30 @@
+StartChar: Eogonek
+Encoding: 280 280 44
+Width: 609
+VWidth: 999
+Flags: W
+HStem: -232 60<378.359 461.312> -2 34<11.77 85.9433> 0 42<249.172 454.205> 1 21<453.742 467> 319 46<242 399.554> 603 42<249.747 438.219> 613 34<12.2578 85.9433>
+VStem: 102 140<48.1312 319 365 596.345> 299 92<-169.449 -74.1839> 414 43<252.086 303.875 376.375 431.914> 525 45<116.761 167.944>
+AnchorPoint: "unten_punkt" 279 -110 basechar 0
+AnchorPoint: "unten_anhang" 279 4 basechar 0
+AnchorPoint: "top_akzent" 273 850 basechar 0
+AnchorPoint: "top_rechts" 519 732 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+497 -177 m 5x99e0
+ 471 -213 427 -232 388 -232 c 7
+ 368.719 -232 352.404 -225.392 338 -216 c 4
+ 315.053 -201.039 299 -175.939 299 -136 c 7
+ 299 -66 398 22 467 22 c 5
+ 488 1 l 5
+ 436 0 391 -64 391 -130 c 7
+ 391 -162 408.536 -172 426 -172 c 7
+ 443 -172 467 -169 482 -154 c 5
+ 497 -177 l 5x99e0
+EndSplineSet
+Refer: 28 69 N 1 0 0 1 0 0 3
+Validated: 35845
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" eogonek.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

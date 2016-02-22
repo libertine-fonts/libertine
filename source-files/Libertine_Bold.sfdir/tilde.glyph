@@ -1,0 +1,13 @@
+StartChar: tilde
+Encoding: 732 732 667
+Width: 292
+VWidth: 999
+Flags: W
+HStem: 519 70<158.399 259.905> 557 71<51.8584 151.467>
+VStem: 12 26<521.865 543.979> 273 28<609.298 625.118>
+LayerCount: 2
+Fore
+Refer: 672 771 N 1 0 0 1 293 0 2
+Validated: 32769
+Colour: ff00ff
+EndChar

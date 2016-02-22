@@ -1,0 +1,47 @@
+StartChar: germandbls
+Encoding: 223 223 374
+Width: 615
+VWidth: 999
+Flags: W
+HStem: -10 42<364.242 421.421> -2 34<19.77 83.2627 238.491 267.647> 384 50<37.2324 100> 656 42<278.56 369.607>
+VStem: 100 130<44.1816 384 434 572.892> 286 78<35.3457 121.781> 386 135<493.992 641.41> 432 142<84.207 263.644>
+LayerCount: 2
+Fore
+SplineSet
+100 482 m 2x7e
+ 100 646 267 698 345 698 c 3
+ 390 698 431 690 460 675 c 0
+ 508 651 521 607 521 577 c 3x7e
+ 521 478 460 449 380 411 c 9
+ 380 409 l 17
+ 477 376 574 289 574 173 c 3
+ 574 68 495 -10 403 -10 c 3
+ 320 -10 286 45 286 98 c 3
+ 286 116 302 146 330 146 c 3
+ 354 146 379 130 379 106 c 3
+ 379 86 364 75 364 53 c 3
+ 364 41 385 32 403 32 c 3
+ 431 32 432 105 432 156 c 3xbd
+ 432 249 403 322 319 386 c 9
+ 319 409 l 1
+ 386 461 386 491 386 564 c 3
+ 386 604 379 656 326 656 c 3
+ 254 656 230 555 230 447 c 2
+ 230 128 l 2
+ 230 44 236 41 267 32 c 1
+ 273 26 270 4 264 -2 c 1
+ 241 0 204 0 165 0 c 27
+ 110 0 65 -1 23 -2 c 1
+ 17 4 17 26 23 32 c 1
+ 84 35 100 44 100 126 c 2
+ 100 384 l 17
+ 31 384 l 17
+ 28 386 26 389 26 394 c 1
+ 32 409 52 431 59 434 c 9
+ 100 434 l 1
+ 100 482 l 2x7e
+EndSplineSet
+Substitution2: "LinLibertine-'ss03' Stilgruppe 3 1" germandbls.ss03
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" germandbls.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" germandbls.sc germandbls.alt germandbls.scalt germandbls.ss03
+EndChar

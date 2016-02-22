@@ -1,0 +1,71 @@
+StartChar: k
+Encoding: 107 107 291
+Width: 592
+Flags: W
+HStem: -2 34<19.77 83.2627 243.011 280.23 524.016 581.23> 209 42<230 265.511> 402 34<317.77 376.243 489.569 556.23> 640 32<29.1436 89.8851> 678 20G<198.5 221.5>
+VStem: 100 130<44.5293 209 251 633.337>
+AnchorPoint: "unten_punkt" 290.088 -214.41 basechar 0
+AnchorPoint: "unten_anhang" 107.928 -57.3291 basechar 0
+AnchorPoint: "top_akzent" 305.928 783.511 basechar 0
+AnchorPoint: "top_rechts" 535.607 696.391 basechar 0
+LayerCount: 2
+Back
+SplineSet
+100 127 m 2
+ 100 565 l 2
+ 100 633.588 95 635 32 640 c 1
+ 27 649 26 660 29 672 c 1
+ 100 675 180 686 217 698 c 1
+ 226 698 233 694 233 685 c 1
+ 233 685 230 648 230 583 c 2
+ 230 127 l 2
+ 230 44 246.5 35.5 277 32 c 1
+ 283 26 283 4 277 -2 c 1
+ 253 -1 208.687 0 165 0 c 27
+ 109.614 0 65 -1 23 -2 c 1
+ 17 4 17 26 23 32 c 1
+ 84 35 100 44 100 127 c 2
+EndSplineSet
+Fore
+SplineSet
+100 127 m 2
+ 100 565 l 2
+ 100 634 95 635 32 640 c 1
+ 27 649 26 660 29 672 c 1
+ 100 675 180 686 217 698 c 1
+ 226 698 233 694 233 685 c 2
+ 233 685 230 648 230 583 c 2
+ 230 251 l 5
+ 260 251 284 259 297 269 c 4
+ 319 286 343 319 365 349 c 4
+ 374 361 378 371 378 378 c 4
+ 378 394 358 399 321 402 c 5
+ 315 408 315 430 321 436 c 5
+ 358 435 405 434 442 434 c 4
+ 468 434 531 435 553 436 c 5
+ 559 430 559 408 553 402 c 5
+ 477 394 449 361 418 324 c 6
+ 368 265 l 6
+ 364 260 366 252 371 245 c 6
+ 497 78 l 6
+ 526 39 539 36 578 32 c 5
+ 584 26 584 4 578 -2 c 5
+ 541 -1 495 0 454 0 c 4
+ 419 0 374 -2 374 -2 c 5
+ 372 0 l 5
+ 369 26 361 48 344 78 c 4
+ 326 110 300 148 274 179 c 4
+ 262 193 248 209 230 209 c 5
+ 230 127 l 2
+ 230 44 247 36 277 32 c 1
+ 283 26 283 4 277 -2 c 1
+ 253 -1 209 0 165 0 c 0
+ 110 0 65 -1 23 -2 c 1
+ 17 4 17 26 23 32 c 1
+ 84 35 100 44 100 127 c 2
+EndSplineSet
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" k.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" k.superior
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" k.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" k.sc
+EndChar

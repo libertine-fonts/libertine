@@ -1,0 +1,13 @@
+StartChar: Ccircumflex
+Encoding: 264 264 406
+Width: 696
+VWidth: 999
+Flags: W
+HStem: -10 58<327.342 489.214> 617 41<307.431 481.663> 698 136
+VStem: 37 151<214.907 431.761> 250 277 586 43<455.199 507.556>
+LayerCount: 2
+Fore
+Refer: 26 67 N 1 0 0 1 0 0 3
+Refer: 2269 58202 S 1 0 0 1 519 0 2
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

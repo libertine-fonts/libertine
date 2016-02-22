@@ -1,0 +1,14 @@
+StartChar: Uring
+Encoding: 366 366 480
+Width: 732
+VWidth: 999
+Flags: W
+HStem: -10 42<317.802 491.729> 613 34<6.77002 72.0797 242.899 322.23 485.77 563.312 662.375 726.23> 640 34<365.785 436.791> 772 34<365.384 437.328>
+VStem: 87 140<124.668 600.619> 316 38<683.351 762.928> 449 38<683.928 761.722> 581 65<145.386 598.444>
+LayerCount: 2
+Fore
+Refer: 665 730 S 1 0 0 1 208 52 2
+Refer: 270 85 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" uring.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

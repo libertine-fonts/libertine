@@ -1,0 +1,15 @@
+StartChar: ntilde
+Encoding: 241 241 392
+Width: 616
+VWidth: 999
+Flags: HW
+HStem: -2 34<22.77 85.8255 237.539 283.23 335.77 382.004 542.737 606.23> 370 74<316.674 437> 379 32<31.5625 83.817> 519 70<295.399 396.905> 557 71<188.858 288.467>
+VStem: 98 130<41.4929 344.912> 149 26<521.865 543.979> 396 130<44.1813 351.535> 410 28<609.298 625.118>
+AnchorPoint: "top_akzent" 255 834 basechar 0
+LayerCount: 2
+Fore
+Refer: 667 732 S 1 0 0 1 137 0 2
+Refer: 294 110 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" ntilde.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" ntilde.sc
+EndChar

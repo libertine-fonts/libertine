@@ -1,0 +1,16 @@
+StartChar: Scedilla
+Encoding: 350 350 464
+Width: 504
+VWidth: 999
+Flags: W
+HStem: -215 29<164.203 263.52> -10 42<162.595 303.607> 617 41<194.051 315.582>
+VStem: 41 125<470.704 560.454> 274 62.865<-177.416 -114.388> 337 126<101.248 210.04>
+LayerCount: 2
+Fore
+Refer: 335 184 S 1 0 0 1 -51 0 2
+Refer: 268 83 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" scedilla.sc
+Substitution2: "'locl' Localized Forms Romaenisch 1" Scommaaccent
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" Scommaaccent scedilla scommaaccent.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

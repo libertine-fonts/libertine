@@ -1,0 +1,24 @@
+StartChar: one.fitted
+Encoding: 57361 57361 1456
+Width: 445
+VWidth: 999
+Flags: W
+HStem: -2 34<76.617 155.874 344.126 423.383> 467 21<76.562 110.25> 590 20<297 306.5>
+VStem: 185 130<54.7283 488.997>
+LayerCount: 2
+Back
+SplineSet
+46.875 578.125 m 29
+ 347.168 578.125 l 1053
+0 572.012 m 5
+ 438.965 572.012 l 5
+ 438.965 0 l 5
+ 0 0 l 5
+ 0 572.012 l 5
+EndSplineSet
+Fore
+Refer: 10 49 S 1 0 0 1 -52 0 2
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" one.oldstyle
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" one
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" one one.oldstyle
+EndChar

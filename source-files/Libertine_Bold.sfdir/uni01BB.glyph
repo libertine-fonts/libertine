@@ -1,0 +1,19 @@
+StartChar: uni01BB
+Encoding: 443 443 1319
+Width: 438
+VWidth: 487
+Flags: W
+TeX: 57 0
+HStem: 0 90<175 397.025> 244 39<105 361> 568 42<185.17 289.404>
+VStem: 50 106<431.543 525.538> 325 128<372.235 530.085> 427 33<131.398 170.17>
+LayerCount: 2
+Fore
+SplineSet
+361 283 m 1xf0
+ 361 244 l 1
+ 105 244 l 1
+ 105 283 l 1
+ 361 283 l 1xf0
+EndSplineSet
+Refer: 11 50 N 1 0 0 1 0 0 2
+EndChar

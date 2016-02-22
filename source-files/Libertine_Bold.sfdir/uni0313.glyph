@@ -1,0 +1,13 @@
+StartChar: uni0313
+Encoding: 787 787 1428
+Width: 0
+VWidth: 999
+Flags: W
+TeX: 57 0
+HStem: 468 28<-141.628 -110.32> 572 83<-130.749 -76.2757>
+VStem: -76 61<518.808 608.5>
+AnchorPoint: "top_akzent" -96 605 mark 0
+LayerCount: 2
+Fore
+Refer: 1427 786 N -1 0 0 -1 -179 1120 2
+EndChar

@@ -1,0 +1,14 @@
+StartChar: ij
+Encoding: 307 307 421
+Width: 641
+VWidth: 999
+Flags: HW
+HStem: -232.15 57.2<314.1 421.341> -2 34<26.77 89.8255 244.175 307.23> 382 34<364.645 420.229> 384 32<35.5625 87.8438> 424 20<198.5 220> 528 131<113.375 212.698 440.375 539.698>
+VStem: 95 138<548.43 640.955> 102 130<41.4929 375.312> 422 138<548.43 640.955> 431 130<-88.9215 373.871>
+LayerCount: 2
+Fore
+Refer: 290 106 S 1 0 0 1 329 0 2
+Refer: 289 105 N 1 0 0 1 0 0 2
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" ij.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" ij.sc
+EndChar

@@ -1,0 +1,27 @@
+StartChar: equivalence
+Encoding: 8801 8801 1899
+Width: 527
+VWidth: 999
+Flags: W
+HStem: 105 44<66 461> 212 44<66 461> 320 44<66 461>
+LayerCount: 2
+Fore
+SplineSet
+461 149 m 1
+ 461 105 l 1
+ 66 105 l 1
+ 66 149 l 1
+ 461 149 l 1
+461 256 m 1
+ 461 212 l 1
+ 66 212 l 1
+ 66 256 l 1
+ 461 256 l 1
+461 364 m 1
+ 461 320 l 1
+ 66 320 l 1
+ 66 364 l 1
+ 461 364 l 1
+EndSplineSet
+Validated: 3073
+EndChar

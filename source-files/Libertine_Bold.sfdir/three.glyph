@@ -1,0 +1,50 @@
+StartChar: three
+Encoding: 51 51 12
+Width: 514
+Flags: W
+HStem: -10 42<179.66 290.732> 299 40<157.581 212.299> 448 21G<85.7478 120.131> 568 42<183.547 297.226>
+VStem: 61 100<460.441 536.25> 310.862 118.138<429.848 555.444> 338 129<128.207 260.312>
+LayerCount: 2
+Back
+SplineSet
+46.875 610.125 m 29
+ 477.168 610.125 l 1053
+0 600.012 m 5
+ 568.965 600.012 l 5
+ 568.965 0 l 5
+ 0 0 l 5
+ 0 600.012 l 5
+EndSplineSet
+Fore
+SplineSet
+248 568 m 3xfc
+ 221.231 568 172.423 564.922 161 504 c 0
+ 155 472 140.263 448 100 448 c 3
+ 71.4956 448 61 472 61 486 c 3
+ 61 504.265 66.5 520 83 537.75 c 0
+ 112.201 569.164 179.997 610 267 610 c 3
+ 405 610 429 543 429 499 c 3xfc
+ 429 460 410.799 429.426 386.6 402 c 0
+ 371.6 385 351.6 371 336 363 c 1
+ 420 357 467 294 467 222 c 3
+ 467 165 446 119 416 83 c 0
+ 366 23 286 -10 217 -10 c 3
+ 168 -10 115 3 79 21 c 0
+ 57 32 46 47 46 68 c 3
+ 46 85 63.9839 111 95 111 c 3
+ 132 111 149 89 160 74 c 0
+ 173 57 194 32 233 32 c 3
+ 270 32 338 57 338 172 c 3xfa
+ 338 292 265 307 213 307 c 3
+ 198 307 186 305 165 299 c 1
+ 159 306 157 318 157 328 c 0
+ 157 332 157 335 158 339 c 1
+ 250.471 359.916 310.862 420.975 310.862 497.064 c 0
+ 310.862 543.664 290.204 568 248 568 c 3xfc
+EndSplineSet
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" three.taboldstyle
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" three.fitted
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" three.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" three.superior
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" three.oldstyle three.superior three.fitted
+EndChar

@@ -1,0 +1,34 @@
+StartChar: uni035B
+Encoding: 859 859 1738
+Width: 0
+VWidth: 2048
+Flags: MW
+HStem: 582 44<-198.998 -147.004>
+AnchorPoint: "top_akzent" -164 645 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-74 608 m 2
+ -148 494 l 2
+ -150 491 -160 489 -165 489 c 0
+ -178.973 489 -179 492.476 -179 497 c 1
+ -149 571 l 2
+ -148 574 -147 577 -147 579 c 0
+ -147 581 -152 582 -160 582 c 2
+ -264 582 l 2
+ -275 582 -280 585 -280 589 c 0
+ -280 591 -279 594 -276 598 c 2
+ -200 715 l 2
+ -198 717 -191 718 -186 718 c 0
+ -175 718 -169 716 -169 712 c 1
+ -197 637 l 2
+ -198 635 -199 633 -199 631 c 0
+ -199 627 -196 626 -189 626 c 2
+ -85 626 l 2
+ -74 626 -69 624 -69 619 c 0
+ -69 617 -71 613 -74 608 c 2
+EndSplineSet
+Validated: 3073
+Comment: "Alternative Akzente fuer Grossbuchstaben"
+Colour: ffffff
+EndChar

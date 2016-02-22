@@ -1,0 +1,15 @@
+StartChar: Lcaron
+Encoding: 317 317 431
+Width: 577
+VWidth: 999
+Flags: W
+HStem: -2 34<25.6167 94.4056> 0 42<261.972 438.224> 519 17<382.353 400.187> 613 34<25.6167 94.4056 273.594 342.383> 623 75<386.65 438.61>
+VStem: 114 140<47 598> 440 50<560.145 643> 511 43<116.761 167.354>
+LayerCount: 2
+Fore
+Refer: 655 700 S 1 0 0 1 351 46 2
+Refer: 261 76 N 1 0 0 1 0 0 3
+Validated: 32769
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" lcaron.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

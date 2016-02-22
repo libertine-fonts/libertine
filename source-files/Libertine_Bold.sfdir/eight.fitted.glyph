@@ -1,0 +1,26 @@
+StartChar: eight.fitted
+Encoding: 57368 57368 1817
+Width: 514
+VWidth: 487
+Flags: W
+HStem: -10 40<192.398 317.663> 575 35<206.429 309.4>
+VStem: 34 123<70.0284 222.702> 65 123<425.243 533.823> 335 116<409.612 548.013> 356 124<89.7237 222.183>
+DStem2: 246 397 161 330 0.878763 -0.477259<-68.2254 -19.0146 19.2594 63.4092 105.588 176.824>
+LayerCount: 2
+Back
+SplineSet
+46.875 578.125 m 29
+ 347.168 578.125 l 1053
+0 572.012 m 5
+ 438.965 572.012 l 5
+ 438.965 0 l 5
+ 0 0 l 5
+ 0 572.012 l 5
+EndSplineSet
+Fore
+Refer: 2151 56 N 1 0 0 1 0 0 2
+Validated: 32769
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" eight.oldstyle
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" eight
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" eight eight.oldstyle
+EndChar

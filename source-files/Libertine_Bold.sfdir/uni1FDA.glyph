@@ -1,0 +1,13 @@
+StartChar: uni1FDA
+Encoding: 8154 8154 1014
+Width: 395
+VWidth: 999
+Flags: W
+HStem: -2 34<128.617 197.406 376.594 445.383> 548 177 613 34<128.617 197.406 376.594 445.383>
+VStem: -33 128 217 140<47 598>
+LayerCount: 2
+Fore
+Refer: 1028 8175 S 1 0 0 1 -86 -4 2
+Refer: 696 921 N 1 0 0 1 103 0 2
+LCarets2: 1 0
+EndChar

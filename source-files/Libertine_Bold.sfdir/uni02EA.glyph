@@ -1,0 +1,20 @@
+StartChar: uni02EA
+Encoding: 746 746 2340
+Width: 365
+VWidth: 2048
+Flags: W
+HStem: 74 45<101 315>
+VStem: 50 51<119 368>
+LayerCount: 2
+Fore
+SplineSet
+50 74 m 1
+ 50 368 l 1
+ 101 368 l 1
+ 101 119 l 1
+ 315 119 l 1
+ 315 74 l 1
+ 50 74 l 1
+EndSplineSet
+Validated: 3073
+EndChar

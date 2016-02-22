@@ -1,0 +1,24 @@
+StartChar: nine.fitted
+Encoding: 57369 57369 2212
+Width: 528
+VWidth: 487
+Flags: W
+HStem: -10 41<79.04 187.797> 235 50<231.25 322.77> 571 39<216.152 302.653>
+VStem: 50 134<337.236 490.338> 357 126<299.874 484.281>
+LayerCount: 2
+Back
+SplineSet
+46.875 578.125 m 29
+ 347.168 578.125 l 1053
+0 572.012 m 5
+ 438.965 572.012 l 5
+ 438.965 0 l 5
+ 0 0 l 5
+ 0 572.012 l 5
+EndSplineSet
+Fore
+Refer: 17 57 N 1 0 0 1 5 0 2
+Validated: 32769
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" nine.oldstyle
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" nine
+EndChar

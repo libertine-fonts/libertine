@@ -1,0 +1,38 @@
+StartChar: uni0184
+Encoding: 388 388 1283
+Width: 654
+Flags: W
+TeX: 57 0
+HStem: -2 42<245.223 391.051> -2 34<13.6167 82.4056> 344 46<242 395.619> 573 34<13.6167 67.0766>
+VStem: 102 140<47 344 390 543> 461 147<104.997 280.458>
+AnchorPoint: "top_rechts" 539 652 basechar 0
+AnchorPoint: "mittelpunkt" 346 185 basechar 0
+AnchorPoint: "unten_punkt" 268 -108 basechar 0
+AnchorPoint: "unten_anhang" 360 0 basechar 0
+AnchorPoint: "top_akzent" 337 735 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+228.995 657.997 m 7x7c
+ 238 658 245 654 245 645 c 5
+ 245 645 242 608 242 543 c 6
+ 242 390 l 1
+ 328 390 l 2
+ 496.713 390 608 322.34 608 196 c 3
+ 608 94 542 -2 337 -2 c 3xbc
+ 277 -2 213 0 173 0 c 3
+ 133 0 19 -2 19 -2 c 1
+ 9 4 9 26 19 32 c 1
+ 74 35 102 39 102 122 c 2
+ 102 453 l 6
+ 102 536 74 570 19 573 c 5
+ 9 579 9 601 19 607 c 5
+ 19 607 188.995 657.997 228.995 657.997 c 7x7c
+242 344 m 1
+ 242 84 l 2
+ 242 55 248 40 308 40 c 3
+ 440 40 461 137 461 197 c 3
+ 461 283 416 344 313 344 c 2
+ 242 344 l 1
+EndSplineSet
+EndChar

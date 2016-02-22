@@ -1,0 +1,18 @@
+StartChar: circlemultiply
+Encoding: 8855 8855 2089
+Width: 564
+VWidth: 999
+Flags: W
+DStem2: 161 371 126 337 0.707107 -0.707107<0 394.566>
+LayerCount: 2
+Fore
+SplineSet
+126 337 m 5
+ 161 371 l 5
+ 440 92 l 5
+ 406 57 l 5
+ 126 337 l 5
+EndSplineSet
+Refer: 2088 8854 S 0.707107 0.707107 -0.707107 0.707107 234 -137 2
+Validated: 35845
+EndChar

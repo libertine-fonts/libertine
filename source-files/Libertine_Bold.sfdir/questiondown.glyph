@@ -1,0 +1,14 @@
+StartChar: questiondown
+Encoding: 191 191 342
+Width: 470
+VWidth: 999
+Flags: W
+HStem: -228 42<201.196 312.455> -56 21<357 383.5> 308 132<206.625 297.387>
+VStem: 56 119<-159.762 -13.876> 186 132<328.613 419.456> 234 44<127.377 224.39> 322 101<-143.911 -63.194>
+LayerCount: 2
+Fore
+Refer: 22 63 S -1 0 0 -1 486 430 3
+Substitution2: "LinLibertine-'case' Versalformen 1" questiondown.sc
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" questiondown.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" questiondown.sc
+EndChar

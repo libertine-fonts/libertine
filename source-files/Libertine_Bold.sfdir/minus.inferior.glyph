@@ -1,0 +1,17 @@
+StartChar: minus.inferior
+Encoding: 8331 8331 1096
+Width: 340
+Flags: W
+HStem: -15 48<36 304>
+VStem: 36 268<-15 33>
+LayerCount: 2
+Fore
+SplineSet
+304 33 m 5
+ 304 -15 l 5
+ 36 -15 l 5
+ 36 33 l 5
+ 304 33 l 5
+EndSplineSet
+Validated: 3073
+EndChar

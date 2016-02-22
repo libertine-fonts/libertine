@@ -1,0 +1,25 @@
+StartChar: Eth
+Encoding: 208 208 359
+Width: 734
+VWidth: 999
+Flags: W
+HStem: -2 34<25.6167 94.4056> -2 42<269.225 426.596> 284 42<27 348> 604 42<268.527 415.668> 613 34<25.6167 94.4056>
+VStem: 114 140<54.7283 590.272> 535 151<175.935 431.978>
+AnchorPoint: "top_akzent" 341 850 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+27 330 m 5x26
+ 76.9316 327.383 134 326 192 326 c 7
+ 250 326 308.068 327.383 358 330 c 5
+ 348 280 l 5
+ 298.068 282.617 240 284 182 284 c 7
+ 124 284 66.9316 282.617 17 280 c 5
+ 27 330 l 5x26
+EndSplineSet
+Refer: 27 68 N 1 0 0 1 0 0 3
+Validated: 35845
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" eth.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" eth.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

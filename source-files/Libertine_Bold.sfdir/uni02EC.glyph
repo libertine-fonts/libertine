@@ -1,0 +1,26 @@
+StartChar: uni02EC
+Encoding: 748 748 1412
+Width: 312
+VWidth: 999
+Flags: W
+TeX: 57 0
+HStem: -129 256
+VStem: 13 280
+DStem2: 66 127 20 113 0.443023 -0.89651<0 204.809> 160 -55 171 -129 0.435302 0.900284<0 202.158>
+LayerCount: 2
+Fore
+SplineSet
+20 113 m 1
+ 13 127 l 1
+ 66 127 l 1
+ 160 -55 l 1
+ 241 113 l 1
+ 248 127 l 1
+ 293 127 l 1
+ 252 42 176 -121 171 -129 c 1
+ 171 -131 140 -130 140 -130 c 1
+ 20 113 l 1
+EndSplineSet
+Validated: 3105
+Colour: ff00ff
+EndChar

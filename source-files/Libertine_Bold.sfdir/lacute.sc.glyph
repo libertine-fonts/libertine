@@ -1,0 +1,12 @@
+StartChar: lacute.sc
+Encoding: 57504 57504 2130
+Width: 537
+VWidth: 999
+Flags: W
+HStem: -2 34<25.6167 94.4056> 0 42<251.972 388.224> 428 34<25.6167 94.4056 263.594 332.383>
+VStem: 114 130<47 413> 461 43<116.761 167.354>
+LayerCount: 2
+Fore
+Refer: 670 769 S 1 0 0 1 420 0 2
+Refer: 1830 57436 N 1 0 0 1 0 0 3
+EndChar

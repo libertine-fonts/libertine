@@ -1,0 +1,14 @@
+StartChar: zcaron
+Encoding: 382 382 496
+Width: 452
+VWidth: 999
+Flags: W
+HStem: 0 39<176 336.009> 394 42<117.053 268> 426 20<59.7808 69.749>
+VStem: 40 37<298.845 343.682>
+LayerCount: 2
+Fore
+Refer: 657 711 S 1 0 0 1 39 0 2
+Refer: 306 122 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" zcaron.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" zcaron.sc
+EndChar

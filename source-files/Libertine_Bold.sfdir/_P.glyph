@@ -1,0 +1,41 @@
+StartChar: P
+Encoding: 80 80 265
+Width: 614
+Flags: W
+HStem: -2 34<25.6167 94.4056 273.594 342.383> 277 42<293.121 398.435> 613 41<148.188 389.09> 613 34<25.6167 94.4056>
+VStem: 114 140<47 598> 439 151<383.919 562.042>
+AnchorPoint: "unten_punkt" 240 -110 basechar 0
+AnchorPoint: "unten_anhang" 150 -3 basechar 0
+AnchorPoint: "mittelpunkt" 286 464 basechar 0
+AnchorPoint: "top_akzent" 277 850 basechar 0
+AnchorPoint: "top_rechts" 509 732 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+346 654 m 7xec
+ 421.014 654 476.021 642.834 513 621 c 4
+ 575.106 584.329 590 524.115 590 484 c 7
+ 590 430.936 572.668 365.951 523 325 c 4
+ 482.812 291.865 421.108 277 333 277 c 7
+ 309 277 312 278 298 280 c 5
+ 284 289 278 303 278 322 c 5
+ 292 320 313 319 328 319 c 7
+ 410 319 439 363 439 467 c 7
+ 439 589 372 613 314 613 c 7xec
+ 261 613 254 592 254 524 c 6
+ 254 122 l 6
+ 254 39 282 35 337 32 c 5
+ 347 26 347 4 337 -2 c 5
+ 297 -1 225 0 185 0 c 4
+ 145 0 71 -1 31 -2 c 5
+ 21 4 21 26 31 32 c 5
+ 86 35 114 39 114 122 c 6
+ 114 523 l 6
+ 114 606 86 610 31 613 c 5
+ 21 619 21 641 31 647 c 5xdc
+ 71 647 306 654 346 654 c 7xec
+EndSplineSet
+Validated: 3105
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" p.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

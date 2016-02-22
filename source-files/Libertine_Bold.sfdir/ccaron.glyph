@@ -1,0 +1,18 @@
+StartChar: ccaron
+Encoding: 269 269 411
+Width: 456
+VWidth: 999
+Flags: W
+HStem: -10 72<234.041 330.134> 402 42<205.102 288.383>
+VStem: 37 135<130.634 307.849> 305 117<296.764 386.24>
+AnchorPoint: "unten_punkt" 236 -110 basechar 0
+AnchorPoint: "unten_anhang" 242 -2 basechar 0
+AnchorPoint: "ogonek" 361 42 basechar 0
+AnchorPoint: "top_akzent" 227 795 basechar 0
+LayerCount: 2
+Fore
+Refer: 676 780 N 1 0 0 1 430 0 2
+Refer: 283 99 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" ccaron.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" ccaron.sc
+EndChar

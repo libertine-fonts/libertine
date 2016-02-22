@@ -1,0 +1,15 @@
+StartChar: Sacute
+Encoding: 346 346 460
+Width: 504
+VWidth: 999
+Flags: W
+HStem: -10 42<162.595 303.607> 617 41<194.051 315.582> 701 132
+VStem: 41 125<470.704 560.454> 155 202 337 126<101.248 210.04>
+LayerCount: 2
+Fore
+Refer: 268 83 N 1 0 0 1 0 0 3
+Refer: 2268 58201 S 1 0 0 1 449 0 2
+Validated: 32769
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" sacute.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

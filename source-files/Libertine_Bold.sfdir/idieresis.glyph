@@ -1,0 +1,15 @@
+StartChar: idieresis
+Encoding: 239 239 390
+Width: 322
+VWidth: 999
+Flags: HW
+HStem: -2 34<26.77 89.8255 244.175 307.23> 384 32<35.5625 87.8438> 424 20<198.5 220> 519 109<14.037 102.257 199.743 287.963>
+VStem: 3 110<530.463 616.462> 102 130<41.4929 375.312> 189 110<530.463 616.462>
+AnchorPoint: "top_akzent" 137 795 basechar 0
+LayerCount: 2
+Fore
+Refer: 319 168 S 1 0 0 1 -54 0 2
+Refer: 419 305 S 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" idieresis.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" idieresis.sc
+EndChar

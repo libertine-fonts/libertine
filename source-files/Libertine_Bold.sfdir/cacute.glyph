@@ -1,0 +1,14 @@
+StartChar: cacute
+Encoding: 263 263 405
+Width: 456
+VWidth: 999
+Flags: W
+HStem: -10 72<234.041 330.134> 402 42<205.102 288.383>
+VStem: 37 135<130.634 307.849> 305 117<296.764 386.24>
+LayerCount: 2
+Fore
+Refer: 670 769 S 1 0 0 1 406 0 2
+Refer: 283 99 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" cacute.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" cacute.sc
+EndChar

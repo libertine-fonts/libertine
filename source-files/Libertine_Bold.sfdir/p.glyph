@@ -1,0 +1,46 @@
+StartChar: p
+Encoding: 112 112 296
+Width: 581
+Flags: W
+HStem: -234 34<19.77 82.8255 237.175 300.23> -10 42<237.116 349.172> 369 75<300.704 403> 379 32<28.5625 80.817>
+VStem: 95 130<-190.507 2.33301 46.534 352.264> 399 140<142.718 337.274>
+AnchorPoint: "unten_punkt" 159 -319 basechar 0
+AnchorPoint: "mittelpunkt" 306 215 basechar 0
+AnchorPoint: "top_akzent" 304 646 basechar 0
+AnchorPoint: "top_rechts" 462 580 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+225 341 m 5xec
+ 225 64 l 5
+ 243.667 41.333 278.333 32 303 32 c 7
+ 355.681 32 399 94.9512 399 220 c 7
+ 399 277.25 390.5 321 372.667 345.333 c 4
+ 359.667 363.071 336 369 313 369 c 7
+ 289.5 369 257.667 361 225 341 c 5xec
+225 2.33301 m 13
+ 225 -110 l 6
+ 225 -193 236 -196 297 -200 c 5
+ 303 -206 303 -228 297 -234 c 5
+ 254 -233 213.436 -232 160 -232 c 31
+ 106.564 -232 65 -233 23 -234 c 5
+ 17 -228 17 -206 23 -200 c 5
+ 84 -195 95 -193 95 -110 c 6
+ 95 309 l 6
+ 95 366 84.4814 373.932 30 379 c 5
+ 28 385 26 405 28 411 c 5xdc
+ 97 420 157 434 194 444 c 5
+ 208 444 215.681 439.12 217 427 c 6
+ 217 427 219.89 406.472 222.197 379.25 c 5
+ 240.697 391.25 274.535 411.944 304 423.667 c 4
+ 326.391 432.575 354 444 390 444 c 7
+ 416 444 457.5 436 490 400 c 4
+ 522.734 363.74 539 309.847 539 253 c 7
+ 539 89.9443 418 -10 297 -10 c 7
+ 272.201 -10 248.715 -5.77539 225 2.33301 c 13
+EndSplineSet
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" p.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" p.superior
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" p.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" p.sc
+EndChar

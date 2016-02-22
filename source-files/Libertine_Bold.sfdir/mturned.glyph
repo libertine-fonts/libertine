@@ -1,0 +1,15 @@
+StartChar: mturned
+Encoding: 623 623 637
+Width: 905
+VWidth: 999
+Flags: HW
+HStem: -14 74<45.9448 156.789 351.921 445.75> 19 32<678.183 730.438> 398 34<-128.23 -64.7373 95.9955 142.23 182.77 228.618 386.996 433.23 478.77 524.461 676.175 739.23>
+VStem: -48 130<78.4152 385.819> 243 130<91.476 388.455> 534 130<83.5108 388.507>
+CounterMasks: 1 1c
+AnchorPoint: "unten_punkt" 410 -114 basechar 0
+AnchorPoint: "top_akzent" 407 645 basechar 0
+LayerCount: 2
+Fore
+Refer: 293 109 N -1 0 0 -1 762 430 2
+Colour: ff0000
+EndChar

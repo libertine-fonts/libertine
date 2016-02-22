@@ -1,0 +1,24 @@
+StartChar: oneeighth
+Encoding: 8539 8539 1130
+Width: 660
+VWidth: 999
+Flags: W
+HStem: -141 28<487.17 560.236> 193 26<493.657 560.212> 314 30<68.5037 128.126 239.861 287.153> 581 20G<518.015 574>
+VStem: 142 88<352.951 590.993> 390 73<-96.564 -1.9721> 411 70<121.85 178.546> 573 63<107.875 187.549> 579 84<-87.476 -5.0641>
+DStem2: 74 -54 115 -62 0.573882 0.818938<16.9776 799.242> 544 97 472 46 0.854616 -0.51926<-86.1355 -31.4477 34.7364 101.326>
+LayerCount: 2
+Fore
+SplineSet
+532 601 m 1xf8
+ 574 593 l 5
+ 115 -62 l 5
+ 74 -54 l 1
+ 532 601 l 1xf8
+EndSplineSet
+Refer: 1093 8328 N 1 0 0 1 354 30 2
+Refer: 336 185 N 1 0 0 1 -7 -49 2
+Validated: 35841
+Ligature2: "LinLibertine-'frac' Brueche 1" one fraction eight
+Ligature2: "LinLibertine-'frac' Brueche 1" one slash eight
+LCarets2: 2 0 0
+EndChar

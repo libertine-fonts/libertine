@@ -1,0 +1,22 @@
+StartChar: dcroat
+Encoding: 273 273 415
+Width: 561
+VWidth: 999
+Flags: W
+HStem: -10 74<193 287.665> 23 32<498.156 547.438> 402 42<219.765 348.876> 524 42<257 546> 638 34<280.144 340.885> 678 20<449.5 472.5>
+VStem: 37 140<106.213 306.711> 351 130<79.2183 391.711 434 631.337>
+LayerCount: 2
+Fore
+SplineSet
+257 570 m 5x3f
+ 302 567 354 566 406 566 c 7
+ 458 566 510 567 555 570 c 5
+ 546 520 l 5
+ 501 523 449 524 397 524 c 7
+ 345 524 293 523 248 520 c 5
+ 257 570 l 5x3f
+EndSplineSet
+Refer: 284 100 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" dcroat.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" dcroat.sc
+EndChar

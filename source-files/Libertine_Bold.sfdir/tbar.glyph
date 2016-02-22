@@ -1,0 +1,22 @@
+StartChar: tbar
+Encoding: 359 359 473
+Width: 358
+VWidth: 999
+Flags: W
+HStem: -10 70<184.266 285.288> 224 42<35 326> 384 50<28.2324 91 217 335.992>
+VStem: 88 130<66.9602 384 434 549.542>
+LayerCount: 2
+Fore
+SplineSet
+35 270 m 5
+ 84.9316 267.383 122 266 180 266 c 7
+ 238 266 286.068 267.383 336 270 c 5
+ 326 220 l 5
+ 276.068 222.617 228 224 170 224 c 7
+ 112 224 74.9316 222.617 25 220 c 5
+ 35 270 l 5
+EndSplineSet
+Refer: 300 116 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" tbar.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" tbar.sc
+EndChar

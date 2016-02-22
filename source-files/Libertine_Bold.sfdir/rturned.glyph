@@ -1,0 +1,14 @@
+StartChar: rturned
+Encoding: 633 633 642
+Width: 356
+VWidth: 999
+Flags: HW
+HStem: -14 93<-17.877 80.666> 19 31<273.327 325.438> 398 34<53.77 116.825 271.174 334.23>
+VStem: 129 130<60.297 82 98.9 388.507>
+AnchorPoint: "unten_punkt" 190 -114 basechar 0
+LayerCount: 2
+Fore
+Refer: 298 114 N -1 0 0 -1 357 430 2
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" rturned.superior
+Colour: ff0000
+EndChar

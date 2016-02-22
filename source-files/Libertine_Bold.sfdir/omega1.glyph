@@ -1,0 +1,21 @@
+StartChar: omega1
+Encoding: 982 982 755
+Width: 789
+VWidth: 999
+Flags: W
+HStem: -10 42<261.168 346.659 497.28 582.11> 374 68<70.7273 712>
+VStem: 81 140<78.9828 264.974> 366 113<141.514 297.845> 619 140<103.068 292.949>
+LayerCount: 2
+Fore
+SplineSet
+712 374 m 1
+ 125 374 l 2
+ 68 374 50 330 37 294 c 1
+ 17 294 l 1
+ 35 383 49 442 142 442 c 2
+ 712 442 l 1
+ 712 374 l 1
+EndSplineSet
+Refer: 743 969 N 1 0 0 1 40 0 2
+Validated: 35845
+EndChar

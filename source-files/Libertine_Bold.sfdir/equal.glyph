@@ -1,0 +1,34 @@
+StartChar: equal
+Encoding: 61 61 20
+Width: 551
+Flags: W
+HStem: 142 56<59 493> 266 57<59 493>
+LayerCount: 2
+Back
+SplineSet
+-58.1055 256.836 m 29
+ 565.43 256.836 l 1053
+0 572.012 m 1
+ 527.344 572.012 l 1
+ 527.344 0 l 1
+ 0 0 l 1
+ 0 572.012 l 1
+EndSplineSet
+Fore
+SplineSet
+493 323 m 1
+ 493 266 l 1
+ 59 266 l 1
+ 59 323 l 1
+ 493 323 l 1
+493 198 m 1
+ 493 142 l 1
+ 59 142 l 1
+ 59 198 l 1
+ 493 198 l 1
+EndSplineSet
+Validated: 3073
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" equal.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" equal.superior
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" equal.superior
+EndChar

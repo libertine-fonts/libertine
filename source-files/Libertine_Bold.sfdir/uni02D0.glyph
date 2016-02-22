@@ -1,0 +1,21 @@
+StartChar: uni02D0
+Encoding: 720 720 661
+Width: 209
+VWidth: 1099
+Flags: W
+VStem: 36 139
+LayerCount: 2
+Fore
+SplineSet
+36 37 m 25
+ 105 158 l 25
+ 175 37 l 25
+ 36 37 l 25
+36 405 m 25
+ 175 405 l 25
+ 105 284 l 25
+ 36 405 l 25
+EndSplineSet
+Validated: 3073
+Colour: ff00ff
+EndChar

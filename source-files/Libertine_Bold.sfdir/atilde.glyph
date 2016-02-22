@@ -1,0 +1,15 @@
+StartChar: atilde
+Encoding: 227 227 378
+Width: 506
+VWidth: 999
+Flags: W
+HStem: -10 60<147.94 232.195> -10 70<351 458.925> 402 42<171.423 262.805> 519 70<232.399 333.905> 557 71<125.858 225.467>
+VStem: 44 120<61.088 156.955> 61.5498 113.9<297.459 383.465> 86 26<521.865 543.979> 290 126<69.7837 218 257 374.933> 347 28<609.298 625.118>
+AnchorPoint: "top_akzent" 255 834 basechar 0
+LayerCount: 2
+Fore
+Refer: 667 732 S 1 0 0 1 74 0 2
+Refer: 281 97 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" atilde.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" atilde.sc
+EndChar

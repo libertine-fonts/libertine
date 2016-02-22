@@ -1,0 +1,14 @@
+StartChar: uring
+Encoding: 367 367 481
+Width: 598
+VWidth: 999
+Flags: W
+HStem: -10 74<172 304.754> 23 32<527.156 576.438> 402 34<18.77 71.7019 309.77 363.604> 500 34<258.785 329.791> 632 34<258.384 330.328>
+VStem: 89 130<80.3544 390.242> 209 38<543.351 622.928> 342 38<543.928 621.722> 380 130<81.8398 389.887>
+LayerCount: 2
+Fore
+Refer: 665 730 S 1 0 0 1 101 -88 2
+Refer: 301 117 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" uring.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" uring.sc
+EndChar

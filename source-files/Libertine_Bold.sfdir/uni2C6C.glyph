@@ -1,0 +1,38 @@
+StartChar: uni2C6C
+Encoding: 11372 11372 1757
+Width: 411
+Flags: W
+HStem: -98 144<341.977 410.82> 0 46<147 304.605> 386 47<107 255>
+VStem: 350 61<-98 -53.9426>
+DStem2: 21 31 147 46 0.550351 0.834934<81.8682 425.183>
+AnchorPoint: "unten_punkt" 204 -111 basechar 0
+AnchorPoint: "unten_anhang" 205 4 basechar 0
+AnchorPoint: "top_akzent" 218 646 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+269 0 m 2x70
+ 69 0 l 2
+ 40 0 13 3 13 17 c 0
+ 13 19 16 23 21 32 c 1
+ 21 31 l 1
+ 255 386 l 1
+ 137 386 l 2
+ 118 386 99 373 80 287 c 1
+ 12 298 l 1
+ 45 458 l 1
+ 109 446 l 1
+ 107 435 107 433 107 433 c 1
+ 353 433 l 2
+ 377 433 391 429 391 418 c 0
+ 391 416 383 404 373 389 c 0
+ 372 388 371 386 370 384 c 1
+ 295 270 223 161 147 46 c 1x70
+ 368 46 l 2
+ 383 46 411 38 411 22 c 2
+ 411 -98 l 1
+ 350 -98 l 1xb0
+ 343 -73 303 0 269 0 c 2x70
+EndSplineSet
+Validated: 3077
+EndChar

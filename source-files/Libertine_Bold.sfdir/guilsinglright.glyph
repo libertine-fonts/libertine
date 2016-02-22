@@ -1,0 +1,14 @@
+StartChar: guilsinglright
+Encoding: 8250 8250 1064
+Width: 355
+VWidth: 487
+Flags: W
+VStem: 60 244
+LayerCount: 2
+Fore
+Refer: 1063 8249 N -1 0 0 -1 356 430 2
+Validated: 32769
+Substitution2: "LinLibertine-'case' Versalformen 1" guilsinglright.sc
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" guilsinglright.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" guilsinglright.sc
+EndChar

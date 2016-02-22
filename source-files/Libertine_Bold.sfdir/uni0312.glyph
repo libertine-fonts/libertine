@@ -1,0 +1,24 @@
+StartChar: uni0312
+Encoding: 786 786 1427
+Width: 0
+VWidth: 999
+Flags: W
+TeX: 57 0
+HStem: 465 83<-102.724 -48.251> 624 28<-68.6797 -37.3716>
+VStem: -164 61<511.5 601.192>
+AnchorPoint: "komb_OR" -116 396 mark 0
+AnchorPoint: "top_akzent" -110 605 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-92 465 m 7
+ -124 465 -164 480 -164 543 c 7
+ -164 600 -112 640 -44 652 c 5
+ -34 646 -34 636 -38 624 c 5
+ -78 613 -103 589 -103 571 c 7
+ -103 551 -82 550 -74 548 c 4
+ -52 543 -41 528 -41 503 c 7
+ -41 486 -69 465 -92 465 c 7
+EndSplineSet
+Validated: 3073
+EndChar

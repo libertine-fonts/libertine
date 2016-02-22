@@ -1,0 +1,14 @@
+StartChar: exclamdown
+Encoding: 161 161 312
+Width: 288
+VWidth: 999
+Flags: W
+HStem: -224 20<109.333 137> 312 132<87.625 178.387>
+VStem: 67 132<-207.982 26.7236 332.613 423.456> 108 44<53.0392 227.926>
+LayerCount: 2
+Fore
+Refer: 0 33 N -1 0 0 -1 266 434 3
+Substitution2: "LinLibertine-'case' Versalformen 1" exclamdown.sc
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" exclamdown.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" exclamdown.sc
+EndChar

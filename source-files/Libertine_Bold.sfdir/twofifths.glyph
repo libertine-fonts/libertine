@@ -1,0 +1,24 @@
+StartChar: twofifths
+Encoding: 8534 8534 1127
+Width: 660
+VWidth: 999
+Flags: W
+HStem: -138.36 31.3203<465.042 520.548> 149.48 65.0791<463 605> 316 57<125 249.58> 581 20G<518.015 574> 631 30<115.931 178.423>
+VStem: 34 77.6885<539.846 612.824> 191 89<516.863 620.344> 535 89<-83.466 22.2529>
+DStem2: 74 -54 115 -62 0.573882 0.818938<16.9776 799.242> 95.2493 430.5 152.297 417.5 0.737072 0.675814<-15.6788 148.435> 413 61.7998 456 99.2803 0.13619 0.990683<42.9874 93.6732>
+LayerCount: 2
+Fore
+SplineSet
+532 601 m 1
+ 574 593 l 5
+ 115 -62 l 5
+ 74 -54 l 1
+ 532 601 l 1
+EndSplineSet
+Refer: 1090 8325 N 1 0 0 1 352 32 2
+Refer: 329 178 N 1 0 0 1 1 -48 2
+Validated: 35841
+Ligature2: "LinLibertine-'frac' Brueche 1" two fraction five
+Ligature2: "LinLibertine-'frac' Brueche 1" two slash five
+LCarets2: 2 0 0
+EndChar

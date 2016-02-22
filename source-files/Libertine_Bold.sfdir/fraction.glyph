@@ -1,0 +1,17 @@
+StartChar: fraction
+Encoding: 8260 8260 1912
+Width: 44
+VWidth: 999
+Flags: W
+DStem2: -234 -54 -193 -54 0.573882 0.818938<23.5292 799.242>
+LayerCount: 2
+Fore
+SplineSet
+224 601 m 1
+ 266 601 l 1
+ -193 -54 l 1
+ -234 -54 l 1
+ 224 601 l 1
+EndSplineSet
+Validated: 3073
+EndChar

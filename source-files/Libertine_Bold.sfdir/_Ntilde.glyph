@@ -1,0 +1,18 @@
+StartChar: Ntilde
+Encoding: 209 209 360
+Width: 740
+VWidth: 999
+Flags: W
+HStem: -12 21<549.617 585.417> -2 34<20.77 89.8593 180.791 251.23> 613 34<28.77 77.2322 485.77 556.209 647.141 716.23> 713 70<366.399 467.905> 751 71<259.858 359.467>
+VStem: 111 50<48.6827 449.993> 220 26<715.865 737.979> 481 28<803.298 819.118> 576 50<221.993 596.317>
+DStem2: 284.125 540 192.785 430 0.647124 -0.762385<-5.74275 425.344>
+AnchorPoint: "top_akzent" 344 894 basechar 0
+LayerCount: 2
+Fore
+Refer: 263 78 N 1 0 0 1 0 0 3
+Refer: 667 732 S 1 0 0 1 208 194 2
+Validated: 32769
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" ntilde.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" ntilde.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

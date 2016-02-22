@@ -1,0 +1,59 @@
+StartChar: six
+Encoding: 54 54 15
+Width: 514
+Flags: W
+HStem: -10 39<224.347 310.848> 315 50<204.23 295.75> 569 41<339.203 447.96>
+VStem: 44 126<115.719 300.126> 343 134<109.662 262.764>
+LayerCount: 2
+Back
+SplineSet
+368 591 m 1
+ 307 562 287 546 255 509 c 0
+ 217.025 465.092 184.035 402.544 176.5 330.5 c 1
+ 212.5 349.5 255 362 279 365 c 1
+ 442.5 361.5 477 253 477 204 c 3
+ 477 115.494 419.039 -10 263 -10 c 3
+ 162 -10 44 32 44 246 c 3
+ 44 342 65.6689 447.215 142 513 c 0
+ 218 578.5 237 586 343 614 c 1
+ 356 609 371.078 603.244 368 591 c 1
+171 289 m 1
+ 170 278 170 253 170 242 c 3
+ 170 68 225 29 275 29 c 3
+ 311 29 343 78 343 186 c 3
+ 343 245.502 303.02 315 245 315 c 3
+ 227 315 209.5 312.5 171 289 c 1
+46.875 610.125 m 21
+ 477.168 610.125 l 1037
+0 600.012 m 5
+ 539.965 600.012 l 5
+ 539.965 0 l 5
+ 0 0 l 5
+ 0 600.012 l 5
+EndSplineSet
+Fore
+SplineSet
+450 569 m 5
+ 393 566 324 557 265 509 c 4
+ 217.895 470.678 184.035 402.544 176.5 330.5 c 5
+ 212.5 349.5 255 362 279 365 c 5
+ 442.5 361.5 477 253 477 204 c 7
+ 477 115.494 419.039 -10 263 -10 c 7
+ 162 -10 44 32 44 246 c 7
+ 44 342 75.6694 447.215 152 513 c 4
+ 228 578.5 303 605.5 444 610 c 5
+ 451.79 600.419 453.078 581.244 450 569 c 5
+171 289 m 5
+ 170 278 170 253 170 242 c 7
+ 170 68 225 29 275 29 c 7
+ 311 29 343 78 343 186 c 7
+ 343 245.502 303.02 315 245 315 c 7
+ 227 315 209.5 312.5 171 289 c 5
+EndSplineSet
+Validated: 3105
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" six.taboldstyle
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" six.fitted
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" six.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" six.superior
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" six.oldstyle six.superior six.fitted
+EndChar

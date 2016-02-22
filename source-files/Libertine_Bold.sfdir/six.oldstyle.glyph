@@ -1,0 +1,14 @@
+StartChar: six.oldstyle
+Encoding: 57382 57382 2186
+Width: 525
+VWidth: 487
+Flags: W
+HStem: -10 39<222.347 308.848> 315 50<202.23 293.75> 569 41<337.203 445.96>
+VStem: 42 126<115.719 300.126> 341 134<109.662 262.764>
+LayerCount: 2
+Fore
+Refer: 15 54 N 1 0 0 1 -2 0 2
+Validated: 32769
+Substitution2: "'lnum' Versalziffern 1" six.fitted
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" six.taboldstyle
+EndChar

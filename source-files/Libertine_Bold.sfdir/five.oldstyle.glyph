@@ -1,0 +1,15 @@
+StartChar: five.oldstyle
+Encoding: 57381 57381 2185
+Width: 489
+VWidth: 488
+Flags: W
+HStem: -176 44<175.942 262.402> 172 56<131.952 266.102> 342 92<149.148 404.888> 348 99<146.618 234.085 238.796 293.01 296.675 410>
+VStem: 303 136<-47.672 129.998>
+LayerCount: 2
+Fore
+Refer: 14 53 S 1 0 0 1 -20 -166 2
+Validated: 32769
+Substitution2: "'lnum' Versalziffern 1" five.fitted
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" five.taboldstyle
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" five five.fitted
+EndChar

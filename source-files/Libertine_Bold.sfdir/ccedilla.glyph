@@ -1,0 +1,15 @@
+StartChar: ccedilla
+Encoding: 231 231 382
+Width: 456
+VWidth: 999
+Flags: W
+HStem: -215 29<152.203 251.52> -10 72<234.041 330.134> 402 42<205.102 288.383>
+VStem: 37 135<130.634 307.849> 262 62.865<-177.416 -114.388> 305 117<296.764 386.24>
+AnchorPoint: "top_akzent" 255 834 basechar 0
+LayerCount: 2
+Fore
+Refer: 681 807 S 1 0 0 1 425 0 2
+Refer: 283 99 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" ccedilla.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" ccedilla.sc
+EndChar

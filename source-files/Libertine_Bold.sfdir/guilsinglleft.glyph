@@ -1,0 +1,23 @@
+StartChar: guilsinglleft
+Encoding: 8249 8249 1063
+Width: 355
+VWidth: 487
+Flags: W
+VStem: 52 244
+LayerCount: 2
+Fore
+SplineSet
+296 457 m 1
+ 296 367 l 1
+ 253 302 207 261 153 216 c 1
+ 204 176 252 134 296 66 c 1
+ 296 -27 l 1
+ 189 98 118 163 52 199 c 1
+ 52 232 l 1
+ 123 282 194 347 296 457 c 1
+EndSplineSet
+Validated: 3073
+Substitution2: "LinLibertine-'case' Versalformen 1" guilsinglleft.sc
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" guilsinglleft.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" guilsinglleft.sc
+EndChar

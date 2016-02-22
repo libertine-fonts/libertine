@@ -1,0 +1,21 @@
+StartChar: breve.cap
+Encoding: 58204 58204 2271
+Width: 0
+VWidth: 487
+Flags: W
+HStem: 705 74<-235.117 -90.1269>
+VStem: -297 28<808.109 830.75> -53 27<810.51 830.778>
+AnchorPoint: "top_akzent" -161 658 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-26 830 m 5
+ -32 759 -95 705 -161 705 c 4
+ -234 705 -292 760 -297 830 c 5
+ -269 833 l 5
+ -261 794 -214 779 -161 779 c 4
+ -112 779 -60 794 -53 833 c 5
+ -26 830 l 5
+EndSplineSet
+Validated: 3073
+EndChar

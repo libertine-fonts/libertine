@@ -1,0 +1,13 @@
+StartChar: uni2016
+Encoding: 8214 8214 1617
+Width: 278
+VWidth: 999
+Flags: W
+HStem: -189 31.5<60 120 162 222> 828 30<60 120 162 222>
+VStem: 60 60<-189 858> 162 60<-189 858>
+LayerCount: 2
+Fore
+Refer: 517 448 N 1 0 0 1.5 89 -189 2
+Refer: 517 448 N 1 0 0 1.5 -13 -189 2
+Validated: 32769
+EndChar

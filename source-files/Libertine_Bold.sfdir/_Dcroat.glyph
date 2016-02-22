@@ -1,0 +1,14 @@
+StartChar: Dcroat
+Encoding: 272 272 414
+Width: 734
+VWidth: 999
+Flags: W
+HStem: -2 34<25.6167 94.4056> -2 42<269.225 426.596> 284 42<27 348> 604 42<268.527 415.668> 613 34<25.6167 94.4056>
+VStem: 114 140<54.7283 590.272> 535 151<175.935 431.978>
+LayerCount: 2
+Fore
+Refer: 359 208 N 1 0 0 1 0 0 2
+Validated: 32773
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" dcroat.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

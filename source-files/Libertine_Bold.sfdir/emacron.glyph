@@ -1,0 +1,16 @@
+StartChar: emacron
+Encoding: 275 275 417
+Width: 489
+VWidth: 999
+Flags: W
+HStem: -10 86<221.672 346.806> 235 42<176 314.939> 402 42<211.038 294.351> 543 50<87.1816 397.647>
+VStem: 37 135<127.941 235 277 300.984> 85 315<543.682 592.598> 315 127<255 366.526>
+AnchorPoint: "unten_punkt" 236 -110 basechar 0
+AnchorPoint: "unten_anhang" 242 -2 basechar 0
+AnchorPoint: "ogonek" 361 42 basechar 0
+AnchorPoint: "top_akzent" 227 698 basechar 0
+LayerCount: 2
+Fore
+Refer: 659 713 S 1 0 0 1 26 0 2
+Refer: 285 101 N 1 0 0 1 0 0 3
+EndChar

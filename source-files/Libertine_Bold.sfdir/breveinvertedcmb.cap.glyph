@@ -1,0 +1,13 @@
+StartChar: breveinvertedcmb.cap
+Encoding: 58207 58207 2274
+Width: 0
+VWidth: 487
+Flags: W
+HStem: 759 74<-232.873 -87.883>
+VStem: -297 27<707.222 727.49> -54 28<707.25 729.891>
+AnchorPoint: "top_akzent" -160 658 mark 0
+LayerCount: 2
+Fore
+Refer: 2271 58204 N -1 0 0 -1 -323 1538 2
+Validated: 32769
+EndChar

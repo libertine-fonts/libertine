@@ -1,0 +1,11 @@
+StartChar: twodotenleader
+Encoding: 8229 8229 1614
+Width: 424
+Flags: W
+HStem: -10 142<74.875 169.72 279.875 374.72>
+VStem: 51 142<14.003 108.125> 256 142<14.003 108.125>
+LayerCount: 2
+Fore
+Refer: 256 46 N 1 0 0 1 205 0 2
+Refer: 256 46 N 1 0 0 1 0 0 2
+EndChar

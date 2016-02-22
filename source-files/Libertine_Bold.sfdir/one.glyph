@@ -1,0 +1,68 @@
+StartChar: one
+Encoding: 49 49 10
+Width: 514
+Flags: W
+HStem: -2 34<128.617 207.874 396.126 475.383> 467 21G<128.562 162.25> 590 20G<349 358.5>
+VStem: 237 130<54.7283 488.997>
+LayerCount: 2
+Back
+SplineSet
+377 122 m 6
+ 377 39 388 36 449 32 c 5
+ 455 26 455 4 449 -2 c 5
+ 406 -1 365 0 312 0 c 31
+ 259 0 217 -1 175 -2 c 5
+ 169 4 169 26 175 32 c 5
+ 236 37 247 39 247 122 c 6
+ 247 314 l 6
+ 247 371 236 379 182 384 c 5
+ 180 390 178 410 180 416 c 5
+ 249 425 330 433 358 444 c 5
+ 372 444 381 438 381 427 c 5
+ 381 427 377 371 377 321 c 6
+ 377 122 l 6
+465 0 m 5
+ 158 0 l 5
+ 158 34 l 5
+ 237 39 246 54 246 125 c 6
+ 246 488 l 6
+ 246 540 242 547 201 550 c 6
+ 150 554 l 5
+ 150 583 l 5
+ 216 593 290 611 378 635 c 5
+ 378 125 l 6
+ 378 56 385 39 465 34 c 5
+ 465 0 l 5
+47 610 m 29
+ 477 610 l 1053
+0 600 m 5
+ 569 600 l 5
+ 569 0 l 5
+ 0 0 l 5
+ 0 600 l 5
+EndSplineSet
+Fore
+SplineSet
+367 122 m 2
+ 367 39 415 35 470 32 c 1
+ 480 26 480 4 470 -2 c 1
+ 388 -1 343 0 303 0 c 0
+ 263 0 134 -2 134 -2 c 1
+ 124 4 124 26 134 32 c 1
+ 189 35 237 39 237 122 c 2
+ 237 435 l 2
+ 237 485 231 489 218 489 c 0
+ 204 489 189.5 485.5 135 467 c 1
+ 122.125 474 117.625 484.875 120 499 c 1
+ 207 536 247 556 308 588 c 0
+ 330.577 599.844 344 610 354 610 c 0
+ 363 610 371 606 371 593 c 1
+ 371 593 367 536 367 483 c 2
+ 367 122 l 2
+EndSplineSet
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" one.taboldstyle
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" one.fitted
+Substitution2: "LinLibertine-'sinf' Wissenschaftliche Indices 1" one.inferior
+Substitution2: "LinLibertine-'sups' Hochgestellte 1" one.superior
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" one.oldstyle one.superior one.fitted
+EndChar

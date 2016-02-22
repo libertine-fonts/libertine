@@ -1,0 +1,12 @@
+StartChar: dotaccent
+Encoding: 729 729 664
+Width: 318
+VWidth: 487
+Flags: W
+HStem: 528 131<108.375 207.698>
+VStem: 90 138<548.43 640.955>
+LayerCount: 2
+Fore
+Refer: 673 775 N 1 0 0 1 326 0 2
+Colour: ff00ff
+EndChar

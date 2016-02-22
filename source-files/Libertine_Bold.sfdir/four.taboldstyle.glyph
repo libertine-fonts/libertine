@@ -1,0 +1,14 @@
+StartChar: four.taboldstyle
+Encoding: 57628 57628 2200
+Width: 514
+VWidth: 487
+Flags: W
+HStem: -164 34<163.617 237.64 410.36 484.383> 0 47<78.76 262 386 496.734> 428 20<257.75 386>
+VStem: 262 124<-111.424 0 47 338.976>
+LayerCount: 2
+Fore
+Refer: 2184 57380 S 1 0 0 1 -7 0 2
+Validated: 32769
+Substitution2: "'lnum' Versalziffern 1" four
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" four.oldstyle
+EndChar

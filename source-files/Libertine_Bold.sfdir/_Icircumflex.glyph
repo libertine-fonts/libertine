@@ -1,0 +1,15 @@
+StartChar: Icircumflex
+Encoding: 206 206 357
+Width: 367
+Flags: W
+HStem: -2 34<25.6167 94.4056 273.594 342.383> 613 34<25.6167 94.4056 273.594 342.383> 698 136
+VStem: 40 277 114 140<47 598>
+AnchorPoint: "top_akzent" 144 894 basechar 0
+LayerCount: 2
+Fore
+Refer: 258 73 N 1 0 0 1 0 0 3
+Refer: 2269 58202 S 1 0 0 1 309 0 2
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" icircumflex.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" icircumflex.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

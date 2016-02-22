@@ -1,0 +1,14 @@
+StartChar: Igrave
+Encoding: 204 204 355
+Width: 367
+Flags: W
+HStem: -2 34<25.6167 94.4056 273.594 342.383> 571 120 613 34<25.6167 94.4056 273.594 342.383>
+VStem: 67 212 114 140<47 598>
+LayerCount: 2
+Fore
+Refer: 258 73 N 1 0 0 1 0 0 3
+Refer: 2267 58200 S 1 0 0 1 360 0 2
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" igrave.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" igrave.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

@@ -1,0 +1,14 @@
+StartChar: tcaron
+Encoding: 357 357 471
+Width: 358
+VWidth: 999
+Flags: W
+HStem: -10 70<184.266 285.288> 384 50<28.2324 91 217 335.992> 519 17<254.353 272.187> 623 75<258.65 310.61>
+VStem: 88 130<66.9602 384 434 549.542> 312 50<560.145 643>
+LayerCount: 2
+Fore
+Refer: 655 700 S 1 0 0 1 223 46 2
+Refer: 300 116 N 1 0 0 1 0 0 2
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" tcaron.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" tcaron.sc
+EndChar

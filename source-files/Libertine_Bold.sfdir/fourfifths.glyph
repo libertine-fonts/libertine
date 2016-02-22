@@ -1,0 +1,24 @@
+StartChar: fourfifths
+Encoding: 8536 8536 1129
+Width: 660
+VWidth: 999
+Flags: W
+HStem: -138.36 31.3203<466.042 521.548> 149.48 65.0791<464 606> 315 30<92.5037 152.126 257.056 301.153> 422 42<71 166 249 306> 581 20G<518.015 574>
+VStem: 166 83<353.951 422 464 638> 536 89<-83.466 22.2529>
+DStem2: 74 -54 115 -62 0.573882 0.818938<16.9776 799.242> 414 61.7998 457 99.2803 0.13619 0.990683<42.9874 93.6732>
+LayerCount: 2
+Fore
+SplineSet
+532 601 m 1
+ 574 593 l 5
+ 115 -62 l 5
+ 74 -54 l 1
+ 532 601 l 1
+EndSplineSet
+Refer: 1073 8308 N 1 0 0 1 -9 -48 2
+Refer: 1090 8325 N 1 0 0 1 353 32 2
+Validated: 35845
+Ligature2: "LinLibertine-'frac' Brueche 1" four fraction five
+Ligature2: "LinLibertine-'frac' Brueche 1" four slash five
+LCarets2: 2 0 0
+EndChar

@@ -1,0 +1,20 @@
+StartChar: uni035E
+Encoding: 862 862 1741
+Width: 0
+VWidth: 999
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+-378 530 m 6
+ -389 530 -392 539 -392 547 c 7
+ -392 559 -378 579 -366 579 c 6
+ 369 579 l 6
+ 380 579 383 571 383 562 c 7
+ 383 550 370 530 357 530 c 6
+ -378 530 l 6
+EndSplineSet
+Validated: 3073
+Comment: "Alternative Akzente fuer Grossbuchstaben"
+Colour: ffffff
+EndChar

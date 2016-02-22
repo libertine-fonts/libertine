@@ -1,0 +1,12 @@
+StartChar: ygrave
+Encoding: 7923 7923 926
+Width: 568
+VWidth: 999
+Flags: W
+HStem: -232 98<105.266 201.239> 402 34<6.77002 59.52 218.453 267.23 377.77 430.434 515.585 561.23>
+LayerCount: 2
+Fore
+Refer: 305 121 N 1 0 0 1 0 0 3
+Refer: 669 768 S 1 0 0 1 383 -37 2
+LCarets2: 1 0
+EndChar

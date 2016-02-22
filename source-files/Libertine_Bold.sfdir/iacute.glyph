@@ -1,0 +1,15 @@
+StartChar: iacute
+Encoding: 237 237 388
+Width: 322
+VWidth: 999
+Flags: HW
+HStem: -2 34<26.77 89.8255 244.175 307.23> 384 32<35.5625 87.8438> 424 20<198.5 220>
+VStem: 102 130<41.4929 375.312>
+AnchorPoint: "top_akzent" 255 834 basechar 0
+LayerCount: 2
+Fore
+Refer: 670 769 S 1 0 0 1 315 0 2
+Refer: 419 305 N 1 0 0 1 0 0 3
+Substitution2: "LinLibertine-'smcp' Gemeine nach Kapitaelchen 1" iacute.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" iacute.sc
+EndChar

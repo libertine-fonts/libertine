@@ -1,0 +1,19 @@
+StartChar: notsubset
+Encoding: 8836 8836 2085
+Width: 522
+Flags: W
+HStem: 43 42<149.666 483> 354 42<151.604 483>
+VStem: 37 48<141.849 298>
+DStem2: 206 -59 244 -71 0.322847 0.946451<0.910769 587.568>
+LayerCount: 2
+Fore
+SplineSet
+434 486 m 5
+ 244 -71 l 5
+ 206 -59 l 5
+ 396 497 l 5
+ 434 486 l 5
+EndSplineSet
+Refer: 2083 8834 N 1 0 0 1 0 0 3
+Validated: 35845
+EndChar

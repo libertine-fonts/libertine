@@ -1,0 +1,20 @@
+StartChar: circumflexcomb
+Encoding: 770 770 671
+Width: 0
+VWidth: 999
+Flags: HMW
+AnchorPoint: "top_akzent" -139 697 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-151 663 m 1
+ -121 614 -83 570 -46 529 c 1
+ -71 510 l 1
+ -114 536 -143 556 -178 593 c 1
+ -216 554 -244 536 -284 510 c 1
+ -309 529 l 1
+ -273 570 -233 615 -203 663 c 1
+ -151 663 l 1
+EndSplineSet
+Validated: 3073
+EndChar

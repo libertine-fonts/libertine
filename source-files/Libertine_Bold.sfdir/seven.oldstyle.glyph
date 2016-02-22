@@ -1,0 +1,15 @@
+StartChar: seven.oldstyle
+Encoding: 57383 57383 2187
+Width: 471
+VWidth: 488
+Flags: W
+HStem: -178 21<97 205> 332 102<102.882 354.94>
+VStem: 36 35<247.4 287.601>
+LayerCount: 2
+Fore
+Refer: 16 55 S 1 0 0 1 -24 -166 2
+Validated: 32769
+Substitution2: "'lnum' Versalziffern 1" seven.fitted
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" seven.taboldstyle
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" seven seven.fitted
+EndChar

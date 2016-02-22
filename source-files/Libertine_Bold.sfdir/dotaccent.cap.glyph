@@ -1,0 +1,19 @@
+StartChar: dotaccent.cap
+Encoding: 58212 58212 2259
+Width: 291
+VWidth: 487
+Flags: W
+HStem: 709 124<100.2 193.8>
+VStem: 85 124<724.2 817.8>
+AnchorPoint: "top_akzent" 146 686 mark 0
+LayerCount: 2
+Fore
+SplineSet
+85 771 m 4
+ 85 805 113 833 147 833 c 4
+ 181 833 209 805 209 771 c 4
+ 209 737 181 709 147 709 c 4
+ 113 709 85 737 85 771 c 4
+EndSplineSet
+Validated: 3073
+EndChar

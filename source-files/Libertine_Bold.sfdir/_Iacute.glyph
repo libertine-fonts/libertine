@@ -1,0 +1,14 @@
+StartChar: Iacute
+Encoding: 205 205 356
+Width: 367
+Flags: W
+HStem: -2 34<25.6167 94.4056 273.594 342.383> 613 34<25.6167 94.4056 273.594 342.383> 701 132
+VStem: 86 202 114 140<47 598>
+LayerCount: 2
+Fore
+Refer: 258 73 N 1 0 0 1 0 0 3
+Refer: 2268 58201 N 1 0 0 1 380 0 2
+Substitution2: "LinLibertine-'c2sc' Versale nach Kapitaelchen 1" iacute.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" iacute.sc
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

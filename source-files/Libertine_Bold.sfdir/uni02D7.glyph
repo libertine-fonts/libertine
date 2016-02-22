@@ -1,0 +1,19 @@
+StartChar: uni02D7
+Encoding: 727 727 1407
+Width: 274
+VWidth: 999
+Flags: W
+TeX: 57 0
+HStem: -125 44<38.5071 226.145>
+LayerCount: 2
+Fore
+SplineSet
+223 -81 m 1
+ 232 -96 235 -106 222 -125 c 1
+ 41 -125 l 1
+ 32 -109 31 -94 44 -81 c 1
+ 223 -81 l 1
+EndSplineSet
+Validated: 3105
+Colour: ff00ff
+EndChar

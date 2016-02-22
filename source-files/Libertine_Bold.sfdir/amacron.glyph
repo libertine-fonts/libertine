@@ -1,0 +1,16 @@
+StartChar: amacron
+Encoding: 257 257 399
+Width: 506
+VWidth: 999
+Flags: W
+HStem: -10 60<147.94 232.195> -10 70<351 458.925> 402 42<171.423 262.805> 543 50<72.1816 382.647>
+VStem: 44 120<61.088 156.955> 61.5498 113.9<297.459 383.465> 70 315<543.682 592.598> 290 126<69.7837 218 257 374.933>
+AnchorPoint: "unten_punkt" 196 -108 basechar 0
+AnchorPoint: "unten_anhang" 167 -3 basechar 0
+AnchorPoint: "ogonek" 410 16 basechar 0
+AnchorPoint: "top_akzent" 209 715 basechar 0
+LayerCount: 2
+Fore
+Refer: 659 713 S 1 0 0 1 11 0 2
+Refer: 281 97 N 1 0 0 1 0 0 3
+EndChar

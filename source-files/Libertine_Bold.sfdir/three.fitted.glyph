@@ -1,0 +1,24 @@
+StartChar: three.fitted
+Encoding: 57363 57363 1458
+Width: 497
+VWidth: 487
+Flags: HW
+HStem: -10 42<174.66 285.732> 299 40<152.581 207.299> 568 42<176.591 292.226>
+VStem: 56 100<460.229 539.279> 305.862 118.138<429.848 555.444> 333 129<128.207 260.312>
+LayerCount: 2
+Back
+SplineSet
+46.875 578.125 m 29
+ 347.168 578.125 l 1053
+0 572.012 m 5
+ 438.965 572.012 l 5
+ 438.965 0 l 5
+ 0 0 l 5
+ 0 572.012 l 5
+EndSplineSet
+Fore
+Refer: 12 51 N 1 0 0 1 -5 0 2
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" three.oldstyle
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" three
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" three three.oldstyle
+EndChar

@@ -1,0 +1,11 @@
+StartChar: hungarumlaut
+Encoding: 733 733 668
+Width: 350
+VWidth: 487
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1416 779 N 1 0 0 1 354 0 2
+Comment: "Ende{Spacing modifying letters}"
+Colour: ff00ff
+EndChar

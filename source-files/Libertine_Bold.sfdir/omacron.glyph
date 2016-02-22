@@ -1,0 +1,13 @@
+StartChar: omacron
+Encoding: 333 333 447
+Width: 551
+VWidth: 999
+Flags: W
+HStem: -10 42<236.991 334.727> 402 42<211.57 311.912> 543 50<120.182 430.647>
+VStem: 37 140<112.736 315.973> 118 315<543.682 592.598> 374 140<115.701 321.741>
+AnchorPoint: "komb_OR" 420 396 basechar 0
+LayerCount: 2
+Fore
+Refer: 659 713 S 1 0 0 1 59 0 2
+Refer: 295 111 N 1 0 0 1 0 0 3
+EndChar

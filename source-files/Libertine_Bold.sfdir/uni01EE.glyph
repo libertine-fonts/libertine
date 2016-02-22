@@ -1,0 +1,15 @@
+StartChar: uni01EE
+Encoding: 494 494 563
+Width: 632
+VWidth: 999
+Flags: W
+HStem: -208 48<239.267 370.096> 600 46<156.06 435> 698 136
+VStem: 57 56<468.375 534.227> 172 277 464 132<-45.3333 153.188>
+DStem2: 238 243 398 289 0.483142 0.875542<117.578 407.747>
+LayerCount: 2
+Fore
+Refer: 2270 58203 S 1 0 0 1 491 0 2
+Refer: 514 439 N 1 0 0 1 0 0 3
+Validated: 32769
+LCarets2: 1 0
+EndChar

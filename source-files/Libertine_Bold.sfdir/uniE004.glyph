@@ -1,0 +1,28 @@
+StartChar: uniE004
+Encoding: 57348 57348 1382
+Width: 802
+VWidth: 999
+Flags: W
+TeX: 38 0
+HStem: 87 39<364 765> 229 39<91 717> 370 40<364 765>
+LayerCount: 2
+Fore
+SplineSet
+765 126 m 1
+ 765 87 l 1
+ 364 87 l 1
+ 364 126 l 1
+ 765 126 l 1
+717 268 m 5
+ 717 229 l 5
+ 91 229 l 5
+ 91 268 l 5
+ 717 268 l 5
+765 410 m 1
+ 765 370 l 1
+ 364 370 l 1
+ 364 410 l 1
+ 765 410 l 1
+EndSplineSet
+Validated: 3073
+EndChar

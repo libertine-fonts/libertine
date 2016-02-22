@@ -1,0 +1,18 @@
+StartChar: parenleft.inferior
+Encoding: 8333 8333 1098
+Width: 224
+Flags: W
+VStem: 32 87<-74.6534 84.9864>
+LayerCount: 2
+Fore
+SplineSet
+32 8 m 4
+ 32 77 89 157 177 213 c 5
+ 194 195 l 5
+ 132 130 119 81 119 8 c 4
+ 119 -68 128 -111 194 -179 c 5
+ 179 -198 l 5
+ 74 -131 32 -64 32 8 c 4
+EndSplineSet
+Validated: 3073
+EndChar

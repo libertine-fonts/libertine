@@ -1,0 +1,13 @@
+StartChar: cturned
+Encoding: 596 596 630
+Width: 456
+VWidth: 999
+Flags: W
+HStem: -14 42<134.617 217.898> 368 72<92.8662 188.959>
+VStem: 1 117<43.7601 133.236> 251 135<122.151 299.366>
+AnchorPoint: "unten_punkt" 177 -114 basechar 0
+LayerCount: 2
+Fore
+Refer: 283 99 N -1 0 0 -1 423 430 2
+Colour: ff0000
+EndChar

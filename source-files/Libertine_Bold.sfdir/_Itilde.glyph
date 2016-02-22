@@ -1,0 +1,13 @@
+StartChar: Itilde
+Encoding: 296 296 60
+Width: 367
+VWidth: 999
+Flags: W
+HStem: -2 34<25.6167 94.4056 273.594 342.383> 613 34<25.6167 94.4056 273.594 342.383> 692 70<192.399 293.905> 730 71<85.8584 185.467>
+VStem: 46 26<694.865 716.979> 114 140<47 598> 307 28<782.298 798.118>
+LayerCount: 2
+Fore
+Refer: 667 732 S 1 0 0 1 34 173 2
+Refer: 258 73 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar
