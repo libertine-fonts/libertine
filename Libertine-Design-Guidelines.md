@@ -1,5 +1,39 @@
 ![Libertine Fonts Logo](figures/Logo-Signet_mit_Linie-oliveStyle-gruenHG.png)
 
+<style>
+    img {margin-right: 25px;
+         float: left;
+         border-radius: 10px;
+         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)}
+</style>
+
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Libertine Design-Guidelines](#libertine-design-guidelines)
+	- [Design Principals / Reference Implementation](#design-principals-reference-implementation)
+		- [The Perfection of the Imperfect](#the-perfection-of-the-imperfect)
+		- [The serifs of Libertine](#the-serifs-of-libertine)
+			- [The foot serifs](#the-foot-serifs)
+			- [The middle head serifs (at x-height)](#the-middle-head-serifs-at-x-height)
+			- [The upper head serifs (at ascender-height)](#the-upper-head-serifs-at-ascender-height)
+			- [The half serifs](#the-half-serifs)
+			- [The drop terminals](#the-drop-terminals)
+		- [Two letters as primary design patterns ...](#two-letters-as-primary-design-patterns-)
+			- [... “n” for letters with serifs](#-n-for-letters-with-serifs)
+			- [... “o” for letters with round parts](#-o-for-letters-with-round-parts)
+	- [FontForge Font-Editor](#fontforge-font-editor)
+		- [How the sources are organized](#how-the-sources-are-organized)
+		- [The layers](#the-layers)
+		- [Spacing](#spacing)
+		- [Overshoot and height metrics](#overshoot-and-height-metrics)
+		- [Drawing splines and contours](#drawing-splines-and-contours)
+		- [Accented glyphs](#accented-glyphs)
+			- [Working with References](#working-with-references)
+			- [Base marks and Anchors](#base-marks-and-anchors)
+		- [Character weight, Stress and Stem width](#character-weight-stress-and-stem-width)
+	- [Authors](#authors)
+
+<!-- /TOC -->
 
 # Libertine Design-Guidelines
 
@@ -51,7 +85,7 @@ The upper head serifs occur in the letters `b, d, h, k,` and `l`. They look simi
 
 
 
-<img src="figures/halfserif-s.png" alt="The drop at the end of the right hook of f" width="25%" />
+<img src="figures/halfserif-s.png" alt="The half serif of letter s" width="25%" />
 #### The half serifs
 Half serifs occur at the lower-case letters `s` and `z` and at capitals such as `C, G, F, L, S, T, Z`. The halfserif of the `s` is nearly vertical while most others are diagonal. At the point where the outer contour passes over into the serif there is a right angle – a Libertine characteristic. Compare round letters such as `C` and `G` with rectangular ones such as `F` and `T`.  
 **Did you notice?** The half serif’s form is actually not cupped but even slightly convex.
@@ -61,20 +95,20 @@ Half serifs occur at the lower-case letters `s` and `z` and at capitals such as 
 <img src="figures/drop-f.png" alt="The drop at the end of the right hook of f" width="31%" />
 #### The drop terminals
 The drop occurs at the letters `a, c, f, g, j, r` and `y`.  
-**Did you notice?** The  of Libertine’s letters are oblated at the end. You will also find that the fullstop (period) and the bulbs of `,` and `”` are also flattened. This is another characteristic of Libertine. Mathematically ideal forms are perfect but boring.  
+**Did you notice?** The drops of Libertine’s letters are oblated at the end. You will also find that the fullstop (period) and the bulbs of `,` and `”` are flattened. This is another characteristic of Libertine.
 
 &nbsp;  
 
 
 
-### Two letters as primary design patterns
+### Two letters as primary design patterns ...
 Developing a font, one starts with just a few letters, or “glyphs” as we say, and define those as as design patterns. In Libertine these are “n” and “o”.
 In reverse, modifications on them cause conflicts with all derived letters, so you better don't touch them.
 
 
 
 <img src="figures/n-Referenzglyph-figure.png" alt="Letter n as design pattern" width="38%" />
-#### “n” for letters with serifs
+#### ... “n” for letters with serifs
 The lower-case letter `n` defines:
 
 * the **serifs**
@@ -89,7 +123,7 @@ Derived letters: `m, r, h, i, j, l, u, ...`
 
 
 <img src="figures/o-Referenzglyph-figure.png" alt="Letter o as design pattern" width="38%" />
-### »o« for letters with round parts
+#### ... “o” for letters with round parts
 The lower-case letter `o` defines the following characteristics for all letters with round parts:
 
 * **stress**: the calligraphic angle
@@ -156,11 +190,3 @@ Nearly all imaginable kind of accents have been encoded by now. You can find the
 
 ## Authors
 - Gillian Tiefenlicht [GillianTL](https://github.com/GillianTL)
-
-
-<style>
-    img {margin-right: 25px;
-         float: left;
-         border-radius: 10px;
-         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)}
-</style>
