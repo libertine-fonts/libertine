@@ -63,42 +63,44 @@ A **counterexample** in this case is the famous [Futura](https://en.wikipedia.or
 
 ### The serifs of Libertine
 
-<img src="figures/footserif.png" alt="The foot serif of a letter such as n" width="36%" />
+<img src="figures/footserif-figure.png" alt="The foot serif of a letter such as n" width="100%" />
 #### The foot serifs
-This figure shows a foot serif of Libertine. Foot serifs are the most common serifs and give shape to the lower-case `f, h, i, k, l, m, n, r` and many more upper-case. With the letters `k, v, w, x` and `y` they occur in a diagonal form and not only at the baseline but also at the x-height. With `p` and `q` they form the descender.  
+
+This figure shows a foot serif of Libertine. Foot serifs are the most common serifs and give shape to the lower-case `f, h, i, k, l, m, n, r` and many more upper-case. With the letters `k, v, w, x` and `y` they occur in a diagonal form and not only at the baseline but also at the x-height. With `p` and `q` they form the descender.
+In the figure you can recognize that the serif’s thickness in the regular style and the bold style is nearly identical (33 EM : 34 EM) while the stem in the bold style is 1.6 times fatter.     
 **Did you notice?** The right half of the shown serif is a bit shorter than the opposite because it is the left foot serif of the n. This is an optical measure to avoid that the both foot serifs come to close and narrow the open counter, which is important for the legibility of `n`.  
 **Did you notice?** The outer left and right parts of the serif bow down a little giving the whole a concave form. This measure is called “cupped serif”.
 
 
-<img src="figures/headserif-n.png" alt="Letter n as design pattern" width="26%" />
+<img src="figures/headserif-figure.png" alt="Letter n as design pattern" width="100%" />
+
 #### The middle head serifs (at x-height)
 This figure shows the head serif of `n, m, r` and `p`. It is a characteristic of Libertine that this serif bows to the left and opens the angle where stem and hairline join.   
 Have a look at `i` and `j`. Their head serifs are upright and don't bow left. There are just no angles to open.  
 **Did you notice?** The upper spline of the head serif is a bit concave. It is “cupped” such as the foot serif.  
 
 
-<img src="figures/headserif-l.png" alt="The upper head serif of l" width="31%" />
-#### The upper head serifs (at ascender-height)
-The upper head serifs occur in the letters `b, d, h, k,` and `l`. They look similar to the serifs of `i` and `j` but in fact they are not identical.  
+<img src="figures/ascenderserif-figure.png" alt="The upper head serif of l" width="100%" />
 
-&nbsp;  
+#### The ascender serifs (at ascender-height)
+The *ascender* or *upper head serifs* occur in the letters `b, d, h, k,` and `l`. They look similar to the serifs of `i` and `j` but in fact they are not identical.  
 
+<img src="figures/halfserif-figure.png" alt="The half serif of letter s" width="100%" />
 
-&nbsp;  
-
-
-
-<img src="figures/halfserif-s.png" alt="The half serif of letter s" width="25%" />
 #### The half serifs
-Half serifs occur at the lower-case letters `s` and `z` and at capitals such as `C, G, F, L, S, T, Z`. The halfserif of the `s` is nearly vertical while most others are diagonal. At the point where the outer contour passes over into the serif there is a right angle – a Libertine characteristic. Compare round letters such as `C` and `G` with rectangular ones such as `F` and `T`.  
+Half serifs occur at the lower-case letters `s` and `z` and at capitals such as `C, G, F, L, S, T, Z`. The halfserif of the `s` is nearly vertical while most others are diagonal. At the point where the outer contour passes over into the serif there is a right angle – a Libertine characteristic. Compare round letters such as `C` and `G` with rectangular ones such as `F` and `T`.
+In the bold style the diagonal stroke grows, but not as much as the verticals stems do. This is because the counters shrink whereby the glyph already gains enough weight.   
 **Did you notice?** The half serif’s form is actually not cupped but even slightly convex.
 
 
 
-<img src="figures/drop-f.png" alt="The drop at the end of the right hook of f" width="31%" />
+<img src="figures/dropterminals-figure.png" alt="The drop at the end of the right hook of f" width="100%" />
+
 #### The drop terminals
 The drop occurs at the letters `a, c, f, g, j, r` and `y`.  
-**Did you notice?** The drops of Libertine’s letters are oblated at the end. You will also find that the fullstop (period) and the bulbs of `,` and `”` are flattened. This is another characteristic of Libertine.
+In the bold style the drop terminals get much heavier while the hairline does not receive such a strong growth. In the figure you will also recognize that the x-height rises about 5 EM in the bold style.  
+**Did you notice?** The drops of Libertine’s letters are oblated at the end. You will also find that the fullstop (period) and the bulbs of `,` and `”` are flattened. This is another characteristic of Libertine.  
+
 
 &nbsp;  
 
@@ -111,6 +113,7 @@ In reverse, modifications on them cause conflicts with all derived letters, so y
 
 
 <img src="figures/n-Referenzglyph-figure.png" alt="Letter n as design pattern" width="38%" />
+
 #### ... “n” for letters with serifs
 The lower-case letter `n` defines:
 
