@@ -1,16 +1,19 @@
-![Libertine Fonts Logo](figures/Logo-Signet_mit_Linie-oliveStyle-gruenHG.png)
-
 <style>
-    img {margin-right: 25px;
+    img {
+         margin-right: 25px;
          float: left;
          border-radius: 10px;
-         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)}
+         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+       }
 </style>
+
+![Libertine Fonts Logo](figures/Logo-Signet_mit_Linie-oliveStyle-gruenHG.png)
+
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Libertine Design-Guidelines](#libertine-design-guidelines)
-	- [Design Principals / Reference Implementation](#design-principals-reference-implementation)
+	- [Design Principals](#design-principals)
 		- [The Perfection of the Imperfect](#the-perfection-of-the-imperfect)
 		- [The serifs of Libertine](#the-serifs-of-libertine)
 			- [The foot serifs](#the-foot-serifs)
@@ -41,7 +44,7 @@ These are short guidelines for all volunteers who loves libre fonts in general a
 Fonts contain dozens of glyphs, Libertine for example of about 2 000, and though they all are different, they fit together, have to fit together – in the aspect of design, of their optical weight and of their spacing. And about that, some technical issues have to be meat.
 Sounds comlicated? Never mind, we will get you into it. This what the guidelines are for.
 
-## Design Principals / Reference Implementation
+## Design Principals
 The form of a letter is a social convention, usually even a very old one. Our Latin alphabet for example was derived from the Roman letters, those based on the Greek, which again have their roots in Phoenician scripts. In 765 AD the Carolingian minuscule established as a standard for writing and thus gave our lower-case letters their present shape. With [Unicode]( http://www.unicode.org) we today have a specification, a computing industry standard, defining the name, the basic form and encoding position of nearly any known glyph in the world.
 
 A type designer thus works with a framework. He interprets the essence of a letter and decides about design characteristics such as
