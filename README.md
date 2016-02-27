@@ -1,7 +1,8 @@
 ![Libertine Fonts Logo](figures/Logo-Signet_mit_Linie-oliveStyle-gruenHG.png)
 
 
-# Libertine Fonts - Libre, multilingual font-family
+# Libertine Fonts
+## Libre, multilingual font-family
 
 The Libertine Fonts project is currently moving from [Sourceforge](https://sourceforge.net/projects/linuxlibertine) to GitHub.
 You will already find the sources of the following typefaces here:
@@ -28,16 +29,13 @@ In the near future we will publish OpenType (\*.otf) files in the in the folder 
 
 ## Contributing
 
-If you have suggestions for improving Libertine Fonts and think about contributing 
+If you have suggestions for improving Libertine Fonts and think about contributing
 to the project please contact [GillianTL](https://github.com/GillianTL).
 
-Please have a look at our illustrated [Design Guidelines](Libertine-Design-Guidelines.md) 
+Please have a look at our illustrated [Design Guidelines](Libertine-Design-Guidelines.md)
 to gain an insight into our project.
 
 
 ## Authors
 
 - Gillian Tiefenlicht ([GillianTL](https://github.com/GillianTL))
-
-
-
