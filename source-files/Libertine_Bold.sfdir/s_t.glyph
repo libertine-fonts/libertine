@@ -2,7 +2,7 @@ StartChar: s_t
 Encoding: 64262 64262 1390
 Width: 756
 VWidth: 999
-Flags: W
+Flags: HW
 TeX: 57 0
 HStem: -10 39<151.116 249.005> -10 72<567 674.078> 384 50<417 484.342 616 740> 402 42<183.041 270.954> 660 38<315.179 472.174>
 VStem: 48 40<101.16 147.651> 63 113<304.373 377.234> 211 52<465.097 616.596> 261 116<55.38 134.594> 318 39<310.247 346.382> 486 130<63.7718 384>
@@ -65,7 +65,6 @@ SplineSet
  417 432 435 434 455 434 c 3x6920
 EndSplineSet
 Refer: 1964 115 N 1 0 0 1 0 0 2
-Validated: 35845
 Ligature2: "LinLibertine-'hlig' Historische Ligaturen 1" s t
 LCarets2: 1 411
 EndChar
