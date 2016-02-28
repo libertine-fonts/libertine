@@ -1,3 +1,4 @@
+<!--
 <style>
     img {
          margin-right: 25px;
@@ -6,6 +7,7 @@
          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
        }
 </style>
+-->
 
 ![Libertine Fonts Logo](figures/Logo-Signet_mit_Linie-oliveStyle-gruenHG.png)
 
@@ -15,15 +17,44 @@
 - [Libertine Design-Guidelines](#libertine-design-guidelines)
 	- [Design Principals](#design-principals)
 		- [The Perfection of the Imperfect](#the-perfection-of-the-imperfect)
+		- [The styles of Libertine](#the-styles-of-libertine)
 		- [The serifs of Libertine](#the-serifs-of-libertine)
 			- [The foot serifs](#the-foot-serifs)
 			- [The middle head serifs (at x-height)](#the-middle-head-serifs-at-x-height)
-			- [The upper head serifs (at ascender-height)](#the-upper-head-serifs-at-ascender-height)
+			- [The ascender serifs (at ascender-height)](#the-ascender-serifs-at-ascender-height)
 			- [The half serifs](#the-half-serifs)
 			- [The drop terminals](#the-drop-terminals)
 		- [Two letters as primary design patterns ...](#two-letters-as-primary-design-patterns-)
 			- [... “n” for letters with serifs](#-n-for-letters-with-serifs)
 			- [... “o” for letters with round parts](#-o-for-letters-with-round-parts)
+	- [Vertical metrics](#vertical-metrics)
+		- [Spacing and Tracking](#spacing-and-tracking)
+		- [Overshoot and height metrics](#overshoot-and-height-metrics)
+	- [FontForge Font-Editor](#fontforge-font-editor)
+		- [How the sources are organized](#how-the-sources-are-organized)
+		- [The layers](#the-layers)
+		- [Drawing splines and contours](#drawing-splines-and-contours)
+		- [Accented glyphs](#accented-glyphs)
+			- [Working with References](#working-with-references)
+			- [Base marks and Anchors](#base-marks-and-anchors)
+	- [Authors](#authors)
+
+<!-- /TOC -->!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Libertine Design-Guidelines](#libertine-design-guidelines)
+	- [Design Principals](#design-principals)
+		- [The Perfection of the Imperfect](#the-perfection-of-the-imperfect)
+		- [The styles of Libertine](#the-styles-of-libertine)
+		- [The serifs of Libertine](#the-serifs-of-libertine)
+			- [The foot serifs](#the-foot-serifs)
+			- [The middle head serifs (at x-height)](#the-middle-head-serifs-at-x-height)
+			- [The ascender serifs (at ascender-height)](#the-ascender-serifs-at-ascender-height)
+			- [The half serifs](#the-half-serifs)
+			- [The drop terminals](#the-drop-terminals)
+		- [Two letters as primary design patterns ...](#two-letters-as-primary-design-patterns-)
+			- [... “n” for letters with serifs](#-n-for-letters-with-serifs)
+			- [... “o” for letters with round parts](#-o-for-letters-with-round-parts)
+	- [Vertical metrics](#vertical-metrics)
 	- [FontForge Font-Editor](#fontforge-font-editor)
 		- [How the sources are organized](#how-the-sources-are-organized)
 		- [The layers](#the-layers)
@@ -33,7 +64,6 @@
 		- [Accented glyphs](#accented-glyphs)
 			- [Working with References](#working-with-references)
 			- [Base marks and Anchors](#base-marks-and-anchors)
-		- [Character weight, Stress and Stem width](#character-weight-stress-and-stem-width)
 	- [Authors](#authors)
 
 <!-- /TOC -->
@@ -133,7 +163,7 @@ Derived letters: `m, r, h, i, j, l, u, ...`
 
 
 
-![Letter “o” as design pattern, stress angle and optical bearings](figures/o-and-stress-figure.png)
+![Letter “o” as design pattern, stress angle and optical bearings](figures/o-Referenzglyph-figure.png)
 #### ... “o” for letters with round parts
 The lower-case letter `o` defines the following characteristics for all letters with round parts:
 
@@ -141,6 +171,8 @@ The lower-case letter `o` defines the following characteristics for all letters 
 * **min/max. width** of round strokes, i.e. 35 EM for thinnest and 86 EM for boldest part of stroke.
 * **Spacing**. The white space of the counter affects tracking. This is because the white space  between glyphs (the sum of the optical bearings) shall be equal to the counter. To find the correct spacing for the glyphs is a hard piece of work.
 * **Bearings** as indication for spacing of round characters.
+
+The right part of the figure shows a bold `o` with the pointed contour of the regular `o` on top of it. You can see, that the vertical strokes grow in width while the hairline nearly stays the same. The glyph emboldens especially at the outer part and becomes wider. But the strokes also gain width on the inner side of the character whereby the counter shrinks. Both, the increased stroke thickness and the shrink of the counters result in a heavier font weight.
 
 Derived letters: `e, c`, and round parts of `b, d, p, q, g, ...`. **Please note:** *Derived* does not simply mean *copy & paste*. When it comes to the round parts of glyphs you will always have to modify and improve form, weight and bearings.  
 
@@ -150,6 +182,15 @@ Derived letters: `e, c`, and round parts of `b, d, p, q, g, ...`. **Please note:
 The figure shows the vertical metric of Libertine regular. The horizontal border-lines are called “heights”. The **x-height** for example is the upper horizontal border of lower-case like `a, c, e, ..., x`. Libertine’s upper-case are a bit shorter (=> **caps-height**) than the ascenders of the lower-case (=> **ascender-height**). This is also true for numbers which have their own **numbers-height** and for small caps with their **caps-height**.  
 By definition the height of the EM square is divided into 1’000 units we call “EM units” or just “EM”. Simply speaking, we are working in an Cartesian coordinate system.   
 **Have you noticed** the rose colored margins? Thei are the overshoot-margins. As mentioned above round glyph-parts have to overshoot the line-height to form the optical illusion of evenness.
+
+### Spacing and Tracking
+![Spacing of letters has to base on optical assessment and has to correspond with the counter space.](figures/spacing-figure.png)
+Well, you have drawn a wonderful glyph and now you think, the work is done? Far wrong! The spacing and finding the right tracking is one of the major tasks. You have to check dozens of glyph pair constellations and have to make lots of compromises. The figure shows the counter space in blue and the inter glyph spacing in red. The counters play an important role in tracking. For spacing and counters should be equally balanced.  
+Remember the figure indicating the bold `o`? Thinner counters lead to thinner letter spacing and thus to an increased density of the face and higher weight.  
+Libertine’s glyphs are already fairly well spaced. So if you want to set the spacing of a new glyph or improve the existing one, chose one the reference characters that resembles yours and make a decision based on that.
+
+### Overshoot and height metrics
+*Please complement description.*
 
 ## FontForge Font-Editor
 <img src="figures/fontforge-fontview.png" alt="Letter o as design pattern" width="61%" />
@@ -167,11 +208,7 @@ So if you added or improved a glyph, git will just upload the changed `*.glyph` 
 In the glyph view you will find amongst others a little tool-box called “layers”. The contours of Libertine are stored in the “glyph layer”. You can use the “background layer” to store contours from another glyph for comparing certain characteristics like form, height, counter width and such. Finally the “guide layer” contains metrical lines such as x-height, caps-height etc. and it is actually unique for all glyph. So please leave that one untouched.
 
 
-### Spacing
-*Please complement description.*
 
-### Overshoot and height metrics
-*Please complement description.*
 
 ### Drawing splines and contours
 <img src="figures/r-Point-types-figure.png" alt="The 4 point types and drawing contours" width="50%" />
