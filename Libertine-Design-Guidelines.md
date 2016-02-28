@@ -61,9 +61,17 @@ A type designer thus works with a framework. He interprets the essence of a lett
 Mathematically ideal forms are perfect but boring. That’s the one side of the coin. The other is that typography has to take optical effects and peculiarities of our eyes into account. The [overshoot](https://en.wikipedia.org/wiki/Overshoot_%28typography%29) of round characters, cupped serifs, tapered stems, kerning, etc. are examples for measures improving the overall impression and the legibility of type. These measures are summarized under the term [microtypography](https://en.wikipedia.org/wiki/Microtypography). A special property has gained importance with the digitization: The distinguishability of similar glyphs.  
 A **counterexample** in this case is the famous [Futura](https://en.wikipedia.org/wiki/Futura_%28typeface%29) Paul Renner designed in 1927. Influenced by the Bauhaus ideals he reduced type to geometric elements. In his font `d`, `p`, `b` and `q` are circles with stems and just flipped or rotated copies of each other. The `a` is a `d` without ascender. The impression is a very reduced but somehow elegant font you can use as a display typeface in higher grades. But it definitely causes pain to read body text in Futura. You will of course find people denying that. Well, it's that sort of people who believes the “frilled” serif antiqua is obsolete and sans-serif is the ne plus ultra.
 
+### The styles of Libertine
+![The different styles of the Libertine font-family.](figures/styles-figure.png)
+
+Currently there are six different styles of Libertine:  
+**Regular** and **Italic** have standard weight, also known as “book”, and are designed for 11pt.
+The **Bold** and **Bold italic** are heavier forms of the above mentioned. The **Display** is a special light and elegant variant for titles and headlines.
+Each style of Libertine contains a subset of small capitals. The **Small caps** style is an extended set of the regular style.
+
 ### The serifs of Libertine
 
-<img src="figures/footserif-figure.png" alt="The foot serif of a letter such as n" width="100%" />
+![The foot serif of letters such as n, m, r ...](figures/footserif-figure.png)
 #### The foot serifs
 
 This figure shows a foot serif of Libertine. Foot serifs are the most common serifs and give shape to the lower-case `f, h, i, k, l, m, n, r` and many more upper-case. With the letters `k, v, w, x` and `y` they occur in a diagonal form and not only at the baseline but also at the x-height. With `p` and `q` they form the descender.
@@ -71,21 +79,19 @@ In the figure you can recognize that the serif’s thickness in the regular styl
 **Did you notice?** The right half of the shown serif is a bit shorter than the opposite because it is the left foot serif of the n. This is an optical measure to avoid that the both foot serifs come to close and narrow the open counter, which is important for the legibility of `n`.  
 **Did you notice?** The outer left and right parts of the serif bow down a little giving the whole a concave form. This measure is called “cupped serif”.
 
-
-<img src="figures/headserif-figure.png" alt="Letter n as design pattern" width="100%" />
+![Letter n as design pattern](figures/headserif-figure.png)
 
 #### The middle head serifs (at x-height)
 This figure shows the head serif of `n, m, r` and `p`. It is a characteristic of Libertine that this serif bows to the left and opens the angle where stem and hairline join.   
 Have a look at `i` and `j`. Their head serifs are upright and don't bow left. There are just no angles to open.  
 **Did you notice?** The upper spline of the head serif is a bit concave. It is “cupped” such as the foot serif.  
 
-
-<img src="figures/ascenderserif-figure.png" alt="The upper head serif of l" width="100%" />
+![The upper head serif of l](figures/ascenderserif-figure.png)
 
 #### The ascender serifs (at ascender-height)
 The *ascender* or *upper head serifs* occur in the letters `b, d, h, k,` and `l`. They look similar to the serifs of `i` and `j` but in fact they are not identical.  
 
-<img src="figures/halfserif-figure.png" alt="The half serif of letter s" width="100%" />
+![The half serif of letter s](figures/halfserif-figure.png)
 
 #### The half serifs
 Half serifs occur at the lower-case letters `s` and `z` and at capitals such as `C, G, F, L, S, T, Z`. The halfserif of the `s` is nearly vertical while most others are diagonal. At the point where the outer contour passes over into the serif there is a right angle – a Libertine characteristic. Compare round letters such as `C` and `G` with rectangular ones such as `F` and `T`.
@@ -93,8 +99,7 @@ In the bold style the diagonal stroke grows, but not as much as the verticals st
 **Did you notice?** The half serif’s form is actually not cupped but even slightly convex.
 
 
-
-<img src="figures/dropterminals-figure.png" alt="The drop at the end of the right hook of f" width="100%" />
+![The drop at the right hook terminal of f](figures/dropterminals-figure.png)
 
 #### The drop terminals
 The drop occurs at the letters `a, c, f, g, j, r` and `y`.  
@@ -128,18 +133,23 @@ Derived letters: `m, r, h, i, j, l, u, ...`
 
 
 
-<img src="figures/o-Referenzglyph-figure.png" alt="Letter o as design pattern" width="38%" />
+![Letter “o” as design pattern, stress angle and optical bearings](figures/o-and-stress-figure.png)
 #### ... “o” for letters with round parts
 The lower-case letter `o` defines the following characteristics for all letters with round parts:
 
 * **stress**: the calligraphic angle
 * **min/max. width** of round strokes, i.e. 35 EM for thinnest and 86 EM for boldest part of stroke.
-* **Spacing**. The white space of the counter affects tracking.
+* **Spacing**. The white space of the counter affects tracking. This is because the white space  between glyphs (the sum of the optical bearings) shall be equal to the counter. To find the correct spacing for the glyphs is a hard piece of work.
 * **Bearings** as indication for spacing of round characters.
 
-Derived letters: `e, c`, and round parts of `b, d, p, q, g, ...`  
+Derived letters: `e, c`, and round parts of `b, d, p, q, g, ...`. **Please note:** *Derived* does not simply mean *copy & paste*. When it comes to the round parts of glyphs you will always have to modify and improve form, weight and bearings.  
 
-&nbsp;
+## Vertical metrics
+![Heights and Overshoot-Margins](figures/heights-figure.png)
+
+The figure shows the vertical metric of Libertine regular. The horizontal border-lines are called “heights”. The **x-height** for example is the upper horizontal border of lower-case like `a, c, e, ..., x`. Libertine’s upper-case are a bit shorter (=> **caps-height**) than the ascenders of the lower-case (=> **ascender-height**). This is also true for numbers which have their own **numbers-height** and for small caps with their **caps-height**.  
+By definition the height of the EM square is divided into 1’000 units we call “EM units” or just “EM”. Simply speaking, we are working in an Cartesian coordinate system.   
+**Have you noticed** the rose colored margins? Thei are the overshoot-margins. As mentioned above round glyph-parts have to overshoot the line-height to form the optical illusion of evenness.
 
 ## FontForge Font-Editor
 <img src="figures/fontforge-fontview.png" alt="Letter o as design pattern" width="61%" />
@@ -190,9 +200,6 @@ Nearly all imaginable kind of accents have been encoded by now. You can find the
 
 #### Base marks and Anchors
 *Please complement description.*
-
-### Character weight, Stress and Stem width
-<img src="figures/o-stress_contrast-figure.png" alt="Stress axis of Libertine Regular" width="30%" />
 
 ## Authors
 - Gillian Tiefenlicht [GillianTL](https://github.com/GillianTL)
