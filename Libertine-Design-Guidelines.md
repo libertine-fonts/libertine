@@ -11,7 +11,6 @@
 
 ![Libertine Fonts Logo](figures/Logo-Signet_mit_Linie-oliveStyle-gruenHG.png)
 
-
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Libertine Design-Guidelines](#libertine-design-guidelines)
@@ -27,39 +26,13 @@
 		- [Two letters as primary design patterns ...](#two-letters-as-primary-design-patterns-)
 			- [... “n” for letters with serifs](#-n-for-letters-with-serifs)
 			- [... “o” for letters with round parts](#-o-for-letters-with-round-parts)
-	- [Vertical metrics](#vertical-metrics)
+		- [Secondary Design patterns](#secondary-design-patterns)
+		- [Vertical metrics](#vertical-metrics)
 		- [Spacing and Tracking](#spacing-and-tracking)
 		- [Overshoot and height metrics](#overshoot-and-height-metrics)
 	- [FontForge Font-Editor](#fontforge-font-editor)
 		- [How the sources are organized](#how-the-sources-are-organized)
 		- [The layers](#the-layers)
-		- [Drawing splines and contours](#drawing-splines-and-contours)
-		- [Accented glyphs](#accented-glyphs)
-			- [Working with References](#working-with-references)
-			- [Base marks and Anchors](#base-marks-and-anchors)
-	- [Authors](#authors)
-
-<!-- /TOC -->!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [Libertine Design-Guidelines](#libertine-design-guidelines)
-	- [Design Principals](#design-principals)
-		- [The Perfection of the Imperfect](#the-perfection-of-the-imperfect)
-		- [The styles of Libertine](#the-styles-of-libertine)
-		- [The serifs of Libertine](#the-serifs-of-libertine)
-			- [The foot serifs](#the-foot-serifs)
-			- [The middle head serifs (at x-height)](#the-middle-head-serifs-at-x-height)
-			- [The ascender serifs (at ascender-height)](#the-ascender-serifs-at-ascender-height)
-			- [The half serifs](#the-half-serifs)
-			- [The drop terminals](#the-drop-terminals)
-		- [Two letters as primary design patterns ...](#two-letters-as-primary-design-patterns-)
-			- [... “n” for letters with serifs](#-n-for-letters-with-serifs)
-			- [... “o” for letters with round parts](#-o-for-letters-with-round-parts)
-	- [Vertical metrics](#vertical-metrics)
-	- [FontForge Font-Editor](#fontforge-font-editor)
-		- [How the sources are organized](#how-the-sources-are-organized)
-		- [The layers](#the-layers)
-		- [Spacing](#spacing)
-		- [Overshoot and height metrics](#overshoot-and-height-metrics)
 		- [Drawing splines and contours](#drawing-splines-and-contours)
 		- [Accented glyphs](#accented-glyphs)
 			- [Working with References](#working-with-references)
@@ -176,7 +149,16 @@ The right part of the figure shows a bold `o` with the pointed contour of the re
 
 Derived letters: `e, c`, and round parts of `b, d, p, q, g, ...`. **Please note:** *Derived* does not simply mean *copy & paste*. When it comes to the round parts of glyphs you will always have to modify and improve form, weight and bearings.  
 
-## Vertical metrics
+### Secondary Design patterns
+Besides the letters `n` and `o` all basic alphabetic characters form a the sets of secondary design patterns. The following table lists the Unicode ranges of secondary design patterns.
+
+| Alphabet     | Glyphs     | Unicode Range     | Chart    |
+| :------------- | :------------- | :------------- | :------------- |
+| Basic Latin (ASCII)      | `0–9` `A–Z` `a–z` | 0000 – 007F       | [PDF](figures/LF-Libertine_BasicLatin.pdf)   |
+| Basic Greek       | `Α–Ω` `α–ω`    | 0370 – 03FF   | [PDF](figures/LF-Libertine_BasicGreek.pdf)    |
+| Basic Cyrillic       | `А–Я` `а–я`       | 0400 – 04FF | *to do*   |
+
+### Vertical metrics
 ![Heights and Overshoot-Margins](figures/heights-figure.png)
 
 The figure shows the vertical metric of Libertine regular. The horizontal border-lines are called “heights”. The **x-height** for example is the upper horizontal border of lower-case like `a, c, e, ..., x`. Libertine’s upper-case are a bit shorter (=> **caps-height**) than the ascenders of the lower-case (=> **ascender-height**). This is also true for numbers which have their own **numbers-height** and for small caps with their **caps-height**.  
