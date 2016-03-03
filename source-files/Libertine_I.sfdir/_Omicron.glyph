@@ -1,0 +1,12 @@
+StartChar: Omicron
+Encoding: 927 927 704
+Width: 672
+VWidth: 999
+Flags: W
+HStem: -10 36<287.995 433.368> 622 36<363.341 517.661>
+VStem: 87.6127 94.8982<131.96 373.125> 616.85 94.1661<277.201 519.131>
+LayerCount: 2
+Fore
+Refer: 266 79 S 1 0 0 1 0 0 3
+Validated: 1
+EndChar

@@ -1,0 +1,15 @@
+StartChar: Zdotaccent
+Encoding: 379 379 495
+Width: 578
+VWidth: 999
+Flags: HW
+HStem: 0 38<166.913 448.124> 602 43<252.478 543.045> 633 20<199 223.5> 702 96<405.956 474.463>
+VStem: 392.21 96<716.25 783.75>
+DStem2: 54 38 178 72 0.673213 0.739448<0 108.62>
+LayerCount: 2
+Fore
+Refer: 277 90 N 1 0 0 1 0 0 3
+Refer: 666 729 S 1 0 0 1 164 110 2
+Validated: 1
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" zdotaccent.sc
+EndChar

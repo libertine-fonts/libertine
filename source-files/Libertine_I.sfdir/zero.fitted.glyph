@@ -1,0 +1,14 @@
+StartChar: zero.fitted
+Encoding: 57360 57360 1609
+Width: 465
+VWidth: 487
+Flags: W
+HStem: -10 35<210.948 297.179> 575 35<316.542 399.28>
+LayerCount: 2
+Fore
+Refer: 258 48 S 1 0 0 1 16 0 2
+Validated: 1
+Substitution2: "'zero' gestrichene Null 1" zero.slashfitted
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" zero.oldstyle
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" zero
+EndChar

@@ -1,0 +1,45 @@
+StartChar: zero
+Encoding: 48 48 258
+Width: 444
+VWidth: 487
+Flags: W
+HStem: -10 35<194.948 281.179> 575 35<300.542 383.28>
+LayerCount: 2
+Back
+SplineSet
+118.894 610.012 m 5
+ 583.859 610.012 l 5
+ 452.071 -10 l 5
+ -12.8936 -10 l 5
+ 118.894 610.012 l 5
+126.769 600.012 m 5
+ 571.733 600.012 l 5
+ 444.197 0 l 5
+ -0.768555 0 l 5
+ 126.769 600.012 l 5
+EndSplineSet
+Fore
+SplineSet
+226 -10 m 3
+ 189 -10 159 4 137 32 c 0
+ 95 87 83 187 104 294 c 0
+ 142 492 256 610 351 610 c 3
+ 403 610 437 580 455 545 c 0
+ 486 487 492 402 473 303 c 0
+ 427 68 300 -10 226 -10 c 3
+344 575 m 3
+ 301 575 233 529 185 283 c 0
+ 168 196 145 25 234 25 c 3
+ 251 25 300 34 337 116 c 0
+ 360 167 375 230 393 322 c 0
+ 419 456 409 532 384 558 c 0
+ 375 569 360 575 344 575 c 3
+EndSplineSet
+Validated: 33
+Substitution2: "'zero' gestrichene Null 1" zero.slash
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" zero.taboldstyle
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" zero.fitted
+Substitution2: "'sinf' Wissenschaftliche Indices 1" zero.inferior
+Substitution2: "'sups' Hochgestellte 1" zero.superior
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" zero.oldstyle zero.fitted zero.slash zero.slashfitted perthousandzero
+EndChar

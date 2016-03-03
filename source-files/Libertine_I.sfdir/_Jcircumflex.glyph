@@ -1,0 +1,15 @@
+StartChar: Jcircumflex
+Encoding: 308 308 424
+Width: 310
+VWidth: 999
+Flags: W
+HStem: -170 44<22.1012 85.7727> 614 33<141.875 232.37 355.684 416.125> 690 115
+VStem: 187 243
+DStem2: 97.9191 -170 179.243 -170 0.207912 0.978148<126.403 772.909>
+LayerCount: 2
+Fore
+Refer: 261 74 N 1 0 0 1 0 0 3
+Refer: 2226 58202 S 1 0 0 1 314 166 2
+Validated: 1
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

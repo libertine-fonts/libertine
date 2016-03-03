@@ -1,0 +1,14 @@
+StartChar: omegatonos
+Encoding: 974 974 750
+Width: 630
+VWidth: 999
+Flags: W
+HStem: -12 34<159.004 249.845 388.273 487.63> 422 20<258 316 512 544>
+VStem: 64 72<39.2215 214.754> 329 80<193.763 254.504> 582 70<154.366 342.959>
+LayerCount: 2
+Fore
+Refer: 745 969 N 1 0 0 1 0 0 3
+Refer: 684 900 S 1 0 0 1 239 -47 2
+Validated: 1
+LCarets2: 1 0
+EndChar

@@ -1,0 +1,21 @@
+StartChar: uni25BD
+Encoding: 9661 9661 1240
+Width: 541
+VWidth: 999
+Flags: W
+HStem: 404 26<89 453>
+DStem2: 89 404 44 430 0.500167 -0.865929<0 362.932> 271 90 271 37 0.500167 0.865929<0 362.932>
+LayerCount: 2
+Fore
+SplineSet
+89 404 m 1
+ 271 90 l 1
+ 453 404 l 1
+ 89 404 l 1
+44 430 m 1
+ 498 430 l 1
+ 271 37 l 1
+ 44 430 l 1
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,22 @@
+StartChar: propersuperset
+Encoding: 8835 8835 2037
+Width: 522
+Flags: W
+HStem: 43 42<56 391.069> 354 42<116 437.874>
+LayerCount: 2
+Fore
+SplineSet
+108 354 m 5
+ 116 396 l 5
+ 329 396 l 6
+ 452 396 558 369 527 214 c 4
+ 499 67 388 43 260 43 c 6
+ 47 43 l 5
+ 56 85 l 5
+ 268 85 l 6
+ 365 85 458 109 479 212 c 4
+ 501 330 431 354 320 354 c 6
+ 108 354 l 5
+EndSplineSet
+Validated: 33
+EndChar

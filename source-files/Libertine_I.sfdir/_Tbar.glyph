@@ -1,0 +1,24 @@
+StartChar: Tbar
+Encoding: 358 358 474
+Width: 572
+VWidth: 999
+Flags: W
+HStem: -2 33<162.719 245.375 363 435.281> 329 39<174.186 539.627> 606 39<203.874 355.91 462.338 596.513> 633 20<662.5 679.5>
+VStem: 632 34<505.785 567.416>
+DStem2: 251.643 -2 333.643 -2 0.207912 0.978148<69.3087 598.863>
+LayerCount: 2
+Fore
+SplineSet
+516 329 m 6xc8
+ 180 329 l 6
+ 172 329 171 337 172 343 c 4
+ 174 353 187 368 196 368 c 6
+ 533 368 l 6
+ 542 368 543 360 542 355 c 4
+ 540 344 528 329 516 329 c 6xc8
+EndSplineSet
+Refer: 271 84 N 1 0 0 1 0 0 3
+Validated: 8388645
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" tbar.sc
+EndChar

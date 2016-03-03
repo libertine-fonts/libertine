@@ -1,0 +1,20 @@
+StartChar: afii57807
+Encoding: 1468 1468 1844
+Width: 0
+Flags: W
+HStem: 218 70<221.578 279.422>
+VStem: 215 71<224.554 281.446>
+AnchorPoint: "mittelpunkt" 165 251 mark 0
+LayerCount: 2
+Fore
+SplineSet
+216 253 m 0
+ 220 272 239 288 258 288 c 0
+ 275 288 286 276 286 261 c 0
+ 286 258 286 255 285 253 c 0
+ 281 234 262 218 243 218 c 0
+ 226 218 215 230 215 245 c 0
+ 215 248 215 250 216 253 c 0
+EndSplineSet
+Validated: 1
+EndChar

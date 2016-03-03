@@ -1,0 +1,16 @@
+StartChar: ucircumflex
+Encoding: 251 251 41
+Width: 506
+VWidth: 999
+Flags: W
+HStem: -10 60<155.449 249.182 394.753 460.664> 395 28<99.5485 143> 416 20<211 233.624 468 492.5>
+VStem: 105.799 81.7871<51.2987 190.058> 122 253<524 524> 352 78<13.0709 125.549> 428 78<319.717 433.119>
+DStem2: 84.8412 -10 161.141 -10 0.207912 0.978148<120.689 405.386> 335.092 -10 412.975 -10 0.207912 0.978148<92.4828 139.038 161.104 452.464>
+LayerCount: 2
+Fore
+Refer: 303 117 N 1 0 0 1 0 0 3
+Refer: 658 710 S 1 0 0 1 71 -15 2
+Validated: 1
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" ucircumflex.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" ucircumflex.sc
+EndChar

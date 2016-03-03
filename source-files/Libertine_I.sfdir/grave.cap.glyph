@@ -1,0 +1,21 @@
+StartChar: grave.cap
+Encoding: 58200 58200 2224
+Width: 0
+VWidth: 999
+Flags: W
+HStem: 571 120
+VStem: -145 200
+AnchorPoint: "komb_OR" -66 588 mark 0
+LayerCount: 2
+Fore
+SplineSet
+55 590 m 0
+ 55 584 51 571 36 571 c 0
+ 26 571 12 576 -4 583 c 2
+ -145 646 l 1
+ -58 691 l 1
+ 44 607 l 2
+ 51 601 55 595 55 590 c 0
+EndSplineSet
+Validated: 1
+EndChar

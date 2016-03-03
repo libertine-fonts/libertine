@@ -1,0 +1,22 @@
+StartChar: bracketright.sc
+Encoding: 63153 63153 1260
+Width: 302
+VWidth: 966
+Flags: W
+HStem: -64 37<26 172> 663 37<167 307>
+DStem2: 172 -27 233 -64 0.19142 0.981508<0 703.082>
+LayerCount: 2
+Fore
+SplineSet
+19 -64 m 5
+ 26 -27 l 5
+ 172 -27 l 5
+ 307 663 l 5
+ 160 663 l 5
+ 167 700 l 5
+ 382 700 l 5
+ 233 -64 l 5
+ 19 -64 l 5
+EndSplineSet
+Validated: 1
+EndChar

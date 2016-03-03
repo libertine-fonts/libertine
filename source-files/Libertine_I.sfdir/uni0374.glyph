@@ -1,0 +1,22 @@
+StartChar: uni0374
+Encoding: 884 884 1363
+Width: 222
+VWidth: 428
+Flags: W
+TeX: 57 0
+HStem: 538 230
+VStem: 180 193
+LayerCount: 2
+Fore
+SplineSet
+340 768 m 0
+ 358 768 373 752 373 738 c 0
+ 373 736 373 735 372 733 c 0
+ 369 722 358 703 349 693 c 2
+ 200 538 l 1
+ 180 551 l 1
+ 274 712 l 2
+ 288 735 308 768 340 768 c 0
+EndSplineSet
+Validated: 1
+EndChar

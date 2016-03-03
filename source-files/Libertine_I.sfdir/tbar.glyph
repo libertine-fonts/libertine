@@ -1,0 +1,23 @@
+StartChar: tbar
+Encoding: 359 359 475
+Width: 307
+VWidth: 999
+Flags: HW
+HStem: -10 60<138.5 218.126> 245 39<76.1863 335.52> 390 39<108.202 180 263 364.943>
+DStem2: 87.6231 -10 161.628 -10 0.21644 0.976296<92.8782 410.512 466.552 573.478>
+LayerCount: 2
+Fore
+SplineSet
+301 245 m 2
+ 82 245 l 2
+ 74 245 73 253 74 259 c 0
+ 76 269 89 284 98 284 c 2
+ 318 284 l 2
+ 327 284 329 276 328 271 c 0
+ 326 260 313 245 301 245 c 2
+EndSplineSet
+Refer: 302 116 N 1 0 0 1 0 0 3
+Validated: 524325
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" tbar.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" tbar.sc
+EndChar

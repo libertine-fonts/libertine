@@ -1,0 +1,16 @@
+StartChar: ccedilla
+Encoding: 231 231 384
+Width: 393
+VWidth: 999
+Flags: HW
+HStem: -196 29<119.112 221.123> -16 20<207.598 254> -10 60<188.909 291.142> 402 37<250.195 326.608>
+VStem: 83 83<72.9091 269.629> 238.519 63.2022<-156.899 -92.8017> 338.868 80.604<336.642 395.641>
+DStem2: 160.469 -92 215.369 -63 0.52701 0.849859<53.5788 112.96>
+LayerCount: 2
+Fore
+Refer: 683 807 N 1 0 0 1 417 4 2
+Refer: 285 99 N 1 0 0 1 0 0 3
+Validated: 5
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" ccedilla.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" ccedilla.sc
+EndChar

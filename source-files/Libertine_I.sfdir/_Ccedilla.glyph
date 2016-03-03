@@ -1,0 +1,17 @@
+StartChar: Ccedilla
+Encoding: 199 199 352
+Width: 618
+VWidth: 999
+Flags: W
+HStem: -200 29<240.112 342.123> -20 20<328.598 375> -10 41<273.7 444.799> 621 37<375.355 544.23>
+VStem: 86.9986 92.2414<141.862 368.983> 359.519 63.2022<-160.899 -96.8017> 631 32<454.437 522.878>
+DStem2: 281.469 -96 336.369 -67 0.52701 0.849859<53.5788 112.96>
+LayerCount: 2
+Fore
+Refer: 683 807 S 1 0 0 1 538 0 2
+Refer: 27 67 N 1 0 0 1 0 0 3
+Validated: 5
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" ccedilla.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" ccedilla.sc
+EndChar

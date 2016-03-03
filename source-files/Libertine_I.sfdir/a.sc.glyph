@@ -1,0 +1,45 @@
+StartChar: a.sc
+Encoding: 57425 57425 1769
+Width: 556
+VWidth: 714
+Flags: MW
+HStem: -2 33<12.25 67.7785 134.375 176.75 354.25 406.379 505.925 550.75> 152 34<228.918 390>
+DStem2: 117 105 155 98 0.556311 0.830974<-39.7192 90.7492 135.175 362.005> 415 481 353 389 0.190103 -0.981764<78.5359 284.868 319.008 429.283>
+AnchorPoint: "top_akzent" 429 685 basechar 0
+AnchorPoint: "unten_punkt" 247 -110 basechar 0
+AnchorPoint: "unten_anhang" 80 -3 basechar 0
+AnchorPoint: "ogonek" 487 16 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+390 186 m 1
+ 353 389 l 1
+ 345 388 l 5
+ 236 219 l 2
+ 223 200 219 186 239 186 c 2
+ 390 186 l 1
+117 105 m 6
+ 356 462 l 21
+ 377 465 398 473 415 481 c 9
+ 488 104 l 2
+ 499 46 501 38 553 31 c 1
+ 558 25 553 4 546 -2 c 1
+ 517 -1 488 0 458 0 c 3
+ 426 0 387 -1 352 -2 c 1
+ 347 4 352 25 359 31 c 1
+ 414 36 414 44 404 98 c 2
+ 394 152 l 1
+ 207 152 l 2
+ 191 152 188 148 183 141 c 2
+ 155 98 l 6
+ 121 48 126 35 179 31 c 1
+ 184 25 179 4 172 -2 c 1
+ 141 -1 103 0 76 0 c 3
+ 50 0 28 -1 10 -2 c 1
+ 5 4 10 25 17 31 c 1
+ 71 36 88 61 117 105 c 6
+EndSplineSet
+Validated: 33
+Substitution2: "'salt' Stilistische Alternativformen 1" a.scalt
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" a.scalt A a
+EndChar

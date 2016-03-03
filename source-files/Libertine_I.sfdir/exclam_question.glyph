@@ -1,0 +1,15 @@
+StartChar: exclam_question
+Encoding: 8265 8265 1069
+Width: 587
+VWidth: 487
+Flags: W
+HStem: -9 100<356.012 434.198> -7 100<107.012 185.198> 624 32<452.047 552.696> 638 20<254.5 278>
+VStem: 96 100<4.15561 81.2822> 189 124<529.67 622.104> 203 110<529.67 642.176> 345 100<2.15561 79.2822> 353 83<509.115 591.727> 394 35<189.037 262.304> 583 82<452.197 599.857>
+LayerCount: 2
+Fore
+Refer: 23 63 N 1 0 0 1 182 -2 2
+Refer: 0 33 N 1 0 0 1 0 0 2
+Validated: 1
+Ligature2: "'liga' Standardligaturen 1" exclam question
+LCarets2: 1 193
+EndChar

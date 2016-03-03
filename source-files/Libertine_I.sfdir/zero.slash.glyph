@@ -1,0 +1,22 @@
+StartChar: zero.slash
+Encoding: 63032 63032 2065
+Width: 444
+VWidth: 487
+Flags: W
+HStem: -10 35<194.948 281.179> 575 35<300.542 383.28>
+DStem2: 66 -25 96 -40 0.511643 0.859198<2.46131 773.63>
+LayerCount: 2
+Fore
+SplineSet
+492 625 m 1
+ 96 -40 l 1
+ 66 -25 l 1
+ 463 639 l 1
+ 492 625 l 1
+EndSplineSet
+Refer: 258 48 N 1 0 0 1 0 0 3
+Validated: 5
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" zero.slashfitted
+Substitution2: "'sinf' Wissenschaftliche Indices 1" zero.inferior
+Substitution2: "'sups' Hochgestellte 1" zero.superior
+EndChar

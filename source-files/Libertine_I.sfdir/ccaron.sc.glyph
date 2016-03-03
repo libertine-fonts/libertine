@@ -1,0 +1,13 @@
+StartChar: ccaron.sc
+Encoding: 57499 57499 2073
+Width: 492
+VWidth: 714
+Flags: W
+HStem: -10 38<225.568 367.953> 437 33<291.94 439.35>
+VStem: 78.5731 89.5724<87.2267 270.185> 485 30<323.061 389.832>
+LayerCount: 2
+Fore
+Refer: 1771 57427 N 1 0 0 1 0 0 3
+Refer: 659 711 N 1 0 0 1 96 -5 2
+Validated: 1
+EndChar

@@ -1,0 +1,21 @@
+StartChar: breve.cap
+Encoding: 58204 58204 2228
+Width: 0
+VWidth: 487
+Flags: W
+HStem: 544 52<-97 53> 647 10G<-146 -118 91 125>
+VStem: -146 28<643 657>
+LayerCount: 2
+Fore
+SplineSet
+-30 544 m 0
+ -110 544 -146 589 -146 646 c 0
+ -146 650 -146 654 -146 657 c 1
+ -118 657 l 1
+ -118 653 -116 596 -21 596 c 0
+ 30 596 84 620 98 657 c 1
+ 125 657 l 1
+ 108 582 31 544 -30 544 c 0
+EndSplineSet
+Validated: 1
+EndChar

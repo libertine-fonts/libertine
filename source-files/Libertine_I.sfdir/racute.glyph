@@ -1,0 +1,16 @@
+StartChar: racute
+Encoding: 341 341 457
+Width: 363
+VWidth: 999
+Flags: HW
+HStem: 374 62<323.125 396.022> 395 28<94.5485 138>
+VStem: 89.25 77<-4.05662 113.437>
+DStem2: 84.3926 -10 160.428 -10 0.207912 0.978148<24.1045 286.758 327.361 403.616>
+LayerCount: 2
+Fore
+Refer: 300 114 N 1 0 0 1 0 0 3
+Refer: 672 769 S 1 0 0 1 393 -37 2
+Validated: 1
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" racute.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" racute.sc
+EndChar

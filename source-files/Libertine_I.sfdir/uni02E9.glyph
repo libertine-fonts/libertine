@@ -1,0 +1,20 @@
+StartChar: uni02E9
+Encoding: 745 745 2240
+Width: 437
+VWidth: 2048
+Flags: W
+HStem: 0 56<37.3936 320.394> 625 20G<436.158 503.227>
+DStem2: 308.491 0 372 0 0.207912 0.978148<57.2511 658.295>
+LayerCount: 2
+Fore
+SplineSet
+503.227 645 m 1
+ 372 0 l 1
+ 26 0 l 5
+ 37.3936 56 l 1
+ 320.394 56 l 1
+ 440.227 645 l 1
+ 503.227 645 l 1
+EndSplineSet
+Validated: 524289
+EndChar

@@ -1,0 +1,13 @@
+StartChar: six.taboldstyle
+Encoding: 57630 57630 2134
+Width: 444
+VWidth: 487
+Flags: W
+HStem: -11 35<190.407 289.298> 330 35<218.274 331.259>
+LayerCount: 2
+Fore
+Refer: 1378 57382 N 1 0 0 1 0 0 2
+Validated: 5
+Substitution2: "LinLibertineO-'lnum' Versalziffern 1" six
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" six.oldstyle
+EndChar

@@ -1,0 +1,31 @@
+StartChar: plusminus
+Encoding: 177 177 330
+Width: 527
+VWidth: 999
+Flags: W
+HStem: 18 49<78 464> 292 49<126 291 349 513>
+DStem2: 260 119 310 119 0.174069 0.984733<8.70345 175.755 234.103 402.139>
+LayerCount: 2
+Fore
+SplineSet
+349 341 m 1
+ 521 341 l 1
+ 513 292 l 1
+ 340 292 l 1
+ 310 119 l 1
+ 260 119 l 1
+ 291 292 l 1
+ 117 292 l 1
+ 126 341 l 1
+ 299 341 l 1
+ 330 515 l 1
+ 379 515 l 1
+ 349 341 l 1
+473 67 m 1
+ 464 18 l 1
+ 69 18 l 1
+ 78 67 l 1
+ 473 67 l 1
+EndSplineSet
+Validated: 1
+EndChar

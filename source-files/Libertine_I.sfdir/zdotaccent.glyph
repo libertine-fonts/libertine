@@ -1,0 +1,16 @@
+StartChar: zdotaccent
+Encoding: 380 380 496
+Width: 436
+VWidth: 488
+Flags: HW
+HStem: -10 77<251.946 365.067> 41 60.999<175.905 215.473> 354 58<256.44 403.515> 363 76<159.224 334.769> 523 96<276.956 345.463>
+VStem: 263.21 96<537.25 604.75>
+DStem2: 109 86 150.25 77.125 0.676587 0.736362<21.374 361.173>
+LayerCount: 2
+Fore
+Refer: 308 122 N 1 0 0 1 0 0 3
+Refer: 666 729 S 1 0 0 1 35 -69 2
+Validated: 1
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" zdotaccent.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" zdotaccent.sc
+EndChar

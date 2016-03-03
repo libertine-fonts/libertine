@@ -1,0 +1,15 @@
+StartChar: Cacute
+Encoding: 262 262 406
+Width: 618
+VWidth: 999
+Flags: W
+HStem: -10 41<273.7 444.799> 621 37<375.355 544.23> 697 120
+VStem: 86.9986 92.2414<141.862 368.983> 387 227 631 32<454.437 522.878>
+LayerCount: 2
+Fore
+Refer: 27 67 N 1 0 0 1 0 0 3
+Refer: 2225 58201 N 1 0 0 1 549 126 2
+Validated: 1
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" cacute.sc
+EndChar

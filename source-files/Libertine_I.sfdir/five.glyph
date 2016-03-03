@@ -1,0 +1,48 @@
+StartChar: five
+Encoding: 53 53 14
+Width: 444
+VWidth: 487
+Flags: HMW
+LayerCount: 2
+Back
+SplineSet
+118.894 610.012 m 1
+ 583.859 610.012 l 1
+ 452.071 -10 l 1
+ -12.8936 -10 l 1
+ 118.894 610.012 l 1
+126.769 600.012 m 1
+ 571.733 600.012 l 1
+ 444.197 0 l 1
+ -0.768555 0 l 1
+ 126.769 600.012 l 1
+EndSplineSet
+Fore
+SplineSet
+345 189 m 4xe8
+ 366 298 325 341 263 341 c 7
+ 228 341 191 337 136 317 c 5
+ 225 605 l 5
+ 258 602 292 600 328 600 c 7xe8
+ 379 600 431 605 487 611 c 5
+ 493 607 l 5
+ 465 539 l 5xd8
+ 425 535 392 533 363 533 c 7
+ 317 533 287 538 252 542 c 5
+ 201 375 l 5
+ 220 382 257 391 298 391 c 7
+ 406 391 453 304 434 207 c 4
+ 410 81 307 -11 188 -11 c 7
+ 133 -11 58 23 66 64 c 4
+ 70 84 92 101 110 101 c 7
+ 130 101 144 86 153 69 c 4
+ 164 49 171 24 207 24 c 7
+ 265 24 327 94 345 189 c 4xe8
+EndSplineSet
+Validated: 33
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" five.taboldstyle
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" five.fitted
+Substitution2: "'sinf' Wissenschaftliche Indices 1" five.inferior
+Substitution2: "'sups' Hochgestellte 1" five.superior
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" five.oldstyle five.superior five.fitted
+EndChar

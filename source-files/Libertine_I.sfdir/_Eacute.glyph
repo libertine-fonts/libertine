@@ -1,0 +1,18 @@
+StartChar: Eacute
+Encoding: 201 201 354
+Width: 533
+VWidth: 999
+Flags: W
+HStem: 0 31<18.7188 93> 0 39<201.58 421.005> 323 38<252 402.269> 605 40<304.854 494.992> 614 33<137.511 200.125> 696 120
+VStem: 263 227 406 32<251.77 314.081> 440 32<384.682 432.23> 522 33<498.16 570.91>
+DStem2: 97.643 -2 179.894 -2 0.207912 0.978148<71.6333 348.535 387.16 604.895>
+AnchorPoint: "top_akzent" 286 662 basechar 0
+LayerCount: 2
+Fore
+Refer: 2225 58201 N 1 0 0 1 425 125 2
+Refer: 29 69 N 1 0 0 1 0 0 3
+Validated: 1
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" eacute.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" eacute.sc
+EndChar

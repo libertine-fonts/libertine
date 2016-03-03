@@ -1,0 +1,35 @@
+StartChar: five.oldstyle
+Encoding: 57381 57381 1377
+Width: 406
+VWidth: 488
+Flags: W
+TeX: 38 0
+HStem: -183 35<105.544 194.627> 169 50<137.82 258.896> 361 67<185.155 402.431> 367 72<187.732 262.314 266.392 296.856 300.362 401>
+LayerCount: 2
+Fore
+SplineSet
+281 17 m 0xe0
+ 302 126 261 169 199 169 c 3
+ 164 169 128 165 73 145 c 1
+ 161 433 l 1
+ 194 430 228 428 264 428 c 3xe0
+ 315 428 368 433 424 439 c 1
+ 430 435 l 1
+ 401 367 l 1xd0
+ 361 363 328 361 299 361 c 3
+ 253 361 224 366 189 370 c 1
+ 137 203 l 1
+ 156 210 193 219 234 219 c 3
+ 342 219 389 132 370 35 c 0
+ 346 -91 243 -183 124 -183 c 3
+ 69 -183 -5 -149 3 -108 c 0
+ 7 -88 28 -71 46 -71 c 3
+ 66 -71 80 -86 89 -103 c 0
+ 100 -123 108 -148 144 -148 c 3
+ 202 -148 263 -78 281 17 c 0xe0
+EndSplineSet
+Validated: 33
+Substitution2: "LinLibertineO-'lnum' Versalziffern 1" five.fitted
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" five.taboldstyle
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" five five.fitted
+EndChar

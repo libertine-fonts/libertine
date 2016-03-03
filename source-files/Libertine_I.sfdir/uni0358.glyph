@@ -1,0 +1,19 @@
+StartChar: uni0358
+Encoding: 856 856 1700
+Width: 79
+VWidth: 487
+Flags: HMW
+HStem: 588 104<-55.4581 27.4581>
+VStem: -66 104<598.542 681.458>
+AnchorPoint: "komb_OR" 53.6299 588 mark 0
+LayerCount: 2
+Fore
+SplineSet
+64.21 640 m 0
+ 69.9062 668 98.7891 692 126.789 692 c 3
+ 154.789 692 173.906 668 168.21 640 c 0
+ 162.513 612 133.63 588 105.63 588 c 3
+ 77.6299 588 58.5127 612 64.21 640 c 0
+EndSplineSet
+Validated: 524321
+EndChar

@@ -1,0 +1,16 @@
+StartChar: Ydieresis
+Encoding: 376 376 492
+Width: 551
+VWidth: 999
+Flags: HW
+HStem: -2 33<150.719 233.375 350.5 423.281> 614 33<123.875 173.428 280.632 335.281 497.875 539.619 608.408 670.125> 703 91<316.391 384.952 476.75 545.854>
+VStem: 305 92<715.435 782.102> 466 92<715.898 783.223>
+DStem2: 286 559 202 547 0.351588 -0.936155<-41.5941 221.972> 239.643 -2 320.643 -2 0.207912 0.978148<69.3087 326.693> 379 352 405 334 0.587949 0.808898<-8.79957 291.975>
+LayerCount: 2
+Fore
+Refer: 276 89 N 1 0 0 1 0 0 3
+Refer: 321 168 S 1 0 0 1 150 176 2
+Validated: 1
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" ydieresis.sc
+EndChar

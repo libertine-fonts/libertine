@@ -1,0 +1,18 @@
+StartChar: filledbox
+Encoding: 9632 9632 1233
+Width: 576
+VWidth: 999
+Flags: W
+HStem: 0 21G<73 503> 410 20G<73 503>
+VStem: 73 430<0 430>
+LayerCount: 2
+Fore
+SplineSet
+73 430 m 5
+ 503 430 l 5
+ 503 0 l 5
+ 73 0 l 5
+ 73 430 l 5
+EndSplineSet
+Validated: 1
+EndChar

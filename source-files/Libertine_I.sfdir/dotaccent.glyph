@@ -1,0 +1,18 @@
+StartChar: dotaccent
+Encoding: 729 729 666
+Width: 291
+VWidth: 487
+Flags: W
+HStem: 590 100<237.006 315.198>
+VStem: 226 100<601.128 678.282>
+LayerCount: 2
+Fore
+SplineSet
+226 642 m 3
+ 226 666 253.979 690 278 690 c 7
+ 305 690 326 662 326 638 c 3
+ 326 616.905 302 590 274 590 c 3
+ 249.979 590 226 615.98 226 642 c 3
+EndSplineSet
+Validated: 524289
+EndChar

@@ -1,0 +1,23 @@
+StartChar: uni0306
+Encoding: 774 774 1413
+Width: 0
+VWidth: 487
+Flags: HMW
+TeX: 57 0
+HStem: 529 57<-225.708 -93.019>
+VStem: -296 27<641.641 667.111> -53 27<640.798 667.111>
+AnchorPoint: "top_akzent" -22.4492 681 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-131.466 676 m 1
+ -131.249 623 -95.8135 586 -41.7773 586 c 3
+ 10.2227 586 62.7334 618 84.5342 676 c 1
+ 109.093 664 l 1
+ 79.5957 578 5.62598 529 -53.374 529 c 3
+ -123.381 529 -164.201 579 -160.907 664 c 1
+ -131.466 676 l 1
+EndSplineSet
+Validated: 524321
+Substitution2: "'case' Versalformen 1" uni035C
+EndChar

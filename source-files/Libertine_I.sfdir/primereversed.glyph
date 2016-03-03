@@ -1,0 +1,25 @@
+StartChar: primereversed
+Encoding: 8245 8245 1603
+Width: 244
+VWidth: 999
+Flags: W
+HStem: 530 178
+VStem: 188 100
+LayerCount: 2
+Fore
+SplineSet
+212 703 m 0
+ 218 706 225 708 231 708 c 0
+ 236 708 241 707 246 704 c 0
+ 251 701 254 697 255 691 c 2
+ 288 546 l 2
+ 289 544 289 543 289 542 c 0
+ 288 540 286 537 283 534 c 0
+ 280 532 276 530 272 530 c 0
+ 269 530 266 531 265 533 c 2
+ 188 656 l 2
+ 186 660 185 665 186 670 c 0
+ 188 682 197 693 212 703 c 0
+EndSplineSet
+Validated: 33
+EndChar

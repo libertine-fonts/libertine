@@ -1,0 +1,13 @@
+StartChar: ebreve
+Encoding: 277 277 42
+Width: 401
+VWidth: 999
+Flags: W
+HStem: -10 60<189.668 291.711> 394 45<237.337 338.945> 501 57<274.534 395.305>
+VStem: 83 83<72.8566 200.7> 216.093 29.441<598.777 636> 346 77<302.552 387.144>
+LayerCount: 2
+Fore
+Refer: 287 101 N 1 0 0 1 0 0 3
+Refer: 665 728 S 1 0 0 1 60 -28 2
+Validated: 1
+EndChar

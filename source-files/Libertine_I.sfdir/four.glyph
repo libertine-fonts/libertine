@@ -1,0 +1,61 @@
+StartChar: four
+Encoding: 52 52 13
+Width: 444
+VWidth: 487
+Flags: W
+HStem: -2 33<188.562 259.906 354.938 410.438> 172 47<124 298 380 466.954>
+DStem2: 73 214 124 219 0.66159 0.749866<37.4904 408.307> 262.57 -2 335.57 -2 0.207912 0.978148<61.2215 177.564 240.586 512.534>
+LayerCount: 2
+Back
+SplineSet
+118.894 610.012 m 5
+ 583.859 610.012 l 5
+ 452.071 -10 l 5
+ -12.8936 -10 l 5
+ 118.894 610.012 l 5
+126.769 600.012 m 5
+ 571.733 600.012 l 5
+ 444.197 0 l 5
+ -0.768555 0 l 5
+ 126.769 600.012 l 5
+338.379 396.973 m 1
+ 405.273 396.973 l 1
+ 329.59 27.832 l 1
+ 262.695 27.832 l 1
+ 338.379 396.973 l 1
+EndSplineSet
+Fore
+SplineSet
+460 219 m 2
+ 471 219 473 213 471 203 c 0
+ 469 191 450 172 437 172 c 2
+ 371 172 l 1
+ 353 80 l 2
+ 344.565 36.8894 365 35 411 31 c 1
+ 416 25 413 4 406 -2 c 1
+ 375 -1 340 0 302 0 c 0
+ 258 0 219 -1 188 -2 c 1
+ 183 4 186 25 193 31 c 1
+ 235 34 271.714 37.6501 280 80 c 2
+ 298 172 l 1
+ 102 172 l 2
+ 73 172 73 199 73 214 c 1
+ 189 357 332 521 408 599 c 0
+ 412 604 418 610 425 610 c 2
+ 457 610 l 1
+ 459 608 l 1
+ 459 608 403.202 337.859 380 219 c 1
+ 460 219 l 2
+366 500 m 1
+ 366 500 364.164 500.084 363.75 499.625 c 1
+ 279.126 405.91 188.683 300.601 124 219 c 1
+ 307 219 l 1
+ 366 500 l 1
+EndSplineSet
+Validated: 524321
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" four.taboldstyle
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" four.fitted
+Substitution2: "'sinf' Wissenschaftliche Indices 1" four.inferior
+Substitution2: "'sups' Hochgestellte 1" four.superior
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" four.oldstyle four.superior four.fitted
+EndChar

@@ -1,0 +1,15 @@
+StartChar: ecaron
+Encoding: 283 283 48
+Width: 401
+VWidth: 999
+Flags: W
+HStem: -10 60<189.668 291.711> 394 45<237.337 338.945>
+VStem: 83 83<72.8566 200.7> 346 77<302.552 387.144>
+LayerCount: 2
+Fore
+Refer: 287 101 N 1 0 0 1 0 0 3
+Refer: 659 711 S 1 0 0 1 33 -17 2
+Validated: 1
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" ecaron.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" ecaron.sc
+EndChar

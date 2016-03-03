@@ -1,0 +1,22 @@
+StartChar: zero.slashfitted
+Encoding: 57359 57359 1936
+Width: 465
+VWidth: 487
+Flags: W
+HStem: -10 35<210.948 297.179> 575 35<316.542 399.28>
+DStem2: 81 -25 111 -40 0.511643 0.859198<2.46131 773.63>
+LayerCount: 2
+Fore
+SplineSet
+507 625 m 1
+ 111 -40 l 1
+ 81 -25 l 1
+ 478 639 l 1
+ 507 625 l 1
+EndSplineSet
+Refer: 1609 57360 N 1 0 0 1 0 0 3
+Validated: 5
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" zero.oldstyle
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" zero.slash
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" zero.fitted zero.oldstyle zero.slashfitted
+EndChar

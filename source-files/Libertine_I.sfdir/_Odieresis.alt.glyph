@@ -1,0 +1,18 @@
+StartChar: Odieresis.alt
+Encoding: 57389 57389 1697
+Width: 672
+VWidth: 999
+Flags: W
+HStem: -10 36<287.995 433.368> 622 36<363.341 517.661> 695 92<339.347 416.653 529.347 606.653>
+VStem: 87.6127 94.8982<131.96 373.125> 332 92<702.347 779.653> 522 92<702.347 779.653> 616.85 94.1661<277.201 519.131>
+LayerCount: 2
+Fore
+Refer: 2234 58210 S 1 0 0 1 566 -7 2
+Refer: 266 79 N 1 0 0 1 0 0 3
+Validated: 1
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" odieresis.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" odieresis.sc
+Comment: "Dies sind alternative Umlaute, die im Deutschen vorzuziehen sind."
+Colour: ffffff
+EndChar

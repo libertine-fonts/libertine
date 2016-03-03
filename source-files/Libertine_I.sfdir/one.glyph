@@ -1,0 +1,47 @@
+StartChar: one
+Encoding: 49 49 10
+Width: 444
+VWidth: 999
+Flags: W
+HStem: -2 33<119.562 198.5 313.563 384.281>
+VStem: 119 286
+DStem2: 207.643 -2 281.643 -2 0.207912 0.978148<71.2726 514.315>
+LayerCount: 2
+Back
+SplineSet
+119.662 610.012 m 5
+ 581.627 610.012 l 5
+ 449.84 -10 l 5
+ -12.126 -10 l 5
+ 119.662 610.012 l 5
+127.536 600.012 m 5
+ 569.502 600.012 l 5
+ 441.965 0 l 5
+ 0 0 l 5
+ 127.536 600.012 l 5
+EndSplineSet
+Fore
+SplineSet
+308 122 m 2
+ 291.589 38.2563 317 34 384 31 c 1
+ 389 25 387 4 380 -2 c 1
+ 346 -1 302.536 0 253 0 c 27
+ 200.734 0 159 -1 119 -2 c 1
+ 114 4 117 25 124 31 c 1
+ 192 34 218 39 234 122 c 2
+ 298 448 l 2
+ 305 482 306 506 290 506 c 3
+ 272 506 249 500 202 481 c 1
+ 195 487 191 497 192 508 c 1
+ 284 549 340 574 400 608 c 1
+ 403 608 406 608 405 603 c 1
+ 401 590 388 529 376 469 c 2
+ 308 122 l 2
+EndSplineSet
+Validated: 524321
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" one.taboldstyle
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" one.fitted
+Substitution2: "'sinf' Wissenschaftliche Indices 1" one.inferior
+Substitution2: "'sups' Hochgestellte 1" one.superior
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" one.oldstyle one.superior one.fitted
+EndChar

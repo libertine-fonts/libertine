@@ -1,0 +1,21 @@
+StartChar: uni0331
+Encoding: 817 817 1691
+Width: 0
+VWidth: 999
+Flags: W
+HStem: -131 44<-381.148 -143.637>
+VStem: -383.601 243.052
+AnchorPoint: "unten_punkt" -266.38 -110 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-169.652 -131 m 2
+ -374.652 -131 l 6
+ -382.652 -131 -385.024 -123 -383.601 -116 c 4
+ -381.159 -104 -367.7 -87 -355.7 -87 c 6
+ -150.7 -87 l 2
+ -141.7 -87 -139.125 -94 -140.549 -101 c 0
+ -142.99 -113 -156.652 -131 -169.652 -131 c 2
+EndSplineSet
+Validated: 524321
+EndChar

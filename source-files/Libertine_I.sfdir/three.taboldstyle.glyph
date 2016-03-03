@@ -1,0 +1,14 @@
+StartChar: three.taboldstyle
+Encoding: 57627 57627 2131
+Width: 444
+VWidth: 488
+Flags: W
+HStem: -181 35<117.331 222.293> 141 32<170 214.434> 404 35<222.021 333.314>
+VStem: 106 74<284.999 351.888>
+LayerCount: 2
+Fore
+Refer: 1372 57379 S 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "LinLibertineO-'lnum' Versalziffern 1" three
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" three.oldstyle
+EndChar

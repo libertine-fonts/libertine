@@ -1,0 +1,13 @@
+StartChar: ocircumflex.sc
+Encoding: 57476 57476 1816
+Width: 563
+VWidth: 714
+Flags: W
+HStem: -10 33<232.743 359.555> 437 33<304.245 429.14>
+VStem: 78.2308 88.9454<84.0783 270.201> 157 253<518 518> 494.017 88.5931<184.774 375.018>
+LayerCount: 2
+Fore
+Refer: 658 710 S 1 0 0 1 106 -21 2
+Refer: 1783 57439 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

@@ -1,0 +1,40 @@
+StartChar: j
+Encoding: 106 106 292
+Width: 259
+VWidth: 999
+Flags: W
+HStem: -233 48.3906<-24 71.2225> 395 28<122.549 166> 416 20G<236 258.624> 521 98<206.913 284.989>
+VStem: 197 98<531.293 608.371>
+LayerCount: 2
+Back
+SplineSet
+144.981445312 -148 m 4
+ 91.5029296875 -207.631835938 18.9987048019 -236.625 -28.224609375 -236.625 c 7
+ -66 -236.625 -97.224609375 -228.000976562 -97.224609375 -196.625 c 7
+ -97.224609375 -166.990234375 -71 -130 -43 -130 c 7
+ -28 -130 -15 -132.274414062 0 -143 c 4
+ 19.0000924095 -156.585808264 27 -157 37 -157 c 7
+ 61.2998046875 -157 74.0002390613 -142.000061155 96 -56 c 4
+ 114.279 15.4551 120.715 77.9555 141 176 c 6xb0
+ 171 321 l 2
+ 176.88 349.421 177 352.89 177 362 c 3
+ 177 372.05 171.008 381.1 159 382 c 2
+ 119 385 l 1
+ 113 394 114.347 415 121 423 c 1xd0
+ 168 429 261 436 293 436 c 3
+ 306.248 436 313.495 428.507 313.495 414.854 c 3
+ 313.495 397.794 301.183 360.365 293.285 320.25 c 2
+ 276.5 235 l 6
+ 244.258909828 71.2494526556 212.012441622 -71.5415958311 144.981445312 -148 c 4
+EndSplineSet
+Fore
+Refer: 1269 63166 N 1 0 0 1 0 0 3
+Refer: 675 775 N 1 0 0 1 301 -34 2
+Validated: 1
+Substitution2: "LinLibertineO-Substitution dotless forms 1" dotlessj
+Substitution2: "Substitution dotless forms 1" dotlessj
+Substitution2: "'sinf' Wissenschaftliche Indices 1" j.inferior
+Substitution2: "'sups' Hochgestellte 1" j.superior
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" j.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" j.sc idotaccent.sc
+EndChar

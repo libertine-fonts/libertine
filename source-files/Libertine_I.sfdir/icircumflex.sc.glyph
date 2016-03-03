@@ -1,0 +1,14 @@
+StartChar: icircumflex.sc
+Encoding: 57470 57470 1810
+Width: 323
+VWidth: 714
+Flags: HW
+HStem: -2 33<52.25 119 224.25 277.75> 429 33<143.25 196.75 302 368.75>
+VStem: 14 253<522 522> 50 321
+DStem2: 148 122 227 122 0.208292 0.978067<-61.1179 298.417>
+LayerCount: 2
+Fore
+Refer: 658 710 S 1 0 0 1 -17 -17 2
+Refer: 1777 57433 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

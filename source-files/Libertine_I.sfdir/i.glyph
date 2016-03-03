@@ -1,0 +1,40 @@
+StartChar: i
+Encoding: 105 105 291
+Width: 261
+VWidth: 999
+Flags: HW
+HStem: -10 65<133 206.613> 395 28<118.549 162> 521 98<199.913 277.989>
+VStem: 107 180 190 98<531.293 608.371>
+DStem2: 96.2882 -10 170.293 -10 0.21644 0.976296<100.542 390.643>
+AnchorPoint: "top_akzent" 295 834 basechar 0
+AnchorPoint: "mittelpunkt" 182 215 basechar 0
+AnchorPoint: "unten_punkt" 136 -107 basechar 0
+AnchorPoint: "unten_anhang" 137 12 basechar 0
+AnchorPoint: "ogonek" 209 10 basechar 0
+LayerCount: 2
+Back
+SplineSet
+-98.3887 618.652 m 1
+ 520.264 618.652 l 1
+ 520.508 522.949 l 1
+ -98.6328 522.949 l 1
+ -98.3887 618.652 l 1
+-98.3887 616.211 m 1
+ 520.264 616.211 l 1
+ 520.508 525.391 l 1
+ -98.6328 525.391 l 1
+ -98.3887 616.211 l 1
+EndSplineSet
+Fore
+Refer: 675 775 N 1 0 0 1 294 -34 2
+Refer: 421 305 N 1 0 0 1 0 0 3
+Validated: 513
+Substitution2: "'ss04' Stilgruppe 4 lookup 31-1" i.str
+Substitution2: "LinLibertineO-Substitution dotless forms 1" dotlessi
+Substitution2: "Substitution dotless forms 1" dotlessi
+Substitution2: "'sinf' Wissenschaftliche Indices 1" i.inferior
+Substitution2: "'sups' Hochgestellte 1" i.superior
+Substitution2: "'smcp' Gemeine nach Kapitaelchen i > idotaccent.sc" idotaccent.sc
+Substitution2: "'smcp' Gemeine nach Kapitaelchen i > i.sc 1" i.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" i.sc
+EndChar

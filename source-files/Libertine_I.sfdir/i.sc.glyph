@@ -1,0 +1,33 @@
+StartChar: i.sc
+Encoding: 57433 57433 1777
+Width: 323
+VWidth: 714
+Flags: MW
+HStem: -2 33<52.25 119 224.25 277.75> 429 33<143.25 196.75 302 368.75>
+VStem: 50 321
+DStem2: 148 122 227 122 0.208292 0.978067<-61.1179 298.417>
+AnchorPoint: "ogonek" 223 16 basechar 0
+AnchorPoint: "unten_anhang" 160 -3 basechar 0
+AnchorPoint: "unten_punkt" 133 -110 basechar 0
+AnchorPoint: "top_akzent" 309 685 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+273 338 m 6
+ 227 122 l 6
+ 209 39 220 35 280 31 c 1
+ 285 25 280 4 273 -2 c 1
+ 238 -1 194 0 162 0 c 3
+ 128 0 87 -1 50 -2 c 1
+ 45 4 50 25 57 31 c 1
+ 119 36 130 39 148 122 c 6
+ 194 338 l 6
+ 212 421 201 425 141 429 c 1
+ 136 435 141 456 148 462 c 1
+ 187 461 229 460 259 460 c 3
+ 290 460 333 461 371 462 c 1
+ 376 456 371 435 364 429 c 1
+ 302 424 291 421 273 338 c 6
+EndSplineSet
+Validated: 33
+EndChar

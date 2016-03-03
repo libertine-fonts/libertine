@@ -1,0 +1,15 @@
+StartChar: gbreve
+Encoding: 287 287 52
+Width: 457
+VWidth: 999
+Flags: HW
+HStem: -238 33<123.945 307.505> 132 30<217.398 298.617> 394 45<398.002 486.092> 409 30<220.58 298.776> 497 57<254.534 375.305>
+VStem: -4 67<-164.635 -78.3443> 105 56<50.8871 124.891> 113 74<195.814 363.625> 196.093 29.441<594.777 632> 330 74<203.268 376.236> 351 65<-170.623 -80.1169>
+LayerCount: 2
+Fore
+Refer: 289 103 N 1 0 0 1 0 0 3
+Refer: 665 728 S 1 0 0 1 40 -32 2
+Validated: 1
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" gbreve.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" gbreve.sc
+EndChar

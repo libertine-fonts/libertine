@@ -1,0 +1,22 @@
+StartChar: lslash
+Encoding: 322 322 438
+Width: 237
+VWidth: 999
+Flags: W
+HStem: -10 60<106.25 185.526> 418 20G<274.741 317> 648 28<146.239 189> 669 20<260.333 278.624>
+VStem: 59 261 83 79<24.5 154.718> 207 85.4951<566.579 676.751>
+DStem2: 69.5802 -10 144.88 -10 0.207912 0.978148<91.9705 649.265>
+LayerCount: 2
+Fore
+SplineSet
+311 438 m 5xc8
+ 320 408 l 5
+ 68 270 l 5
+ 59 299 l 5
+ 311 438 l 5xc8
+EndSplineSet
+Refer: 294 108 N 1 0 0 1 0 0 3
+Validated: 8912901
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" lslash.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" lslash.sc
+EndChar

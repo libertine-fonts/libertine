@@ -1,0 +1,20 @@
+StartChar: figuredash
+Encoding: 8210 8210 1369
+Width: 438
+VWidth: 999
+Flags: W
+TeX: 50 0
+HStem: 287 48<96.1719 461.005>
+LayerCount: 2
+Fore
+SplineSet
+434 287 m 6
+ 104 287 l 6
+ 94 287 90 293 92 302 c 0
+ 95 318 112 335 124 335 c 2
+ 456 335 l 2
+ 466 335 468 329 466 320 c 0
+ 464 308 446 287 434 287 c 6
+EndSplineSet
+Validated: 33
+EndChar

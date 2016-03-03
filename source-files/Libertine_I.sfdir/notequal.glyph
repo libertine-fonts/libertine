@@ -1,0 +1,28 @@
+StartChar: notequal
+Encoding: 8800 8800 1221
+Width: 527
+VWidth: 999
+Flags: W
+HStem: 144 49<104 489> 269 49<128 514> 547 20G<452.408 499>
+DStem2: 141 -41 176 -53 0.467954 0.883753<5.77337 688.003>
+LayerCount: 2
+Fore
+SplineSet
+499 193 m 5
+ 489 144 l 5
+ 94 144 l 5
+ 104 193 l 5
+ 499 193 l 5
+523 318 m 1
+ 514 269 l 1
+ 118 269 l 1
+ 128 318 l 1
+ 523 318 l 1
+499 557 m 5
+ 176 -53 l 5
+ 141 -41 l 5
+ 463 567 l 5
+ 499 557 l 5
+EndSplineSet
+Validated: 5
+EndChar

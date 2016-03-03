@@ -1,0 +1,19 @@
+StartChar: uni1E9D
+Encoding: 7837 7837 2184
+Width: 299
+VWidth: 999
+Flags: W
+HStem: -233 36<-10 73.2686> 387 31<147 188.875> 533 39<134 377> 661 37<356.764 431.327>
+DStem2: 55.7493 -233 136.115 -233 0.21644 0.976296<280.206 634.144>
+LayerCount: 2
+Fore
+SplineSet
+377 572 m 5
+ 377 533 l 5
+ 134 533 l 5
+ 134 572 l 5
+ 377 572 l 5
+EndSplineSet
+Refer: 499 383 N 1 0 0 1 0 0 3
+Validated: 524293
+EndChar

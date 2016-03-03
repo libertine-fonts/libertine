@@ -1,0 +1,24 @@
+StartChar: twothirds
+Encoding: 8532 8532 1126
+Width: 660
+VWidth: 999
+Flags: W
+HStem: -87 30<430.853 522.781> 79 27<480.878 499.673> 213 30<493.39 569.578> 316 32<188 304.954> 395 20<333.5 347.5> 610 30<242.397 322>
+VStem: 176 52<540.101 588.621> 431 52<162.019 204.672> 564.088 63.3827<-17.4661 72.9951> 572.049 60.3014<146.804 211.624>
+DStem2: 98 -34 140 -42 0.677057 0.735931<22.5489 781.323>
+LayerCount: 2
+Fore
+SplineSet
+627 541 m 1xff
+ 668 533 l 1
+ 140 -42 l 1
+ 98 -34 l 1
+ 627 541 l 1xff
+EndSplineSet
+Refer: 1089 8323 N 1 0 0 1 352 31 2
+Refer: 1088 8322 S 1 0 0 1 99 428 2
+Validated: 524289
+Ligature2: "'frac' Brueche 1" two fraction three
+Ligature2: "'frac' Brueche 1" two slash three
+LCarets2: 2 0 0
+EndChar

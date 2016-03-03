@@ -1,0 +1,35 @@
+StartChar: h.alt
+Encoding: 57419 57419 2126
+Width: 517
+VWidth: 999
+Flags: W
+HStem: -12 21G<114 178.833> 395 47<358.925 437.605> 646 26<198.149 250.959> 678 20G<303.5 350>
+VStem: 447 82<159.303 387.799>
+DStem2: 114 0 191 12 0.226419 0.97403<29.1226 653.12>
+LayerCount: 2
+Fore
+SplineSet
+350 696 m 1
+ 191 12 l 1
+ 118 -12 l 1
+ 114 0 l 1
+ 248 578 l 2
+ 260 631 263 646 200 646 c 0
+ 198 646 196 647 196 649 c 0
+ 196 650 201 672 201 672 c 1
+ 236 674 279 684 328 698 c 1
+ 350 696 l 1
+430 442 m 0
+ 516 442 529 383 529 314 c 0
+ 529 178 473 -98 175 -216 c 5
+ 169 -192 l 5
+ 408 -67 447 203 447 312 c 0
+ 447 374 433 395 401 395 c 0
+ 376 395 314 359 243 248 c 1
+ 259 316 l 1
+ 302 385 366 442 430 442 c 0
+EndSplineSet
+Validated: 37
+Substitution2: "'salt' Stilistische Alternativformen 1" h
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" h
+EndChar

@@ -1,0 +1,16 @@
+StartChar: eight.fitted
+Encoding: 57368 57368 1617
+Width: 444
+VWidth: 487
+Flags: W
+HStem: -10 35<173.639 297.802> 575 35<275.677 379.595>
+VStem: 71.0791 67.9248<53.0797 191.298> 158.897 75.462<412.361 526.029> 368.451 75.117<105.434 233.831> 402.319 67.23<431.343 558.433>
+DStem2: 284 386 224 337 0.790147 -0.612918<-76.7419 9.02392 29.9995 38.7548 62.4438 173.971>
+LayerCount: 2
+Fore
+Refer: 2068 56 S 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" eight.oldstyle
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" eight
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" eight eight.oldstyle
+EndChar

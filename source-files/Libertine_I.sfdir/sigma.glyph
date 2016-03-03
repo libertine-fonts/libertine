@@ -1,0 +1,29 @@
+StartChar: sigma
+Encoding: 963 963 739
+Width: 521
+VWidth: 999
+Flags: W
+HStem: -12 34<190.404 302.058> 361 68<256.85 365.746 396 571.666>
+VStem: 74 69<63.5905 237.798> 397 66<135.243 311.285>
+LayerCount: 2
+Fore
+SplineSet
+349 361 m 1
+ 182 361 143 204 143 145 c 0
+ 143 85 170 22 247 22 c 0
+ 337 22 397 143 397 241 c 0
+ 397 291 379 325 349 361 c 1
+74 140 m 0
+ 74 247 150 429 369 429 c 2
+ 593 429 l 1
+ 601 417 l 1
+ 576 383 556 361 521 361 c 2
+ 396 361 l 1
+ 434 336 463 287 463 223 c 0
+ 463 119 379 -12 233 -12 c 0
+ 129 -12 74 48 74 140 c 0
+EndSplineSet
+Validated: 1
+Substitution2: "'fina' Wortendeformen 1" sigma1
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" uni03F2 sigma1
+EndChar

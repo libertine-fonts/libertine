@@ -1,0 +1,13 @@
+StartChar: uni01DD
+Encoding: 477 477 548
+Width: 401
+VWidth: 999
+Flags: W
+HStem: -10 45<89.055 190.663> 379 60<136.289 238.332>
+VStem: 5 77<41.856 126.448> 262 83<228.3 356.143>
+AnchorPoint: "top_akzent" 214 645 basechar 0
+LayerCount: 2
+Fore
+Refer: 287 101 N -1 0 0 -1 428 429 3
+Validated: 1
+EndChar

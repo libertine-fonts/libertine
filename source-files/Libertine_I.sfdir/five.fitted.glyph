@@ -1,0 +1,13 @@
+StartChar: five.fitted
+Encoding: 57365 57365 1614
+Width: 422
+VWidth: 487
+Flags: W
+LayerCount: 2
+Fore
+Refer: 14 53 N 1 0 0 1 -4 0 2
+Validated: 1
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" five.oldstyle
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" five
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" five five.oldstyle
+EndChar

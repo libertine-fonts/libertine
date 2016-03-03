@@ -1,0 +1,17 @@
+StartChar: Otilde
+Encoding: 213 213 366
+Width: 672
+VWidth: 999
+Flags: W
+HStem: -10 36<287.995 433.368> 622 36<363.341 517.661> 697 44<484.342 569.453> 745 46<363.755 450.907>
+VStem: 87.6127 94.8982<131.96 373.125> 319.799 295.294 616.85 94.1661<277.201 519.131>
+AnchorPoint: "komb_OR" 620 606 basechar 0
+LayerCount: 2
+Fore
+Refer: 674 771 N 1 0 0 1 490 123 2
+Refer: 266 79 N 1 0 0 1 0 0 3
+Validated: 1
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" otilde.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" otilde.sc
+EndChar

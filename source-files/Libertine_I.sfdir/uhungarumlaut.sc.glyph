@@ -1,0 +1,12 @@
+StartChar: uhungarumlaut.sc
+Encoding: 57518 57518 2092
+Width: 571
+VWidth: 714
+Flags: HW
+HStem: -10 41<244.94 393.624> 429 33<125.25 178.75 284 350.75 456.25 509.75 583 649.75>
+LayerCount: 2
+Fore
+Refer: 1789 57445 N 1 0 0 1 0 0 3
+Refer: 670 733 N 1 0 0 1 161 -48 2
+Validated: 1
+EndChar

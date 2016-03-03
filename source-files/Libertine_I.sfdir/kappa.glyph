@@ -1,0 +1,18 @@
+StartChar: kappa
+Encoding: 954 954 730
+Width: 467
+VWidth: 999
+Flags: W
+HStem: -10 21G<115.083 150.007 329.795 355.006> 3 28<410.006 453.331> 377 62<376.464 474.482> 395 28<106.549 150>
+VStem: 317.246 70.373<30.8242 189.952>
+DStem2: 102.822 72 176.857 72 0.218947 0.975737<-55.758 306.572>
+AnchorPoint: "top_akzent" 373 644 basechar 0
+AnchorPoint: "unten_anhang" 134 9 basechar 0
+AnchorPoint: "unten_punkt" 226 -108 basechar 0
+LayerCount: 2
+Fore
+Refer: 428 312 N 1 0 0 1 0 0 3
+Validated: 5
+Substitution2: "'salt' Stilistische Alternativformen 1" uni03F0
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" uni03F0
+EndChar

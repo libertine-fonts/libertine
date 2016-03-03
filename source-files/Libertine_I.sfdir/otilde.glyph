@@ -1,0 +1,16 @@
+StartChar: otilde
+Encoding: 245 245 36
+Width: 447
+VWidth: 999
+Flags: W
+HStem: -10 39<192.951 301.558> 406 33<250.713 346.937> 526 44<323.342 408.453> 574 46<202.755 289.907>
+VStem: 78 83<62.2999 269.643> 158.799 295.294 382 83<164.619 373.534>
+AnchorPoint: "komb_OR" 420 396 basechar 0
+LayerCount: 2
+Fore
+Refer: 297 111 N 1 0 0 1 0 0 3
+Refer: 669 732 S 1 0 0 1 36 -48 2
+Validated: 1
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" otilde.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" otilde.sc
+EndChar

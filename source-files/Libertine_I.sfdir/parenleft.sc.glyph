@@ -1,0 +1,18 @@
+StartChar: parenleft.sc
+Encoding: 63150 63150 1257
+Width: 295
+VWidth: 999
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+107 325 m 0
+ 138 486 260 629 396 716 c 1
+ 410 701 l 1
+ 372 670 229 551 185 325 c 0
+ 141 99 236 -20 264 -52 c 1
+ 243 -66 l 1
+ 65 88 100 286 107 325 c 0
+EndSplineSet
+Validated: 33
+EndChar

@@ -1,0 +1,39 @@
+StartChar: L
+Encoding: 76 76 263
+Width: 506
+VWidth: 999
+Flags: W
+HStem: 0 39<205.096 393.356> 0 31<19.7188 94> 614 33<137.562 201.125 316 390.281>
+DStem2: 98.643 -2 180.406 -2 0.207912 0.978148<73.9415 605.102>
+AnchorPoint: "mittelpunkt" 338 315 basechar 0
+AnchorPoint: "top_rechts" 481 732 basechar 0
+AnchorPoint: "unten_anhang" 252 1 basechar 0
+AnchorPoint: "unten_punkt" 242 -110 basechar 0
+AnchorPoint: "top_akzent" 301 850 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+145 0 m 2x60
+ 113 0 58 -1 20 -2 c 1
+ 15 4 17 25 24 31 c 1x60
+ 92 34 109 39 125 122 c 2
+ 203 523 l 2
+ 219 606 204 611 137 614 c 1
+ 132 620 135 641 142 647 c 1
+ 186 646 230 645 265 645 c 3
+ 302 645 347 646 390 647 c 1
+ 395 641 393 620 386 614 c 1
+ 318 611 301 606 285 523 c 2
+ 204 109 l 2
+ 194 58 208 39 245 39 c 2
+ 306 39 l 2
+ 408 39 455 98 488 170 c 1
+ 500 172 511 170 519 165 c 1
+ 503 113 480 48 461 -2 c 1
+ 461 -2 373 0 347 0 c 2xa0
+ 145 0 l 2x60
+EndSplineSet
+Validated: 33
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" l.sc
+EndChar

@@ -1,0 +1,20 @@
+StartChar: asciicircum
+Encoding: 94 94 281
+Width: 518
+VWidth: 999
+Flags: HMW
+DStem2: 173 347 217 347 0.510827 0.859684<22.6979 309.259> 395 650 363 593 0.231832 -0.972756<47.7396 301.414>
+LayerCount: 2
+Fore
+SplineSet
+363 593 m 1
+ 217 347 l 1
+ 173 347 l 1
+ 353 650 l 1
+ 395 650 l 1
+ 467 347 l 1
+ 423 347 l 1
+ 363 593 l 1
+EndSplineSet
+Validated: 1
+EndChar

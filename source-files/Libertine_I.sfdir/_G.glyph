@@ -1,0 +1,44 @@
+StartChar: G
+Encoding: 71 71 31
+Width: 656
+VWidth: 999
+Flags: W
+HStem: -10 36<289.8 481.288> 265 36<481.789 545.869 645.179 689.211> 622 36<393.648 560.275>
+VStem: 86.7221 97.5039<139.735 367.343> 639 33<456.504 533.861>
+DStem2: 505.846 -10 585.406 -10 0.207912 0.978148<105.038 264.596>
+AnchorPoint: "komb_OR" 600 606 basechar 0
+AnchorPoint: "mittelpunkt" 378 335 basechar 0
+AnchorPoint: "top_rechts" 741 732 basechar 0
+AnchorPoint: "unten_anhang" 337 2 basechar 0
+AnchorPoint: "unten_punkt" 327 -110 basechar 0
+AnchorPoint: "top_akzent" 495 850 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+489 658 m 3
+ 596 658 624 623 680 613 c 1
+ 681 541 678 501 672 459 c 1
+ 660 454 650 452 639 453 c 1
+ 631 539 608 622 469 622 c 3
+ 399.83 622 323.031 576.229 266.4 500 c 0
+ 221.199 439.156 184.226 358.935 184.226 256.808 c 3
+ 184.226 141.968 238.087 26 364 26 c 3
+ 416 26 483 34 522 66 c 1
+ 550 217 l 2
+ 557.438 257.108 533 261 481 265 c 1
+ 476 271 479 295 486 301 c 1
+ 528 300 573 299 605 299 c 3
+ 643 299 667 300 690 301 c 1
+ 695 295 692 271 685 265 c 1
+ 657 262 639 252 632 217 c 2
+ 609 101 l 2
+ 607 90 610 82 619 73 c 1
+ 542 15 448 -10 335 -10 c 3
+ 177.549 -10 86.7221 91.4166 86.7221 234.38 c 3
+ 86.7221 370.308 149.743 473.074 222.373 542.603 c 0
+ 300.184 617.091 399.589 658 489 658 c 3
+EndSplineSet
+Validated: 524321
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" g.sc
+EndChar

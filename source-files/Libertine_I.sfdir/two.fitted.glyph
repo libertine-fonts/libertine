@@ -1,0 +1,16 @@
+StartChar: two.fitted
+Encoding: 57362 57362 1611
+Width: 428
+VWidth: 487
+Flags: W
+HStem: 0 65<139 350.875> 429 21<181.5 200.5> 575 35<255.526 366.141>
+VStem: 152 73<450.908 527.574> 394.583 84.958<402.432 550.572>
+DStem2: 192 205 230 186 0.767136 0.641484<-101.131 247.437>
+LayerCount: 2
+Fore
+Refer: 11 50 N 1 0 0 1 -6 0 2
+Validated: 1
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" two.oldstyle
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" two
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" two two.oldstyle
+EndChar

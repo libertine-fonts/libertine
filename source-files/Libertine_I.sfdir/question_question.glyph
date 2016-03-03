@@ -1,0 +1,15 @@
+StartChar: question_question
+Encoding: 8263 8263 1067
+Width: 781
+VWidth: 487
+Flags: W
+HStem: -7 100<185.012 263.198 561.012 639.198> 626 32<281.047 381.696 657.047 757.696>
+VStem: 174 100<4.15561 81.2822> 182 83<511.115 593.727> 223 35<191.037 264.304> 412 82<454.197 601.857> 550 100<4.15561 81.2822> 558 83<511.115 593.727> 599 35<191.037 264.304> 788 82<454.197 601.857>
+LayerCount: 2
+Fore
+Refer: 23 63 S 1 0 0 1 11 0 2
+Refer: 23 63 S 1 0 0 1 387 0 2
+Validated: 1
+Ligature2: "'liga' Standardligaturen 1" question question
+LCarets2: 1 0
+EndChar

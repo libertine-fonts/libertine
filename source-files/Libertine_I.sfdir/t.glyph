@@ -1,0 +1,40 @@
+StartChar: t
+Encoding: 116 116 302
+Width: 307
+VWidth: 999
+Flags: MW
+HStem: -10 65<191.496 231.233> 390 39<113.706 176.545 259.479 360.463> 556.669 20G<242.662 282.866>
+VStem: 106.545 262.934
+DStem2: 136.444 206.996 212 213.996 0.215867 0.976423<-129.772 187.346 243.329 377.973>
+AnchorPoint: "unten_punkt" 133 -107 basechar 0
+AnchorPoint: "unten_anhang" 159 -3 basechar 0
+AnchorPoint: "ogonek" 221 15 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+185.479 429 m 5
+ 201 499 l 6
+ 211.37 545.77 218.329 576.669 266.995 576.669 c 7
+ 298.737 576.669 282.114 546.502 272 494 c 6
+ 259.479 429 l 5
+ 369.479 429 l 1
+ 373.648 420 364.766 396 352.545 390 c 9
+ 250.545 390 l 1
+ 212 213.996 l 2
+ 191.574 123.088 177.88 55 209 55 c 3
+ 225 55 243 60 289 112 c 1
+ 301 112 308 106 311 93 c 1
+ 276.5 31 210.5 -10 161 -10 c 3
+ 91.9348 -10 112.671 101.142 136.444 206.996 c 2
+ 176.545 390 l 1
+ 106.545 390 l 17
+ 104.42 391.796 103.358 394 104.173 398 c 1
+ 111.614 410 130.24 427 136.479 429 c 9
+ 185.479 429 l 5
+EndSplineSet
+Validated: 524321
+Substitution2: "'sinf' Wissenschaftliche Indices 1" t.inferior
+Substitution2: "'sups' Hochgestellte 1" t.superior
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" t.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" t.sc
+EndChar

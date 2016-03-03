@@ -1,0 +1,19 @@
+StartChar: breve.cyr
+Encoding: 865 865 2302
+Width: 0
+VWidth: 999
+Flags: W
+HStem: 640 58<-1.38361 285.915>
+LayerCount: 2
+Fore
+SplineSet
+142.01 698 m 3
+ 292.01 698 413.803 638 472.981 516 c 1
+ 452.319 498 l 1
+ 404.95 565 322.21 640 130.21 640 c 3
+ -65.79 640 -175.066 560 -249.681 498 c 1
+ -263.019 516 l 1
+ -144.197 638 6.00977 698 142.01 698 c 3
+EndSplineSet
+Validated: 2621441
+EndChar

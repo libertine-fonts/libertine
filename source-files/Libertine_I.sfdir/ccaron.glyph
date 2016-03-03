@@ -1,0 +1,15 @@
+StartChar: ccaron
+Encoding: 269 269 413
+Width: 393
+VWidth: 999
+Flags: HW
+HStem: -10 60<188.909 291.142> 402 37<250.195 326.608>
+VStem: 83 83<72.9091 269.629> 338.868 80.604<336.642 395.641>
+LayerCount: 2
+Fore
+Refer: 285 99 N 1 0 0 1 0 0 3
+Refer: 659 711 S 1 0 0 1 23 -16 2
+Validated: 1
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" ccaron.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" ccaron.sc
+EndChar

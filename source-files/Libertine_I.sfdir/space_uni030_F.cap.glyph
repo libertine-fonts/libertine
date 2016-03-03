@@ -1,0 +1,19 @@
+StartChar: space_uni030F.cap
+Encoding: 862 862 2299
+Width: 0
+VWidth: 999
+Flags: W
+HStem: 530 49<-276.051 493.029>
+LayerCount: 2
+Fore
+SplineSet
+-270.17 530 m 6
+ -281.17 530 -282.339 539 -280.712 547 c 4
+ -278.271 559 -260.201 579 -248.201 579 c 6
+ 486.799 579 l 6
+ 497.799 579 499.171 571 497.34 562 c 4
+ 494.898 550 477.83 530 464.83 530 c 6
+ -270.17 530 l 6
+EndSplineSet
+Validated: 2621473
+EndChar

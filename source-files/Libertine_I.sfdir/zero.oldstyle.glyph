@@ -1,0 +1,25 @@
+StartChar: zero.oldstyle
+Encoding: 57376 57376 1370
+Width: 516
+Flags: W
+TeX: 38 0
+HStem: -10 40<207.732 334.944> 399 40<264.624 400.576>
+LayerCount: 2
+Fore
+SplineSet
+344 439 m 3
+ 491 439 541 338 518 219 c 0
+ 494 95 392 -10 256 -10 c 3
+ 120 -10 61 101 84 219 c 0
+ 106 332 205 439 344 439 c 3
+336 399 m 3
+ 247 399 187 321 167 219 c 0
+ 146 113 184 30 264 30 c 3
+ 354 30 412 107 434 219 c 0
+ 453 318 428 399 336 399 c 3
+EndSplineSet
+Validated: 33
+Substitution2: "LinLibertineO-'lnum' Versalziffern 1" zero.fitted
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" zero.taboldstyle
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" zero zero.fitted
+EndChar

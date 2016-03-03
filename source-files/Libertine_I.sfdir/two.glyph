@@ -1,0 +1,54 @@
+StartChar: two
+Encoding: 50 50 11
+Width: 444
+VWidth: 487
+Flags: W
+HStem: 0 65<145 356.875> 429 21G<187.5 206.5> 575 35<261.526 372.141>
+VStem: 158 73<450.908 527.574> 400.583 84.958<402.432 550.572>
+DStem2: 198 205 236 186 0.767136 0.641484<-101.131 247.437>
+LayerCount: 2
+Back
+SplineSet
+118.894 610.012 m 1
+ 583.859 610.012 l 1
+ 452.071 -10 l 1
+ -12.8936 -10 l 1
+ 118.894 610.012 l 1
+126.769 600.012 m 1
+ 571.733 600.012 l 1
+ 444.197 0 l 1
+ -0.768555 0 l 1
+ 126.769 600.012 l 1
+EndSplineSet
+Fore
+SplineSet
+342 610 m 3
+ 413.334 610 485.541 567.514 485.541 484.664 c 3
+ 485.541 396.988 422.318 342.5 352 283 c 2
+ 236 186 l 2
+ 230 181 154 113 145 65 c 1
+ 312 65 l 2
+ 347 65 368 90 398 161 c 1
+ 408 163 420 161 425 156 c 1
+ 418 126 394 51 371 -2 c 1
+ 371 -2 328 0 297 0 c 2
+ 129 0 l 2
+ 98 0 48 -2 48 -2 c 1
+ 59 57 84 105 198 205 c 2
+ 283 278 l 2
+ 360.696 344.727 400.583 388.03 400.583 483.296 c 3
+ 400.583 544.639 365.823 575 323 575 c 3
+ 257.33 575 231 539 231 514 c 3
+ 231 505.82 233.404 500.663 237 495 c 0
+ 242 487.125 246 479.553 246 469 c 3
+ 246 446.909 215 429 198 429 c 3
+ 177 429 158 447 158 468 c 3
+ 158 528 238.666 610 342 610 c 3
+EndSplineSet
+Validated: 524321
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" two.taboldstyle
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" two.fitted
+Substitution2: "'sinf' Wissenschaftliche Indices 1" two.inferior
+Substitution2: "'sups' Hochgestellte 1" two.superior
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" two.oldstyle two.superior two.fitted
+EndChar

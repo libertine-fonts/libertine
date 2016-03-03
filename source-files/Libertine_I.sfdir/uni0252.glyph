@@ -1,0 +1,14 @@
+StartChar: uni0252
+Encoding: 594 594 631
+Width: 508
+VWidth: 999
+Flags: W
+HStem: -12 35<211.134 330.447> 400 42<128.576 216 301.941 401.832>
+VStem: 84 23<334 363.045>
+DStem2: 260.492 442 184.695 442 0.207912 0.978148<-395.233 -69.5994>
+AnchorPoint: "unten_punkt" 243 -114 basechar 0
+LayerCount: 2
+Fore
+Refer: 630 593 S -1 0 0 -1 600 430 2
+Validated: 1
+EndChar

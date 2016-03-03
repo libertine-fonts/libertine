@@ -1,0 +1,28 @@
+StartChar: slash
+Encoding: 47 47 9
+Width: 291
+VWidth: 999
+Flags: HMW
+HStem: 672 10G<356 402>
+DStem2: 0 -21 42 -21 0.45658 0.889682<18.9498 790.312>
+LayerCount: 2
+Back
+SplineSet
+573.311 661.299 m 1
+ 58.166 17.6553 l 1
+ 22.6553 17.6553 l 1
+ 537.798 661.299 l 1
+ 573.311 661.299 l 1
+EndSplineSet
+Fore
+SplineSet
+402 682 m 1
+ 42 -21 l 1
+ 0 -21 l 1
+ 361 682 l 1
+ 402 682 l 1
+EndSplineSet
+Validated: 1
+Ligature2: "'frac' Brueche 1" uni2215
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" uni2215
+EndChar

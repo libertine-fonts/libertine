@@ -1,0 +1,17 @@
+StartChar: v.alt
+Encoding: 57846 57846 2320
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+187 362 m 3
+ 187 374 184 379 177 379 c 3
+ 167 379 134 359 108 329 c 5
+ 94 329 88 337 85 346 c 5
+ 131 405 188 439 236 439 c 3
+ 266 439 272 425 272 406 c 1027
+EndSplineSet
+Fore
+Validated: 1
+EndChar

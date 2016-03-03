@@ -1,0 +1,15 @@
+StartChar: bracketright
+Encoding: 93 93 280
+Width: 338
+VWidth: 999
+Flags: MW
+HStem: -192 30<14.1693 118.107> 674 30<182.344 272.98>
+DStem2: 391 704 299 561 0.190635 0.981661<-870.768 -73.9534>
+LayerCount: 2
+Fore
+Refer: 278 91 S -1 0 0 -1 455 511 3
+Validated: 1
+Substitution2: "'case' Versalformen 1" bracketright.sc
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" bracketright.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" bracketright.sc
+EndChar

@@ -1,0 +1,20 @@
+StartChar: guilsinglleft.sc
+Encoding: 63160 63160 1267
+Width: 355
+VWidth: 560
+Flags: W
+VStem: 121 264
+LayerCount: 2
+Fore
+SplineSet
+385 503 m 5
+ 375 449 l 5
+ 315 383 259 329 205 289 c 5
+ 242 252 278 199 312 128 c 5
+ 302 75 l 5
+ 240 168 179 233 121 270 c 5
+ 128 308 l 5
+ 208 357 294 422 385 503 c 5
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,14 @@
+StartChar: zdotaccent.sc
+Encoding: 57520 57520 2094
+Width: 461
+VWidth: 714
+Flags: W
+HStem: 0 32<163.914 342.452> 424 36<202.419 390> 533 100<318.006 396.198>
+VStem: 307 100<544.128 621.282>
+DStem2: 50 27 168 59 0.665466 0.746428<85.5194 517.96>
+LayerCount: 2
+Fore
+Refer: 1794 57450 N 1 0 0 1 0 0 3
+Refer: 666 729 S 1 0 0 1 81 -57 2
+Validated: 1
+EndChar

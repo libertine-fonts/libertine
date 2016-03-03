@@ -1,0 +1,42 @@
+StartChar: parenleft
+Encoding: 40 40 5
+Width: 306
+VWidth: 999
+Flags: W
+VStem: 81.6555 78.4774<-6.44018 279.761>
+LayerCount: 2
+Back
+SplineSet
+108 0 m 0
+ 93 50 86 102 86 154 c 0
+ 86 187 89 219 94 252 c 0
+ 110 343 144 425 197 503 c 0
+ 227 549 286 632 387 707 c 1
+ 402 689 l 1
+ 317 610 274 533 253 492 c 0
+ 214 417 187 338 172 252 c 0
+ 164 205 159 159 159 115 c 0
+ 159 79 162 44 168 11 c 0
+ 175 -32 191 -108 247 -187 c 1
+ 226 -204 l 1
+ 169 -145 130 -80 108 0 c 0
+EndSplineSet
+Fore
+SplineSet
+152.886 427 m 0
+ 210.809 540.404 298.191 638.402 391 707 c 1
+ 402 706 407 699 408 689 c 1
+ 377.913 661.227 285.333 572.747 221.632 413 c 0
+ 190.204 334.185 160.133 210.804 160.133 103.974 c 3
+ 160.133 -62.7871 220.486 -157.018 241 -187 c 1
+ 236 -195 227 -202 217 -204 c 1
+ 104.978 -88.1147 81.6555 48.9095 81.6555 143.829 c 3
+ 81.6555 266.002 106.545 336.273 152.886 427 c 0
+EndSplineSet
+Validated: 524289
+Substitution2: "'case' Versalformen 1" parenleft.sc
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" parenleft.sc
+Substitution2: "'sinf' Wissenschaftliche Indices 1" parenleft.inferior
+Substitution2: "'sups' Hochgestellte 1" parenleft.superior
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" parenleft.sc
+EndChar

@@ -1,0 +1,20 @@
+StartChar: less
+Encoding: 60 60 20
+Width: 487
+VWidth: 999
+Flags: HMW
+DStem2: 164 239 87 215 0.931794 -0.362988<0 318.177> 95 263 164 239 0.946433 0.322901<57.4341 414.129>
+LayerCount: 2
+Fore
+SplineSet
+164 239 m 1
+ 460 123 l 1
+ 452 73 l 1
+ 87 215 l 1
+ 95 263 l 1
+ 510 404 l 1
+ 501 354 l 1
+ 164 239 l 1
+EndSplineSet
+Validated: 1
+EndChar

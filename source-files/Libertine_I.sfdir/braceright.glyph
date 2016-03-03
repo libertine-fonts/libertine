@@ -1,0 +1,33 @@
+StartChar: braceright
+Encoding: 125 125 311
+Width: 265
+VWidth: 999
+Flags: MW
+HStem: -213 24<-16.0721 19.3394> 235 24<271.25 311.101> 682 24<157.928 188.941>
+DStem2: 277 543 209 548 0.203301 0.979116<-252.423 84.1511>
+LayerCount: 2
+Fore
+SplineSet
+91.0234 -58 m 2
+ 116.023 108 l 2
+ 129.023 197 175.023 226 243.023 245 c 1
+ 244.023 249 l 1
+ 184.023 277 152.023 317 172.023 399 c 2
+ 209.023 548 l 2
+ 230.023 632 200.023 682 158.023 682 c 1
+ 153.023 688 156.023 700 163.023 706 c 1
+ 260.023 706 307.023 673 277.023 543 c 2
+ 238.023 373 l 2
+ 224.023 312 241.023 268 310.023 259 c 1
+ 316.023 251 315.023 244 305.023 235 c 1
+ 233.023 228 200.023 174 190.023 124 c 2
+ 160.023 -60 l 2
+ 142.023 -173 70.0234 -213 -15.9766 -213 c 1
+ -20.9766 -207 -17.9766 -195 -10.9766 -189 c 1
+ 28.0234 -178 76.0234 -161 91.0234 -58 c 2
+EndSplineSet
+Validated: 524321
+Substitution2: "'case' Versalformen 1" braceright.sc
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" braceright.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" braceright.sc
+EndChar

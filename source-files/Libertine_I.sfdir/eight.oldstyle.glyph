@@ -1,0 +1,40 @@
+StartChar: eight.oldstyle
+Encoding: 57384 57384 1622
+Width: 448
+VWidth: 487
+Flags: W
+HStem: -10 35<169.19 294.088> 575 35<276.824 389.61>
+LayerCount: 2
+Fore
+SplineSet
+223 25 m 3
+ 266 25 342 42 361 142 c 0
+ 370 190 355 237 303 275 c 2
+ 263 303 l 1
+ 169 246 144 176 138 146 c 0
+ 121 56 180 25 223 25 c 3
+473 485 m 0
+ 461 421 377 369 327 346 c 1
+ 387 303 l 2
+ 432 271 446 220 435 162 c 0
+ 420 86 340 -10 214 -10 c 3
+ 112 -10 54 44 74 146 c 0
+ 82 185 107 230 153 266 c 0
+ 181 288 209 305 240 321 c 1
+ 219 337 l 2
+ 168 375 150 416 161 472 c 0
+ 176 549 251 610 349 610 c 3
+ 443 610 487 557 473 485 c 0
+337 575 m 3
+ 279 575 242 537 233 491 c 0
+ 227 460 227 427 280 386 c 2
+ 306 367 l 1
+ 336 387 396 432 406 486 c 0
+ 415 532 399 575 337 575 c 3
+EndSplineSet
+Validated: 33
+Substitution2: "LinLibertineO-'lnum' Versalziffern 1" eight.fitted
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" eight.fitted
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" eight.taboldstyle
+Substitution2: "'sups' Hochgestellte 1" eight.superior
+EndChar

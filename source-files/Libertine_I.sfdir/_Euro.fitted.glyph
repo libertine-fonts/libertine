@@ -1,0 +1,38 @@
+StartChar: Euro.fitted
+Encoding: 57370 57370 1619
+Width: 615
+VWidth: 999
+Flags: W
+HStem: -10 35<337.504 473.804> 229 45<82 450> 331 44<122 513> 575 35<438.686 565.55>
+VStem: 633 32<419.688 487.936>
+LayerCount: 2
+Fore
+SplineSet
+501 610 m 3
+ 596 610 633 591 674 584 c 1
+ 675 529 671 478 665 424 c 1
+ 656 417 646 415 633 418 c 1
+ 623 509 585 575 505 575 c 3
+ 436 575 309 509 269 304 c 0
+ 243 170 288 25 394 25 c 3
+ 500 25 546 98 582 167 c 1
+ 596 167 604 163 610 158 c 1
+ 590 101 569 52 542 5 c 1
+ 511 0 447 -10 394 -10 c 3
+ 210 -10 148 121 181 291 c 0
+ 218 482 358 610 501 610 c 3
+49 229 m 1
+ 82 274 l 1
+ 480 274 l 1
+ 450 229 l 1
+ 49 229 l 1
+89 331 m 5
+ 122 375 l 5
+ 543 375 l 1
+ 513 331 l 1
+ 89 331 l 5
+EndSplineSet
+Validated: 37
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" Euro
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" Euro
+EndChar

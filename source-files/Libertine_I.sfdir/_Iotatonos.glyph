@@ -1,0 +1,14 @@
+StartChar: Iotatonos
+Encoding: 906 906 685
+Width: 376
+VWidth: 999
+Flags: W
+HStem: -2 33<102.719 177 291.875 355.438> 614 33<220.562 284.125 399 473.281>
+DStem2: 181.643 -2 263.643 -2 0.207912 0.978148<69.4018 605.102>
+LayerCount: 2
+Fore
+Refer: 698 921 N 1 0 0 1 83 0 2
+Refer: 684 900 S 1 0 0 1 -119 -6 2
+Validated: 1
+LCarets2: 1 0
+EndChar

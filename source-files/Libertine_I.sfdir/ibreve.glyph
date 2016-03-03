@@ -1,0 +1,14 @@
+StartChar: ibreve
+Encoding: 301 301 66
+Width: 261
+VWidth: 999
+Flags: HW
+HStem: -10 65<133 206.613> 395 28<118.549 162> 503 57<188.081 296.774>
+VStem: 107 180 135.484 26.4969<600.777 638>
+DStem2: 96.2882 -10 170.293 -10 0.21644 0.976296<100.542 390.643>
+LayerCount: 2
+Fore
+Refer: 421 305 N 1 0 0 1 0 0 3
+Refer: 665 728 S 0.9 0 0 1 -5 -26 2
+Validated: 1
+EndChar

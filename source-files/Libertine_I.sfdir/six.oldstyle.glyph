@@ -1,0 +1,29 @@
+StartChar: six.oldstyle
+Encoding: 57382 57382 1378
+Width: 452
+VWidth: 487
+Flags: W
+TeX: 38 0
+HStem: -11 35<190.407 289.298> 330 35<218.274 331.259>
+LayerCount: 2
+Fore
+SplineSet
+470 585 m 1
+ 269 512 188 329 169 229 c 0
+ 136 58 185 24 245 24 c 3
+ 292 24 342 74 363 184 c 0
+ 373 234 370 330 276 330 c 3
+ 256 330 215 328 170 291 c 1
+ 169 290 173 322 174 323 c 1
+ 204 349 267 365 303 365 c 3
+ 434 365 463 288 446 202 c 0
+ 429 116 353 -11 227 -11 c 3
+ 153 -11 51 29 90 232 c 0
+ 105 311 153 402 227 474 c 0
+ 293 539 360 581 463 611 c 1
+ 470 606 472 597 470 585 c 1
+EndSplineSet
+Validated: 37
+Substitution2: "LinLibertineO-'lnum' Versalziffern 1" six.fitted
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" six.taboldstyle
+EndChar

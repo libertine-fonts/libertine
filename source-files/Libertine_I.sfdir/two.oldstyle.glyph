@@ -1,0 +1,34 @@
+StartChar: two.oldstyle
+Encoding: 57378 57378 2067
+Width: 441
+VWidth: 488
+Flags: W
+HStem: 0 55<161 362.421> 395 44<211.51 329.015>
+LayerCount: 2
+Fore
+SplineSet
+293 55 m 2
+ 348 55 355 61 388 114 c 2
+ 406 143 l 1
+ 415 142 424 142 431 136 c 1
+ 402 78 383 29 372 -2 c 1
+ 356 -1 323 0 285 0 c 2
+ 143 0 l 2
+ 119 0 67 -1 57 -2 c 1
+ 51 21 l 1
+ 178 126 l 2
+ 302 229 326 256 337 314 c 0
+ 347 367 326 395 282 395 c 3
+ 235 395 184 374 154 321 c 1
+ 140 324 129 328 124 336 c 1
+ 150 388 219 439 310 439 c 3
+ 407 439 437 392 425 331 c 0
+ 416 285 385 245 318 188 c 2
+ 161 55 l 1
+ 293 55 l 2
+EndSplineSet
+Validated: 33
+Substitution2: "LinLibertineO-'lnum' Versalziffern 1" two.fitted
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" two.taboldstyle
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" two two.fitted
+EndChar

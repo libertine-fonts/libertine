@@ -1,0 +1,53 @@
+StartChar: nine
+Encoding: 57 57 17
+Width: 444
+VWidth: 487
+Flags: W
+HStem: -11 26<106.639 138.829> 240 35<247.992 356.381> 576 35<287.738 388.209>
+VStem: 127 82<313.286 479.171> 417 78<326.142 548.437>
+LayerCount: 2
+Back
+SplineSet
+106 15 m 1
+ 228 59 306 144 352 226 c 0
+ 358 236 363.5 247.333 368 257 c 1
+ 337 243 297 235 272 235 c 3
+ 163 235 127 300 127 367 c 3
+ 127 479 213 611 348 611 c 3
+ 411 611 495 586 495 453 c 3
+ 495 372 474 306 440 244 c 0
+ 372 121 262 33 112 -11 c 1
+ 105 -6 104 3 106 15 c 1
+385 294 m 1
+ 407 348 417 401 417 467 c 3
+ 417 556 377 576 331 576 c 3
+ 282 576 209 499 209 382 c 3
+ 209 333 227 270 299 270 c 3
+ 316 270 348 272 385 294 c 1
+EndSplineSet
+Fore
+SplineSet
+106 15 m 1
+ 227.045 50.8 306 144 352 226 c 0
+ 358 236 363.5 252.333 368 262 c 1
+ 337 248 297 240 272 240 c 3
+ 163 240 127 315 127 382 c 3
+ 127 494 213 611 348 611 c 3
+ 411 611 495 586 495 453 c 3
+ 495 372 472.127 306.991 440 244 c 0
+ 371.045 108.8 257.045 26.8 112 -11 c 1
+ 105 -6 104 3 106 15 c 1
+385 299 m 1
+ 407 353 417 401 417 467 c 3
+ 417 556 377 576 341 576 c 3
+ 282 576 209 514 209 397 c 3
+ 209 348 227 275 299 275 c 3
+ 316 275 348 277 385 299 c 1
+EndSplineSet
+Validated: 524321
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" nine.taboldstyle
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" nine.fitted
+Substitution2: "'sinf' Wissenschaftliche Indices 1" nine.inferior
+Substitution2: "'sups' Hochgestellte 1" nine.superior
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" nine.oldstyle nine.superior nine.fitted
+EndChar

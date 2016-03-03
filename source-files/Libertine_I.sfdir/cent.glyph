@@ -1,0 +1,19 @@
+StartChar: cent
+Encoding: 162 162 315
+Width: 438
+VWidth: 999
+Flags: HW
+HStem: -12 21G<216 253.893> 61 60<209.909 312.142> 473 37<271.195 347.608>
+VStem: 104 83<143.909 340.629> 359.868 80.604<407.642 466.641>
+LayerCount: 2
+Fore
+SplineSet
+332 584 m 1
+ 366 584 l 1
+ 250 -12 l 1
+ 216 -12 l 1
+ 332 584 l 1
+EndSplineSet
+Refer: 285 99 N 1 0 0 1 21 71 2
+Validated: 524293
+EndChar

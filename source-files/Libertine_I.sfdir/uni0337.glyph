@@ -1,0 +1,18 @@
+StartChar: uni0337
+Encoding: 823 823 2265
+Width: 0
+VWidth: 999
+Flags: W
+DStem2: -452.407 -2 -427.696 -28 0.715714 0.698393<-8.04125 661.842>
+AnchorPoint: "mittelpunkt" -199.258 215 mark 0
+LayerCount: 2
+Fore
+SplineSet
+16.3672 454 m 1
+ 33.3672 454 41.333 444 42.6875 431 c 1
+ -427.696 -28 l 1
+ -443.696 -28 -453.459 -17 -452.407 -2 c 1
+ 16.3672 454 l 1
+EndSplineSet
+Validated: 524321
+EndChar

@@ -1,0 +1,16 @@
+StartChar: triagdn
+Encoding: 9660 9660 1239
+Width: 541
+VWidth: 999
+Flags: W
+HStem: 409 20G<44 498>
+LayerCount: 2
+Fore
+SplineSet
+44 429 m 1
+ 498 429 l 1
+ 271 35 l 1
+ 44 429 l 1
+EndSplineSet
+Validated: 1
+EndChar

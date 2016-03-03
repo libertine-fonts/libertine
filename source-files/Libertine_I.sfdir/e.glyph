@@ -1,0 +1,54 @@
+StartChar: e
+Encoding: 101 101 287
+Width: 401
+VWidth: 999
+Flags: W
+HStem: -10 60<189.668 291.711> 394 45<237.337 338.945>
+VStem: 83 83<72.8566 200.7> 346 77<302.552 387.144>
+AnchorPoint: "unten_punkt" 158.027 -108 basechar 0
+AnchorPoint: "ogonek" 344.342 41 basechar 0
+AnchorPoint: "top_akzent" 332.227 645 basechar 0
+LayerCount: 2
+Back
+SplineSet
+167 199 m 1
+ 166 191 166 170 166 165 c 3
+ 166 74 197 50 242 50 c 3
+ 290 50 313 59 370 117 c 1
+ 382 117 388 112 393 101 c 1
+ 334 25 273 -10 206 -10 c 3
+ 123 -10 83 57 83 142 c 3
+ 83 269 155 439 329 439 c 3
+ 401 439 424 390 424 365 c 3
+ 424 327 428 250 167 199 c 1
+355 370 m 0
+ 355 399 342 408 306 408 c 0
+ 264.097 408 209.03 378.577 173.753 237.438 c 1
+ 249.731 247.218 355 280.291 355 370 c 0
+EndSplineSet
+Fore
+SplineSet
+167 199 m 1
+ 166 191 166 170 166 165 c 3
+ 166 74 197 50 242 50 c 3
+ 283.672 50 317.667 64.3333 370 117 c 1
+ 382 117 388 112 393 101 c 1
+ 334 25 273 -10 206 -10 c 3
+ 123 -10 83 57 83 142 c 3
+ 83 231.625 123 340 204 398 c 0
+ 239 423 280 439 331 439 c 3
+ 387 439 423 413 423 360 c 3
+ 423 320 393 288 364 269 c 0
+ 327 245 275.064 220.116 167 199 c 1
+300 394 m 3
+ 247 394 194.938 359.156 172.753 236.438 c 1
+ 224.701 243.125 288 264 325 299 c 0
+ 339 312 346 328 346 344 c 3
+ 346 374 327 394 300 394 c 3
+EndSplineSet
+Validated: 524289
+Substitution2: "'sinf' Wissenschaftliche Indices 1" e.inferior
+Substitution2: "'sups' Hochgestellte 1" e.superior
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" e.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" e.sc
+EndChar

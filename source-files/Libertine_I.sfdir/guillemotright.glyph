@@ -1,0 +1,13 @@
+StartChar: guillemotright
+Encoding: 187 187 340
+Width: 464
+VWidth: 999
+Flags: W
+LayerCount: 2
+Fore
+Refer: 324 171 S -1 0 0 -1 563 430 3
+Validated: 1
+Substitution2: "'case' Versalformen 1" guillemotright.sc
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" guillemotright.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" guillemotright.sc
+EndChar

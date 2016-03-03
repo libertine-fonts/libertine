@@ -1,0 +1,22 @@
+StartChar: Oslash
+Encoding: 216 216 369
+Width: 672
+VWidth: 999
+Flags: W
+HStem: -10 36<287.995 433.368> 622 36<363.341 517.661>
+VStem: 87.6127 94.8982<131.96 373.125> 616.85 94.1661<277.201 519.131>
+LayerCount: 2
+Fore
+SplineSet
+727 670 m 1
+ 752 645 l 1
+ 96 -43 l 1
+ 70 -18 l 1
+ 727 670 l 1
+EndSplineSet
+Refer: 266 79 N 1 0 0 1 0 0 3
+Validated: 524293
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" oslash.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" oslash.sc
+EndChar

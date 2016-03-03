@@ -1,0 +1,15 @@
+StartChar: rturned
+Encoding: 633 633 644
+Width: 356
+VWidth: 999
+Flags: HW
+HStem: -7 62<-39.022 33.875> 6 28<219 262.452>
+VStem: 190.75 77<315.563 433.057>
+DStem2: 272.607 439 196.572 439 0.207912 0.978148<-403.616 -327.361 -286.758 -24.1045>
+AnchorPoint: "unten_punkt" 190 -114 basechar 0
+LayerCount: 2
+Fore
+Refer: 300 114 S -1 0 0 -1 357 429 2
+Validated: 1
+Substitution2: "'sups' Hochgestellte 1" rturned.superior
+EndChar

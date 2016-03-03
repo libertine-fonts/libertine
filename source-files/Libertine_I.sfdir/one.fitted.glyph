@@ -1,0 +1,16 @@
+StartChar: one.fitted
+Encoding: 57361 57361 1610
+Width: 363
+VWidth: 999
+Flags: W
+HStem: -2 33<77.562 156.5 271.563 342.281>
+VStem: 77 286
+DStem2: 165.643 -2 239.643 -2 0.207912 0.978148<71.2726 514.315>
+LayerCount: 2
+Fore
+Refer: 10 49 N 1 0 0 1 -42 0 2
+Validated: 1
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" one.oldstyle
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" one
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" one one.oldstyle
+EndChar

@@ -1,0 +1,24 @@
+StartChar: threefifths
+Encoding: 8535 8535 1129
+Width: 660
+VWidth: 999
+Flags: W
+HStem: -85 27<442.268 520.404> 107 27<475.59 546.14> 204 35<505 640> 309 30<177.853 269.781> 475 27<227.878 246.673> 609 30<240.39 316.578>
+VStem: 178 52<558.018 600.672> 311.088 63.3827<378.534 468.995> 319.049 60.3014<542.804 607.624> 561.858 57.0637<-17.1968 98.4065>
+DStem2: 98 -34 140 -42 0.677057 0.735931<22.5489 781.323> 436 96 475 123 0.353273 0.93552<39.0367 125.412>
+LayerCount: 2
+Fore
+SplineSet
+627 541 m 1xfe40
+ 668 533 l 1
+ 140 -42 l 1
+ 98 -34 l 1
+ 627 541 l 1xfe40
+EndSplineSet
+Refer: 1091 8325 S 1 0 0 1 357 32 2
+Refer: 1089 8323 N 1 0 0 1 99 427 2
+Validated: 524289
+Ligature2: "'frac' Brueche 1" three fraction five
+Ligature2: "'frac' Brueche 1" three slash five
+LCarets2: 2 0 0
+EndChar

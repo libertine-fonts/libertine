@@ -1,0 +1,32 @@
+StartChar: afii57667
+Encoding: 1491 1491 1856
+Width: 438
+Flags: W
+HStem: -1 21G<199 222> 413 107<140.725 387>
+VStem: 76 384<421.022 513.362>
+DStem2: 223 49 298 85 0.179282 0.983798<-21.8783 263.091>
+AnchorPoint: "unten_punkt" 211 0 basechar 0
+AnchorPoint: "mittelpunkt" 160 274 basechar 0
+AnchorPoint: "top_akzent" 226 573 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+334 291 m 0
+ 318 222 314 155 298 85 c 0
+ 279 6 234 -1 210 -1 c 0
+ 205 -1 201 -1 199 -1 c 1
+ 210 11 218 28 223 49 c 0
+ 237 112 244 159 255 207 c 0
+ 276 297 320 368 387 413 c 1
+ 140 413 l 2
+ 97 413 76 427 76 457 c 0
+ 76 462 77 468 78 474 c 0
+ 96 548 139 554 139 554 c 1
+ 139 531 153 520 180 520 c 2
+ 402 520 l 2
+ 439 520 460 507 460 478 c 0
+ 460 472 459 465 458 458 c 0
+ 438 375 360 399 334 291 c 0
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,25 @@
+StartChar: suchthat
+Encoding: 8715 8715 1743
+Width: 506
+Flags: W
+HStem: 0 57<55 302.795> 257 57<114 457> 515 57<155 381.811>
+LayerCount: 2
+Fore
+SplineSet
+155 572 m 1
+ 306 572 l 2
+ 464 572 562 439 533 286 c 0
+ 502 130 352 0 195 0 c 2
+ 44 0 l 1
+ 55 57 l 1
+ 210 57 l 2
+ 327 57 424 150 457 257 c 1
+ 103 257 l 1
+ 114 314 l 1
+ 468 314 l 1
+ 476 428 404 515 299 515 c 2
+ 144 515 l 1
+ 155 572 l 1
+EndSplineSet
+Validated: 33
+EndChar

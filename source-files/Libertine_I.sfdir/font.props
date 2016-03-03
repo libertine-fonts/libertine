@@ -1,0 +1,373 @@
+SplineFontDB: 3.0
+FontName: LF-Libertine-Italic
+FullName: Libertine Italic
+FamilyName: Libertine
+Weight: Regular
+Copyright: Linux Libertine by Philipp H. Poll, Open Font under Terms of following Free Software licenses:\nGPL (General Public License) with font-exception and OFL (Open Font License).\nCreated with FontForge (fontforge.sf.net). \nFirst version published Sept 2003, current version 2015
+UComments: "2003-08-29: Created.+AAoA-2004-07-25: v(1.0) release candidate+AAoA-2005-12-28: v(1.1.0)stable+AAoA-2006-05-01: v(2.0.0)stable+AAoA-2007-01-10: v(2.3.0)stable+AAoA-2015-01-28: v(5.6.0) stable"
+Version: 
+ItalicAngle: -12
+UnderlinePosition: -98
+UnderlineWidth: 40
+Ascent: 754
+Descent: 246
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 975 16237491 13016554]
+FSType: 0
+OS2Version: 3
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1155510122
+ModificationTime: 1456963941
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 140
+VLineGap: 0
+Panose: 2 2 5 3 4 0 0 0 0 0
+OS2TypoAscent: 754
+OS2TypoAOffset: 0
+OS2TypoDescent: -246
+OS2TypoDOffset: 0
+OS2TypoLinegap: 140
+OS2WinAscent: 894
+OS2WinAOffset: 0
+OS2WinDescent: 246
+OS2WinDOffset: 0
+HheadAscent: 754
+HheadAOffset: 0
+HheadDescent: -246
+HheadDOffset: 0
+OS2FamilyClass: 261
+OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "Substitution f short" { "Substitution f short 1"  } []
+Lookup: 1 0 0 "Substitution dotless forms" { "Substitution dotless forms 1"  } []
+Lookup: 3 0 0 "'aalt' Alle Alternativen zeigen" { "LinLibertine-'aalt' Alle Alternativen zeigen 1"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms Romaenisch" { "LinLibertine-'locl' Localized Forms Romaenisch 1"  } ['locl' ('latn' <'MOL ' 'ROM ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms Serbian" { "'locl' Localized Forms Serbian-1"  } ['locl' ('cyrl' <'SRB ' > ) ]
+Lookup: 1 0 0 "'smcp' Gemeine nach Kapitaelchen i > idotaccent.sc" { "'smcp' Gemeine nach Kapitaelchen i > idotaccent.sc"  } ['smcp' ('latn' <'AZE ' 'CRT ' 'TRK ' > ) ]
+Lookup: 1 0 0 "'smcp' Gemeine nach Kapitaelchen" { "'smcp' Gemeine nach Kapitaelchen 1"  } ['smcp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'smcp' Gemeine nach Kapitaelchen i > i.sc" { "'smcp' Gemeine nach Kapitaelchen i > i.sc 1"  } ['smcp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'DEU ' 'MOL ' 'ROM ' 'dflt' > ) ]
+Lookup: 4 0 0 "'frac' Brueche" { "'frac' Brueche 1"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'case' Versalformen" { "'case' Versalformen 1"  } ['case' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'sups' Hochgestellte" { "'sups' Hochgestellte 1" ("superior") } ['sups' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'sinf' Tiefgestellte" { "'sinf' Wissenschaftliche Indices 1" ("inferior") } ['sinf' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'c2sc' Versale nach Kapitaelchen" { "'c2sc' Versale nach Kapitaelchen 1" ("sc") } ['c2sc' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standardligaturen ohne TRK CRT AZE" { "'liga' Standardligaturen ohne TRK CRT AZE 1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'DEU ' 'MOL ' 'ROM ' 'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standardligaturen" { "'liga' Standardligaturen 1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 0 "'dlig' optionale Ligaturen" { "'dlig' optionale Ligaturen 1"  } ['dlig' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 0 "'hlig' Historische Ligaturen" { "'hlig' Historische Ligaturen 1"  } ['hlig' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'lnum' Versalziffern" { "LinLibertineO-'lnum' Versalziffern 1"  } ['lnum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'tnum' Tabellenziffern" { "LinLibertine-'tnum' Tabellenziffern 1"  } ['tnum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'pnum' Proportionalziffern" { "LinLibertine-'pnum' Proportionalziffern 1"  } ['pnum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'onum' Minuskelziffern" { "LinLibertine-'onum' Minuskelziffern 1" ("oldstyle") } ['onum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'zero' gestrichene Null" { "'zero' gestrichene Null 1"  } ['zero' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'salt' Stilistische Alternativformen" { "'salt' Stilistische Alternativformen 1"  } ['salt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss01' Stilgruppe 1" { "'ss01' Stilgruppe 1 1"  } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss02' Stilgruppe 2" { "'ss02' Stilgruppe 2 1"  } ['ss02' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss03' Stilgruppe 3" { "'ss03' Stilgruppe 3 1"  } ['ss03' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss04' Stilgruppe 4 lookup 31" { "'ss04' Stilgruppe 4 lookup 31-1" ("str") } ['ss04' ('DFLT' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss05' Stilgruppe 5 lookup 32" { "'ss05' Stilgruppe 5 lookup 32-1" ("stv") } ['ss05' ('DFLT' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'fina' Wortendeformen" { "'fina' Wortendeformen 1"  } ['fina' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 6 0 0 "'ccmp' Contextual Chaining Substitution" { "'ccmp' Contextual Chaining Substitution 1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "LinLibertineO-Substitution dotless forms" { "LinLibertineO-Substitution dotless forms 1"  } []
+Lookup: 1 0 0 "LinLibertineO-Substitution f short" { "LinLibertineO-Substitution f short 1"  } []
+Lookup: 1 0 0 "'nalt' Alternate Annotation Forms lookup 0" { "'nalt' Alternate Annotation Forms 1"  } ['nalt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 257 0 0 "'cpsp' Versalabstaende" { "'cpsp' Versalabstaende 1"  } ['cpsp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Markenpositionierung" { "'mark' Komb OR"  "'mark' Top rechts"  "'mark' Top Akzent"  "'mark' Mittelpunkt"  "'mark' Ogonek"  "'mark' Unten Anhang"  "'mark' Unten Punkt"  "'mark' Top Punkt2"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Kerning" { "LinLibertineO-'kern' Latin kerning" [150,0,4] "LinLibertineO-'kern' Cyrillic Kerning" [150,0,6] "LinLibertineO-'kern' Greek Kerning" [150,0,6] "LinLibertineO-'kern' Small Caps" [150,15,4] } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+KernClass2: 12 8 "LinLibertineO-'kern' Small Caps"
+ 92 a.sc agrave.sc aacute.sc acircumflex.sc atilde.sc adieresis.sc aring.sc abreve.sc aogonek.sc
+ 83 u.sc ugrave.sc uacute.sc ucircumflex.sc udieresis.sc uring.sc uhungarumlaut.sc f.sc
+ 9 k.sc x.sc
+ 42 v.sc w.sc y.sc yacute.sc ydieresis.sc t.sc
+ 82 d.sc o.sc q.sc ograve.sc oacute.sc ocircumflex.sc otilde.sc odieresis.sc oslash.sc
+ 4 l.sc
+ 57 A Agrave Aacute Acircumflex Atilde Adieresis Aring Abreve
+ 15 V W Y Ydieresis
+ 3 K X
+ 4 p.sc
+ 79 hyphen.sc guillemotleft.sc guillemotright.sc guilsinglleft.sc guilsinglright.sc
+ 49 b.sc d.sc f.sc h.sc i.sc k.sc l.sc n.sc p.sc r.sc
+ 92 a.sc agrave.sc aacute.sc acircumflex.sc atilde.sc adieresis.sc aring.sc abreve.sc aogonek.sc
+ 78 u.sc ugrave.sc uacute.sc ucircumflex.sc udieresis.sc uring.sc uhungarumlaut.sc
+ 42 t.sc v.sc w.sc y.sc yacute.sc ydieresis.sc
+ 4 x.sc
+ 31 c.sc g.sc o.sc q.sc ccedilla.sc
+ 79 hyphen.sc guillemotleft.sc guillemotright.sc guilsinglleft.sc guilsinglright.sc
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} -15 {} -20 {} 0 {} 0 {} -35 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -35 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} -25 {} -25 {} 0 {} 0 {} -10 {} 0 {} -10 {} -25 {} 0 {} 20 {} 0 {} 0 {} 0 {} 0 {} -25 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -35 {} -60 {} 0 {} -22 {} 0 {} 0 {} -20 {} -120 {} -20 {} 0 {} 0 {} -60 {} -50 {} 0 {} 0 {} 0 {} -25 {} -20 {} 0 {} -40 {} -40 {} 0 {} 0 {} -25 {} 0 {} 0 {} 0 {} 0 {} 20 {} 0 {} 0 {} -20 {} 0 {} -20 {} -40 {} 20 {} 0 {}
+KernClass2: 9 10 "LinLibertineO-'kern' Greek Kerning"
+ 9 Gamma Tau
+ 125 Upsilontonos Upsilon Upsilondieresis Upsilon1 uni03D3 uni03D4 uni1F59 uni1F5B uni1F5D uni1F5F uni1FE8 uni1FE9 uni1FEA uni1FEB
+ 9 Kappa Chi
+ 110 Omicrontonos Theta Omicron Phi uni03F4 uni1E0A uni1E0C uni1E0E uni1E10 uni1E12 uni1E4C uni1E4E uni1E50 uni1E52
+ 24 gamma kappa uni03DB zeta
+ 33 omicron rho phi omicrontonos phi1
+ 151 Alphatonos Alpha Delta Lambda afii10017 uni04D2 uni1E00 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1FB8 uni1FB9 uni1FBA uni1FBB uni1F08 uni1F09
+ 3 Rho
+ 3 Tau
+ 23 Upsilon Upsilondieresis
+ 8 gamma nu
+ 3 chi
+ 50 Alpha Delta Lambda uni04D2 uni1FB8 uni1FB9 uni1FBC
+ 63 alpha omicron sigma phi uni03F2 uni03F5 omega sigma1 omegatonos
+ 64 alphatonos rho omicrontonos phi1 uni03F1 uni1F71 uni1F73 uni1F79
+ 10 mu uni03F0
+ 22 eta iota kappa upsilon
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 30 {} 30 {} -24 {} -23 {} -35 {} -40 {} -20 {} 0 {} -20 {} 0 {} 20 {} 0 {} -17 {} -16 {} -60 {} -50 {} -30 {} -20 {} -30 {} 0 {} 20 {} 20 {} -16 {} -14 {} 0 {} -51 {} -31 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} -10 {} 0 {} 0 {} 0 {} -49 {} -40 {} -20 {} 0 {} -20 {} 0 {} 0 {} 0 {} -5 {} 0 {} -60 {} -60 {} -60 {} -40 {} 20 {} -27 {} -16 {} 0 {} -44 {} 0 {} 20 {} 0 {} 0 {} 0 {} -60 {} -30 {} -20 {} 0 {} 0 {}
+KernClass2: 9 7 "LinLibertineO-'kern' Cyrillic Kerning"
+ 63 afii10052 afii10020 afii10036 afii10050 uni0492 uni04AC uni04F6
+ 61 afii10062 afii10037 uni04EE uni04F0 uni04F2 afii10148 uni0476
+ 103 afii10061 afii10024 afii10028 afii10039 uni0496 uni049A uni049C uni049E uni04A0 uni04B2 uni04C1 uni04DC
+ 29 afii10032 afii10048 afii10147
+ 19 afii10085 afii10110
+ 61 afii10072 afii10076 afii10109 uni049F uni04A1 uni04B3 uni04DD
+ 55 afii10070 afii10080 afii10082 afii10071 uni04E7 uni04E9
+ 19 afii10044 afii10046
+ 35 afii10041 afii10148 uni0476 uni04B6
+ 47 afii10072 afii10085 x afii10110 uni04B3 uni04DD
+ 9 afii10017
+ 57 afii10070 afii10080 afii10083 afii10101 afii10846 uni04E9
+ 57 afii10065 afii10073 afii10086 afii10095 afii10097 uni04D5
+ 139 afii10067 afii10068 afii10074 afii10076 afii10078 afii10079 afii10081 afii10082 afii10087 afii10088 afii10090 afii10091 afii10107 afii10193
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 30 {} 0 {} -50 {} -35 {} 0 {} 0 {} 0 {} 0 {} -50 {} -100 {} -60 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -35 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -23 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {}
+KernClass2: 21 22 "LinLibertineO-'kern' Latin kerning"
+ 11 f longs f_f
+ 30 T Tcedilla Tcaron Tcommaaccent
+ 59 Y Yacute Ycircumflex Ydieresis Ygrave seven.fitted question
+ 40 V W Wcircumflex Wgrave Wacute Wdieresis 
+ 22 K X Kcommaaccent K.alt
+ 211 at D O Q Ograve Oacute Ocircumflex Otilde Odieresis Oslash Dcaron Dcroat Omacron Obreve Ohungarumlaut uni0186 uni0189 uni018A uni018F uni01EA uni01EC uni020C uni020E uni022A uni022C uni022E uni0230 Odieresis.alt
+ 105 r v w y Thorn yacute ydieresis racute rcommaaccent rcaron wcircumflex ycircumflex wgrave wacute wdieresis
+ 89 g k x gcircumflex gbreve gdotaccent gcommaaccent kcommaaccent kgreenlandic gcaron f_k c_k
+ 21 b agrave egrave thorn
+ 77 e o p eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis
+ 21 L Lacute Lcommaaccent
+ 114 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek Aringacute uni0200 uni0202 Adieresis.alt
+ 164 comma period underscore enquad emquad enspace emspace threeperemspace fourperemspace sixperemspace figurespace punctuationspace quotesinglbase quotedblbase ellipsis
+ 235 zero.inferior one.inferior two.inferior three.inferior four.inferior five.inferior six.inferior seven.inferior eight.inferior nine.inferior plus.inferior minus.inferior equal.inferior a.inferior e.inferior o.inferior x.inferior uni2094
+ 149 hyphen asciitilde guillemotleft guillemotright hyphentwo hyphennobreak figuredash endash emdash horizontalbar guilsinglleft guilsinglright hyphen.cap
+ 31 parenleft bracketleft braceleft
+ 87 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek
+ 145 H I N Igrave Iacute Icircumflex Idieresis Ntilde Hcircumflex Hbar Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Nacute Ncommaaccent Ncaron Eng
+ 11 F P uni01A4
+ 103 quotedbl quotesingle asterisk quoteleft quoteright quotereversed quotedblleft quotedblright quotedblrev
+ 30 T Tcedilla Tcaron Tcommaaccent
+ 18 Y Yacute Ydieresis
+ 45 V W Wcircumflex Wgrave Wacute Wdieresis V.alt
+ 339 C G O Q Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash Cacute Ccircumflex Cdotaccent Ccaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Omacron Obreve Ohungarumlaut OE uni0187 uni0193 uni019F Ohorn Gcaron uni01EA uni01EC uni01F4 Oslashacute uni020C uni020E uni022A uni022C uni022E uni0230 zero.fitted zero.slashfitted six.fitted
+ 18 y yacute ydieresis
+ 39 v w wcircumflex wgrave wacute wdieresis
+ 1 x
+ 103 quotedbl quotesingle asterisk quoteleft quoteright quotereversed quotedblleft quotedblright quotedblrev
+ 165 A Agrave Aacute Acircumflex Atilde Adieresis Aring AE Amacron Abreve Aogonek uni01CD uni01DE uni01E0 uni01E2 Aringacute AEacute uni0200 uni0202 uni0226 Adieresis.alt
+ 66 comma period quotesinglbase onedotenleader twodotenleader ellipsis
+ 59 e c o d q ccedilla eogonek oe uni0188 uni018D ohorn c_k c_h
+ 70 a g s aacute ae eacute oacute oslash aogonek cacute edotaccent uni022F
+ 18 m n p r z dotlessi
+ 34 parenright bracketright braceright
+ 27 J j Jcircumflex jcircumflex
+ 192 plus hyphen less equal greater asciitilde guillemotleft uni00AD periodcentered guillemotright divide hyphentwo hyphennobreak figuredash endash emdash horizontalbar guilsinglleft guilsinglright
+ 87 exclam question exclamdbl interrobang question_question question_exclam exclam_question
+ 90 b h k l thorn hcircumflex hbar kcommaaccent lacute lcommaaccent lcaron ldot lslash uni0180
+ 143 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek uni01D3 uni01D5 uni01D7 uni01D9 uni01DB uni0214 uni0216
+ 267 two.superior three.superior one.superior zero.superior i.superior four.superior five.superior six.superior seven.superior eight.superior nine.superior plus.superior minus.superior equal.superior parenleft.superior parenright.superior n.superior uni2098 uni2099 degree
+ 1 u
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 98 {} 98 {} 98 {} 24 {} 0 {} 0 {} 0 {} 73 {} 0 {} 0 {} 0 {} 0 {} 0 {} 76 {} 80 {} 0 {} 80 {} 40 {} 0 {} 88 {} 0 {} 0 {} 55 {} 24 {} 24 {} -5 {} 0 {} -20 {} -20 {} 0 {} -49 {} -63 {} -63 {} -49 {} -20 {} 0 {} 0 {} -59 {} 10 {} 0 {} 37 {} 0 {} -39 {} 0 {} 24 {} 24 {} 24 {} -20 {} -50 {} -30 {} -24 {} 0 {} -61 {} -44 {} -71 {} -60 {} -40 {} 0 {} 0 {} -49 {} 0 {} 0 {} 24 {} 0 {} -39 {} 0 {} 24 {} 24 {} 24 {} -30 {} 0 {} -20 {} -24 {} 0 {} -90 {} -88 {} -70 {} -60 {} -40 {} 0 {} 0 {} -49 {} 0 {} 0 {} 24 {} 0 {} -24 {} 0 {} 0 {} 24 {} 24 {} -24 {} -75 {} -25 {} 0 {} 0 {} 0 {} 0 {} -20 {} -15 {} 0 {} 0 {} 0 {} -24 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} -5 {} -34 {} 37 {} 0 {} 0 {} 10 {} 10 {} 0 {} -29 {} -29 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -39 {} -12 {} -24 {} 10 {} 0 {} 15 {} 10 {} 0 {} -49 {} -59 {} -8 {} 0 {} 0 {} -17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} -24 {} 0 {} 0 {} 0 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -29 {} -37 {} -44 {} 0 {} 0 {} 0 {} 0 {} -20 {} -20 {} -20 {} 10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -49 {} -54 {} -54 {} 0 {} 0 {} 0 {} 0 {} -24 {} -20 {} -10 {} 7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -49 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -63 {} -73 {} -90 {} -34 {} 0 {} -20 {} 0 {} -73 {} 0 {} 0 {} -12 {} -12 {} -20 {} -12 {} 0 {} -37 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} -61 {} -73 {} -73 {} -10 {} 0 {} 0 {} 0 {} -122 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -73 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -308 {} 0 {} 0 {} -49 {} -49 {} -49 {} 0 {} 0 {} 0 {} 0 {} 0 {} -37 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} -17 {} 0 {} 0 {} -24 {} 0 {} -17 {} -12 {} 0 {} 0 {} 73 {} -37 {} 0 {} 12 {} 12 {} 0 {} 0 {} 0 {} 37 {} 24 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} -59 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 37 {} 24 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 24 {} 0 {} 0 {} 0 {} 0 {} 24 {} -59 {} -24 {} -10 {} -10 {} 0 {} 0 {} 0 {} 0 {} 10 {} 12 {} 49 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -49 {} -49 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
+ChainSub2: class "'ccmp' Contextual Chaining Substitution 1" 5 1 5 2
+  Class: 3 i j
+  Class: 398 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni0315 uni031A uni0351 uni0357 uni0358 grave.cap acute.cap circumflex.cap caron.cap breve.cap hungarumlaut.cap space_uni030F.cap breveinvertedcmb.cap breve.cyrcap breve.cyr dieresis.cap hookabovecomb.cap dotaccent.cap
+  Class: 5 f f_f
+  Class: 411 parenright question T V W Y bracketright bar braceright brokenbar ordfeminine two.superior three.superior paragraph one.superior Yacute agrave atilde adieresis egrave edieresis igrave idieresis ograve otilde odieresis ugrave udieresis ydieresis amacron abreve emacron ebreve ecaron itilde imacron ibreve omacron umacron ubreve quoteleft quoteright quotedblleft quotedblright question_question question_exclam ij
+  FClass: 3 i j
+  FClass: 385 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni0315 uni031A uni0351 uni0357 uni0358 grave.cap acute.cap circumflex.cap caron.cap breve.cap hungarumlaut.cap space_uni030F.cap breveinvertedcmb.cap breve.cyrcap breve.cyr dieresis.cap hookabovecomb.cap 
+  FClass: 5 f f_f
+  FClass: 411 parenright question T V W Y bracketright bar braceright brokenbar ordfeminine two.superior three.superior paragraph one.superior Yacute agrave atilde adieresis egrave edieresis igrave idieresis ograve otilde odieresis ugrave udieresis ydieresis amacron abreve emacron ebreve ecaron itilde imacron ibreve omacron umacron ubreve quoteleft quoteright quotedblleft quotedblright question_question question_exclam ij
+ 1 0 1
+  ClsList: 1
+  BClsList:
+  FClsList: 2
+ 1
+  SeqLookup: 0 "Substitution dotless forms"
+ 1 0 1
+  ClsList: 3
+  BClsList:
+  FClsList: 4
+ 1
+  SeqLookup: 0 "Substitution f short"
+  ClassNames: "0" "1" "2" "3" "4"
+  BClassNames: "0"
+  FClassNames: "0" "1" "2" "3" "4"
+EndFPST
+ShortTable: cvt  2
+  68
+  1297
+EndShort
+LangName: 1033 "" "" "Italic" "" "" "" "" "" "Philipp H. Poll et al." "Philipp H. Poll et al." "" "http://www.linuxlibertine.org" "http://www.linuxlibertine.org" "GPL - General Public License AND OFL - Open Font License" "http://www.fsf.org/licenses/gpl.html AND http://scripts.sil.org/OFL"
+GaspTable: 3 8 2 17 1 65535 3 0
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -128
+AntiAlias: 1
+FitToEm: 1
+ExtremaBound: 10
+WinInfo: 976 8 3
+BeginPrivate: 9
+BlueValues 47 [-12 1 429 442 460 474 567 578 645 658 688 698]
+OtherBlues 11 [-238 -227]
+StdHW 4 [39]
+StdVW 4 [76]
+StemSnapH 4 [39]
+StemSnapV 4 [76]
+BlueScale 8 0.039625
+FamilyBlues 47 [-12 0 429 442 460 474 567 578 645 658 688 698]
+FamilyOtherBlues 11 [-235 -227]
+EndPrivate
+Grid
+-14 122 m 29
+ 886 122 l 1053
+271 223 m 2
+ 55 223 l 2
+ 46 223 40 232 40 242 c 3
+ 40 260 53 283 65 283 c 2
+ 284 283 l 2
+ 294 283 298 273 298 263 c 3
+ 298 251 284 223 271 223 c 2
+-392 -319 m 25
+ 400 -319 l 1049
+367 -341 m 2
+ 122 -341 l 2
+ 114 -341 110 -333 110 -326 c 0
+ 110 -314 120 -297 132 -297 c 2
+ 377 -297 l 2
+ 386 -297 390 -304 390 -311 c 0
+ 390 -323 380 -341 367 -341 c 2
+-92.5 1254 m 0
+ -92.5 -746 l 1024
+714 850 m 25
+ 93 850 l 25
+ 714 850 l 25
+367 -131 m 2
+ 122 -131 l 2
+ 114 -131 110 -123 110 -116 c 0
+ 110 -104 120 -87 132 -87 c 2
+ 377 -87 l 2
+ 386 -87 390 -94 390 -101 c 0
+ 390 -113 380 -131 367 -131 c 2
+-1000 429 m 0
+ 2000 429 l 1024
+  Named: "x-H+APYA-he"
+-1000 -233 m 0
+ 2000 -233 l 1024
+  Named: "q-Tiefe"
+-1000 645 m 0
+ 2000 645 l 1024
+  Named: "H-H+APYA-he"
+-1000 698 m 0
+ 2000 698 l 1024
+  Named: "f-H+APYA-he"
+71 -67 m 25
+ 424 -67 l 25
+ 423 -163 l 25
+ 70 -163 l 25
+ 71 -67 l 25
+-7 658 m 1
+ 693 658 l 1025
+952 647 m 1
+ 954 645 l 1
+ 954 626 l 2
+ 954 621 951 618 946 618 c 2
+ 920 618 l 2
+ 879 618 82 618 42 618 c 2
+ 16 618 l 2
+ 12 618 8 621 8 626 c 2
+ 8 645 l 1
+ 10 647 l 1
+ 952 647 l 1
+801 647 m 1049
+-261 -141 m 25
+ 905 -141 l 1049
+905 -128 m 25
+ -261 -128 l 25
+ 905 -128 l 25
+60 658 m 25
+ 584 658 l 1049
+-57 -10 m 17
+ 1009 -10 l 1033
+-42 439 m 1
+ 658 439 l 1025
+-42 321 m 1
+ 658 321 l 1025
+637 431 m 1
+ 639 429 l 1
+ 639 410 l 2
+ 639 405 636 402 631 402 c 2
+ 604 402 l 2
+ 563 402 47 402 7 402 c 2
+ -19 402 l 2
+ -23 402 -27 405 -27 410 c 2
+ -27 429 l 1
+ -25 431 l 1
+ 637 431 l 1
+972 31 m 2
+ 998 31 l 2
+ 1002 31 1006 28 1006 23 c 2
+ 1006 0 l 1
+ 1004 -2 l 1
+ -18 -2 l 1
+ -20 0 l 1
+ -20 23 l 2
+ -20 28 -17 31 -12 31 c 2
+ 14 31 l 2
+ 55 31 932 31 972 31 c 2
+552 647 m 25
+ 943 647 l 1049
+863 891 m 25
+ 82 891 l 25
+ 77 890 l 25
+ 75 886 l 25
+ 75 882 l 25
+ 78 880 l 25
+ 81 880 l 25
+ 84 881 l 1049
+732 805 m 25
+ -265 805 l 25
+ 732 805 l 25
+397 230 m 25
+ 124 230 l 25
+ 397 230 l 25
+67 -110 m 25
+ 379 -110 l 1049
+0 581 m 25
+ 0 577 l 25
+ 0 581 l 25
+ 7 581 l 25
+ 0 573 l 25
+ 439 573 l 25
+ 430 580 l 25
+ 439 580 l 25
+ 439 578 l 25
+ 439 580 l 1049
+-246 647 m 25
+ 683 647 l 25
+ 683 0 l 17
+ -246 0 l 9
+ -246 647 l 25
+714 833 m 25
+ 93 833 l 25
+ 714 833 l 25
+590 550 m 1
+ 236 550 l 1
+ 213 506 l 1
+ 193 550 l 1
+ -463 550 l 1025
+EndSplineSet
+TeXData: 1 0 0 301056 150528 100352 393216 -1048576 100352 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+AnchorClass2: "top_rechts" "'mark' Top rechts" "top_punkt2" "'mark' Top Punkt2" "unten_punkt" "'mark' Unten Punkt" "unten_anhang" "'mark' Unten Anhang" "ogonek" "'mark' Ogonek" "mittelpunkt" "'mark' Mittelpunkt" "top_akzent" "'mark' Top Akzent" "komb_OR" "'mark' Komb OR" 
+EndSplineFont

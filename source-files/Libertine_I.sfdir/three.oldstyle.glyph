@@ -1,0 +1,38 @@
+StartChar: three.oldstyle
+Encoding: 57379 57379 1372
+Width: 428
+VWidth: 488
+Flags: W
+TeX: 38 0
+HStem: -181 35<117.331 222.293> 141 32<170 214.434> 404 35<222.021 333.314>
+VStem: 106 74<284.999 351.888>
+LayerCount: 2
+Fore
+SplineSet
+286 404 m 3
+ 261 404 192 392 180 328 c 0
+ 176 309 166 276 132 276 c 3
+ 109 276 103 296 106 310 c 0
+ 112 343 172 439 313 439 c 3
+ 363 439 393 422 410 400 c 0
+ 429 375 431 351 425 321 c 0
+ 415 268 385 227 298 188 c 1
+ 298 186 l 1
+ 353 176 424 137 403 28 c 0
+ 377 -104 260 -181 146 -181 c 3
+ 88 -181 13 -154 21 -114 c 0
+ 24 -98 48 -79 68 -79 c 3
+ 87 -79 97 -91 104 -105 c 0
+ 112 -123 117 -146 166 -146 c 3
+ 200 -146 290 -119 316 14 c 0
+ 338 127 270 143 215 143 c 3
+ 203 143 186 143 169 141 c 1
+ 170 173 l 1
+ 268 187 338 264 348 314 c 0
+ 361 378 327 404 286 404 c 3
+EndSplineSet
+Validated: 33
+Substitution2: "LinLibertineO-'lnum' Versalziffern 1" three.fitted
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" three.taboldstyle
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" three three.fitted
+EndChar

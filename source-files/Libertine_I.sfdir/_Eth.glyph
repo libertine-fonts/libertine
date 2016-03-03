@@ -1,0 +1,25 @@
+StartChar: Eth
+Encoding: 208 208 361
+Width: 671
+VWidth: 999
+Flags: W
+HStem: -2 34<20.145 96.691 205.736 396.922> 303 39<71.9822 340.936> 613 32<137.562 202.044 315.992 476.342>
+VStem: 603.448 94.0524<244.425 484.516>
+DStem2: 98.643 -2 180.72 -2 0.207912 0.978148<69.4018 605.235>
+LayerCount: 2
+Fore
+SplineSet
+321 303 m 6
+ 82 303 l 6
+ 74 303 71 311 71 317 c 7
+ 71 327 81 342 90 342 c 6
+ 330 342 l 6
+ 339 342 342 334 342 329 c 7
+ 342 318 333 303 321 303 c 6
+EndSplineSet
+Refer: 28 68 N 1 0 0 1 0 0 3
+Validated: 524293
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" eth.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" eth.sc
+EndChar

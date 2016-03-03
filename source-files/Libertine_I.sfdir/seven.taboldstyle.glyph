@@ -1,0 +1,13 @@
+StartChar: seven.taboldstyle
+Encoding: 57631 57631 2135
+Width: 444
+VWidth: 488
+Flags: W
+HStem: 364 65<183.886 413> 420 20<476.5 498>
+LayerCount: 2
+Fore
+Refer: 1379 57383 N 1 0 0 1 14 0 2
+Validated: 1
+Substitution2: "LinLibertineO-'lnum' Versalziffern 1" seven
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" seven.oldstyle
+EndChar

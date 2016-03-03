@@ -1,0 +1,15 @@
+StartChar: abreve
+Encoding: 259 259 403
+Width: 473
+VWidth: 999
+Flags: W
+HStem: -10 57<167.188 234.267> 6 28<403.23 466.331> 395 44<271.267 391.459> 500 57<264.534 385.305>
+VStem: 74 81<54.7974 227.465> 206.093 29.441<597.777 635> 320.246 80.373<22.481 158.551>
+LayerCount: 2
+Fore
+Refer: 283 97 N 1 0 0 1 0 0 3
+Refer: 665 728 S 1 0 0 1 50 -29 2
+Validated: 1
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" abreve.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" abreve.sc
+EndChar

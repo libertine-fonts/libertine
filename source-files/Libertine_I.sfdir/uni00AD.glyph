@@ -1,0 +1,22 @@
+StartChar: uni00AD
+Encoding: 173 173 326
+Width: 350
+VWidth: 999
+Flags: W
+HStem: 236 54<84.3037 342.119>
+VStem: 77 272
+LayerCount: 2
+Fore
+SplineSet
+316 236 m 2
+ 89 236 l 2
+ 82 236 77 242 77 250 c 0
+ 77 250 78 252 78 253 c 0
+ 81 269 98 290 109 290 c 2
+ 338 290 l 2
+ 346 290 349 285 349 278 c 0
+ 349 276 349 274 349 272 c 0
+ 347 261 329 236 316 236 c 2
+EndSplineSet
+Validated: 1
+EndChar

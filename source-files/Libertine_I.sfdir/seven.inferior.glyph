@@ -1,0 +1,24 @@
+StartChar: seven.inferior
+Encoding: 8327 8327 1093
+Width: 307
+VWidth: 407
+Flags: W
+HStem: 169 38<108.823 248> 207 5<120.958 140.258>
+VStem: 69 246
+LayerCount: 2
+Fore
+SplineSet
+148 169 m 2xa0
+ 120 169 112 163 89 115 c 1
+ 69 118 l 1
+ 80 146 96 186 103 212 c 1
+ 121 212 l 1x60
+ 120 208 125 207 141 207 c 2xa0
+ 315 207 l 1x60
+ 242 116 157 -6 103 -111 c 1
+ 69 -111 l 1
+ 129 0 212 124 248 169 c 1
+ 148 169 l 2xa0
+EndSplineSet
+Validated: 33
+EndChar

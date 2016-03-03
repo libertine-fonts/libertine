@@ -1,0 +1,23 @@
+StartChar: equal.inferior
+Encoding: 8332 8332 1098
+Width: 307
+VWidth: 429
+Flags: W
+HStem: -3 34<45.8721 268.335> 69 35<62.0566 284.297>
+VStem: 38.335 253.722
+LayerCount: 2
+Fore
+SplineSet
+292.057 104 m 1
+ 284.297 69 l 1
+ 54.2969 69 l 1
+ 62.0566 104 l 1
+ 292.057 104 l 1
+275.872 31 m 1
+ 268.335 -3 l 1
+ 38.335 -3 l 1
+ 45.8721 31 l 1
+ 275.872 31 l 1
+EndSplineSet
+Validated: 524289
+EndChar

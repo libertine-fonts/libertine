@@ -1,0 +1,19 @@
+StartChar: caron
+Encoding: 711 711 659
+Width: 349
+VWidth: 999
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+254.389 518 m 1
+ 234.95 565 207.105 610 179.837 648 c 1
+ 202.482 661 l 1
+ 235.582 632 263.495 607 290.171 571 c 1
+ 334.902 609 373.988 634 416.482 661 c 1
+ 432.837 648 l 1
+ 389.902 609 342.747 564 304.389 518 c 1
+ 254.389 518 l 1
+EndSplineSet
+Validated: 524289
+EndChar

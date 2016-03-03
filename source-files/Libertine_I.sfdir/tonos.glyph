@@ -1,0 +1,23 @@
+StartChar: tonos
+Encoding: 900 900 684
+Width: 219
+VWidth: 487
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+294 731 m 4
+ 312 731 327 717 327 700 c 4
+ 327 697 327 695 326 693 c 4
+ 325 688 323 683 317 678 c 6
+ 198 556 l 6
+ 194 552 189 548 185 548 c 4
+ 178 548 172 553 172 559 c 4
+ 172 560 172 561 173 562 c 6
+ 173 563 175 568 177 571 c 6
+ 262 714 l 6
+ 269 725 283 731 294 731 c 4
+EndSplineSet
+Validated: 1
+LCarets2: 1 0
+EndChar

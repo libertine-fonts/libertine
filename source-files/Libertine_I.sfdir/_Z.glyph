@@ -1,0 +1,44 @@
+StartChar: Z
+Encoding: 90 90 277
+Width: 578
+VWidth: 999
+Flags: W
+HStem: 0 38<166.913 448.124> 602 43<252.478 543.045> 633 20G<199 223.5>
+DStem2: 54 38 178 72 0.673213 0.739448<0 108.62>
+AnchorPoint: "mittelpunkt" 345 321 basechar 0
+AnchorPoint: "top_rechts" 619 732 basechar 0
+AnchorPoint: "unten_anhang" 287 4 basechar 0
+AnchorPoint: "unten_punkt" 267 -110 basechar 0
+AnchorPoint: "top_akzent" 450 850 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+528 -2 m 1xc0
+ 528 -2 433 0 407 0 c 2
+ 57 0 l 2
+ 44 0 39 5 41 15 c 0
+ 42 22 47 30 54 38 c 0
+ 181 190 415 456 532 579 c 0
+ 538 586 542 592 543 597 c 0
+ 544 603 542 606 536 606 c 2
+ 332 602 l 2xc0
+ 260 601 217 565 183 496 c 1
+ 172 496 164 498 155 501 c 1
+ 171 542 192 599 206 653 c 1xa0
+ 241 650 333 645 378 645 c 2
+ 590 645 l 18
+ 619 645 649 647 661 647 c 3
+ 669 647 672 643 671 636 c 0
+ 669 625 665 618 639 591 c 0
+ 496 439 269 178 178 72 c 0
+ 171 63 168 57 167 52 c 0
+ 165 43 172 38 188 38 c 2
+ 374 42 l 2
+ 472.781 44.1243 513 99 557 170 c 1
+ 569 170 580 167 586 165 c 1
+ 564 113 544 54 528 -2 c 1xc0
+EndSplineSet
+Validated: 524321
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" z.sc
+EndChar

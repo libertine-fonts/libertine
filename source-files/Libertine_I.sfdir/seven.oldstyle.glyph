@@ -1,0 +1,30 @@
+StartChar: seven.oldstyle
+Encoding: 57383 57383 1379
+Width: 419
+VWidth: 488
+Flags: W
+TeX: 38 0
+HStem: 364 65<169.886 399> 420 20G<462.5 484>
+LayerCount: 2
+Fore
+SplineSet
+227 364 m 2x80
+ 196 364 164 357 127 277 c 1
+ 116 276 107 277 97 280 c 1
+ 115 332 137 392 147 440 c 1x40
+ 148 443 148 443 151 443 c 1
+ 168 439 164 429 197 429 c 2
+ 394 429 l 2x80
+ 430 429 454 435 471 440 c 1x40
+ 484 428 l 1
+ 323 155 238 -11 150 -181 c 1
+ 84 -184 l 1
+ 78 -177 l 1
+ 173 -25 286 170 399 364 c 1
+ 227 364 l 2x80
+EndSplineSet
+Validated: 33
+Substitution2: "LinLibertineO-'lnum' Versalziffern 1" seven.fitted
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" seven.taboldstyle
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" seven seven.fitted
+EndChar

@@ -1,0 +1,21 @@
+StartChar: uni0268
+Encoding: 616 616 1635
+Width: 288
+VWidth: 999
+Flags: HW
+HStem: -10 65<147 220.613> 238 39<80 328> 395 28<132.549 176> 521 98<213.913 291.989>
+VStem: 80 248<238 277> 121 180 204 98<531.293 608.371>
+DStem2: 110.288 -10 184.293 -10 0.21644 0.976296<100.542 390.643>
+AnchorPoint: "unten_punkt" 134 -114 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+328 277 m 5xf8
+ 328 238 l 5
+ 80 238 l 5
+ 80 277 l 5
+ 328 277 l 5xf8
+EndSplineSet
+Refer: 291 105 N 1 0 0 1 14 0 2
+Validated: 8912901
+EndChar

@@ -1,0 +1,29 @@
+StartChar: nine.oldstyle
+Encoding: 57385 57385 1623
+Width: 448
+VWidth: 487
+Flags: W
+HStem: 63 35<197.31 310.567> 404 35<239.202 337.989>
+LayerCount: 2
+Fore
+SplineSet
+59 -157 m 1
+ 260 -84 340 99 359 199 c 0
+ 392 370 344 404 284 404 c 3
+ 237 404 187 354 166 244 c 0
+ 156 194 158 98 252 98 c 3
+ 272 98 314 100 359 137 c 1
+ 360 138 356 106 355 105 c 1
+ 325 79 262 63 226 63 c 3
+ 95 63 65 140 82 226 c 0
+ 99 312 175 439 301 439 c 3
+ 375 439 478 399 439 196 c 0
+ 424 117 376 26 302 -46 c 0
+ 236 -111 168 -153 65 -183 c 1
+ 58 -178 57 -169 59 -157 c 1
+EndSplineSet
+Validated: 37
+Substitution2: "LinLibertineO-'lnum' Versalziffern 1" nine.fitted
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" nine.taboldstyle
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" nine nine.fitted
+EndChar

@@ -1,0 +1,19 @@
+StartChar: breveinvertedcmb.cap
+Encoding: 863 863 2300
+Width: 0
+VWidth: 999
+Flags: W
+HStem: -134 49<-411.144 357.937>
+LayerCount: 2
+Fore
+SplineSet
+-405.263 -134 m 6
+ -416.263 -134 -417.432 -125 -415.804 -117 c 4
+ -413.362 -105 -395.293 -85 -383.293 -85 c 6
+ 351.707 -85 l 6
+ 362.707 -85 364.079 -93 362.248 -102 c 4
+ 359.807 -114 342.737 -134 329.737 -134 c 6
+ -405.263 -134 l 6
+EndSplineSet
+Validated: 2621473
+EndChar

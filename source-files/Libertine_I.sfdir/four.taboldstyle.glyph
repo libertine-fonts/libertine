@@ -1,0 +1,40 @@
+StartChar: four.taboldstyle
+Encoding: 57628 57628 2132
+Width: 444
+VWidth: 487
+Flags: W
+HStem: -174 33<145.25 219 308.418 355.75> 0 47<90 255 337 413.954> 418 20G<378.5 414>
+DStem2: 219.57 -174 292.57 -174 0.207912 0.978148<58.2735 177.564 240.586 240.586>
+LayerCount: 2
+Fore
+SplineSet
+407 47 m 2
+ 418 47 420 41 418 31 c 0
+ 416 19 397 0 384 0 c 2
+ 328 0 l 1
+ 310 -92 l 2
+ 301 -139 312 -137 358 -141 c 1
+ 363 -147 358 -168 351 -174 c 1
+ 320 -173 295 -172 257 -172 c 0
+ 213 -172 174 -173 143 -174 c 1
+ 138 -168 143 -147 150 -141 c 1
+ 192 -138 228 -138 237 -92 c 2
+ 255 0 l 1
+ 68 0 l 2
+ 39 0 39 27 39 42 c 1
+ 126 188 285 350 365 427 c 0
+ 370 431 375 438 382 438 c 2
+ 413 438 l 1
+ 414 436 l 1
+ 411 428 404 389 394 339 c 2
+ 337 47 l 1
+ 407 47 l 2
+320 335 m 1
+ 235 241 137 132 90 47 c 1
+ 264 47 l 1
+ 320 335 l 1
+EndSplineSet
+Validated: 33
+Substitution2: "LinLibertineO-'lnum' Versalziffern 1" four
+Substitution2: "LinLibertine-'pnum' Proportionalziffern 1" four.oldstyle
+EndChar

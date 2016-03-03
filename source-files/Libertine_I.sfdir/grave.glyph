@@ -1,0 +1,22 @@
+StartChar: grave
+Encoding: 96 96 32
+Width: 392
+VWidth: 999
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+301 698 m 1
+ 349 573 l 2
+ 351 567 352 562 352 558 c 0
+ 352 555 352 552 351 549 c 0
+ 350 544 342 538 335 538 c 0
+ 328 538 322 543 309 558 c 2
+ 214 667 l 1
+ 218 677 l 1
+ 229 683 251 701 287 701 c 0
+ 292 701 298 700 301 698 c 1
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Versalformen 1" uni0358
+EndChar

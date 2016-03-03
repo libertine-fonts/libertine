@@ -1,0 +1,41 @@
+StartChar: four.oldstyle
+Encoding: 57380 57380 1375
+Width: 460
+VWidth: 487
+Flags: W
+TeX: 38 0
+HStem: -174 33<149.406 223.727 315.877 370.594> 0 47<85 260 342 429.06> 418 20G<383.5 419>
+LayerCount: 2
+Fore
+SplineSet
+421 47 m 2
+ 432 47 435 41 433 31 c 0
+ 431 19 412 0 399 0 c 2
+ 333 0 l 1
+ 315 -92 l 2
+ 306 -139 326 -137 372 -141 c 1
+ 377 -147 373 -168 366 -174 c 1
+ 335 -173 300 -172 262 -172 c 0
+ 218 -172 179 -173 148 -174 c 1
+ 143 -168 147 -147 154 -141 c 1
+ 196 -138 233 -138 242 -92 c 2
+ 260 0 l 1
+ 64 0 l 2
+ 35 0 34 27 34 42 c 1
+ 150 185 293 349 369 427 c 0
+ 373 432 380 438 387 438 c 6
+ 418 438 l 1
+ 419 436 l 1
+ 416 428 408 389 398 339 c 2
+ 342 47 l 1
+ 421 47 l 2
+325 335 m 1
+ 240 241 150 129 85 47 c 1
+ 269 47 l 1
+ 325 335 l 1
+EndSplineSet
+Validated: 33
+Substitution2: "LinLibertineO-'lnum' Versalziffern 1" four.fitted
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" four.taboldstyle
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" four four.fitted
+EndChar

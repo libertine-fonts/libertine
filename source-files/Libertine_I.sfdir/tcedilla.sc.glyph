@@ -1,0 +1,15 @@
+StartChar: tcedilla.sc
+Encoding: 57515 57515 2089
+Width: 529
+VWidth: 714
+Flags: W
+HStem: -182 25<161.812 265.484> -81 32<235.019 287.577> -2 33<155.25 222 327.25 380.75> 426 34<182.89 306.295 397.23 520.695> 450 20<135.5 155 569 584>
+VStem: 107 26<334.943 358.506> 290 55<-142.671 -83.0497> 539 28<334.141 402.375>
+DStem2: 251 122 330 122 0.208737 0.977972<-61.1201 302.604> 263 6 260 -52 0.561269 0.827634<-49.6866 0>
+LayerCount: 2
+Fore
+Refer: 1788 57444 N 1 0 0 1 0 0 3
+Refer: 337 184 S 1 0 0 1 -20 -1 2
+Validated: 5
+Substitution2: "LinLibertine-'locl' Localized Forms Romaenisch 1" tcommaaccent.sc
+EndChar

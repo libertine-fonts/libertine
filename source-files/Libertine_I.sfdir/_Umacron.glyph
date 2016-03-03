@@ -1,0 +1,15 @@
+StartChar: Umacron
+Encoding: 362 362 478
+Width: 634
+VWidth: 999
+Flags: W
+HStem: -10 41<260.843 424.46> 614 33<128.719 185.155 298.709 377.281 535.719 601.958 685.947 749.438> 764 44<345.19 623.349>
+VStem: 121.05 82.8234<85.2607 318.417> 342.509 284.052
+DStem2: 497.996 -10 544.17 -10 0.207912 0.978148<139.998 613.126>
+LayerCount: 2
+Fore
+Refer: 272 85 N 1 0 0 1 0 0 3
+Refer: 661 713 S 1 0 0 1 166 226 2
+Validated: 1
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

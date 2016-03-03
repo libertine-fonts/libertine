@@ -1,0 +1,15 @@
+StartChar: aacute
+Encoding: 225 225 378
+Width: 473
+VWidth: 999
+Flags: W
+HStem: -10 57<167.188 234.267> 6 28<403.23 466.331> 395 44<271.267 391.459>
+VStem: 74 81<54.7974 227.465> 320.246 80.373<22.481 158.551>
+LayerCount: 2
+Fore
+Refer: 672 769 S 1 0 0 1 376 -42 2
+Refer: 283 97 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" aacute.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" aacute.sc
+EndChar

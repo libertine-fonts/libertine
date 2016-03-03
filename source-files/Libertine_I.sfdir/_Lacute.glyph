@@ -1,0 +1,15 @@
+StartChar: Lacute
+Encoding: 313 313 429
+Width: 506
+VWidth: 999
+Flags: W
+HStem: 0 31<19.7188 94> 0 39<205.096 393.356> 614 33<137.562 201.125 316 390.281> 697 120
+VStem: 187 227
+DStem2: 98.643 -2 180.406 -2 0.207912 0.978148<73.9415 605.102>
+LayerCount: 2
+Fore
+Refer: 263 76 N 1 0 0 1 0 0 3
+Refer: 2225 58201 N 1 0 0 1 349 126 2
+Validated: 1
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" lacute.sc
+EndChar

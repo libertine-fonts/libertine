@@ -1,0 +1,45 @@
+StartChar: s
+Encoding: 115 115 301
+Width: 339
+VWidth: 999
+Flags: W
+HStem: -10 33<150.605 249.025> 406 33<203.775 278.726>
+VStem: 48 78<41.4688 102.763> 116 65<288.485 378.539> 273 66<49.4523 142.874> 296 78<335.236 394.562>
+AnchorPoint: "unten_punkt" 162 -111 basechar 0
+AnchorPoint: "unten_anhang" 178 -1 basechar 0
+AnchorPoint: "ogonek" 269 13 basechar 0
+AnchorPoint: "top_akzent" 320 645 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+176 -10 m 3xd8
+ 120 -10 88 12 71 29 c 0
+ 57 43 48 57 48 71 c 3xe8
+ 48 79 51 88 58 95 c 0
+ 66 105 80 110 92 110 c 3
+ 100 110 111 108 116 103 c 0xd0
+ 121 98 124 90 126 83 c 0
+ 133 58 149 23 193 23 c 3
+ 233 23 273 39 273 94 c 3xe8
+ 273 115 256 149 203 185 c 0
+ 138 230 116 263 116 314 c 3
+ 116 370 169 439 256 439 c 3
+ 307 439 334 426 351 409 c 0
+ 365 395 374 381 374 367 c 3
+ 374 359 371 350 364 343 c 0
+ 356 333 342 328 330 328 c 3
+ 322 328 311 330 306 335 c 0
+ 301 340 298 347 296 355 c 0xd4
+ 289 380 276 406 243 406 c 3
+ 225 406 209 397 199 385 c 0
+ 188 371 181 354 181 335 c 3
+ 181 301 205 283 241 259 c 0
+ 320 207 339 162 339 118 c 3
+ 339 44 279 -10 176 -10 c 3xd8
+EndSplineSet
+Validated: 1
+Substitution2: "'sinf' Wissenschaftliche Indices 1" s.inferior
+Substitution2: "'sups' Hochgestellte 1" s.superior
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" s.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" s.sc
+EndChar

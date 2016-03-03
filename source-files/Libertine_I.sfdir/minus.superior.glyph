@@ -1,0 +1,18 @@
+StartChar: minus.superior
+Encoding: 8315 8315 1081
+Width: 307
+VWidth: 960
+Flags: W
+HStem: 488 39<151.833 381.187>
+VStem: 143.187 246.646
+LayerCount: 2
+Fore
+SplineSet
+389.833 527 m 1
+ 381.187 488 l 1
+ 143.187 488 l 1
+ 151.833 527 l 1
+ 389.833 527 l 1
+EndSplineSet
+Validated: 524289
+EndChar

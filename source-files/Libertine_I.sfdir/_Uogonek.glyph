@@ -1,0 +1,15 @@
+StartChar: Uogonek
+Encoding: 370 370 486
+Width: 634
+VWidth: 999
+Flags: W
+HStem: -182 38<364.22 440.055> -10 41<260.843 424.46> 614 33<128.719 185.155 298.709 377.281 535.719 601.958 685.947 749.438>
+VStem: 121.05 82.8234<85.2607 318.417> 298.365 196.169
+DStem2: 497.996 -10 544.17 -10 0.207912 0.978148<139.998 613.126>
+LayerCount: 2
+Fore
+Refer: 272 85 N 1 0 0 1 0 0 3
+Refer: 668 731 S 1 0 0 1 260 18 2
+Validated: 5
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

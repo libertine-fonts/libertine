@@ -1,0 +1,21 @@
+StartChar: uni0305
+Encoding: 773 773 1412
+Width: 0
+VWidth: 999
+Flags: W
+TeX: 57 0
+HStem: 601 44<-263.993 109.29>
+AnchorPoint: "top_akzent" -73.7734 645 mark 0
+LayerCount: 2
+Fore
+SplineSet
+83.2744 601 m 2
+ -256.726 601 l 2
+ -265.726 601 -268.098 609 -266.674 616 c 0
+ -264.232 628 -249.773 645 -238.773 645 c 2
+ 102.227 645 l 2
+ 111.227 645 113.599 637 112.378 631 c 0
+ 109.937 619 96.2744 601 83.2744 601 c 2
+EndSplineSet
+Validated: 524321
+EndChar

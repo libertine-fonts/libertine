@@ -1,0 +1,15 @@
+StartChar: Ohungarumlaut
+Encoding: 336 336 452
+Width: 672
+VWidth: 999
+Flags: W
+HStem: -10 36<287.995 433.368> 622 36<363.341 517.661> 686 149<506 528 506 528>
+VStem: 87.6127 94.8982<131.96 373.125> 391 276<701 799> 616.85 94.1661<277.201 519.131>
+LayerCount: 2
+Fore
+Refer: 266 79 N 1 0 0 1 0 0 3
+Refer: 2229 58205 N 1 0 0 1 604 88 2
+Validated: 1
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" ohungarumlaut.sc
+EndChar

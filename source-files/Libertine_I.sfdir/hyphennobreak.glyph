@@ -1,0 +1,21 @@
+StartChar: hyphennobreak
+Encoding: 8209 8209 1368
+Width: 333
+VWidth: 999
+Flags: W
+TeX: 57 0
+HStem: 236 54<88.8606 346.845>
+VStem: 83 271
+LayerCount: 2
+Fore
+SplineSet
+320 236 m 6
+ 94 236 l 6
+ 84 236 81 244 83 253 c 4
+ 85 269 103 290 114 290 c 6
+ 343 290 l 6
+ 354 290 355 281 354 272 c 4
+ 352 261 333 236 320 236 c 6
+EndSplineSet
+Validated: 33
+EndChar

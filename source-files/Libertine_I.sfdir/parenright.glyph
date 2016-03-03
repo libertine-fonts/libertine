@@ -1,0 +1,26 @@
+StartChar: parenright
+Encoding: 41 41 6
+Width: 298
+VWidth: 999
+Flags: W
+VStem: 233.868 78.477<221.694 511.284>
+LayerCount: 2
+Fore
+SplineSet
+216 32 m 0
+ 160 -62 84 -144 3 -203 c 1
+ -8 -202 -13 -195 -14 -185 c 1
+ 13 -160 92 -85 154 48 c 0
+ 194.661 133.841 233.868 274.469 233.868 402.026 c 3
+ 233.868 568.787 173.514 661.018 153 691 c 1
+ 158 699 167 706 177 708 c 1
+ 289.022 592.115 312.345 455.091 312.345 360.171 c 3
+ 312.345 211.026 276.419 132.207 216 32 c 0
+EndSplineSet
+Validated: 524289
+Substitution2: "'case' Versalformen 1" parenright.sc
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" parenright.sc
+Substitution2: "'sinf' Wissenschaftliche Indices 1" parenright.inferior
+Substitution2: "'sups' Hochgestellte 1" parenright.superior
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" parenright.sc
+EndChar

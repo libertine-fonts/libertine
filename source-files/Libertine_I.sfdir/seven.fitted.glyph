@@ -1,0 +1,13 @@
+StartChar: seven.fitted
+Encoding: 57367 57367 1616
+Width: 396
+VWidth: 487
+Flags: W
+HStem: -13 21<127 199> 535 65<216.886 446>
+LayerCount: 2
+Fore
+Refer: 16 55 S 1 0 0 1 -12 0 2
+Validated: 1
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" seven.oldstyle
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" seven
+EndChar

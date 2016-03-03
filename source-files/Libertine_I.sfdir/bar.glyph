@@ -1,0 +1,18 @@
+StartChar: bar
+Encoding: 124 124 310
+Width: 205
+VWidth: 999
+Flags: HMW
+HStem: -233 10G<40 86> 642 10G<194 240>
+DStem2: 40 -233 84 -233 0.173382 0.984855<7.70401 898.374>
+LayerCount: 2
+Fore
+SplineSet
+84 -233 m 1
+ 40 -233 l 1
+ 196 652 l 1
+ 240 652 l 1
+ 84 -233 l 1
+EndSplineSet
+Validated: 1
+EndChar

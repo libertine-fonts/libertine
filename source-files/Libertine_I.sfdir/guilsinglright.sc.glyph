@@ -1,0 +1,20 @@
+StartChar: guilsinglright.sc
+Encoding: 63161 63161 1268
+Width: 355
+VWidth: 560
+Flags: W
+VStem: 83 264
+LayerCount: 2
+Fore
+SplineSet
+83 72 m 5
+ 93 125 l 5
+ 152 192 209 246 263 286 c 5
+ 226 323 190 376 155 446 c 5
+ 166 500 l 5
+ 228 407 289 342 347 305 c 5
+ 339 267 l 5
+ 259 217 173 152 83 72 c 5
+EndSplineSet
+Validated: 1
+EndChar

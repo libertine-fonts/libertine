@@ -1,0 +1,16 @@
+StartChar: dcaron
+Encoding: 271 271 415
+Width: 528
+VWidth: 999
+Flags: W
+HStem: -10 60<170.771 241.771 370.503 439.019> 402.211 36.7895<272.399 403.681> 519 17<556.598 578.676> 626 72<589.968 632.73> 648 28<392.239 435> 669 20<506.333 524.624>
+VStem: 80 80<54.8642 248.18> 328 78<25.5 146.52> 452 86.495<564.397 676.752> 557.233 123.566
+DStem2: 316.744 -10 388.368 -10 0.207912 0.978148<91.3673 137.362 154.94 410.242 448.826 648.878>
+LayerCount: 2
+Fore
+Refer: 286 100 N 1 0 0 1 0 0 2
+Refer: 657 700 S 1 0 0 1 424 46 2
+Validated: 1
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" dcaron.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" dcaron.sc
+EndChar

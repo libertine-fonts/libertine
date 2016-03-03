@@ -1,0 +1,15 @@
+StartChar: Omacron
+Encoding: 332 332 448
+Width: 672
+VWidth: 999
+Flags: W
+HStem: -10 36<287.995 433.368> 622 36<363.341 517.661> 765 44<326.19 604.349>
+VStem: 87.6127 94.8982<131.96 373.125> 323.509 284.052 616.85 94.1661<277.201 519.131>
+AnchorPoint: "komb_OR" 620 606 basechar 0
+LayerCount: 2
+Fore
+Refer: 266 79 S 1 0 0 1 0 0 3
+Refer: 661 713 S 1 0 0 1 147 227 2
+Validated: 1
+Position2: "'cpsp' Versalabstaende 1" dx=2 dy=0 dh=5 dv=0
+EndChar

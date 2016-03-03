@@ -1,0 +1,16 @@
+StartChar: icircumflex
+Encoding: 238 238 391
+Width: 261
+VWidth: 999
+Flags: HW
+HStem: -10 65<133 206.613> 395 28<118.549 162>
+VStem: -14 253<524 524> 107 180
+DStem2: 96.2882 -10 170.293 -10 0.21644 0.976296<100.542 390.643>
+LayerCount: 2
+Fore
+Refer: 673 770 S 1 0 0 1 253 -44 2
+Refer: 421 305 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" icircumflex.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" icircumflex.sc
+EndChar

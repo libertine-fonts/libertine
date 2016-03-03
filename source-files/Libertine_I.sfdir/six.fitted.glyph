@@ -1,0 +1,15 @@
+StartChar: six.fitted
+Encoding: 57366 57366 1615
+Width: 447
+VWidth: 487
+Flags: W
+HStem: -10 35<195.804 292.118> 330 35<227.086 337.013>
+VStem: 89.457 77.784<51.0293 277.911> 375.023 82.384<133.172 296.351>
+LayerCount: 2
+Fore
+Refer: 15 54 S 1 0 0 1 7 0 2
+Validated: 1
+Substitution2: "LinLibertine-'onum' Minuskelziffern 1" six.oldstyle
+Substitution2: "LinLibertine-'tnum' Tabellenziffern 1" six
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" six six.oldstyle
+EndChar

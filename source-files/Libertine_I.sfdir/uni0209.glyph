@@ -1,0 +1,14 @@
+StartChar: uni0209
+Encoding: 521 521 592
+Width: 261
+VWidth: 999
+Flags: HW
+HStem: -10 65<133 206.613> 395 28<118.549 162>
+VStem: 107 180
+DStem2: 96.2882 -10 170.293 -10 0.21644 0.976296<100.542 390.643>
+LayerCount: 2
+Fore
+Refer: 421 305 N 1 0 0 1 0 0 3
+Refer: 679 783 S 1 0 0 1 241 -72 2
+Validated: 1
+EndChar

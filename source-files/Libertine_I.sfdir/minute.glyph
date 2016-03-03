@@ -1,0 +1,23 @@
+StartChar: minute
+Encoding: 8242 8242 1374
+Width: 249
+VWidth: 487
+Flags: W
+TeX: 38 0
+HStem: 516 183
+VStem: 169 149
+LayerCount: 2
+Fore
+SplineSet
+284 699 m 0
+ 304 699 322 681 318 661 c 0
+ 317 656 315 651 310 646 c 2
+ 195 524 l 2
+ 191 520 186 516 182 516 c 0
+ 174 516 168 522 169 530 c 0
+ 169 531 171 536 173 539 c 2
+ 253 682 l 2
+ 259 692 273 699 284 699 c 0
+EndSplineSet
+Validated: 33
+EndChar

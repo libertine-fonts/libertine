@@ -1,0 +1,17 @@
+StartChar: trianglebullet
+Encoding: 8227 8227 1598
+Width: 375
+VWidth: 976
+Flags: W
+HStem: 153 296
+VStem: 108 298
+LayerCount: 2
+Fore
+SplineSet
+108 153 m 1
+ 177 449 l 1
+ 406 301 l 1
+ 108 153 l 1
+EndSplineSet
+Validated: 1
+EndChar

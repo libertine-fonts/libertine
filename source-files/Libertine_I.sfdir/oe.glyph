@@ -1,0 +1,27 @@
+StartChar: oe
+Encoding: 339 339 455
+Width: 705
+VWidth: 999
+Flags: W
+HStem: -10 35<197.859 293.411> -10 60<485.668 587.711> 394 45<533.337 634.945> 404 35<243.145 348.817>
+VStem: 78 84<74.2231 274.505> 377 81<159.681 379.747> 379 83<72.8566 200.7> 642 77<302.552 387.144>
+AnchorPoint: "ogonek" 361 41 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+78 163 m 3x9d
+ 78 283 154 439 321 439 c 3
+ 443 439 458 350 458 278 c 3
+ 458 120 352 -10 224 -10 c 3
+ 111 -10 78 110 78 163 c 3x9d
+162 171 m 3
+ 162 43 209 25 239 25 c 3
+ 352 25 377 206 377 271 c 3
+ 377 332 374 404 303 404 c 3
+ 188 404 162 261 162 171 c 3
+EndSplineSet
+Refer: 287 101 N 1 0 0 1 296 0 2
+Validated: 524293
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" oe.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" oe.sc
+EndChar

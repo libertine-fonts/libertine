@@ -1,0 +1,42 @@
+StartChar: a
+Encoding: 97 97 283
+Width: 473
+VWidth: 999
+Flags: W
+HStem: -10 57<167.188 234.267> 6 28<403.23 466.331> 395 44<271.267 391.459>
+VStem: 74 81<54.7974 227.465> 320.246 80.373<22.481 158.551>
+LayerCount: 2
+Fore
+SplineSet
+356 219 m 1xb8
+ 378 280.5 392 379 392 379 c 1
+ 373 391 354 395 333 395 c 3
+ 287.955 395 233.887 364.469 203.5 313.5 c 0
+ 168.325 254.5 155 196.253 155 141 c 3
+ 155 85 165 47 199 47 c 3
+ 231 47 307 129 356 219 c 1xb8
+336 123 m 1
+ 334 125 l 1
+ 285 47.5 231 -10 172 -10 c 3xb8
+ 88 -10 74 69 74 125 c 3
+ 74 238.812 161.5 361.5 241.5 404 c 0
+ 278.436 423.622 326 439 378 439 c 3
+ 415 439 451 434 476 429 c 1
+ 456.97 370 l 1
+ 440.5 300.5 417.91 178.99 417.91 178.99 c 2
+ 402.617 104.203 400.619 82.4033 400.619 63.7734 c 3
+ 400.619 45.4346 407.02 34 423.006 34 c 2
+ 463.006 34 l 1
+ 469.006 25 469.659 14 464.006 6 c 1x78
+ 417.006 -3 374.006 -10 342.006 -10 c 3
+ 323.584 -10 320.246 14.1357 320.246 30.8262 c 3
+ 320.246 42.8262 323.785 65.4131 329 90 c 2
+ 336 123 l 1
+EndSplineSet
+Validated: 524833
+Substitution2: "'ss04' Stilgruppe 4 lookup 31-1" a.str
+Substitution2: "'sinf' Wissenschaftliche Indices 1" a.inferior
+Substitution2: "'sups' Hochgestellte 1" a.superior
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" a.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" a.sc
+EndChar

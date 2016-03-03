@@ -1,0 +1,15 @@
+StartChar: scommaaccent
+Encoding: 537 537 608
+Width: 339
+VWidth: 999
+Flags: HW
+HStem: -231 24<92.712 131.08> -128 82<129.818 179.347> -10 33<156.027 256.025> 406 33<210.545 287.196>
+VStem: 57 74<42.3167 100.764> 92.902 129.259 123 65<288.502 378.134> 280 66<49.6286 142.917> 305 74<337.236 393.173>
+LayerCount: 2
+Fore
+Refer: 301 115 N 1 0 0 1 0 0 3
+Refer: 682 806 S 1 0 0 1 436 -5 2
+Validated: 1
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" scommaaccent.sc
+LCarets2: 1 0
+EndChar

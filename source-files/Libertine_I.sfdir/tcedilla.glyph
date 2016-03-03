@@ -1,0 +1,17 @@
+StartChar: tcedilla
+Encoding: 355 355 471
+Width: 307
+VWidth: 999
+Flags: HW
+HStem: -191 25<47.812 151.484> -90 32<121.019 173.577> -10 60<138.5 218.126> 390 39<108.202 180 263 364.943>
+VStem: 176 55<-151.671 -92.0497>
+DStem2: 87.6231 -10 161.628 -10 0.21644 0.976296<92.8782 410.512 466.552 573.478> 149 -3 146 -61 0.561269 0.827634<-49.6866 0>
+LayerCount: 2
+Fore
+Refer: 302 116 N 1 0 0 1 0 0 3
+Refer: 337 184 S 1 0 0 1 -134 -10 2
+Validated: 5
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" tcommaaccent.sc tcommaaccent tcommaaccent.sc
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" tcommaaccent.sc
+Substitution2: "LinLibertine-'locl' Localized Forms Romaenisch 1" tcommaaccent
+EndChar

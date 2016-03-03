@@ -1,0 +1,23 @@
+StartChar: hyphen
+Encoding: 45 45 256
+Width: 333
+VWidth: 999
+Flags: MW
+HStem: 223 60<85.0614 339.028>
+LayerCount: 2
+Fore
+SplineSet
+314 223 m 2
+ 87 223 l 2
+ 80 223 77 232 77 240 c 0
+ 77 256.636 99.0615 283 109 283 c 2
+ 338 283 l 2
+ 346 283 349 278 349 271 c 0
+ 349 255.701 329.064 223 314 223 c 2
+EndSplineSet
+Validated: 524289
+Substitution2: "'case' Versalformen 1" hyphen.cap
+Substitution2: "'c2sc' Versale nach Kapitaelchen 1" hyphen.sc
+Substitution2: "'smcp' Gemeine nach Kapitaelchen 1" hyphen.sc
+AlternateSubs2: "LinLibertine-'aalt' Alle Alternativen zeigen 1" hyphen.sc
+EndChar

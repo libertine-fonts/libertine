@@ -1,0 +1,26 @@
+StartChar: multiply
+Encoding: 215 215 368
+Width: 527
+VWidth: 999
+Flags: W
+HStem: 73 315
+DStem2: 125 108 154 73 0.762509 0.646977<0 188.201 242.64 431.488> 209 388 168 353 0.634739 -0.772726<1.0211 159.154 205.628 362.353>
+LayerCount: 2
+Fore
+SplineSet
+339 230 m 1
+ 439 108 l 1
+ 398 73 l 1
+ 298 195 l 1
+ 154 73 l 1
+ 125 108 l 1
+ 269 230 l 1
+ 168 353 l 1
+ 209 388 l 1
+ 310 265 l 1
+ 455 388 l 1
+ 483 353 l 1
+ 339 230 l 1
+EndSplineSet
+Validated: 1
+EndChar
